@@ -1,0 +1,265 @@
+local diff = {
+	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+		},
+		["a2002cdnil"] = {
+			["name"] = "Roll",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+		},
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
+		["a3003cd21"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "A-4 Sight Radar Range Sweep Rheostat",
+		},
+		["a3049cd5"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "A-4 Sight Bombing Altimeter Index Altitude Handle",
+		},
+		["a3050cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "A-4 Sight Bombing Altimeter Target Altitude Knob",
+		},
+		["a3052cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "Manual Pip Control Knob",
+		},
+	},
+	["keyDiffs"] = {
+		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
+			["name"] = "A-4 Sight Radar Target Selector Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
+		["d3001pnilu3001cd18vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Landing & Taxi Lights Retract/Off",
+		},
+		["d3001pnilu3001cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Landing & Taxi Lights Extend&On/Off",
+		},
+		["d3001pnilu3001cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Battery-Starter Battery/Off",
+		},
+		["d3002pnilu3002cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Gear Emergency Up Button",
+		},
+		["d3003pnilu3003cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Pitot Heater Switch On/Off",
+		},
+		["d3003pnilu3003cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Flight Control Switch Alternate/Normal",
+		},
+		["d3003pnilu3003cd4vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Emergency Fuel Switch Toggle",
+		},
+		["d3004pnilu3004cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Engine Master Switch On/Off",
+		},
+		["d3004pnilu3004cd2vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Hydraulic Pressure Gage Alternate/Normal",
+		},
+		["d3004pnilu3004cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Hydraulic Pressure Gage Utility/Normal",
+		},
+		["d3009pnilu3009cd5vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Rocket Release Selector Auto/Off",
+		},
+		["d3017pnilu3017cd2vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Flight Control Switch - RESET",
+		},
+		["d3018pnilu3018cd5vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Missile Control Switch Salvo/RH",
+		},
+		["d3018pnilu3018cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Missile Control Switch LH&RH/RH",
+		},
+		["d3020pnilu3020cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Missile Safe Launch Button",
+		},
+		["d3028pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Rocket Release Selector Switch Cover - OPEN/CLOSE",
+		},
+		["d3052pnilu3052cd1vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Battery-Starter Switch - STARTER",
+		},
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon Release",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+		["d439pnilu440cdnilvdnilvpnilvunil"] = {
+			["name"] = "A-4 Sight Electrical Caging Button (On Throttle)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+		},
+		["d562pnilu606cdnilvdnilvpnilvunil"] = {
+			["name"] = "Nosewheel Steering Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Trigger - SECOND DETENT(Gun Fire)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
+		["d855pnilu855cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Wheel Parking Brake Handle",
+		},
+	},
+}
+return diff

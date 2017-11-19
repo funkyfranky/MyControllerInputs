@@ -1,0 +1,217 @@
+local diff = {
+	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["changed"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+							[2] = 0.04,
+							[3] = 0.08,
+							[4] = 0.12,
+							[5] = 0.16,
+							[6] = 0.21,
+							[7] = 0.3,
+							[8] = 0.43,
+							[9] = 0.6,
+							[10] = 0.8,
+							[11] = 1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Pitch",
+		},
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
+	},
+	["keyDiffs"] = {
+		["d3004pnilu3004cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Nosewheel Steering Button",
+		},
+		["d3005pnilu3005cd18vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Dogfight/Resume Search Switch - FORWARD (DM)",
+		},
+		["d3005pnilu3005cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Dogfight/Resume Search Switch - AFT (DG)",
+		},
+		["d3006pnilu3006cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Dogfight/Resume Search Switch - CENTER-PRESS (RESUME SEARCH)",
+		},
+		["d3008pnilunilcd18vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "AN/ASG-31 Sight Mode Selector - CCW/Left",
+		},
+		["d3008pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "AN/ASG-31 Sight Mode Selector - CW/Right",
+		},
+		["d3013pnilunilcd17vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "LAlt",
+					},
+				},
+			},
+			["name"] = "AN/APQ-159 Radar Range Selector - CCW/Decrease",
+		},
+		["d3013pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "LAlt",
+					},
+				},
+			},
+			["name"] = "AN/APQ-159 Radar Range Selector - CW/Increase",
+		},
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Weapon Release Button",
+		},
+		["d509pnilu510cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "LAlt",
+					},
+				},
+			},
+			["name"] = "AN/APQ-159 Radar ACQ Button",
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Gun Trigger - SECOND DETENT (Press to shoot)",
+		},
+		["dnilp3009unilcd18vdnilvp-0.2vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "AN/ASG-31 Sight Reticle Depression Knob - CCW/Decrease",
+		},
+		["dnilp3009unilcd18vdnilvp0.2vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "AN/ASG-31 Sight Reticle Depression Knob - CW/Increase",
+		},
+		["dnilp93u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Aileron Trimmer Switch - LEFT WING DOWN",
+		},
+		["dnilp94u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Aileron Trimmer Switch - RIGHT WING DOWN",
+		},
+		["dnilp95u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Elevator Trimmer Switch - PUSH(DESCEND)",
+		},
+		["dnilp96u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Elevator Trimmer Switch - PULL(CLIMB)",
+		},
+	},
+}
+return diff

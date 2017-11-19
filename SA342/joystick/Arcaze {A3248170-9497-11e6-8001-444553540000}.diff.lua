@@ -1,0 +1,258 @@
+local diff = {
+	["axisDiffs"] = {
+		["a2013cdnil"] = {
+			["name"] = "Flight Control Cyclic Pitch",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+		},
+		["a2014cdnil"] = {
+			["name"] = "Flight Control Cyclic Roll",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+		},
+		["a2015cdnil"] = {
+			["name"] = "Flight Control Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+		["a2087cdnil"] = {
+			["name"] = "Flight Control Collective",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
+		["a3023cd14"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "Panels internal lights Intensity",
+		},
+		["a3025cd15"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "Formation Lights",
+		},
+		["a3028cd14"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "Console lights Intensity",
+		},
+		["a3042cd15"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Strobe Intensity",
+		},
+	},
+	["keyDiffs"] = {
+		["d3004pnilu3004cd14vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Roof Lamp Low/Normal Button",
+		},
+		["d3005pnilu3005cd13vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "TV On/Off Switch",
+		},
+		["d3005pnilu3005cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "VHF Radio 250/500 kHz Toggle",
+		},
+		["d3005pnilu3006cd20vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Clock Start/Stop",
+		},
+		["d3007pnilu3008cd20vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Clock reset",
+		},
+		["d3008pnilu3009cd24vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "RWR OFF/ON",
+		},
+		["d3011pnilu3011cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Formation Lights On/Off Button",
+		},
+		["d3012pnilu3012cd21vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "Select Toggle",
+		},
+		["d3012pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Roof Lamp Lens White/red",
+		},
+		["d3028pnilu3029cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Nav Lights Flashing",
+		},
+		["d3030pnilu3031cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Nav Lights Steady",
+		},
+		["d3034pnilu3035cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Strobe Lights Normal",
+		},
+		["d3036pnilu3037cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Strobe Lights Attenuated",
+		},
+		["d3043pnilu3043cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Panels Lighting On/Off",
+		},
+		["d3049pnilu3050cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Starter ON",
+		},
+		["d3051pnilu3050cd2vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Starter Ventilation",
+		},
+		["d3053pnilu3053cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Fuel Pump On/Off",
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Fire Gun or Rockets",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
+	},
+}
+return diff
