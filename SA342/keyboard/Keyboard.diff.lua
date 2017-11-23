@@ -225,7 +225,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Master On/Off",
+			["name"] = "SA342 Master On/Off (toggle)",
 		},
 		["d3030pnilu3030cd23vd1vpnilvu0"] = {
 			["added"] = {

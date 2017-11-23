@@ -42,13 +42,13 @@ local diff = {
 			},
 			["name"] = "Cycle Station",
 		},
-		["d3001pnilu3002cd1vd0vpnilvu0"] = {
+		["d283pnilu283cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Pilot/Copilot Seat",
+			["name"] = "Master Arm Switch, ON/OFF",
 		},
 		["d3002pnilu3002cd16vd1vpnilvu0"] = {
 			["added"] = {

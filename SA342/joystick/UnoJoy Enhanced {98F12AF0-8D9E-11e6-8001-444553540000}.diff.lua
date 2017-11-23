@@ -35,6 +35,16 @@ local diff = {
 		["a3011cd21"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Z",
 				},
 			},
@@ -53,7 +63,7 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
-					["key"] = "JOY_X",
+					["key"] = "JOY_Y",
 				},
 			},
 			["name"] = "Roof Lamp",
@@ -61,6 +71,16 @@ local diff = {
 		["a3018cd13"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RZ",
 				},
 			},
@@ -79,7 +99,7 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
-					["key"] = "JOY_Y",
+					["key"] = "JOY_X",
 				},
 			},
 			["name"] = "UV Light",
@@ -87,6 +107,16 @@ local diff = {
 		["a3019cd13"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RY",
 				},
 			},
@@ -126,24 +156,10 @@ local diff = {
 				},
 			},
 		},
-		["d3010pnilunilcd7vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "JOY_BTN14",
-					},
-				},
-			},
-			["name"] = "SA342 Yaw Off",
-		},
 		["d3010pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "JOY_BTN14",
-					},
 				},
 			},
 			["name"] = "SA342 Yaw On",
@@ -156,46 +172,18 @@ local diff = {
 				},
 			},
 		},
-		["d3011pnilunilcd7vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "JOY_BTN14",
-					},
-				},
-			},
-			["name"] = "SA342 Roll Off",
-		},
 		["d3011pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",
-					["reformers"] = {
-						[1] = "JOY_BTN14",
-					},
 				},
 			},
 			["name"] = "SA342 Roll On",
-		},
-		["d3013pnilunilcd7vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "JOY_BTN14",
-					},
-				},
-			},
-			["name"] = "SA342 Pitch Off",
 		},
 		["d3013pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "JOY_BTN14",
-					},
 				},
 			},
 			["name"] = "SA342 Pitch On",

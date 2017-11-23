@@ -74,6 +74,28 @@ local diff = {
 				},
 			},
 		},
+		["d3074pnilunilcd3vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "Pyro Charge Selector Switch - Down",
+		},
+		["d3074pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "Pyro Charge Selector Switch - Up",
+		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Fire Button",
 			["removed"] = {

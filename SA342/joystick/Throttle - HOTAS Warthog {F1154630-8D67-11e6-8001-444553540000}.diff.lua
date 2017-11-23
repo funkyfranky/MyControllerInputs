@@ -92,6 +92,14 @@ local diff = {
 			},
 			["name"] = "Kneeboard Next Page",
 		},
+		["d3002pnilu3002cd25vd0vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Flare Dispense Mode CC/SEQ",
+		},
 		["d3002pnilunilcd100vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -99,6 +107,22 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard Previous Page",
+		},
+		["d3003pnilu3003cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Flare Power/Speed Arret/Ve",
+		},
+		["d3003pnilu3003cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Flare Power/Speed Le/Ve",
 		},
 		["d3003pnilu3004cd8vd1vpnilvu0"] = {
 			["name"] = "Trim: Nose Down",
@@ -156,6 +180,14 @@ local diff = {
 			},
 			["name"] = "Altitude Mode",
 		},
+		["d3010pnilu3010cd26vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "SA342 Left Arm On/Off",
+		},
 		["d3011pnilu3012cd8vd1vpnilvu0"] = {
 			["name"] = "Trim: Right Wing Down",
 			["removed"] = {
@@ -163,6 +195,14 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
+		},
+		["d3012pnilu3012cd26vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "SA342 Right Arm On/Off",
 		},
 		["d3016pnilu3017cd15vd-1vpnilvu0"] = {
 			["added"] = {
@@ -220,6 +260,14 @@ local diff = {
 			},
 			["name"] = "Left Pylon Arming Switch Cover",
 		},
+		["d3023pnilu3023cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Magnetic Brake On/Off",
+		},
 		["d3024pnilunilcd26vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -236,13 +284,13 @@ local diff = {
 			},
 			["name"] = "RIPPLE/SINGLE (Toggle)",
 		},
-		["d3026pnilu3026cd7vd1vpnilvu0"] = {
+		["d3026pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "Master On/Off",
+			["name"] = "SA342 Master On/Off (toggle)",
 		},
 		["d364pnilu365cdnilvdnilvpnilvunil"] = {
 			["added"] = {

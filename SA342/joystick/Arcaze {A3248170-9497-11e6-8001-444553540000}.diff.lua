@@ -162,7 +162,27 @@ local diff = {
 			},
 			["name"] = "Formation Lights On/Off Button",
 		},
-		["d3012pnilu3012cd21vd1vpnilvu0"] = {
+		["d3012pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Roof Lamp Lens White/red",
+		},
+		["d3012pnilunilcd21vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RShift",
+					},
+				},
+			},
+			["name"] = "ADF Select Left",
+		},
+		["d3012pnilunilcd21vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
@@ -171,15 +191,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Select Toggle",
-		},
-		["d3012pnilunilcd14vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Roof Lamp Lens White/red",
+			["name"] = "ADF Select Right",
 		},
 		["d3028pnilu3029cd15vd1vpnilvu0"] = {
 			["added"] = {

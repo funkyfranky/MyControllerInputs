@@ -50,6 +50,14 @@ local diff = {
 			},
 			["name"] = "Radio Channel Knob - Previous",
 		},
+		["d3013pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Canopy Lock Handle - LOCK/OPEN",
+		},
 		["d3022pnilunilcd3vd1vpnilvunil"] = {
 			["name"] = "Weapon Fire Button Safety",
 			["removed"] = {
@@ -81,14 +89,6 @@ local diff = {
 				},
 			},
 			["name"] = "CB ASP-FKP (Gunsight and Gun Camera) Power Switch - ON/OFF",
-		},
-		["d3031pnilunilcd21vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "RKL-41 ADF Dial Selector Switch - FAR/NEAR",
 		},
 		["d3033pnilunilcd21vd-1vpnilvunil"] = {
 			["added"] = {
@@ -154,14 +154,6 @@ local diff = {
 			},
 			["name"] = "RKL-41 ADF Inner Beacon 10 kHz Frequency Knob - INCREASE",
 		},
-		["d3060pnilunilcd3vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Arm/Safe Cannon Gsh-23 Switch - ARM/SAFE",
-		},
 		["d3061pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -185,6 +177,192 @@ local diff = {
 				},
 			},
 			["name"] = "CB Arm Inner Guns Power Switch - ON/OFF",
+		},
+		["d3074pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "Main Generator Switch - ON/OFF",
+		},
+		["d3075pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "Emergency Generator Switch - ON/OFF",
+		},
+		["d3105pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB AGD-GMK Switch - ON/OFF",
+		},
+		["d3106pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "CB Inverter 1 (AC 115 V) Switch - ON/OFF",
+		},
+		["d3107pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "CB Inverter 2 (AC 115 V) Switch - ON/OFF",
+		},
+		["d3108pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB RDO (ICS and Radio) Switch - ON/OFF",
+		},
+		["d3109pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RShift",
+					},
+				},
+			},
+			["name"] = "CB MRP-RV (Marker Beacon Receiver and Radio Altimeter) Switch - ON/OFF",
+		},
+		["d3110pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB RSBN (ISKRA) Switch - ON/OFF",
+		},
+		["d3111pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RShift",
+					},
+				},
+			},
+			["name"] = "CB IFF (SRO) Emergency Connection Switch - ON/OFF",
+		},
+		["d3112pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RShift",
+					},
+				},
+			},
+			["name"] = "CB RSBN (ISKRA) Emergency Connection Switch - ON/OFF",
+		},
+		["d3113pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB Tanks Switch - ON/OFF",
+		},
+		["d3114pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RShift",
+					},
+				},
+			},
+			["name"] = "CB RIO-3 De-Icing Signal Switch - ON/OFF",
+		},
+		["d3115pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RShift",
+					},
+				},
+			},
+			["name"] = "CB SDU Switch - ON/OFF",
+		},
+		["d3116pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB Heating DUA-3 Switch - ON/OFF",
+		},
+		["d3117pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "CB WEAPON Switch - ON/OFF",
+		},
+		["d71pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Canopy Open/Close",
+		},
+		["d722pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Fuel Shut-Off Lever - SHUT/OPEN",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Fire Button",

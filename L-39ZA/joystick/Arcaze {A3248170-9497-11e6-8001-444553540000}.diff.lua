@@ -66,22 +66,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3006pnilu3006cd20vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Spotlight Switch Landing/Off (-1,0)",
-		},
-		["d3006pnilu3006cd20vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Spotlight Switch Landing/Off",
-		},
 		["d3022pnilunilcd3vd1vpnilvunil"] = {
 			["name"] = "Weapon Fire Button Safety",
 			["removed"] = {
@@ -90,37 +74,101 @@ local diff = {
 				},
 			},
 		},
-		["d3027pnilu3027cd20vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Cockpit Lights White/Off",
-		},
-		["d3027pnilu3027cd20vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Cockpit Lights Red/Off",
-		},
 		["d3034pnilu3034cd3vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Missile/Bomb Release PORT(Left)/STARB(Right)",
+		},
+		["d3039pnilu3039cd3vd0.2vpnilvu0.1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Rockets Firing Mode 2RS/AUT",
+		},
+		["d3039pnilu3039cd3vd0.3vpnilvu0.1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Rockets Firing Mode 4RS/AUT",
+		},
+		["d3045pnilu3045cd3vd0vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Pyro Charge I/II",
+		},
+		["d3045pnilu3045cd3vd1vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Pyro Charge III/II",
+		},
+		["d3047pnilu3047cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Gsh-23 Cannon Arm/Save",
+		},
+		["d3048pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Outboard Stations Select Button",
+		},
+		["d3049pnilu3049cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Outboard Stations Deselect Button",
+		},
+		["d3050pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Inboard Stations Select Button",
+		},
+		["d3051pnilu3051cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Inboard Stations Deselect Button",
+		},
+		["d3052pnilu3052cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "Missile/Bomb Release PORT(Left)/STARB(Right)",
+			["name"] = "Charge Outer Guns On/Off",
 		},
-		["d3039pnilu3039cd3vd0.2vpnilvu0.3"] = {
+		["d3053pnilu3053cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",
 				},
 			},
-			["name"] = "Rockets Firing Mode 2RS/4RS",
+			["name"] = "Charge Innter Guns On/Off",
 		},
 		["d3068pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
@@ -146,26 +194,10 @@ local diff = {
 			},
 			["name"] = "Pyro Charge Apply Button",
 		},
-		["d3074pnilunilcd3vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Pyro Charge Selector Switch - Down",
-		},
-		["d3074pnilunilcd3vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Pyro Charge Selector Switch - Up",
-		},
 		["d3075pnilu3075cd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Bomb Series Selector SALVO/I",
@@ -173,7 +205,7 @@ local diff = {
 		["d3075pnilu3075cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "Bomb Series Selector TRAIN/I",

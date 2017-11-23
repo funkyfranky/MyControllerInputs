@@ -104,6 +104,14 @@ local diff = {
 			},
 			["name"] = "Force Trim Switch",
 		},
+		["d3007pnilunilcd49vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Pilot Sight Switch",
+		},
 		["d3008pnilunilcd25vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
