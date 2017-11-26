@@ -84,30 +84,6 @@ local diff = {
 				},
 			},
 		},
-		["d3001pnilu3001cd18vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Landing & Taxi Lights Retract/Off",
-		},
-		["d3001pnilu3001cd18vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Landing & Taxi Lights Extend&On/Off",
-		},
-		["d3001pnilu3001cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Battery-Starter Battery/Off",
-		},
 		["d3002pnilu3002cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -127,31 +103,23 @@ local diff = {
 		["d3003pnilu3003cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "Flight Control Switch Alternate/Normal",
 		},
-		["d3003pnilu3003cd4vd1vpnilvu-1"] = {
+		["d3003pnilu3003cd5vd1vpnilvu-1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Emergency Fuel Switch Toggle",
-		},
-		["d3004pnilu3004cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Engine Master Switch On/Off",
+			["name"] = "Gun Heater Switch Toggle",
 		},
 		["d3004pnilu3004cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Hydraulic Pressure Gage Alternate/Normal",
@@ -159,7 +127,7 @@ local diff = {
 		["d3004pnilu3004cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "Hydraulic Pressure Gage Utility/Normal",
@@ -167,34 +135,50 @@ local diff = {
 		["d3009pnilu3009cd5vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Rocket Release Selector Auto/Off",
 		},
+		["d3009pnilu3009cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Rocket Release Selector Single/Off",
+		},
+		["d3011pnilu3011cd5vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Rocket Fuze (Arming) Instant/Off",
+		},
+		["d3011pnilu3011cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Rocket Fuze (Arming) Delay/Off",
+		},
+		["d3012pnilu3012cd5vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Rocket Jettison Switch Toggle",
+		},
 		["d3017pnilu3017cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "Flight Control Switch - RESET",
-		},
-		["d3018pnilu3018cd5vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Missile Control Switch Salvo/RH",
-		},
-		["d3018pnilu3018cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Missile Control Switch LH&RH/RH",
 		},
 		["d3020pnilu3020cd5vd1vpnilvu0"] = {
 			["added"] = {
@@ -207,7 +191,7 @@ local diff = {
 		["d3028pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN1",
 				},
 			},
 			["name"] = "Rocket Release Selector Switch Cover - OPEN/CLOSE",
@@ -259,6 +243,70 @@ local diff = {
 				},
 			},
 			["name"] = "Wheel Parking Brake Handle",
+		},
+		["dnilp210u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UR",
+				},
+			},
+		},
+		["dnilp211u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DR",
+				},
+			},
+		},
+		["dnilp212u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DL",
+				},
+			},
+		},
+		["dnilp213u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UL",
+				},
+			},
+		},
+		["dnilp32u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+		},
+		["dnilp33u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+		},
+		["dnilp34u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+		},
+		["dnilp35u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
 		},
 	},
 }

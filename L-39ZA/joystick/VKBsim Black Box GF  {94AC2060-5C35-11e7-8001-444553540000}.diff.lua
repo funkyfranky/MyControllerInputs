@@ -1,4 +1,22 @@
 local diff = {
+	["axisDiffs"] = {
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
+	},
 	["keyDiffs"] = {
 		["d3013pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
@@ -7,6 +25,14 @@ local diff = {
 				},
 			},
 			["name"] = "ASP-3NMU Gunsight Fixed Reticle Mask Lever",
+		},
+		["d3014pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "ASP-3NMU Gunsight Color Filter, ON/OFF",
 		},
 		["d3015pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
@@ -84,6 +110,22 @@ local diff = {
 				},
 			},
 			["name"] = "ASP-3NMU Gunsight Target Wingspan Adjustment Dial, Increase",
+		},
+		["dnilp3010unilcd1vdnilvp-0.7vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "ASP-3NMU Gunsight Target Distance, Decrease",
+		},
+		["dnilp3010unilcd1vdnilvp0.7vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "ASP-3NMU Gunsight Target Distance, Increase",
 		},
 		["dnilp3017unilcd1vdnilvp-0.1vunil"] = {
 			["added"] = {

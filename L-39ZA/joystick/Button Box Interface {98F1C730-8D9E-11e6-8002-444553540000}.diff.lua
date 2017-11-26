@@ -50,6 +50,14 @@ local diff = {
 			},
 			["name"] = "Radio Channel Knob - Previous",
 		},
+		["d3002pnilunilcd36vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "SARPP Flight Recorder Switch - ON/OFF",
+		},
 		["d3013pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -347,6 +355,22 @@ local diff = {
 				},
 			},
 			["name"] = "CB WEAPON Switch - ON/OFF",
+		},
+		["d3121pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "CB Left Pitot Switch - ON/OFF",
+		},
+		["d3122pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "CB Right Pitot Switch - ON/OFF",
 		},
 		["d71pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

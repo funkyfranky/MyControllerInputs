@@ -1,4 +1,22 @@
 local diff = {
+	["axisDiffs"] = {
+		["a2012cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "Zoom View",
+		},
+		["a2034cdnil"] = {
+			["name"] = "Manual Range",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+		},
+	},
 	["keyDiffs"] = {
 		["d1587pnilu1587cdnilvd1vpnilvu-1"] = {
 			["added"] = {
@@ -55,14 +73,6 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard Previous Page",
-		},
-		["d3004pnilu3004cd17vd1vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Compass Light Switch On/Off",
 		},
 		["d3004pnilu3004cd26vd1vpnilvu0"] = {
 			["added"] = {
@@ -133,6 +143,22 @@ local diff = {
 			},
 			["name"] = "Demolition Bomb Release Selector Switch Auto/Manual",
 		},
+		["d3007pnilu3007cd16vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Engine Anti-Ice Anti-Ice/Ret",
+		},
+		["d3007pnilu3007cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Engine Anti-Ice Extend/Ret",
+		},
 		["d3007pnilu3007cd5vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -165,21 +191,21 @@ local diff = {
 			},
 			["name"] = "Alternate Hydraulic Emergency Override Handle Pull/Push",
 		},
-		["d3009pnilu3009cd5vd-1vpnilvu0"] = {
+		["d3029pnilunilcd5vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Rocket Release Selector Auto/Off",
+			["name"] = "Variable Sight Selector Unit - Sight Function Selector Lever - CW",
 		},
-		["d3028pnilunilcd5vd1vpnilvunil"] = {
+		["d3029pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Rocket Release Selector Switch Cover - OPEN/CLOSE",
+			["name"] = "Variable Sight Selector Unit - Sight Function Selector Lever - CCW",
 		},
 		["d3033pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
@@ -209,6 +235,14 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
+		},
+		["d757pnilu758cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Clock Elapsed Time Mechanism Button - START/STOP/RESET",
 		},
 	},
 }

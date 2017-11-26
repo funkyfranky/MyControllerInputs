@@ -45,7 +45,7 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
-					["key"] = "JOY_RZ",
+					["key"] = "JOY_Z",
 				},
 			},
 			["name"] = "Oxygen Regulator Supply Lever",
@@ -61,7 +61,7 @@ local diff = {
 		["a3010cd17"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_Z",
+					["key"] = "JOY_RZ",
 				},
 			},
 			["name"] = "Instrument Panel Primary Light Rheostat",
@@ -69,7 +69,7 @@ local diff = {
 		["a3011cd17"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RX",
+					["key"] = "JOY_RY",
 				},
 			},
 			["name"] = "Instrument Panel Auxiliary Light Rheostat",
@@ -77,7 +77,7 @@ local diff = {
 		["a3012cd17"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RY",
+					["key"] = "JOY_RX",
 				},
 			},
 			["name"] = "Console and Panel Light Rheostat",
@@ -85,16 +85,6 @@ local diff = {
 		["a3016cd27"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_Y",
 				},
 			},
@@ -118,13 +108,37 @@ local diff = {
 			},
 			["name"] = "Exterior Lighting Dimmer Bright/Dim",
 		},
-		["d3003pnilu3003cd5vd1vpnilvu-1"] = {
+		["d3004pnilu3004cd17vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Compass Light Switch On/Off",
+		},
+		["d3004pnilu3004cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Gun Heater Switch Toggle",
+			["name"] = "Engine Master Switch On/Off",
+		},
+		["d3005pnilunilcd18vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Landing & Taxi Lights Switch - Down",
+		},
+		["d3005pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Landing & Taxi Lights Switch - Up",
 		},
 		["d3006pnilunilcd18vd-1vpnilvunil"] = {
 			["added"] = {
@@ -142,45 +156,21 @@ local diff = {
 			},
 			["name"] = "Position and Fuselage Light Selector Switch - Up",
 		},
-		["d3010pnilunilcd16vd-1vpnilvunil"] = {
+		["d3055pnilu3055cd1vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Engine Anti-Ice & Screen Switch - Down",
+			["name"] = "Battery-Starter Switch - Down",
 		},
-		["d3010pnilunilcd16vd1vpnilvunil"] = {
+		["d3055pnilu3055cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Engine Anti-Ice & Screen Switch - Up",
-		},
-		["d3012pnilu3012cd5vd1vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Rocket Jettison Switch Toggle",
-		},
-		["d3031pnilunilcd5vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Rocket Fuze (Arming) Switch - Down",
-		},
-		["d3031pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Rocket Fuze (Arming) Switch - Up",
+			["name"] = "Battery-Starter Switch - Up",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",

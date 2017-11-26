@@ -75,6 +75,11 @@ local diff = {
 	},
 	["keyDiffs"] = {
 		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
 			["name"] = "A-4 Sight Radar Target Selector Button",
 			["removed"] = {
 				[1] = {
@@ -98,6 +103,22 @@ local diff = {
 			},
 			["name"] = "A-4 Sight Mechanical Caging Lever - ON/OFF",
 		},
+		["d3037pnilunilcd5vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Missile Control Switch - Down",
+		},
+		["d3037pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Missile Control Switch - Up",
+		},
 		["d439pnilu440cdnilvdnilvpnilvunil"] = {
 			["name"] = "A-4 Sight Electrical Caging Button (On Throttle)",
 			["removed"] = {
@@ -105,6 +126,14 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
+		},
+		["d555pnilu555cdnilvd0.5vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Trigger - FIRST DETENT",
 		},
 		["d562pnilu606cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -126,6 +155,19 @@ local diff = {
 				},
 			},
 			["name"] = "F1 Cockpit view",
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Trigger - SECOND DETENT(Gun Fire)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
 		},
 		["d8pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -175,21 +217,21 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3018unilcd22vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "A-4 Sight Manual Ranging Control (Throttle Twist Grip) - CCW/Increase",
-		},
-		["dnilp3019unilcd22vdnilvp1vunil"] = {
+		["dnilp3005unilcd22vdnilvp-0.2vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "A-4 Sight Manual Ranging Control (Throttle Twist Grip) - CW/Decrease",
+			["name"] = "A-4 Sight Reticle Dimmer Control - CCW/DIM",
+		},
+		["dnilp3005unilcd22vdnilvp0.2vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "A-4 Sight Reticle Dimmer Control - CW/BRIGHT",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
@@ -258,7 +300,7 @@ local diff = {
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 			["name"] = "Trim Up",
@@ -266,7 +308,7 @@ local diff = {
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "Trim Down",
