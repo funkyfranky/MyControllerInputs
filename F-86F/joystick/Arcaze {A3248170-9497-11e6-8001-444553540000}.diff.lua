@@ -84,6 +84,14 @@ local diff = {
 				},
 			},
 		},
+		["d3002pnilu3002cd1vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Instrument Power Switch Alternate/Normal",
+		},
 		["d3002pnilu3002cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -171,6 +179,14 @@ local diff = {
 				},
 			},
 			["name"] = "Rocket Jettison Switch Toggle",
+		},
+		["d3015pnilu3015cd22vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "A-4 Sight Filament Selector Switch Secondary/Primary",
 		},
 		["d3017pnilu3017cd2vd-1vpnilvu0"] = {
 			["added"] = {
