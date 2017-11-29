@@ -1,4 +1,19 @@
 local modifiers = {
+	["JOY_BTN1"] = {
+		["device"] = "Arcaze {A3248170-9497-11e6-8001-444553540000}",
+		["key"] = "JOY_BTN1",
+		["switch"] = true,
+	},
+	["JOY_BTN2"] = {
+		["device"] = "Arcaze {A3248170-9497-11e6-8001-444553540000}",
+		["key"] = "JOY_BTN2",
+		["switch"] = true,
+	},
+	["JOY_BTN3"] = {
+		["device"] = "Arcaze {A3248170-9497-11e6-8001-444553540000}",
+		["key"] = "JOY_BTN3",
+		["switch"] = true,
+	},
 	["LAlt"] = {
 		["device"] = "Keyboard",
 		["key"] = "LAlt",

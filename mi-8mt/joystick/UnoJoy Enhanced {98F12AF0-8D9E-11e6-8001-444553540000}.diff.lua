@@ -226,11 +226,177 @@ local diff = {
 			},
 			["name"] = "Battery 1 On/Off",
 		},
+		["d3005pnilunilcd1vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "JOY_BTN3",
+					},
+				},
+			},
+			["name"] = "Rectifier 2 Switch - OFF",
+		},
+		["d3005pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "JOY_BTN3",
+					},
+				},
+			},
+			["name"] = "Rectifier 2 Switch - ON",
+		},
+		["d3006pnilunilcd1vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "JOY_BTN3",
+					},
+				},
+			},
+			["name"] = "Rectifier 3 Switch - OFF",
+		},
+		["d3006pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "JOY_BTN3",
+					},
+				},
+			},
+			["name"] = "Rectifier 3 Switch - ON",
+		},
+		["d3007pnilunilcd1vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "JOY_BTN3",
+					},
+				},
+			},
+			["name"] = "Rectifier 1 Switch - OFF",
+		},
+		["d3007pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "JOY_BTN3",
+					},
+				},
+			},
+			["name"] = "Rectifier 1 Switch - ON",
+		},
+		["d3015pnilunilcd1vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "JOY_BTN3",
+						[2] = "Pinky Backward",
+					},
+				},
+			},
+			["name"] = "Generator 1 Switch - OFF",
+		},
+		["d3015pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "JOY_BTN3",
+						[2] = "Pinky Backward",
+					},
+				},
+			},
+			["name"] = "Generator 1 Switch - ON",
+		},
+		["d3016pnilunilcd1vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "JOY_BTN3",
+						[2] = "Pinky Backward",
+					},
+				},
+			},
+			["name"] = "Generator 2 Switch - OFF",
+		},
+		["d3016pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "JOY_BTN3",
+						[2] = "Pinky Backward",
+					},
+				},
+			},
+			["name"] = "Generator 2 Switch - ON",
+		},
 		["d3025pnilu3025cd36vd1vpnilvu0"] = {
 			["name"] = "Radio trigger - RADIO",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
+				},
+			},
+		},
+		["d599pnilunilcdnilvd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "Pinky Backward",
+					},
+				},
+			},
+			["name"] = "Engine Selector Switch - Left",
+		},
+		["d599pnilunilcdnilvd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "Pinky Backward",
+					},
+				},
+			},
+			["name"] = "Engine Selector Switch - Right",
+		},
+		["d838pnilunilcdnilvd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "Pinky Backward",
+					},
+				},
+			},
+			["name"] = "Engine Start Mode Switch - Down",
+		},
+		["d838pnilunilcdnilvd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "Pinky Backward",
+					},
+				},
+			},
+			["name"] = "Engine Start Mode Switch - Up",
+		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "View Center",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
 				},
 			},
 		},
