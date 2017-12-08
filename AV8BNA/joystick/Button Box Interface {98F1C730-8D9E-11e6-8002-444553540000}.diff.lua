@@ -49,6 +49,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN18",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
 				},
 			},
 			["name"] = "ODU Option 1",
@@ -57,6 +60,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN19",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
 				},
 			},
 			["name"] = "ODU Option 2",
@@ -65,6 +71,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
 				},
 			},
 			["name"] = "ODU Option 3",
@@ -73,6 +82,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN21",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
 				},
 			},
 			["name"] = "ODU Option 4",
@@ -81,9 +93,92 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN22",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
 				},
 			},
 			["name"] = "ODU Option 5",
+		},
+		["d1306pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "UFC Timer Function Button",
+		},
+		["d1307pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "UFC Weapons Function Button",
+		},
+		["d1308pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "UFC IFF Function Button",
+		},
+		["d1311pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "UFC RDR Beacon Function Button",
+		},
+		["d1312pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "UFC Altimeter Function Button",
+		},
+		["d1314pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "UFC Target-Of-Opportunity Function Button",
+		},
+		["d1315pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "UFC Wpt Over Fly Function Button",
+		},
+		["d1316pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "UFC TACAN Function Button",
+		},
+		["d1317pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "UFC AWLS Function Button",
+		},
+		["d1319pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "UFC EMCON Toggle Button",
 		},
 		["d178pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -420,6 +515,14 @@ local diff = {
 			},
 			["name"] = "Fuel Shutoff Lever DOWN",
 		},
+		["d3634pnilu3634cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Test Lights ON/OFF",
+		},
 		["d3800pnilunilcd11vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -442,6 +545,14 @@ local diff = {
 				},
 			},
 			["name"] = "Seat Ground Safety Lever DOWN",
+		},
+		["d438pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Helmet Visor/NVG Toggle",
 		},
 		["d461pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -497,14 +608,6 @@ local diff = {
 				},
 			},
 			["name"] = "Station 6 Pushbutton",
-		},
-		["d516pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Air Refueling Probe Light Toggle",
 		},
 		["d58pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

@@ -1,5 +1,21 @@
 local diff = {
 	["keyDiffs"] = {
+		["d1252pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num.",
+				},
+			},
+			["name"] = "UFC . Button",
+		},
+		["d1253pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num-",
+				},
+			},
+			["name"] = "UFC - Button",
+		},
 		["d1295pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -80,6 +96,14 @@ local diff = {
 			},
 			["name"] = "UFC 0 Button",
 		},
+		["d1309pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Back",
+				},
+			},
+			["name"] = "UFC Clear Button",
+		},
 		["d1310pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -104,11 +128,27 @@ local diff = {
 				},
 			},
 		},
+		["d19pnilunilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Lock View (cycle padlock)",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num.",
+				},
+			},
+		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Trigger: Fire Gun/Launch Sidewinder, Sidearm",
 			["removed"] = {
 				[1] = {
 					["key"] = "Space",
+				},
+			},
+		},
+		["dnilp1033u1034cdnilvdnilvpnilvunil"] = {
+			["name"] = "Throttle DOWN",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num-",
 				},
 			},
 		},
@@ -209,6 +249,14 @@ local diff = {
 			},
 		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num5",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "View Center",
 			["removed"] = {
 				[1] = {

@@ -50,6 +50,22 @@ local diff = {
 			},
 			["name"] = "Airbrake ON/OFF",
 		},
+		["d1587pnilu1587cdnilvd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Kneeboard glance view",
+		},
+		["d1587pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Kneeboard ON/OFF",
+		},
 		["d252pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -57,6 +73,14 @@ local diff = {
 				},
 			},
 			["name"] = "Master Warning/Caution Reset",
+		},
+		["d3001pnilunilcd100vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Kneeboard Next Page",
 		},
 		["d3449pnilu3449cd9vd0vpnilvu0.5"] = {
 			["added"] = {
