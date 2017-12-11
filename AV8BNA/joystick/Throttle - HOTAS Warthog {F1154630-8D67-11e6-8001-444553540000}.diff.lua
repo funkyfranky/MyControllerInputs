@@ -66,6 +66,14 @@ local diff = {
 			},
 			["name"] = "Kneeboard ON/OFF",
 		},
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Communication menu",
+		},
 		["d252pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

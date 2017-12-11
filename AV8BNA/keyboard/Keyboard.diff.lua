@@ -19,7 +19,7 @@ local diff = {
 		["d1295pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num7",
+					["key"] = "Num1",
 				},
 			},
 			["name"] = "UFC 1 Button",
@@ -27,7 +27,7 @@ local diff = {
 		["d1296pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num8",
+					["key"] = "Num2",
 				},
 			},
 			["name"] = "UFC 2/N Button",
@@ -35,7 +35,7 @@ local diff = {
 		["d1297pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num9",
+					["key"] = "Num3",
 				},
 			},
 			["name"] = "UFC 3 Button",
@@ -67,7 +67,7 @@ local diff = {
 		["d1301pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num1",
+					["key"] = "Num7",
 				},
 			},
 			["name"] = "UFC 7 Button",
@@ -75,7 +75,7 @@ local diff = {
 		["d1302pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num2",
+					["key"] = "Num8",
 				},
 			},
 			["name"] = "UFC 8/S Button",
@@ -83,7 +83,7 @@ local diff = {
 		["d1303pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num3",
+					["key"] = "Num9",
 				},
 			},
 			["name"] = "UFC 9 Button",
@@ -95,6 +95,22 @@ local diff = {
 				},
 			},
 			["name"] = "UFC 0 Button",
+		},
+		["d1306pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num/",
+				},
+			},
+			["name"] = "UFC Timer Function Button",
+		},
+		["d1307pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "PageUp",
+				},
+			},
+			["name"] = "UFC Weapons Function Button",
 		},
 		["d1309pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -111,6 +127,62 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Enter Button",
+		},
+		["d1311pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Delete",
+				},
+			},
+			["name"] = "UFC RDR Beacon Function Button",
+		},
+		["d1312pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "End",
+				},
+			},
+			["name"] = "UFC Altimeter Function Button",
+		},
+		["d1314pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num*",
+				},
+			},
+			["name"] = "UFC Target-Of-Opportunity Function Button",
+		},
+		["d1316pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Insert",
+				},
+			},
+			["name"] = "UFC TACAN Function Button",
+		},
+		["d1317pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Home",
+				},
+			},
+			["name"] = "UFC AWLS Function Button",
+		},
+		["d1318pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num+",
+				},
+			},
+			["name"] = "UFC ON/OFF Toggle Button",
+		},
+		["d1319pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "PageDown",
+				},
+			},
+			["name"] = "UFC EMCON Toggle Button",
 		},
 		["d177pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Zoom normal",
@@ -141,6 +213,14 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "Space",
+				},
+			},
+		},
+		["dnilp1032u1034cdnilvdnilvpnilvunil"] = {
+			["name"] = "Throttle UP",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num+",
 				},
 			},
 		},
@@ -261,6 +341,22 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "Num5",
+				},
+			},
+		},
+		["dnilp39u289cdnilvdnilvpnilvunil"] = {
+			["name"] = "Zoom in slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num*",
+				},
+			},
+		},
+		["dnilp40u290cdnilvdnilvpnilvunil"] = {
+			["name"] = "Zoom out slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num/",
 				},
 			},
 		},

@@ -48,10 +48,7 @@ local diff = {
 		["d1242pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "ODU Option 1",
@@ -59,10 +56,7 @@ local diff = {
 		["d1243pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
+					["key"] = "JOY_BTN21",
 				},
 			},
 			["name"] = "ODU Option 2",
@@ -70,10 +64,7 @@ local diff = {
 		["d1244pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "ODU Option 3",
@@ -81,10 +72,7 @@ local diff = {
 		["d1245pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "ODU Option 4",
@@ -92,93 +80,10 @@ local diff = {
 		["d1246pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
-				},
-			},
-			["name"] = "ODU Option 5",
-		},
-		["d1306pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "UFC Timer Function Button",
-		},
-		["d1307pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "UFC Weapons Function Button",
-		},
-		["d1308pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "UFC IFF Function Button",
-		},
-		["d1311pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "UFC RDR Beacon Function Button",
-		},
-		["d1312pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "UFC Altimeter Function Button",
-		},
-		["d1314pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "UFC Target-Of-Opportunity Function Button",
-		},
-		["d1315pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "UFC Wpt Over Fly Function Button",
-		},
-		["d1316pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "UFC TACAN Function Button",
-		},
-		["d1317pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "UFC AWLS Function Button",
-		},
-		["d1319pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "UFC EMCON Toggle Button",
+			["name"] = "ODU Option 5",
 		},
 		["d178pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -668,22 +573,6 @@ local diff = {
 				},
 			},
 			["name"] = "Canopy Open/Close",
-		},
-		["dnilp1322unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "UFC Display Brightness Increase",
-		},
-		["dnilp1323unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "UFC Display Brightness Decrease",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
