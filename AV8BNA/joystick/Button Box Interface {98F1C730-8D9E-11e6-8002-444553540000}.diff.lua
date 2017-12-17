@@ -574,6 +574,22 @@ local diff = {
 			},
 			["name"] = "Canopy Open/Close",
 		},
+		["dnilp1322unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "UFC Display Brightness Increase",
+		},
+		["dnilp1323unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "UFC Display Brightness Decrease",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
