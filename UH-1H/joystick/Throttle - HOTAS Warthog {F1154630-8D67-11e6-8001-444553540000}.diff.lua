@@ -20,14 +20,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1669pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "External Cargo Emergency Unhook",
-		},
 		["d3006pnilu3006cd50vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -35,6 +27,22 @@ local diff = {
 				},
 			},
 			["name"] = "Flare Dispense Button",
+		},
+		["d3006pnilu3006cd7vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Search Light Stow/Off",
+		},
+		["d3006pnilu3006cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Search Light On/Off",
 		},
 		["d3007pnilu3007cd7vd-1vpnilvu0"] = {
 			["added"] = {

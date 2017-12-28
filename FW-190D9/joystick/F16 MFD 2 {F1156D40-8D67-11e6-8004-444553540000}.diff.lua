@@ -74,6 +74,38 @@ local diff = {
 				},
 			},
 		},
+		["dnilp3004unilcd13vdnilvp-0.002vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Clock Bezel CCW",
+		},
+		["dnilp3004unilcd13vdnilvp0.002vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Clock Bezel CW",
+		},
+		["dnilp3004unilcd4vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Oxygen Valve Close",
+		},
+		["dnilp3004unilcd4vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Oxygen Valve Open",
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {

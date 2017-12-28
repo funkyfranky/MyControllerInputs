@@ -74,6 +74,38 @@ local diff = {
 				},
 			},
 		},
+		["dnilp3001unilcd10vdnilvp-0.04vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Altimeter Pressure Decrease",
+		},
+		["dnilp3001unilcd10vdnilvp0.04vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Altimeter Pressure Increase",
+		},
+		["dnilp3002unilcd14vdnilvp-0.05vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Compass Bezel CCW",
+		},
+		["dnilp3002unilcd14vdnilvp0.05vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Compass Bezel CW",
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {

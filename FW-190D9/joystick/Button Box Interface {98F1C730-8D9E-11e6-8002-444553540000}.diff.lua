@@ -37,7 +37,7 @@ local diff = {
 		["d3003pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "CB Cover",
@@ -66,14 +66,6 @@ local diff = {
 			},
 			["name"] = "CB Pitot and Heating Cover On",
 		},
-		["d3007pnilunilcd3vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Canopy Emergency Release",
-		},
 		["d3008pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -81,6 +73,14 @@ local diff = {
 				},
 			},
 			["name"] = "CB FuG25a On",
+		},
+		["d3009pnilu3009cd6vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Primer Pump",
 		},
 		["d3009pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
@@ -101,15 +101,15 @@ local diff = {
 		["d3012pnilu3012cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Jettison Fuselage Stores On/Off",
+			["name"] = "Jettison Fuselage Stores ON/OFF",
 		},
 		["d3012pnilu3012cd8vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "Trim Elevator Up",
@@ -117,7 +117,7 @@ local diff = {
 		["d3012pnilu3012cd8vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Trim Elevator Down",
@@ -144,7 +144,7 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "MW-50 Switch On/Off",
+			["name"] = "MW-50 Switch ON/OFF",
 		},
 		["d3015pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
@@ -153,14 +153,6 @@ local diff = {
 				},
 			},
 			["name"] = "CB Rear Tank Pump On",
-		},
-		["d3015pnilunilcd21vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "EZ42 Gunsight Night Lens Filter",
 		},
 		["d3016pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
@@ -344,28 +336,9 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3001unilcd10vdnilvp-0.04vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Altimeter Pressure Decrease",
-		},
-		["dnilp3001unilcd10vdnilvp0.04vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Altimeter Pressure Increase",
-		},
 		["dnilp3001unilcd7vdnilvp-0.007vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-				[2] = {
 					["key"] = "JOY_BTN14",
 				},
 			},
@@ -374,45 +347,74 @@ local diff = {
 		["dnilp3001unilcd7vdnilvp0.007vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-				[2] = {
 					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "Instrument Brightness Increase",
 		},
-		["dnilp3002unilcd14vdnilvp-0.05vunil"] = {
+		["dnilp3014unilcd20vdnilvp-0.1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Ammo counter 1 Decrease",
+		},
+		["dnilp3014unilcd20vdnilvp0.1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Ammo counter 1 Increase",
+		},
+		["dnilp3015unilcd20vdnilvp-0.1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Ammo counter 2 Decrease",
+		},
+		["dnilp3015unilcd20vdnilvp0.1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Ammo counter 2 Increase",
+		},
+		["dnilp3016unilcd20vdnilvp-0.1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN29",
 				},
 			},
-			["name"] = "Compass Bezel CCW",
+			["name"] = "Ammo counter 3 Decrease",
 		},
-		["dnilp3002unilcd14vdnilvp0.05vunil"] = {
+		["dnilp3016unilcd20vdnilvp0.1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN30",
 				},
 			},
-			["name"] = "Compass Bezel CW",
+			["name"] = "Ammo counter 3 Increase",
 		},
-		["dnilp3004unilcd13vdnilvp-0.002vunil"] = {
+		["dnilp3017unilcd20vdnilvp-0.1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN31",
 				},
 			},
-			["name"] = "Clock Bezel CCW",
+			["name"] = "Ammo counter 4 Decrease",
 		},
-		["dnilp3004unilcd13vdnilvp0.002vunil"] = {
+		["dnilp3017unilcd20vdnilvp0.1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN32",
 				},
 			},
-			["name"] = "Clock Bezel CW",
+			["name"] = "Ammo counter 4 Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

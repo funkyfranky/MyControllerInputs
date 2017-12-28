@@ -54,7 +54,7 @@ local diff = {
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "Gunsight Brightness (analog)",
+			["name"] = "Gun Sight Brightness (analog)",
 		},
 	},
 	["keyDiffs"] = {
@@ -105,33 +105,6 @@ local diff = {
 				},
 			},
 			["name"] = "RH Radiator Cut-Off On/Off",
-		},
-		["d3074pnilunilcd1vd1vpnilvunil"] = {
-			["name"] = "Guns Safety Lever (toggle)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-		},
-		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Fire Cannon / Rockets (B1)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Fire Machineguns (A)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
 		},
 	},
 }

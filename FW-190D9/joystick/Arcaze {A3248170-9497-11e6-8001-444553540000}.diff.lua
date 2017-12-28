@@ -24,6 +24,34 @@ local diff = {
 				},
 			},
 		},
+		["a3002cd21"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.5,
+							[2] = 0.55,
+							[3] = 0.6,
+							[4] = 0.65,
+							[5] = 0.7,
+							[6] = 0.75,
+							[7] = 0.8,
+							[8] = 0.85,
+							[9] = 0.9,
+							[10] = 0.95,
+							[11] = 1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "EZ42 Gunsight Target Wingspan Knob",
+		},
 		["a3003cd2"] = {
 			["name"] = "Throttle",
 			["removed"] = {
@@ -32,39 +60,87 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd4"] = {
+		["a3003cd21"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RZ",
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.5,
+							[2] = 0.55,
+							[3] = 0.6,
+							[4] = 0.65,
+							[5] = 0.7,
+							[6] = 0.75,
+							[7] = 0.8,
+							[8] = 0.85,
+							[9] = 0.9,
+							[10] = 0.95,
+							[11] = 1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
+					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "Oxygen Flow Valve",
+			["name"] = "EZ42 Gunsight Target Distance Control",
+		},
+		["a3004cd21"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.5,
+							[2] = 0.55,
+							[3] = 0.6,
+							[4] = 0.65,
+							[5] = 0.7,
+							[6] = 0.75,
+							[7] = 0.8,
+							[8] = 0.85,
+							[9] = 0.9,
+							[10] = 0.95,
+							[11] = 1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "EZ42 Gunsight Brightness Control",
 		},
 	},
 	["keyDiffs"] = {
+		["d3002pnilu3002cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Clock STOP/START",
+		},
 		["d3002pnilu3002cd6vd0vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
+					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Fuel Gauge Selector Fwd/Off",
+			["name"] = "Fuel Gauge Selector FWD/CENTER",
 		},
 		["d3002pnilu3002cd6vd1vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Fuel Gauge Selector Aft/Off",
-		},
-		["d3002pnilunilcd13vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Clock Start",
+			["name"] = "Fuel Gauge Selector AFT/CENTER",
 		},
 		["d3002pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
@@ -89,6 +165,30 @@ local diff = {
 				},
 			},
 			["name"] = "Radio Mode RADIO/ADF",
+		},
+		["d3008pnilu3008cd6vd-1vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Cold Start/Wind Screen Washer LEFT/CENTER",
+		},
+		["d3008pnilu3008cd6vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Cold Start/Wind Screen Washer RIGHT/CENTER",
+		},
+		["d3015pnilunilcd21vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "EZ42 Gunsight Night Lens Filter",
 		},
 		["d3019pnilu3019cd20vd1vpnilvu0"] = {
 			["name"] = "MG131 fire",
@@ -133,7 +233,7 @@ local diff = {
 		["dnilp3002unilcd12vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "Horizon Cage",
@@ -141,26 +241,10 @@ local diff = {
 		["dnilp3002unilcd12vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Horizon Uncage",
-		},
-		["dnilp3002unilcd3vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Canopy Opening",
-		},
-		["dnilp3002unilcd3vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Canopy Closing",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

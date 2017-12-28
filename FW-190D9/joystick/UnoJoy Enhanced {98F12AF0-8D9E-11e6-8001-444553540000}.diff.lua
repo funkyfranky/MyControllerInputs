@@ -32,14 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd4"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Oxygen Flow Valve",
-		},
 		["a3004cd21"] = {
 			["added"] = {
 				[1] = {
@@ -121,18 +113,18 @@ local diff = {
 		["d3011pnilu3024cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "CB Generator On/Off",
+			["name"] = "CB Generator ON/OFF",
 		},
 		["d3012pnilu3025cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "CB Battery On/Off",
+			["name"] = "CB Battery ON/OFF",
 		},
 		["d3013pnilu3026cd1vd1vpnilvu0"] = {
 			["added"] = {
@@ -140,7 +132,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "CB Navigation Lights On/Off",
+			["name"] = "CB Navigation Lights ON/OFF",
 		},
 		["d3019pnilu3019cd20vd1vpnilvu0"] = {
 			["name"] = "MG131 fire",

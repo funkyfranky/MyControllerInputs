@@ -146,6 +146,22 @@ local diff = {
 			},
 			["name"] = "SZKK 3 Weapon Control On/Off",
 		},
+		["d3033pnilunilcd4vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Canopy CLOSE",
+		},
+		["d3033pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Canopy OPEN",
+		},
 		["d3034pnilu3034cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
