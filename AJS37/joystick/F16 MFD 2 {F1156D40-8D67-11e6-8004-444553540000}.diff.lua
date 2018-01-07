@@ -34,13 +34,37 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d191pnilunilcdnilvdnilvpnilvunil"] = {
+		["d3001pnilunilcd35vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Time decelerate",
+			["name"] = "Play",
+		},
+		["d3002pnilunilcd35vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Stop",
+		},
+		["d3003pnilunilcd35vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Fast Forward",
+		},
+		["d3004pnilunilcd35vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Fast Backward",
 		},
 		["d3010pnilu3010cd12vd1vpnilvu0"] = {
 			["added"] = {
@@ -122,85 +146,37 @@ local diff = {
 			},
 			["name"] = "Navigation panel Waypoint B9",
 		},
-		["d3210pnilunilcd31vd1vpnilvunil"] = {
+		["d3316pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "FR22 Radio Flight 0",
+			["name"] = "EP13 Brightness down",
 		},
-		["d3211pnilunilcd31vd1vpnilvunil"] = {
+		["d3316pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "FR22 Radio Flight 1",
+			["name"] = "EP13 Brightness up",
 		},
-		["d3212pnilunilcd31vd1vpnilvunil"] = {
+		["d3317pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN22",
 				},
 			},
-			["name"] = "FR22 Radio Flight 2",
+			["name"] = "EP13 Contrast down",
 		},
-		["d3213pnilunilcd31vd1vpnilvunil"] = {
+		["d3317pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "FR22 Radio Flight 3",
-		},
-		["d3214pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "FR22 Radio Flight 4",
-		},
-		["d3215pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "FR22 Radio Flight 5",
-		},
-		["d3216pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "FR22 Radio Flight 6",
-		},
-		["d3217pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "FR22 Radio Flight 7",
-		},
-		["d3218pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "FR22 Radio Flight 8",
-		},
-		["d3219pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "FR22 Radio Flight 9",
+			["name"] = "EP13 Contrast up",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -210,13 +186,37 @@ local diff = {
 				},
 			},
 		},
-		["d53pnilunilcdnilvdnilvpnilvunil"] = {
+		["d3714pnilu3714cd22vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "Time accelerate",
+			["name"] = "Magnetic correction left",
+		},
+		["d3714pnilu3714cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Magnetic correction right",
+		},
+		["d3924pnilunilcd5vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Radar Decrease Brightness",
+		},
+		["d3924pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Radar Increase Brightness",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

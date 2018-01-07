@@ -50,14 +50,6 @@ local diff = {
 			},
 			["name"] = "FR22 Base selector turn right",
 		},
-		["d3001pnilunilcd35vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Play",
-		},
 		["d3002pnilunilcd31vd0.05vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -138,30 +130,6 @@ local diff = {
 			},
 			["name"] = "FR22 Push-button H",
 		},
-		["d3002pnilunilcd35vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Stop",
-		},
-		["d3003pnilunilcd35vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Fast Forward",
-		},
-		["d3004pnilunilcd35vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Fast Backward",
-		},
 		["d3007pnilunilcd31vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -178,13 +146,85 @@ local diff = {
 			},
 			["name"] = "FR22 Group selector turn right",
 		},
-		["d3256pnilunilcd0vd1vpnilvunil"] = {
+		["d3210pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "FR22 Radio Flight 0",
+		},
+		["d3211pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "FR22 Radio Flight 1",
+		},
+		["d3212pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "FR22 Radio Flight 2",
+		},
+		["d3213pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "FR22 Radio Flight 3",
+		},
+		["d3214pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "FR22 Radio Flight 4",
+		},
+		["d3215pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "FR22 Radio Flight 5",
+		},
+		["d3216pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "FR22 Radio Flight 6",
+		},
+		["d3217pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "FR22 Radio Flight 7",
+		},
+		["d3218pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "FR22 Radio Flight 8",
+		},
+		["d3219pnilunilcd31vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Flashlight",
+			["name"] = "FR22 Radio Flight 9",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -193,22 +233,6 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["d3924pnilunilcd5vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Radar Decrease Brightness",
-		},
-		["d3924pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Radar Increase Brightness",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -333,6 +357,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp3721unilcd22vdnilvp-0.015vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Backup Altimeter Setting Down",
+		},
+		["dnilp3721unilcd22vdnilvp0.015vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Backup Altimeter Setting Up",
 		},
 	},
 }

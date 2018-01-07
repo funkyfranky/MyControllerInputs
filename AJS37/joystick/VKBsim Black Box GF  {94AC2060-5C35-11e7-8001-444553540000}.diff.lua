@@ -72,28 +72,6 @@ local diff = {
 				},
 			},
 		},
-		["a3321cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Radar stick horizontal",
-		},
-		["a3322cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Radar stick vertical",
-		},
 	},
 	["keyDiffs"] = {
 		["d3006pnilu3005cd23vd1vpnilvu1"] = {
@@ -143,6 +121,14 @@ local diff = {
 				},
 			},
 			["name"] = "Autothrottle disconnect / IR-missile fast select",
+		},
+		["d3314pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "IR-missile uncage",
 		},
 		["d3321pnilu3321cd2vd-1vpnilvu0"] = {
 			["added"] = {
@@ -297,14 +283,6 @@ local diff = {
 				},
 			},
 		},
-		["dnilp36unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "View Center",
-		},
 		["dnilp93u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -324,7 +302,7 @@ local diff = {
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 			["name"] = "Trim: Nose Up",
@@ -332,7 +310,7 @@ local diff = {
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "Trim: Nose Down",

@@ -32,34 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3327cd5"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Radar MKR Gain",
-		},
 	},
 	["keyDiffs"] = {
 		["d3200pnilunilcd22vd1vpnilvunil"] = {
@@ -78,14 +50,6 @@ local diff = {
 			},
 			["name"] = "SLAV SI",
 		},
-		["d3303pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Weapon jettison Button",
-		},
 		["d3306pnilu3306cd2vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -102,14 +66,6 @@ local diff = {
 			},
 			["name"] = "RB-04/RB-15/BK Release Mode Valb/Prep",
 		},
-		["d3320pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Fuel tank jettison Button",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {
@@ -125,6 +81,61 @@ local diff = {
 				},
 			},
 			["name"] = "Oxygen Lever On/Off",
+		},
+		["d3920pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "IFF/Transponder Power Off",
+		},
+		["d3920pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "IFF/Transponder Power On",
+		},
+		["d3921pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "IFF Channel Selector A",
+		},
+		["d3921pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "IFF Channel Selector A+C",
+		},
+		["d3922pnilu3922cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "IFF Identification Depressed/Released",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

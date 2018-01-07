@@ -34,46 +34,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd7vd1vpnilvu0"] = {
+		["d3002pnilu3002cd26vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Check indicator lights",
+		},
+		["d3003pnilu3003cd19vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Thrust Reverser On/Off",
-		},
-		["d3001pnilunilcd35vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "Play",
-		},
-		["d3002pnilunilcd35vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "Stop",
-		},
-		["d3003pnilunilcd35vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "Fast Forward",
+			["name"] = "Backup Generator On/Off",
 		},
 		["d3004pnilu3004cd18vd1vpnilvu0"] = {
 			["added"] = {
@@ -83,16 +58,13 @@ local diff = {
 			},
 			["name"] = "Aterstart (Restart) Switch On/Off",
 		},
-		["d3004pnilunilcd35vd1vpnilvunil"] = {
+		["d3004pnilu3004cd26vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
+					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Fast Backward",
+			["name"] = "KONTROLL Indicator System Test",
 		},
 		["d3005pnilunilcd24vd-0.1vpnilvunil"] = {
 			["added"] = {
@@ -141,7 +113,7 @@ local diff = {
 		["d3006pnilunilcd18vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Afterburner fuel valve (LTkran EBK)",
@@ -168,14 +140,6 @@ local diff = {
 			},
 			["name"] = "Volume Down",
 		},
-		["d3007pnilu3007cd17vd1vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Flood Lights 2-Pos. Switch",
-		},
 		["d3007pnilunilcd18vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -187,7 +151,7 @@ local diff = {
 		["d3008pnilunilcd18vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "Engine De-ice switch",
@@ -229,22 +193,6 @@ local diff = {
 				},
 			},
 			["name"] = "Countermeasure KB Stråk Mod 4",
-		},
-		["d3010pnilunilcd31vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Radio function selector turn right",
-		},
-		["d3010pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Radio function selector turn left",
 		},
 		["d3011pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
@@ -337,18 +285,26 @@ local diff = {
 		["d3210pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "Pitch gearing Automatic/Landing",
 		},
-		["d3303pnilunilcd2vd1vpnilvunil"] = {
+		["d3302pnilu3302cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN18",
 				},
 			},
-			["name"] = "Weapon jettison Button",
+			["name"] = "Weapon Emergency Release Cover Open/Close",
+		},
+		["d3303pnilu3303cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Weapon Emergency Release Button Depress/Release",
 		},
 		["d3305pnilunilcd2vd0.6vpnilvunil"] = {
 			["added"] = {
@@ -366,18 +322,26 @@ local diff = {
 			},
 			["name"] = "Weapon Interval 01 RAKT",
 		},
-		["d3320pnilunilcd2vd1vpnilvunil"] = {
+		["d3320pnilu3320cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "Fuel tank jettison Button",
+			["name"] = "Fuel Tank Jettison Button Depress/Release",
+		},
+		["d3402pnilu3402cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "External Tank Release Cover Open/Close",
 		},
 		["d3405pnilu3405cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "Ejection Seat Arm/Disarm",
@@ -389,6 +353,14 @@ local diff = {
 				},
 			},
 			["name"] = "Canopy Jettison",
+		},
+		["d3408pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Parking brake",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -417,7 +389,7 @@ local diff = {
 		["d3511pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "TILS rotary layer switch",
@@ -438,18 +410,41 @@ local diff = {
 			},
 			["name"] = "Mode select - turn clockwise",
 		},
-		["d3715pnilunilcd22vd1vpnilvunil"] = {
+		["d3720pnilu3720cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Altimeter setting pull-out",
+			["name"] = "Backup ADI Cage Depress/Release",
+		},
+		["d3905pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "CB Autopilot SA In",
+		},
+		["d3905pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB Autopilot SA Out",
 		},
 		["d3925pnilu3925cd18vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN1",
 				},
 			},
 			["name"] = "Data Cartridge Insert/Remove",

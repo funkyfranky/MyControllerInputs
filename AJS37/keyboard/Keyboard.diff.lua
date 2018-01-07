@@ -216,9 +216,6 @@ local diff = {
 				[1] = {
 					["key"] = "Num5",
 				},
-				[2] = {
-					["key"] = "Num-",
-				},
 			},
 			["name"] = "Data panel Digit 5",
 		},
@@ -253,6 +250,14 @@ local diff = {
 				},
 			},
 			["name"] = "Data panel Digit 9",
+		},
+		["d3101pnilu3101cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num-",
+				},
+			},
+			["name"] = "Data panel RENSA cover OPEN/CLOSE",
 		},
 		["d53pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

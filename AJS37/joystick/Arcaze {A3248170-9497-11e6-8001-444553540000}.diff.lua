@@ -58,7 +58,7 @@ local diff = {
 					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "Axis Panel Lights (50-100)",
+			["name"] = "Panel Lights",
 		},
 		["a3007cd17"] = {
 			["added"] = {
@@ -86,7 +86,7 @@ local diff = {
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "Axis Flood Lights (50-100)",
+			["name"] = "Flood Lights",
 		},
 		["a3008cd17"] = {
 			["added"] = {
@@ -114,7 +114,7 @@ local diff = {
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Axis Instrument Lights (50-100)",
+			["name"] = "Instrument Lights",
 		},
 		["a3409cd22"] = {
 			["added"] = {
@@ -142,7 +142,7 @@ local diff = {
 					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "Axis HUD Brightness Knob (50-100)",
+			["name"] = "HUD Brightness Knob",
 		},
 	},
 	["keyDiffs"] = {

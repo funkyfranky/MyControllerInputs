@@ -50,6 +50,22 @@ local diff = {
 			},
 			["name"] = "Nav. Lights (toggle)",
 		},
+		["d3008pnilu3008cd4vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Trim Stabilizer NOSE UP",
+		},
+		["d3009pnilu3009cd4vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Trim Stabilizer NOSE DOWN",
+		},
 		["d3009pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
