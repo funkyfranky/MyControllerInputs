@@ -68,6 +68,14 @@ local diff = {
 			},
 			["name"] = "Radar Altimeter Power Switch On/Off",
 		},
+		["d3008pnilu3008cd17vd0.1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Transponder APX-72 STBY/OFF",
+		},
 		["d3008pnilu3008cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
