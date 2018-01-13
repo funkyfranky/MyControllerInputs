@@ -234,6 +234,22 @@ local diff = {
 				},
 			},
 		},
+		["d3924pnilunilcd5vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Radar Decrease Brightness",
+		},
+		["d3924pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Radar Increase Brightness",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
@@ -357,22 +373,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-		},
-		["dnilp3721unilcd22vdnilvp-0.015vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Backup Altimeter Setting Down",
-		},
-		["dnilp3721unilcd22vdnilvp0.015vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Backup Altimeter Setting Up",
 		},
 	},
 }

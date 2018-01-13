@@ -24,14 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["d191pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Left",
-				},
-			},
-			["name"] = "Time decelerate",
-		},
 		["d195pnilu196cdnilvdnilvpnilvunil"] = {
 			["name"] = "Aircraft Pitch Up",
 			["removed"] = {
@@ -111,6 +103,22 @@ local diff = {
 				},
 			},
 			["name"] = "Fast countermeasure dispense",
+		},
+		["d3004pnilunilcd31vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Right",
+				},
+			},
+			["name"] = "FR22 Frequency wheel 3 Down",
+		},
+		["d3004pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Left",
+				},
+			},
+			["name"] = "FR22 Frequency wheel 3 Up",
 		},
 		["d3005pnilunilcd23vd1vpnilvunil"] = {
 			["added"] = {
@@ -258,14 +266,6 @@ local diff = {
 				},
 			},
 			["name"] = "Data panel RENSA cover OPEN/CLOSE",
-		},
-		["d53pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Right",
-				},
-			},
-			["name"] = "Time accelerate",
 		},
 		["d816pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

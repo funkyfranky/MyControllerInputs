@@ -32,12 +32,40 @@ local diff = {
 				},
 			},
 		},
+		["a3006cd24"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.5,
+							[2] = 0.55,
+							[3] = 0.6,
+							[4] = 0.65,
+							[5] = 0.7,
+							[6] = 0.75,
+							[7] = 0.8,
+							[8] = 0.85,
+							[9] = 0.9,
+							[10] = 0.95,
+							[11] = 1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "Master Volume / Sidewinder Tone",
+		},
 	},
 	["keyDiffs"] = {
 		["d3200pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "HÖJD CISI",
@@ -49,6 +77,28 @@ local diff = {
 				},
 			},
 			["name"] = "SLAV SI",
+		},
+		["d3302pnilu3302cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Weapon Emergency Release Cover Open/Close",
+		},
+		["d3303pnilu3303cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Weapon Emergency Release Button Depress/Release",
 		},
 		["d3306pnilu3306cd2vd0vpnilvu1"] = {
 			["added"] = {
@@ -66,6 +116,28 @@ local diff = {
 			},
 			["name"] = "RB-04/RB-15/BK Release Mode Valb/Prep",
 		},
+		["d3320pnilu3320cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Fuel Tank Jettison Button Depress/Release",
+		},
+		["d3402pnilu3402cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "External Tank Release Cover Open/Close",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {
@@ -74,6 +146,83 @@ local diff = {
 				},
 			},
 		},
+		["d3511pnilunilcd22vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "TILS rotary layer switch",
+		},
+		["d3712pnilu3712cd22vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "LAlt",
+					},
+				},
+			},
+			["name"] = "Autopilot yaw trim Left",
+		},
+		["d3712pnilu3712cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "LAlt",
+					},
+				},
+			},
+			["name"] = "Autopilot yaw trim Right",
+		},
+		["d3716pnilu3716cd22vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "LAlt",
+					},
+				},
+			},
+			["name"] = "Emergency Roll Trim (NÖDTRIM ROLL) Left(V)/Center",
+		},
+		["d3716pnilu3716cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "LAlt",
+					},
+				},
+			},
+			["name"] = "Emergency Roll Trim (NÖDTRIM ROLL) Right(H)/Center",
+		},
+		["d3717pnilu3717cd22vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "LAlt",
+					},
+				},
+			},
+			["name"] = "Emergency Trim Pitch Up",
+		},
+		["d3717pnilu3717cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "LAlt",
+					},
+				},
+			},
+			["name"] = "Emergency Trim Pitch Down",
+		},
 		["d3718pnilu3718cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -81,6 +230,22 @@ local diff = {
 				},
 			},
 			["name"] = "Oxygen Lever On/Off",
+		},
+		["d3918pnilu3918cd22vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Emergency Yaw Trim (SIDTRIM) Left(V)/Center",
+		},
+		["d3918pnilu3918cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Emergency Yaw Trim (SIDTRIM) Right(H)/Center",
 		},
 		["d3920pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {

@@ -34,50 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3005pnilunilcd31vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "FR22 Frequency wheel 4 Down",
-		},
-		["d3005pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "FR22 Frequency wheel 4 Up",
-		},
-		["d3006pnilunilcd31vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "FR22 Frequency wheel 5 and 6 Down",
-		},
-		["d3006pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "FR22 Frequency wheel 5 and 6 Up",
-		},
 		["d3010pnilunilcd31vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -139,6 +95,82 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3003u3003cd31vdnilvp-0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Left Decrease",
+		},
+		["dnilp3003u3003cd31vdnilvp0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Left Increase",
+		},
+		["dnilp3004u3004cd31vdnilvp-0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Left Decrease",
+		},
+		["dnilp3004u3004cd31vdnilvp0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Left Increase",
+		},
+		["dnilp3005u3005cd31vdnilvp-0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Right Decrease",
+		},
+		["dnilp3005u3005cd31vdnilvp0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Right Increase",
+		},
+		["dnilp3006u3006cd31vdnilvp-0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Right Decrease",
+		},
+		["dnilp3006u3006cd31vdnilvp0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Right Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

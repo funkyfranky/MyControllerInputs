@@ -186,6 +186,14 @@ local diff = {
 			},
 			["name"] = "RWR KB Lights+Sound/Lights",
 		},
+		["d3003pnilu3003cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Ignition System Man/Aut",
+		},
 		["d3003pnilu3004cd28vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -321,14 +329,6 @@ local diff = {
 				},
 			},
 			["name"] = "Landing Gear Lever Up/Down",
-		},
-		["d3924pnilu3924cd18vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Flight Recorder Fran/Till",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

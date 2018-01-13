@@ -34,10 +34,18 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3000pnilu3000cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Missile Select Button (IR-RB FRAMSTEGN) Depress/Release",
+		},
 		["d3002pnilu3002cd26vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "Check indicator lights",
@@ -260,6 +268,14 @@ local diff = {
 			},
 			["name"] = "Countermeasure U22 Jammer Band G",
 		},
+		["d3091pnilu3091cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "FL37 ADI Fast Erect (Snabbresning) Depress/Release",
+		},
 		["d3208pnilunilcd5vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -290,22 +306,6 @@ local diff = {
 			},
 			["name"] = "Pitch gearing Automatic/Landing",
 		},
-		["d3302pnilu3302cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Weapon Emergency Release Cover Open/Close",
-		},
-		["d3303pnilu3303cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Weapon Emergency Release Button Depress/Release",
-		},
 		["d3305pnilunilcd2vd0.6vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -322,26 +322,10 @@ local diff = {
 			},
 			["name"] = "Weapon Interval 01 RAKT",
 		},
-		["d3320pnilu3320cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Fuel Tank Jettison Button Depress/Release",
-		},
-		["d3402pnilu3402cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "External Tank Release Cover Open/Close",
-		},
 		["d3405pnilu3405cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "Ejection Seat Arm/Disarm",
@@ -357,7 +341,7 @@ local diff = {
 		["d3408pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN19",
 				},
 			},
 			["name"] = "Parking brake",
@@ -386,14 +370,6 @@ local diff = {
 			},
 			["name"] = "TILS rotary clockwise",
 		},
-		["d3511pnilunilcd22vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "TILS rotary layer switch",
-		},
 		["d3669pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -413,10 +389,26 @@ local diff = {
 		["d3720pnilu3720cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN21",
 				},
 			},
 			["name"] = "Backup ADI Cage Depress/Release",
+		},
+		["d3722pnilu3722cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Max G Reset Depress/Release",
+		},
+		["d3802pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Clock Stopwatch Start/Stop/Reset",
 		},
 		["d3905pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {
@@ -441,10 +433,125 @@ local diff = {
 			},
 			["name"] = "CB Autopilot SA Out",
 		},
+		["d3906pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "CB High Alpha Warning In",
+		},
+		["d3906pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB High Alpha Warning Out",
+		},
+		["d3907pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "CB Trim System In",
+		},
+		["d3907pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB Trim System Out",
+		},
+		["d3908pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "CB CI/SI In",
+		},
+		["d3908pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB CI/SI Out",
+		},
+		["d3909pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "CB Ejection System In",
+		},
+		["d3909pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB Ejection System Out",
+		},
+		["d3910pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "CB Engine In",
+		},
+		["d3910pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "CB Engine Out",
+		},
 		["d3925pnilu3925cd18vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "Data Cartridge Insert/Remove",
@@ -536,6 +643,14 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
+		},
+		["dnilp3305u3305cd22vdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Roll centrering (Roll trim reset) ",
 		},
 		["dnilp33u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Right slow",

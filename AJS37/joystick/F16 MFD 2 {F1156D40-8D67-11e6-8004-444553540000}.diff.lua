@@ -34,6 +34,30 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d117pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Join Up Formation",
+		},
+		["d119pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Cover Me",
+		},
+		["d1684pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Flight - Engage Bandits",
+		},
 		["d3001pnilunilcd35vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -202,21 +226,21 @@ local diff = {
 			},
 			["name"] = "Magnetic correction right",
 		},
-		["d3924pnilunilcd5vd0vpnilvunil"] = {
+		["d522pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Radar Decrease Brightness",
+			["name"] = "Flight - Attack air defenses",
 		},
-		["d3924pnilunilcd5vd1vpnilvunil"] = {
+		["d523pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Radar Increase Brightness",
+			["name"] = "Flight - Attack ground targets",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -281,6 +305,66 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp3721unilcd22vdnilvp-0.005vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Backup Altimeter Setting Down - Slow",
+		},
+		["dnilp3721unilcd22vdnilvp-0.015vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Backup Altimeter Setting Down - Normal",
+		},
+		["dnilp3721unilcd22vdnilvp-0.045vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Backup Altimeter Setting Down - Fast",
+		},
+		["dnilp3721unilcd22vdnilvp0.005vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Backup Altimeter Setting Up - Slow",
+		},
+		["dnilp3721unilcd22vdnilvp0.015vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Backup Altimeter Setting Up - Normal",
+		},
+		["dnilp3721unilcd22vdnilvp0.045vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Backup Altimeter Setting Up - Fast",
 		},
 	},
 }
