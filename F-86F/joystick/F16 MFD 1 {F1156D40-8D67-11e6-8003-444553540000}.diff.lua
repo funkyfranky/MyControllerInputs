@@ -42,34 +42,90 @@ local diff = {
 				},
 			},
 		},
-		["d3012pnilunilcd22vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Variable Sight Selector Unit - Target Speed Switch - HI",
-		},
-		["d3012pnilunilcd22vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Variable Sight Selector Unit - Target Speed Switch - LO",
-		},
-		["d3012pnilunilcd22vd1vpnilvunil"] = {
+		["d3002pnilu3002cd15vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Variable Sight Selector Unit - Target Speed Switch - TR",
+			["name"] = "Fire Warning System Fwd Indicator Light Test",
+		},
+		["d3003pnilu3003cd15vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Fire Warning System Aft Indicator Light Test",
+		},
+		["d3003pnilu3003cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Stop-Starter Button",
+		},
+		["d3007pnilu3007cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Generator OFF Indicator Light Test",
+		},
+		["d3007pnilu3007cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Alternate ON Indicator Light Test",
+		},
+		["d3008pnilu3008cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Main Instrument Inverter OFF Select All Indicator Light Test",
+		},
+		["d3009pnilu3009cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Both Instrument Inverters OFF Indicator Light Test",
+		},
+		["d3009pnilu3009cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Landing Gear Warning Horn Cutout Button",
+		},
+		["d3010pnilu3010cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Radar Inverter OFF Indicator Light Test",
+		},
+		["d3012pnilu3012cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Take-Off Position Indicator Light Test",
 		},
 		["d3043pnilunilcd5vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Manual Pip Control Change Calibrated Dials (Presets) - Down",
@@ -77,7 +133,7 @@ local diff = {
 		["d3043pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Manual Pip Control Change Calibrated Dials (Presets) - Up",
@@ -149,7 +205,7 @@ local diff = {
 		["dnilp3002unilcd7vdnilvp-0.2vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "Barometric Pressure QFE Knob - CCW/Decrease",
@@ -157,7 +213,7 @@ local diff = {
 		["dnilp3002unilcd7vdnilvp0.2vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN21",
 				},
 			},
 			["name"] = "Barometric Pressure QFE Knob - CW/Increase",

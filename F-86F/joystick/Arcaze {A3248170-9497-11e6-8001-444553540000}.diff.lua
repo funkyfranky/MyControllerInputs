@@ -92,14 +92,6 @@ local diff = {
 			},
 			["name"] = "Instrument Power Switch Alternate/Normal",
 		},
-		["d3002pnilu3002cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Gear Emergency Up Button",
-		},
 		["d3003pnilu3003cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -244,6 +236,14 @@ local diff = {
 				},
 			},
 		},
+		["d757pnilu758cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Clock Elapsed Time Mechanism Button - START/STOP/RESET",
+		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Trigger - SECOND DETENT(Gun Fire)",
 			["removed"] = {
@@ -251,14 +251,6 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["d855pnilu855cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Wheel Parking Brake Handle",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

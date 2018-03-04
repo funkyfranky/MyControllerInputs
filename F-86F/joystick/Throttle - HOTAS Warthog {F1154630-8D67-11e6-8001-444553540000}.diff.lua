@@ -66,6 +66,14 @@ local diff = {
 			},
 			["name"] = "Kneeboard Next Page",
 		},
+		["d3002pnilu3002cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Gear Emergency Up Button",
+		},
 		["d3002pnilunilcd32vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -215,7 +223,7 @@ local diff = {
 			},
 			["name"] = "Demolition Bomb Sequence Selector Switch - CW",
 		},
-		["d430pnilu430cdnilvdnilvpnilvunil"] = {
+		["d430pnilu431cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",
@@ -236,13 +244,13 @@ local diff = {
 				},
 			},
 		},
-		["d757pnilu758cdnilvdnilvpnilvunil"] = {
+		["d855pnilu855cdnilvd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "Clock Elapsed Time Mechanism Button - START/STOP/RESET",
+			["name"] = "Wheel Parking Brake Handle",
 		},
 	},
 }

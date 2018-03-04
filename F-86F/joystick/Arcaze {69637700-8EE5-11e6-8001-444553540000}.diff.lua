@@ -24,6 +24,28 @@ local diff = {
 			},
 			["name"] = "AN/ARC-27 UHF Preset Channel Selector - CW/Increase",
 		},
+		["d3006pnilunilcd29vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "AN/APX-6 IFF Master Switch - CCW",
+		},
+		["d3006pnilunilcd29vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "AN/APX-6 IFF Master Switch - CW",
+		},
 		["d3007pnilunilcd26vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -39,6 +61,28 @@ local diff = {
 				},
 			},
 			["name"] = "AN/ARC-27 UHF Power Switch - CW",
+		},
+		["d3007pnilunilcd29vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "AN/APX-6 IFF Mode 2 Switch - Down",
+		},
+		["d3007pnilunilcd29vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "AN/APX-6 IFF Mode 2 Switch - Up",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",

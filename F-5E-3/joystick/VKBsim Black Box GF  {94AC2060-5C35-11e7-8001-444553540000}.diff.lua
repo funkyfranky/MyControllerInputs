@@ -277,7 +277,7 @@ local diff = {
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "Elevator Trimmer Switch - PUSH(DESCEND)",
@@ -285,7 +285,7 @@ local diff = {
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 			["name"] = "Elevator Trimmer Switch - PULL(CLIMB)",

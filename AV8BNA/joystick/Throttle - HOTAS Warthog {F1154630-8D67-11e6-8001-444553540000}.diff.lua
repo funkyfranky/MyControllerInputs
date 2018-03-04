@@ -24,6 +24,14 @@ local diff = {
 				},
 			},
 		},
+		["a2006cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "Nozzle STO Stop",
+		},
 		["a2087cdnil"] = {
 			["added"] = {
 				[1] = {
@@ -31,34 +39,6 @@ local diff = {
 				},
 			},
 			["name"] = "Nozzle Angle",
-		},
-		["a3488cd13"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "FF STO Stop Lever",
 		},
 	},
 	["keyDiffs"] = {
