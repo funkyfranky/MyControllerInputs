@@ -226,6 +226,28 @@ local diff = {
 			},
 			["name"] = "FR22 Radio Flight 9",
 		},
+		["d3409pnilunilcd22vd-0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "HUD Brightness Decrease",
+		},
+		["d3409pnilunilcd22vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "HUD Brightness Increase",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {

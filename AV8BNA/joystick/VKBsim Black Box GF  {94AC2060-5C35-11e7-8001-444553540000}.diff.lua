@@ -253,7 +253,7 @@ local diff = {
 		["dnilp93u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
+					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
 			["name"] = "Trim Bank LEFT",
@@ -261,7 +261,7 @@ local diff = {
 		["dnilp94u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
 			["name"] = "Trim Bank RIGHT",
