@@ -126,6 +126,86 @@ local diff = {
 			},
 			["name"] = "Take off trim",
 		},
+		["d1201pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "UHF 100Mhz selector switch 1",
+		},
+		["d1202pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "UHF 100Mhz selector switch 2",
+		},
+		["d1205pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "UHF 10Mhz selector increase",
+		},
+		["d1206pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "UHF 10Mhz selector decrease",
+		},
+		["d1207pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "UHF 1Mhz selector increase",
+		},
+		["d1208pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "UHF 1Mhz selector decrease",
+		},
+		["d1209pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "UHF 0.1Mhz selector increase",
+		},
+		["d1210pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "UHF 0.1Mhz selector decrease",
+		},
+		["d1211pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "UHF 0.025Mhz selector increase",
+		},
+		["d1212pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "UHF 0.025Mhz selector decrease",
+		},
 		["d1218pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -278,6 +358,28 @@ local diff = {
 			},
 			["name"] = "Seat Arm Handle",
 		},
+		["d3017pnilunilcd56vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "VHF FM Preset Channel Decrease",
+		},
+		["d3017pnilunilcd56vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "VHF FM Preset Channel Increase",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",
 			["removed"] = {
@@ -338,6 +440,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN23",
+					["reformers"] = {
+						[1] = "RShift",
+					},
 				},
 			},
 			["name"] = "VHF FM 10Mhz Selector Decrease",
@@ -346,6 +451,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
+					["reformers"] = {
+						[1] = "RShift",
+					},
 				},
 			},
 			["name"] = "VHF FM 10Mhz Selector Increase",
@@ -354,6 +462,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
+					["reformers"] = {
+						[1] = "RShift",
+					},
 				},
 			},
 			["name"] = "VHF FM 1Mhz Selector Decrease",
@@ -362,6 +473,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "RShift",
+					},
 				},
 			},
 			["name"] = "VHF FM 1Mhz Selector Increase",
@@ -369,7 +483,7 @@ local diff = {
 		["dnilp1477unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN27",
 					["reformers"] = {
 						[1] = "RShift",
 					},
@@ -380,7 +494,7 @@ local diff = {
 		["dnilp1478unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN28",
 					["reformers"] = {
 						[1] = "RShift",
 					},
@@ -391,7 +505,7 @@ local diff = {
 		["dnilp1479unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN29",
 					["reformers"] = {
 						[1] = "RShift",
 					},
@@ -402,13 +516,77 @@ local diff = {
 		["dnilp1480unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN30",
 					["reformers"] = {
 						[1] = "RShift",
 					},
 				},
 			},
 			["name"] = "VHF FM 0.025Mhz Selector Increase",
+		},
+		["dnilp210u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UR",
+				},
+			},
+		},
+		["dnilp211u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DR",
+				},
+			},
+		},
+		["dnilp212u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DL",
+				},
+			},
+		},
+		["dnilp213u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UL",
+				},
+			},
+		},
+		["dnilp32u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+		},
+		["dnilp33u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+		},
+		["dnilp34u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+		},
+		["dnilp35u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
 		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
 			["name"] = "View Center",
@@ -417,38 +595,6 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-		},
-		["dnilp764unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "HSI Course rotate left",
-		},
-		["dnilp765unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "HSI Course rotate right",
-		},
-		["dnilp766unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "HSI Heading rotate left",
-		},
-		["dnilp767unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "HSI Heading rotate right",
 		},
 		["dnilp88u235cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -481,22 +627,6 @@ local diff = {
 				},
 			},
 			["name"] = "HOTAS Slew Down",
-		},
-		["dnilp934unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "SAI Pitch Trim Left",
-		},
-		["dnilp935unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "SAI Pitch Trim Right",
 		},
 	},
 }

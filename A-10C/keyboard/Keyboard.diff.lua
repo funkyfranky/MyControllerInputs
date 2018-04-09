@@ -1,5 +1,21 @@
 local diff = {
 	["keyDiffs"] = {
+		["d1032pnilu1034cdnilvdnilvpnilvunil"] = {
+			["name"] = "Throttle Both Up",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num+",
+				},
+			},
+		},
+		["d1033pnilu1034cdnilvdnilvpnilvunil"] = {
+			["name"] = "Throttle Both Down",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num-",
+				},
+			},
+		},
 		["d1050pnilu1050cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -159,6 +175,249 @@ local diff = {
 				},
 			},
 		},
+		["d1295pnilu1295cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num7",
+				},
+			},
+			["name"] = "UFC 1 Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num1",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1296pnilu1296cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num8",
+				},
+			},
+			["name"] = "UFC 2 Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num2",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1297pnilu1297cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num9",
+				},
+			},
+			["name"] = "UFC 3 Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num3",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1298pnilu1298cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num4",
+				},
+			},
+			["name"] = "UFC 4 Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num4",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1299pnilu1299cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num5",
+				},
+			},
+			["name"] = "UFC 5 Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num5",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1300pnilu1300cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num6",
+				},
+			},
+			["name"] = "UFC 6 Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num6",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1301pnilu1301cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num1",
+				},
+			},
+			["name"] = "UFC 7 Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num7",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1302pnilu1302cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num2",
+				},
+			},
+			["name"] = "UFC 8 Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num8",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1303pnilu1303cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num3",
+				},
+			},
+			["name"] = "UFC 9 Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num9",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1304pnilu1304cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num0",
+				},
+			},
+			["name"] = "UFC 0 Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num0",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1305pnilu1305cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Space",
+				},
+			},
+			["name"] = "UFC SPC Key",
+		},
+		["d1306pnilu1306cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num/",
+				},
+			},
+			["name"] = "UFC HACK Key",
+		},
+		["d1307pnilu1307cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num+",
+				},
+			},
+			["name"] = "UFC FUNC Key",
+		},
+		["d1308pnilu1308cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num*",
+				},
+			},
+			["name"] = "UFC LTR Key",
+		},
+		["d1309pnilu1309cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Back",
+				},
+			},
+			["name"] = "UFC CLR Key",
+		},
+		["d1310pnilu1310cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "NumEnter",
+				},
+			},
+			["name"] = "UFC ENT Key",
+			["removed"] = {
+				[1] = {
+					["key"] = "NumEnter",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "LShift",
+					},
+				},
+			},
+		},
+		["d1311pnilu1311cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num-",
+				},
+			},
+			["name"] = "UFC MK Key",
+		},
+		["d1312pnilu1312cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num.",
+				},
+			},
+			["name"] = "UFC ALT Key",
+		},
 		["d1314pnilu1314cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -264,6 +523,54 @@ local diff = {
 			},
 			["name"] = "TGP switch ON/OFF",
 		},
+		["d1399pnilu1399cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Insert",
+				},
+			},
+			["name"] = "NMSP HARS button",
+		},
+		["d1400pnilu1400cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Home",
+				},
+			},
+			["name"] = "NMSP EGI button",
+		},
+		["d1402pnilu1402cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Delete",
+				},
+			},
+			["name"] = "NMSP STR PT button",
+		},
+		["d1403pnilu1403cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "End",
+				},
+			},
+			["name"] = "NMSP ANCHR button",
+		},
+		["d1404pnilu1404cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "PageDown",
+				},
+			},
+			["name"] = "NMSP TCN button",
+		},
+		["d1405pnilu1405cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "PageUp",
+				},
+			},
+			["name"] = "NMSP ILS button",
+		},
 		["d150pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -362,6 +669,22 @@ local diff = {
 				},
 			},
 		},
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Left",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Zoom normal",
+			["removed"] = {
+				[1] = {
+					["key"] = "NumEnter",
+				},
+			},
+		},
 		["d17pnilu18cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -372,6 +695,11 @@ local diff = {
 				},
 			},
 			["name"] = "Cockpit panel view in",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num0",
+				},
+			},
 		},
 		["d193pnilu194cdnilvdnilvpnilvunil"] = {
 			["name"] = "Aircraft Pitch Down",
@@ -405,6 +733,14 @@ local diff = {
 				},
 			},
 		},
+		["d19pnilunilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Lock view (cycle padlock)",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num.",
+				},
+			},
+		},
 		["d3004pnilu3004cd39vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -435,6 +771,54 @@ local diff = {
 				},
 			},
 			["name"] = "Score window",
+		},
+		["d549pnilu553cdnilvdnilvpnilvunil"] = {
+			["name"] = "HOTAS DMS Forward",
+			["removed"] = {
+				[1] = {
+					["key"] = "Home",
+				},
+			},
+		},
+		["d550pnilu553cdnilvdnilvpnilvunil"] = {
+			["name"] = "HOTAS DMS Aft",
+			["removed"] = {
+				[1] = {
+					["key"] = "End",
+				},
+			},
+		},
+		["d551pnilu553cdnilvdnilvpnilvunil"] = {
+			["name"] = "HOTAS DMS Left",
+			["removed"] = {
+				[1] = {
+					["key"] = "Delete",
+				},
+			},
+		},
+		["d552pnilu553cdnilvdnilvpnilvunil"] = {
+			["name"] = "HOTAS DMS Right",
+			["removed"] = {
+				[1] = {
+					["key"] = "PageDown",
+				},
+			},
+		},
+		["d554pnilu638cdnilvdnilvpnilvunil"] = {
+			["name"] = "Gun Trigger",
+			["removed"] = {
+				[1] = {
+					["key"] = "Space",
+				},
+			},
+		},
+		["d562pnilu606cdnilvdnilvpnilvunil"] = {
+			["name"] = "HOTAS Nosewheel Steering Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "Insert",
+				},
+			},
 		},
 		["d642pnilu982cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -1080,37 +1464,129 @@ local diff = {
 			},
 			["name"] = "AC generator power right",
 		},
-		["dnilp88u235cdnilvdnilvpnilvunil"] = {
+		["dnilp210u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num9",
+				},
+			},
+		},
+		["dnilp211u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num3",
+				},
+			},
+		},
+		["dnilp212u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num1",
+				},
+			},
+		},
+		["dnilp213u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num7",
+				},
+			},
+		},
+		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "Left",
 				},
 			},
-			["name"] = "HOTAS Slew Left",
+			["name"] = "View Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num4",
+				},
+			},
 		},
-		["dnilp89u235cdnilvdnilvpnilvunil"] = {
+		["dnilp33u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "Right",
 				},
 			},
-			["name"] = "HOTAS Slew Right",
+			["name"] = "View Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num6",
+				},
+			},
 		},
-		["dnilp90u235cdnilvdnilvpnilvunil"] = {
+		["dnilp34u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "Up",
 				},
 			},
-			["name"] = "HOTAS Slew Up",
+			["name"] = "View Up slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num8",
+				},
+			},
 		},
-		["dnilp91u235cdnilvdnilvpnilvunil"] = {
+		["dnilp35u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "Down",
 				},
 			},
-			["name"] = "HOTAS Slew Down",
+			["name"] = "View Down slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num2",
+				},
+			},
+		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "View Center",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num5",
+				},
+			},
+		},
+		["dnilp39u289cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Up",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Zoom in slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num*",
+				},
+			},
+		},
+		["dnilp40u290cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Down",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Zoom out slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "Num/",
+				},
+			},
 		},
 	},
 }

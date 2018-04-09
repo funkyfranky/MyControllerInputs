@@ -345,6 +345,14 @@ local diff = {
 			},
 		},
 		["dnilp39u289cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num*",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Zoom in slow",
 			["removed"] = {
 				[1] = {
@@ -353,6 +361,14 @@ local diff = {
 			},
 		},
 		["dnilp40u290cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num/",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Zoom out slow",
 			["removed"] = {
 				[1] = {

@@ -309,6 +309,52 @@ local diff = {
 			},
 			["name"] = "RPS/YAW Trim Switch OFF",
 		},
+		["d3508pnilunilcd9vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "RAlt",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "Fuel Dump L Switch OFF",
+		},
+		["d3508pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "Fuel Dump L Switch ON",
+		},
+		["d3509pnilunilcd9vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "RAlt",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "Fuel Dump R Switch OFF",
+		},
+		["d3509pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "Fuel Dump R Switch ON",
+		},
 		["d3514pnilunilcd35vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -331,6 +377,29 @@ local diff = {
 				},
 			},
 			["name"] = "Oxygen Switch ON",
+		},
+		["d3515pnilunilcd9vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+					["reformers"] = {
+						[1] = "RAlt",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "H2O Dump Switch OFF",
+		},
+		["d3515pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+					["reformers"] = {
+						[1] = "RAlt",
+					},
+				},
+			},
+			["name"] = "H2O Dump Switch ON",
 		},
 		["d3516pnilunilcd13vd0vpnilvunil"] = {
 			["added"] = {
