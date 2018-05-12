@@ -20,6 +20,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Communication menu",
+		},
 		["d3006pnilu3006cd50vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

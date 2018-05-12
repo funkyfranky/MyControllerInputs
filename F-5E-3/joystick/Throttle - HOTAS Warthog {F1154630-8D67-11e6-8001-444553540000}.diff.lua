@@ -37,6 +37,11 @@ local diff = {
 			["name"] = "Kneeboard ON/OFF",
 		},
 		["d3001pnilu3001cd24vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
 			["name"] = "UHF Radio Microphone Button",
 			["removed"] = {
 				[1] = {

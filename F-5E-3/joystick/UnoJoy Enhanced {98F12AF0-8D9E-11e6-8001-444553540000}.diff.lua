@@ -102,14 +102,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd24vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "UHF Radio Microphone Button",
-		},
 		["d3003pnilu3003cd10vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

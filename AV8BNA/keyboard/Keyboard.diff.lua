@@ -112,14 +112,6 @@ local diff = {
 			},
 			["name"] = "UFC Weapons Function Button",
 		},
-		["d1309pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Back",
-				},
-			},
-			["name"] = "UFC Clear Button",
-		},
 		["d1310pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

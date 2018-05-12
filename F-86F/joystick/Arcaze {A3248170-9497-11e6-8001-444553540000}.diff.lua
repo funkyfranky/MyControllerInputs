@@ -204,14 +204,6 @@ local diff = {
 			},
 			["name"] = "Rocket Release Selector Switch Cover - OPEN/CLOSE",
 		},
-		["d3052pnilu3052cd1vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Battery-Starter Switch - STARTER",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {

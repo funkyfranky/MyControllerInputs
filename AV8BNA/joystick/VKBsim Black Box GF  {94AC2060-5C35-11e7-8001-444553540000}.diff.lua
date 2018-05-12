@@ -120,7 +120,7 @@ local diff = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Sensor Select RIGHT: FLIR/HUD-BH/WH",
+			["name"] = "Sensor Select RIGHT: FLIR BH/WH",
 		},
 		["d562pnilu606cdnilvdnilvpnilvunil"] = {
 			["added"] = {

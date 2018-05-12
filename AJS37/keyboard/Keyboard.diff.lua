@@ -24,14 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["d195pnilu196cdnilvdnilvpnilvunil"] = {
-			["name"] = "Aircraft Pitch Up",
-			["removed"] = {
-				[1] = {
-					["key"] = "Down",
-				},
-			},
-		},
 		["d197pnilu198cdnilvdnilvpnilvunil"] = {
 			["name"] = "Aircraft Bank Left",
 			["removed"] = {
@@ -79,14 +71,6 @@ local diff = {
 					["key"] = "NumLock",
 				},
 			},
-		},
-		["d246pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Down",
-				},
-			},
-			["name"] = "Time normal",
 		},
 		["d3001pnilu3001cd23vd1vpnilvu0"] = {
 			["added"] = {

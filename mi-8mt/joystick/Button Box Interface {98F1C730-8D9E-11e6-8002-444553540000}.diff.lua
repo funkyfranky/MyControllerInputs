@@ -51,7 +51,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Engine Left Stop Lever Off",
+			["name"] = "Engine Right Stop Lever Off",
 		},
 		["d3022pnilu3022cd1vd1vpnilvu0"] = {
 			["added"] = {

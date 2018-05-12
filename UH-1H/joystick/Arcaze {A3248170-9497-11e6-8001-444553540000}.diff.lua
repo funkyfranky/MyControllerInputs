@@ -66,6 +66,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1650pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "External Cargo Indicator",
+		},
 		["d3002pnilu3002cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

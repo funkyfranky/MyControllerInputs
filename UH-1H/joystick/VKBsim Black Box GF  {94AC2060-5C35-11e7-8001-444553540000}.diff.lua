@@ -82,6 +82,14 @@ local diff = {
 			},
 			["name"] = "External Cargo Hook",
 		},
+		["d3001pnilu3001cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "External Cargo Pilot Unhook",
+		},
 		["d3004pnilu3004cd41vd1vpnilvu0"] = {
 			["name"] = "Pilot Trimmer",
 			["removed"] = {
@@ -89,6 +97,14 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
+		},
+		["d3004pnilunilcd52vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "External Cargo Safety",
 		},
 		["d3009pnilu3009cd21vd1vpnilvu0"] = {
 			["name"] = "Pilot's radio trigger RADIO",
