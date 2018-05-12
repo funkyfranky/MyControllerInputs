@@ -112,6 +112,46 @@ local diff = {
 			},
 			["name"] = "RWR Power/Volume Button OFF",
 		},
+		["d3274pnilunilcd30vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Decoy Dispenser Control UP",
+		},
+		["d3274pnilunilcd30vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Decoy Dispenser Control OFF",
+		},
+		["d3275pnilunilcd30vd0.25vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "Jammer Control STBY",
+		},
+		["d3275pnilunilcd30vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Jammer Control OFF",
+		},
+		["d3286pnilu3286cd30vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Flare Salvo Button PUSH/RELEASE",
+		},
 		["d3287pnilu3287cd29vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -119,6 +159,116 @@ local diff = {
 				},
 			},
 			["name"] = "Master Arm Switch ON/OFF",
+		},
+		["d3398pnilu3398cd29vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Quantity Selector (Tens) DOWN/CENTER",
+		},
+		["d3398pnilu3398cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Quantity Selector (Tens) UP/CENTER",
+		},
+		["d3399pnilu3399cd29vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Quantity Selector (Units) DOWN/CENTER",
+		},
+		["d3399pnilu3399cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Quantity Selector (Units) UP/CENTER",
+		},
+		["d3401pnilu3401cd29vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Release Interval Control (Hundreds) DOWN/CENTER",
+		},
+		["d3401pnilu3401cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Release Interval Control (Hundreds) UP/CENTER",
+		},
+		["d3402pnilu3402cd29vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Release Interval Control (Tens) DOWN/CENTER",
+		},
+		["d3402pnilu3402cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Release Interval Control (Tens) UP/CENTER",
+		},
+		["d3403pnilu3403cd29vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Release Interval Control (Units) DOWN/CENTER",
+		},
+		["d3403pnilu3403cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Release Interval Control (Units) UP/CENTER",
 		},
 		["d3421pnilunilcd12vd0.3vpnilvunil"] = {
 			["added"] = {
@@ -135,6 +285,29 @@ local diff = {
 				},
 			},
 			["name"] = "INS Mode OFF",
+		},
+		["d3471pnilunilcd28vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "RPS/YAW Trim Switch ON",
+		},
+		["d3471pnilunilcd28vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+					["reformers"] = {
+						[1] = "RShift",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "RPS/YAW Trim Switch OFF",
 		},
 		["d3508pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
@@ -181,6 +354,29 @@ local diff = {
 				},
 			},
 			["name"] = "Fuel Dump R Switch ON",
+		},
+		["d3514pnilunilcd36vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "Oxygen Switch OFF",
+		},
+		["d3514pnilunilcd36vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "Oxygen Switch ON",
 		},
 		["d3515pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
@@ -292,6 +488,14 @@ local diff = {
 				},
 			},
 			["name"] = "Fuel Shutoff Lever DOWN",
+		},
+		["d3634pnilu3634cd34vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Test Lights ON/OFF",
 		},
 		["d3800pnilunilcd11vd0vpnilvunil"] = {
 			["added"] = {

@@ -88,6 +88,118 @@ local diff = {
 			},
 			["name"] = "FF Comm 2 Volume Control",
 		},
+		["a3635cd34"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.5,
+							[2] = 0.55,
+							[3] = 0.6,
+							[4] = 0.65,
+							[5] = 0.7,
+							[6] = 0.75,
+							[7] = 0.8,
+							[8] = 0.85,
+							[9] = 0.9,
+							[10] = 0.95,
+							[11] = 1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "FF Instruments Lights",
+		},
+		["a3636cd34"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.5,
+							[2] = 0.55,
+							[3] = 0.6,
+							[4] = 0.65,
+							[5] = 0.7,
+							[6] = 0.75,
+							[7] = 0.8,
+							[8] = 0.85,
+							[9] = 0.9,
+							[10] = 0.95,
+							[11] = 1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "FF Console Lights",
+		},
+		["a3637cd34"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.5,
+							[2] = 0.55,
+							[3] = 0.6,
+							[4] = 0.65,
+							[5] = 0.7,
+							[6] = 0.75,
+							[7] = 0.8,
+							[8] = 0.85,
+							[9] = 0.9,
+							[10] = 0.95,
+							[11] = 1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "FF Flood Lights",
+		},
+		["a3638cd34"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.5,
+							[2] = 0.55,
+							[3] = 0.6,
+							[4] = 0.65,
+							[5] = 0.7,
+							[6] = 0.75,
+							[7] = 0.8,
+							[8] = 0.85,
+							[9] = 0.9,
+							[10] = 0.95,
+							[11] = 1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "FF Annunciator Lights",
+		},
 	},
 	["keyDiffs"] = {
 		["d3288pnilunilcd22vd0.5vpnilvunil"] = {
@@ -138,6 +250,72 @@ local diff = {
 			},
 			["name"] = "HUD Altitude Selector RDR",
 		},
+		["d3396pnilu3396cd29vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Armament Mode Control DOWN/CENTER",
+		},
+		["d3396pnilu3396cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Armament Mode Control UP/CENTER",
+		},
+		["d3397pnilu3397cd29vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Fuzing Control DOWN/CENTER",
+		},
+		["d3397pnilu3397cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Fuzing Control UP/CENTER",
+		},
+		["d3400pnilu3400cd29vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Multiple Release Control DOWN/CENTER",
+		},
+		["d3400pnilu3400cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Multiple Release Control UP/CENTER",
+		},
 		["d3424pnilu3424cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -153,6 +331,47 @@ local diff = {
 				},
 			},
 			["name"] = "FLIR Power Switch ON/OFF",
+		},
+		["d3489pnilu3489cd28vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Parking Brake ON/OFF",
+		},
+		["d3634pnilu3634cd34vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Test Lights ON/OFF",
+		},
+		["d3634pnilunilcd34vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Compass Light ON",
+		},
+		["d3634pnilunilcd34vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Compass/Test Lights OFF",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

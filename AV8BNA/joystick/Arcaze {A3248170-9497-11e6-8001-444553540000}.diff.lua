@@ -116,8 +116,47 @@ local diff = {
 			},
 			["name"] = "FF HUD Video Contrast Control",
 		},
+		["a3510cd33"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.5,
+							[2] = 0.55,
+							[3] = 0.6,
+							[4] = 0.65,
+							[5] = 0.7,
+							[6] = 0.75,
+							[7] = 0.8,
+							[8] = 0.85,
+							[9] = 0.9,
+							[10] = 0.95,
+							[11] = 1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "FF Formation Lights Knob",
+		},
 	},
 	["keyDiffs"] = {
+		["d3405pnilu3405cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Jettison Stores Button PUSH/RELEASE",
+		},
 		["d3457pnilu3457cd13vd0.5vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -125,6 +164,62 @@ local diff = {
 				},
 			},
 			["name"] = "Flaps Power ON/OFF",
+		},
+		["d3459pnilu3459cd28vd0.5vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Anti-Skid Switch ON/NWS",
+		},
+		["d3503pnilu3503cd33vd0vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "External Lights OFF/NVG",
+		},
+		["d3503pnilu3503cd33vd1vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "External Lights NVG/NORM",
+		},
+		["d3511pnilu3511cd33vd0vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Position Lights OFF/DIM",
+		},
+		["d3511pnilu3511cd33vd1vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Position Lights BRT/DIM",
+		},
+		["d3512pnilu3512cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Anti-Collision Lights ON/OFF",
+		},
+		["d3513pnilu3513cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "External Auxiliary Lights Switch ON/OFF",
 		},
 		["d3610pnilu3610cd1vd0vpnilvu0.5"] = {
 			["added"] = {

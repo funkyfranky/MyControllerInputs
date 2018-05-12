@@ -130,6 +130,46 @@ local diff = {
 			},
 			["name"] = "Flaps Mode CRUISE/AUTO",
 		},
+		["d3461pnilu3461cd28vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Landing Gear Lever UP/DOWN",
+		},
+		["d3472pnilu3472cd33vd0vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Landing/Taxi Lights OFF/HVR",
+		},
+		["d3472pnilu3472cd33vd1vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Landing/Taxi Lights HVR/APRCH",
+		},
+		["d3476pnilu3476cd28vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Alt Hold Switch ON/OFF",
+		},
+		["d3477pnilu3477cd28vd1vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "AFC Switch ON/OFF",
+		},
 		["d3490pnilu3490cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

@@ -56,6 +56,28 @@ local diff = {
 			},
 			["name"] = "Selective Jettison Selector Right",
 		},
+		["d3395pnilunilcd29vd0.33vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Manual Release Control N/T",
+		},
+		["d3395pnilunilcd29vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Manual Release Control NORM",
+		},
 		["d3616pnilunilcd7vd0.4vpnilvunil"] = {
 			["added"] = {
 				[1] = {
