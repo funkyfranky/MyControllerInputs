@@ -32,8 +32,40 @@ local diff = {
 				},
 			},
 		},
+		["a2005cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "Thrust Left",
+		},
+		["a2006cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "Thrust Right",
+		},
 	},
 	["keyDiffs"] = {
+		["d313pnilu311cdnilvd1vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "Throttle (Left) - OFF/IDLE",
+		},
+		["d314pnilu312cdnilvd1vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Throttle (Right) - OFF/IDLE",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
