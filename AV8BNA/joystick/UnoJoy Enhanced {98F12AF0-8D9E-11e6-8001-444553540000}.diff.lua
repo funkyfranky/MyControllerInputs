@@ -202,38 +202,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3288pnilunilcd22vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "HUD Symbology Reject Switch REJ 1",
-		},
-		["d3288pnilunilcd22vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "HUD Symbology Reject Switch NORM",
-		},
-		["d3290pnilunilcd22vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "HUD Mode Selector DAY",
-		},
-		["d3290pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "HUD Mode Selector NIGHT",
-		},
 		["d3293pnilunilcd22vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -372,6 +340,38 @@ local diff = {
 				},
 			},
 			["name"] = "Compass/Test Lights OFF",
+		},
+		["d496pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "HUD Reject Mode Down (NORM - REJ1 - REJ2)",
+		},
+		["d497pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "HUD Reject Mode Up (REJ2 - REJ1 - NORM)",
+		},
+		["d498pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "HUD Display Mode Down DAY - AUTO - NIGHT",
+		},
+		["d500pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "HUD Display Mode Up NIGHT - AUTO - DAY",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

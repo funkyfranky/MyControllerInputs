@@ -34,14 +34,6 @@ local diff = {
 			},
 			["name"] = "Kneeboard ON/OFF",
 		},
-		["d179pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Communication menu",
-		},
 		["d3001pnilu3001cd3vd1vpnilvu-1"] = {
 			["added"] = {
 				[1] = {
@@ -85,7 +77,7 @@ local diff = {
 		["d3004pnilu3004cd26vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "Microphone Button",
@@ -234,7 +226,7 @@ local diff = {
 		["d439pnilu440cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "A-4 Sight Electrical Caging Button (On Throttle)",
