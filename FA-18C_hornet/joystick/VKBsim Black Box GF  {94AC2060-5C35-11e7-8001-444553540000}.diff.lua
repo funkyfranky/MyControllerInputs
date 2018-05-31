@@ -90,6 +90,86 @@ local diff = {
 			},
 			["name"] = "Weapon Release Button",
 		},
+		["d3005pnilu3005cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Sensor Control Switch - Fwd",
+		},
+		["d3006pnilu3006cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Sensor Control Switch - Aft",
+		},
+		["d3007pnilu3007cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Sensor Control Switch - Left",
+		},
+		["d3008pnilu3008cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Sensor Control Switch - Right",
+		},
+		["d3009pnilu3009cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Select Sparrow",
+		},
+		["d3010pnilu3010cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Select Gun",
+		},
+		["d3011pnilu3011cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Select AMRAAM",
+		},
+		["d3012pnilu3012cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Select Sidewinder",
+		},
+		["d3013pnilu3013cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Undesignate/Nose Wheel Steer Switch",
+		},
+		["d3018pnilu3018cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Autopilot/Nosewheel Steering Disengage (Paddle) Switch",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {

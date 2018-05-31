@@ -50,6 +50,30 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3008pnilu3008cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "MASTER CAUTION Reset Button",
+		},
+		["d3035pnilu3035cd38vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Speed Brake Switch - EXTEND",
+		},
+		["d3035pnilu3035cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Speed Brake Switch - RETRACT/OFF",
+		},
 		["d313pnilu311cdnilvd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
