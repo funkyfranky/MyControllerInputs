@@ -32,6 +32,58 @@ local diff = {
 				},
 			},
 		},
+		["a3006cd8"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "POSITION Lights Dimmer Control",
+		},
+		["a3008cd8"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "FORMATION Lights Dimmer Control",
+		},
+		["a3012cd34"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "HUD Symbology Brightness Control Knob",
+		},
+		["a3042cd37"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "AMPCD Off/Brightness Control Knob",
+		},
 	},
 	["keyDiffs"] = {
 		["d3001pnilu3001cd23vd1vpnilvu0"] = {
@@ -49,6 +101,22 @@ local diff = {
 				},
 			},
 			["name"] = "Master Mode Button - A/G",
+		},
+		["d3004pnilu3004cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Anti Skid Switch ON/OFF",
+		},
+		["d3004pnilu3004cd8vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "LDG/TAXI LIGHT Switch ON/OFF",
 		},
 		["d3008pnilu3008cd12vd1vpnilvu0"] = {
 			["added"] = {
@@ -71,19 +139,11 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 					["reformers"] = {
-						[1] = "RCtrl",
+						[1] = "RShift",
 					},
 				},
 			},
 			["name"] = "UFC COMM 2 Channel Selector Knob - PULL",
-		},
-		["d3010pnilunilcd8vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "LDG/TAXI LIGHT Switch - ON/OFF",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

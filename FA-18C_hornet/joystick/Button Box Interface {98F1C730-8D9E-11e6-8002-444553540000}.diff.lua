@@ -34,21 +34,73 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1533pnilunilcd7vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Ejection Seat SAFE/ARMED Handle - SAFE/ARMED",
+		},
 		["d3001pnilu3001cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
 				},
 			},
 			["name"] = "APU Control Switch - ON/OFF",
 		},
-		["d3002pnilu3002cd6vd1vpnilvu0"] = {
+		["d3001pnilu3001cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Probe Control Switch - EXTEND/RETRACT",
+			["name"] = "UFC Function Selector Pushbutton - A/P",
+		},
+		["d3001pnilu3001cd54vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "ALR-67 POWER Pushbutton",
+		},
+		["d3002pnilu3002cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "UFC Function Selector Pushbutton - IFF",
+		},
+		["d3002pnilu3002cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "T/O TRIM Button",
+		},
+		["d3002pnilu3002cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Dispense Button",
 		},
 		["d3002pnilunilcd45vd-1vpnilvunil"] = {
 			["added"] = {
@@ -66,13 +118,51 @@ local diff = {
 			},
 			["name"] = "INS Switch - CW",
 		},
+		["d3003pnilu3003cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Master Arm Switch ARM/OFF",
+		},
+		["d3003pnilu3003cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "UFC Function Selector Pushbutton - TCN",
+		},
+		["d3003pnilu3003cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "FCS RESET Button",
+		},
 		["d3003pnilu3003cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "Fuel Dump Switch - ON/OFF",
+		},
+		["d3003pnilunilcd10vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "OBOGS Control Switch - ON/OFF",
 		},
 		["d3003pnilunilcd43vd-1vpnilvunil"] = {
 			["added"] = {
@@ -89,6 +179,82 @@ local diff = {
 				},
 			},
 			["name"] = "RADAR Switch - CW",
+		},
+		["d3004pnilu3004cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "UFC Function Selector Pushbutton - ILS",
+		},
+		["d3005pnilu3005cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "UFC Function Selector Pushbutton - D/L",
+		},
+		["d3005pnilu3005cd5vd-1vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Emergency/Parking Brake Handle PULL/STOW",
+		},
+		["d3006pnilu3006cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Emergency/Parking Brake Handle - CCW",
+		},
+		["d3007pnilu3007cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Lights Test Switch - TEST/OFF",
+		},
+		["d3007pnilunilcd5vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Emergency/Parking Brake Handle - CW",
+		},
+		["d3008pnilu3008cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Launch Bar Control Switch - EXTEND/RETRACT",
+		},
+		["d3009pnilu3009cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "HOOK BYPASS Switch - FIELD/CARRIER",
 		},
 		["d3010pnilu3010cd25vd1vpnilvu0"] = {
 			["added"] = {
@@ -114,6 +280,28 @@ local diff = {
 			},
 			["name"] = "UFC Option Select Pushbutton 3",
 		},
+		["d3012pnilunilcd11vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Bleed Air Knob - CCW",
+		},
+		["d3012pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Bleed Air Knob - CW",
+		},
 		["d3013pnilu3013cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -121,6 +309,25 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Option Select Pushbutton 4",
+		},
+		["d3013pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Arresting Hook Handle - Cycle",
+		},
+		["d3014pnilu3014cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Engine Anti-Ice Switch - ON/OFF",
 		},
 		["d3014pnilu3014cd25vd1vpnilvu0"] = {
 			["added"] = {
@@ -130,21 +337,133 @@ local diff = {
 			},
 			["name"] = "UFC Option Select Pushbutton 5",
 		},
-		["d3014pnilunilcd23vd1vpnilvunil"] = {
+		["d3015pnilunilcd23vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "Master Arm Switch - ARM/SAFE",
+			["name"] = "Selective Jettison Knob - CCW",
+		},
+		["d3015pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Selective Jettison Knob - CW",
+		},
+		["d3016pnilu3016cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Pitot Heater Switch - ON/AUTO",
 		},
 		["d3020pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN21",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
 				},
 			},
 			["name"] = "Wing Fold Control Handle - PULL/STOW",
+		},
+		["d3021pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Wing Fold Control Handle - CCW/Left",
+		},
+		["d3021pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Wing Fold Control Handle - CW/Right",
+		},
+		["d3039pnilunilcd41vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "ILS UFC/MAN Switch - UFC/MAN",
+		},
+		["d3040pnilunilcd41vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "ILS Channel Selector Switch - CCW/Decrease",
+		},
+		["d3040pnilunilcd41vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "ILS Channel Selector Switch - CW/Increase",
+		},
+		["d3041pnilunilcd35vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Left MDI Brightness Selector Knob - CCW/Left",
+		},
+		["d3041pnilunilcd35vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Left MDI Brightness Selector Knob - CW/Right",
+		},
+		["d3041pnilunilcd36vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Right MDI Brightness Selector Knob - CCW/Left",
+		},
+		["d3041pnilunilcd36vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Right MDI Brightness Selector Knob - CW/Right",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -177,6 +496,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3013unilcd2vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "RUD TRIM Control - CCW/Left",
+		},
+		["dnilp3013unilcd2vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "RUD TRIM Control - CW/Right",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
