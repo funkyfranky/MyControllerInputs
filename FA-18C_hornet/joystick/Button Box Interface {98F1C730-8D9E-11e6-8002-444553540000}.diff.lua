@@ -69,7 +69,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN5",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "JOY_BTN15",
 					},
 				},
 			},
@@ -93,6 +93,17 @@ local diff = {
 				},
 			},
 			["name"] = "T/O TRIM Button",
+		},
+		["d3002pnilu3002cd54vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "ALR-67 DISPLAY Pushbutton",
 		},
 		["d3002pnilu3002cd55vd1vpnilvu0"] = {
 			["added"] = {
@@ -145,6 +156,17 @@ local diff = {
 			},
 			["name"] = "FCS RESET Button",
 		},
+		["d3003pnilu3003cd54vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "ALR-67 SPECIAL Pushbutton",
+		},
 		["d3003pnilu3003cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -188,6 +210,28 @@ local diff = {
 			},
 			["name"] = "UFC Function Selector Pushbutton - ILS",
 		},
+		["d3004pnilu3004cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "FCS BIT Switch",
+		},
+		["d3004pnilu3004cd54vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "ALR-67 OFFSET Pushbutton",
+		},
 		["d3005pnilu3005cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -195,6 +239,17 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Function Selector Pushbutton - D/L",
+		},
+		["d3005pnilu3005cd54vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "ALR-67 BIT Pushbutton",
 		},
 		["d3005pnilu3005cd5vd-1vpnilvu1"] = {
 			["added"] = {
@@ -337,22 +392,6 @@ local diff = {
 			},
 			["name"] = "UFC Option Select Pushbutton 5",
 		},
-		["d3015pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Selective Jettison Knob - CCW",
-		},
-		["d3015pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Selective Jettison Knob - CW",
-		},
 		["d3016pnilu3016cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -364,6 +403,22 @@ local diff = {
 			},
 			["name"] = "Pitot Heater Switch - ON/AUTO",
 		},
+		["d3019pnilu3019cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Up",
+		},
+		["d3020pnilu3020cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Down",
+		},
 		["d3020pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -374,6 +429,14 @@ local diff = {
 				},
 			},
 			["name"] = "Wing Fold Control Handle - PULL/STOW",
+		},
+		["d3021pnilu3021cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Left",
 		},
 		["d3021pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
@@ -396,6 +459,14 @@ local diff = {
 				},
 			},
 			["name"] = "Wing Fold Control Handle - CW/Right",
+		},
+		["d3022pnilu3022cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Right",
 		},
 		["d3039pnilunilcd41vd0vpnilvunil"] = {
 			["added"] = {
@@ -420,50 +491,6 @@ local diff = {
 				},
 			},
 			["name"] = "ILS Channel Selector Switch - CW/Increase",
-		},
-		["d3041pnilunilcd35vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Left MDI Brightness Selector Knob - CCW/Left",
-		},
-		["d3041pnilunilcd35vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Left MDI Brightness Selector Knob - CW/Right",
-		},
-		["d3041pnilunilcd36vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Right MDI Brightness Selector Knob - CCW/Left",
-		},
-		["d3041pnilunilcd36vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Right MDI Brightness Selector Knob - CW/Right",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -512,6 +539,50 @@ local diff = {
 				},
 			},
 			["name"] = "RUD TRIM Control - CW/Right",
+		},
+		["dnilp3014unilcd34vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Black Level Control Knob - CCW/Decrease",
+		},
+		["dnilp3014unilcd34vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Black Level Control Knob - CW/Increase",
+		},
+		["dnilp3040unilcd25vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "UFC Brightness Control Knob - CCW/Decrease",
+		},
+		["dnilp3040unilcd25vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "UFC Brightness Control Knob - CW/Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

@@ -145,6 +145,17 @@ local diff = {
 			},
 			["name"] = "UFC COMM 2 Channel Selector Knob - PULL",
 		},
+		["d3010pnilu3010cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Selective Jettison Pushbutton",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {

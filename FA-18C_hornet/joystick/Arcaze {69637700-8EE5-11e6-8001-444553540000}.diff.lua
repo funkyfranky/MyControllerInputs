@@ -34,6 +34,28 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3015pnilunilcd23vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Selective Jettison Knob - CCW",
+		},
+		["d3015pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "Selective Jettison Knob - CW",
+		},
 		["d3033pnilunilcd25vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -104,28 +126,6 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3014unilcd34vdnilvp-0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Black Level Control Knob - CCW/Decrease",
-		},
-		["dnilp3014unilcd34vdnilvp0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Black Level Control Knob - CW/Increase",
-		},
 		["dnilp3036unilcd25vdnilvp-0.5vunil"] = {
 			["added"] = {
 				[1] = {
@@ -163,28 +163,6 @@ local diff = {
 				},
 			},
 			["name"] = "UFC COMM 2 Volume Control Knob - CW/Increase",
-		},
-		["dnilp3040unilcd25vdnilvp-0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "UFC Brightness Control Knob - CCW/Decrease",
-		},
-		["dnilp3040unilcd25vdnilvp0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "UFC Brightness Control Knob - CW/Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

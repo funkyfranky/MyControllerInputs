@@ -163,7 +163,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Engine Crank Switch - Left",
+			["name"] = "Engine Crank Switch - Cycle Left",
 		},
 		["d3002pnilu3002cd7vd-1vpnilvu0"] = {
 			["added"] = {
@@ -185,7 +185,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Engine Crank Switch - Right",
+			["name"] = "Engine Crank Switch - Cycle Right",
 		},
 		["d3003pnilu3003cd34vd1vpnilvu0"] = {
 			["added"] = {
@@ -194,17 +194,6 @@ local diff = {
 				},
 			},
 			["name"] = "HUD Symbology Brightness Selector Knob DAY/NIGHT",
-		},
-		["d3004pnilu3004cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "FCS BIT Switch",
 		},
 		["d3006pnilu3006cd12vd1vpnilvu0"] = {
 			["added"] = {

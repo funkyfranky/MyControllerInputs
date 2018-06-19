@@ -194,22 +194,6 @@ local diff = {
 			},
 			["name"] = "Right MDI PB 20",
 		},
-		["d3041pnilunilcd36vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Right MDI Brightness Selector Knob - CCW/Left",
-		},
-		["d3041pnilunilcd36vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Right MDI Brightness Selector Knob - CW/Right",
-		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {

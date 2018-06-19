@@ -90,6 +90,14 @@ local diff = {
 			},
 			["name"] = "Weapon Release Button",
 		},
+		["d3004pnilu3004cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "RECCE Event Mark Switch",
+		},
 		["d3005pnilu3005cd38vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -169,6 +177,38 @@ local diff = {
 				},
 			},
 			["name"] = "Autopilot/Nosewheel Steering Disengage (Paddle) Switch",
+		},
+		["d3023pnilu3023cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Depress",
+		},
+		["d3031pnilu3031cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Cage/Uncage Button",
+		},
+		["d3034pnilu3034cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "RAID/FLIR FOV Select Button",
+		},
+		["d3037pnilu3037cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "ATC Engage/Disengage Switch",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
