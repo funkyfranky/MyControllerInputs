@@ -82,6 +82,22 @@ local diff = {
 			},
 			["name"] = "Right MDI PB 6",
 		},
+		["d3016pnilunilcd9vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "MODE Switch - Down",
+		},
+		["d3016pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "MODE Switch - Up",
+		},
 		["d3017pnilu3017cd36vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -194,6 +210,22 @@ local diff = {
 			},
 			["name"] = "Right MDI PB 20",
 		},
+		["d3041pnilunilcd36vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Right MDI Brightness Selector Knob - CCW/Left",
+		},
+		["d3041pnilunilcd36vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Right MDI Brightness Selector Knob - CW/Right",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
@@ -251,7 +283,7 @@ local diff = {
 		["dnilp3005unilcd32vdnilvp-0.3vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN21",
 					["reformers"] = {
 						[1] = "JOY_BTN8",
 					},
@@ -262,7 +294,7 @@ local diff = {
 		["dnilp3005unilcd32vdnilvp0.3vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN22",
 					["reformers"] = {
 						[1] = "JOY_BTN8",
 					},
@@ -270,7 +302,18 @@ local diff = {
 			},
 			["name"] = "SAI Cage Knob - CW",
 		},
-		["dnilp316unilcdnilvdnilvpnilvunil"] = {
+		["dnilp3042unilcd36vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Right MDI Brightness Control Knob - CCW/Decrease",
+		},
+		["dnilp3042unilcd36vdnilvp0.5vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
@@ -279,15 +322,20 @@ local diff = {
 					},
 				},
 			},
+			["name"] = "Right MDI Brightness Control Knob - CW/Increase",
+		},
+		["dnilp316unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
 			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CW/Increase",
 		},
 		["dnilp317unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CCW/Decrease",

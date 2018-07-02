@@ -34,6 +34,28 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3003pnilu3003cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "IFEI Up Arrow Button",
+		},
+		["d3004pnilu3004cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "IFEI Down Arrow Button",
+		},
 		["d3004pnilu3004cd35vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -446,13 +468,26 @@ local diff = {
 			},
 			["name"] = "AMPCD PB 20",
 		},
+		["d3035pnilunilcd25vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "UFC ADF Function Select Switch - Down",
+		},
+		["d3035pnilunilcd25vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "UFC ADF Function Select Switch - Up",
+		},
 		["d3041pnilunilcd35vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
 				},
 			},
 			["name"] = "Left MDI Brightness Selector Knob - CCW/Left",
@@ -461,34 +496,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
 				},
 			},
 			["name"] = "Left MDI Brightness Selector Knob - CW/Right",
-		},
-		["d3041pnilunilcd36vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Right MDI Brightness Selector Knob - CCW/Left",
-		},
-		["d3041pnilunilcd36vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Right MDI Brightness Selector Knob - CW/Right",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -521,6 +531,50 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3040unilcd25vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "UFC Brightness Control Knob - CCW/Decrease",
+		},
+		["dnilp3040unilcd25vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "UFC Brightness Control Knob - CW/Increase",
+		},
+		["dnilp3042unilcd35vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Left MDI Brightness Control Knob - CCW/Decrease",
+		},
+		["dnilp3042unilcd35vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Left MDI Brightness Control Knob - CW/Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

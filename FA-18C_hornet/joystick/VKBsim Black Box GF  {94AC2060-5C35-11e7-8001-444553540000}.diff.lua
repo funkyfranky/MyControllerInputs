@@ -210,6 +210,14 @@ local diff = {
 			},
 			["name"] = "ATC Engage/Disengage Switch",
 		},
+		["d3042pnilunilcd38vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Exterior Lights Switch - ON/OFF",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {

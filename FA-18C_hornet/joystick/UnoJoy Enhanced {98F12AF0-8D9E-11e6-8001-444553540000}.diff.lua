@@ -225,6 +225,17 @@ local diff = {
 			},
 			["name"] = "Altitude Switch BARO/RDR",
 		},
+		["d3010pnilu3010cd7vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Seat Height Adjustment Switch - UP/HOLD",
+		},
 		["d3010pnilunilcd34vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -241,6 +252,39 @@ local diff = {
 			},
 			["name"] = "HUD Symbology Reject Switch - Up",
 		},
+		["d3011pnilu3011cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Seat Height Adjustment Switch - DOWN/HOLD",
+		},
+		["d3014pnilunilcd11vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Cabin Pressure Switch - Down",
+		},
+		["d3014pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Cabin Pressure Switch - Up",
+		},
 		["d3016pnilunilcd34vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -256,6 +300,28 @@ local diff = {
 				},
 			},
 			["name"] = "HUD Video Control Switch - Up",
+		},
+		["d3022pnilunilcd11vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Windshield Anti-Ice/Rain Switch - Down",
+		},
+		["d3022pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Windshield Anti-Ice/Rain Switch - Up",
 		},
 		["d3022pnilunilcd34vd-1vpnilvunil"] = {
 			["added"] = {

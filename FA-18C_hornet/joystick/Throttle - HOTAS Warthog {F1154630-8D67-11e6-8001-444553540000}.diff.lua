@@ -35,6 +35,16 @@ local diff = {
 		["a2005cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0.1,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
 					["key"] = "JOY_RZ",
 				},
 			},
@@ -43,6 +53,16 @@ local diff = {
 		["a2006cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0.1,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
 					["key"] = "JOY_Z",
 				},
 			},
@@ -58,6 +78,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1587pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Kneeboard ON/OFF",
+		},
 		["d3001pnilu3001cd55vd0.2vpnilvu0.1"] = {
 			["added"] = {
 				[1] = {
@@ -74,6 +102,14 @@ local diff = {
 			},
 			["name"] = "DISPENSER Switch OFF/ON",
 		},
+		["d3001pnilunilcd100vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Kneeboard Next Page",
+		},
 		["d3002pnilu3002cd3vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -89,6 +125,14 @@ local diff = {
 				},
 			},
 			["name"] = "Probe Control Switch EXTEND/RETRACT",
+		},
+		["d3002pnilunilcd100vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Kneeboard Previous Page",
 		},
 		["d3003pnilu3003cd3vd0vpnilvu1"] = {
 			["added"] = {
@@ -114,6 +158,14 @@ local diff = {
 			},
 			["name"] = "STROBE Lights Switch - BRT/OFF",
 		},
+		["d3006pnilu3006cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "IFEI ET Button",
+		},
 		["d3007pnilu3007cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -130,6 +182,14 @@ local diff = {
 			},
 			["name"] = "FLAP Switch AUTO/HALF",
 		},
+		["d3008pnilu3008cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "AV COOL Switch - EMERG/NORM",
+		},
 		["d3008pnilu3008cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -145,6 +205,30 @@ local diff = {
 				},
 			},
 			["name"] = "Auxiliary Release Switch ENABLE/NORM",
+		},
+		["d3013pnilu3013cd23vd0.1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "IR Cooling Switch NORM/OFF",
+		},
+		["d3024pnilu3024cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Radar Elevation Control - Up",
+		},
+		["d3025pnilu3025cd38vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Radar Elevation Control - Down",
 		},
 		["d3027pnilu3027cd38vd0.2vpnilvu0"] = {
 			["added"] = {
@@ -181,7 +265,7 @@ local diff = {
 		["d3032pnilu3032cd38vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "Dispense Switch - Forward(CHAFF)/Center(OFF)",
@@ -189,7 +273,7 @@ local diff = {
 		["d3033pnilu3033cd38vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "Dispense Switch - Aft(FLARE)/Center(OFF)",
