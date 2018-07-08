@@ -616,6 +616,22 @@ local diff = {
 				},
 			},
 		},
+		["dnilp3008unilcd33vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "IFEI Brightness Control Knob - CCW/Decrease",
+		},
+		["dnilp3008unilcd33vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "IFEI Brightness Control Knob - CW/Increase",
+		},
 		["dnilp3013unilcd2vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {

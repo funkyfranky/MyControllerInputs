@@ -24,34 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a2004cdnil"] = {
-			["changed"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-							[2] = 0.04,
-							[3] = 0.08,
-							[4] = 0.13,
-							[5] = 0.24,
-							[6] = 0.37,
-							[7] = 0.5,
-							[8] = 0.63,
-							[9] = 0.76,
-							[10] = 0.88,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Thrust",
-		},
 		["a3327cd5"] = {
 			["added"] = {
 				[1] = {
