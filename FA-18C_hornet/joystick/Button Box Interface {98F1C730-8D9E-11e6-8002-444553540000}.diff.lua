@@ -61,6 +61,17 @@ local diff = {
 			},
 			["name"] = "UFC Function Selector Pushbutton - A/P",
 		},
+		["d3001pnilu3001cd53vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "ALR-67 POWER Pushbutton",
+		},
 		["d3002pnilu3002cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -91,13 +102,21 @@ local diff = {
 			},
 			["name"] = "T/O TRIM Button",
 		},
-		["d3002pnilu3002cd54vd1vpnilvu0"] = {
+		["d3002pnilu3002cd53vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 					["reformers"] = {
 						[1] = "JOY_BTN15",
 					},
+				},
+			},
+			["name"] = "ALR-67 DISPLAY Pushbutton",
+		},
+		["d3002pnilu3002cd54vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
 				},
 			},
 			["name"] = "Dispense Button",
@@ -150,6 +169,17 @@ local diff = {
 				},
 			},
 			["name"] = "FCS RESET Button",
+		},
+		["d3003pnilu3003cd53vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "ALR-67 SPECIAL Pushbutton",
 		},
 		["d3003pnilu3003cd6vd1vpnilvu0"] = {
 			["added"] = {
@@ -219,6 +249,17 @@ local diff = {
 			},
 			["name"] = "FCS BIT Switch",
 		},
+		["d3004pnilu3004cd53vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "ALR-67 OFFSET Pushbutton",
+		},
 		["d3005pnilu3005cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -226,6 +267,17 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Function Selector Pushbutton - D/L",
+		},
+		["d3005pnilu3005cd53vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "ALR-67 BIT Pushbutton",
 		},
 		["d3005pnilu3005cd5vd-1vpnilvu1"] = {
 			["added"] = {
@@ -412,6 +464,14 @@ local diff = {
 			},
 			["name"] = "Station Jettison Select Button CENTER - ON/OFF",
 		},
+		["d3019pnilu3019cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Up",
+		},
 		["d3019pnilunilcd23vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -422,6 +482,14 @@ local diff = {
 				},
 			},
 			["name"] = "Station Jettison Select Button LEFT IN - ON/OFF",
+		},
+		["d3020pnilu3020cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Down",
 		},
 		["d3020pnilunilcd23vd0vpnilvunil"] = {
 			["added"] = {
@@ -444,6 +512,14 @@ local diff = {
 				},
 			},
 			["name"] = "Wing Fold Control Handle - PULL/STOW",
+		},
+		["d3021pnilu3021cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Left",
 		},
 		["d3021pnilunilcd23vd0vpnilvunil"] = {
 			["added"] = {
@@ -477,6 +553,14 @@ local diff = {
 				},
 			},
 			["name"] = "Wing Fold Control Handle - CW/Right",
+		},
+		["d3022pnilu3022cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Right",
 		},
 		["d3022pnilunilcd23vd0vpnilvunil"] = {
 			["added"] = {
