@@ -156,14 +156,6 @@ local diff = {
 			},
 			["name"] = "Selective Jettison Pushbutton",
 		},
-		["d3116pnilu3116cd55vd0.1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "ALQ-126 ECM Mode Switch STBY/OFF",
-		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {

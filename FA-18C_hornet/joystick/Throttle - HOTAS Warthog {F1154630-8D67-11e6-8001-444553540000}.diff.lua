@@ -86,22 +86,6 @@ local diff = {
 			},
 			["name"] = "Kneeboard ON/OFF",
 		},
-		["d3001pnilu3001cd55vd0.2vpnilvu0.1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "DISPENSER Switch BYPASS/ON",
-		},
-		["d3001pnilu3001cd55vd0vpnilvu0.1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "DISPENSER Switch OFF/ON",
-		},
 		["d3001pnilunilcd100vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -213,94 +197,6 @@ local diff = {
 				},
 			},
 			["name"] = "IR Cooling Switch NORM/OFF",
-		},
-		["d3024pnilu3024cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Radar Elevation Control - Up",
-		},
-		["d3025pnilu3025cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Radar Elevation Control - Down",
-		},
-		["d3027pnilu3027cd38vd0.2vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "COMM Switch - COMM 1",
-		},
-		["d3028pnilu3028cd38vd0.4vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "COMM Switch - COMM 2",
-		},
-		["d3029pnilu3029cd38vd0.6vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "COMM Switch - MIDS A",
-		},
-		["d3030pnilu3030cd38vd0.8vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "COMM Switch - MIDS B",
-		},
-		["d3032pnilu3032cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Dispense Switch - Forward(CHAFF)/Center(OFF)",
-		},
-		["d3033pnilu3033cd38vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Dispense Switch - Aft(FLARE)/Center(OFF)",
-		},
-		["d3035pnilu3035cd38vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Speed Brake Switch - EXTEND",
-		},
-		["d3035pnilu3035cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Speed Brake Switch - RETRACT/OFF",
-		},
-		["d3040pnilu3040cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
-				},
-			},
-			["name"] = "Throttle Finger Lift (Both) - UP/DOWN",
 		},
 		["d313pnilu311cdnilvd1vpnilvu1"] = {
 			["added"] = {

@@ -74,7 +74,7 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3002cd38vd1vpnilvu0"] = {
+		["d3002pnilu3002cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN6",
@@ -82,141 +82,13 @@ local diff = {
 			},
 			["name"] = "Gun Trigger - SECOND DETENT (Press to shoot)",
 		},
-		["d3003pnilu3003cd38vd1vpnilvu0"] = {
+		["d3003pnilu3003cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "Weapon Release Button",
-		},
-		["d3004pnilu3004cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "RECCE Event Mark Switch",
-		},
-		["d3005pnilu3005cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Sensor Control Switch - Fwd",
-		},
-		["d3006pnilu3006cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Sensor Control Switch - Aft",
-		},
-		["d3007pnilu3007cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Sensor Control Switch - Left",
-		},
-		["d3008pnilu3008cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Sensor Control Switch - Right",
-		},
-		["d3009pnilu3009cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Select Sparrow",
-		},
-		["d3010pnilu3010cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Select Gun",
-		},
-		["d3011pnilu3011cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Select AMRAAM",
-		},
-		["d3012pnilu3012cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Select Sidewinder",
-		},
-		["d3013pnilu3013cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Undesignate/Nose Wheel Steer Switch",
-		},
-		["d3018pnilu3018cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Autopilot/Nosewheel Steering Disengage (Paddle) Switch",
-		},
-		["d3023pnilu3023cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Throttle Designator Controller - Depress",
-		},
-		["d3031pnilu3031cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Cage/Uncage Button",
-		},
-		["d3034pnilu3034cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "RAID/FLIR FOV Select Button",
-		},
-		["d3037pnilu3037cd38vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "ATC Engage/Disengage Switch",
-		},
-		["d3042pnilunilcd38vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Exterior Lights Switch - ON/OFF",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -249,38 +121,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
-		},
-		["dnilp3014u3014cd38vdnilvp1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
-				},
-			},
-			["name"] = "Trimmer Switch - PULL(CLIMB)",
-		},
-		["dnilp3015u3015cd38vdnilvp1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
-				},
-			},
-			["name"] = "Trimmer Switch - PUSH(DESCEND)",
-		},
-		["dnilp3016u3016cd38vdnilvp1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
-				},
-			},
-			["name"] = "Trimmer Switch - LEFT WING DOWN",
-		},
-		["dnilp3017u3017cd38vdnilvp1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
-				},
-			},
-			["name"] = "Trimmer Switch - RIGHT WING DOWN",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
