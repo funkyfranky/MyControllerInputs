@@ -4,6 +4,11 @@ local modifiers = {
 		["key"] = "JOY_BTN15",
 		["switch"] = true,
 	},
+	["JOY_BTN8"] = {
+		["device"] = "UnoJoy Enhanced {98F12AF0-8D9E-11e6-8001-444553540000}",
+		["key"] = "JOY_BTN8",
+		["switch"] = true,
+	},
 	["LAlt"] = {
 		["device"] = "Keyboard",
 		["key"] = "LAlt",

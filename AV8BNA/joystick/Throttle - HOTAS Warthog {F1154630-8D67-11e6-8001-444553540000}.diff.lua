@@ -90,6 +90,14 @@ local diff = {
 			},
 			["name"] = "Kneeboard Next Page",
 		},
+		["d3002pnilunilcd100vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Kneeboard Previous Page",
+		},
 		["d3449pnilu3449cd9vd0vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {

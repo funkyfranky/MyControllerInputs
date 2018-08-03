@@ -162,14 +162,6 @@ local diff = {
 			},
 			["name"] = "Sensor Select DOWN: HUD Scene Reject/TGP",
 		},
-		["d570pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "WP Increment",
-		},
 		["d634pnilu635cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

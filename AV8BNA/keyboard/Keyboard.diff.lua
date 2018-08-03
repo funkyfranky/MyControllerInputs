@@ -232,6 +232,38 @@ local diff = {
 				},
 			},
 		},
+		["dnilp193u194cdnilvdnilvpnilvunil"] = {
+			["name"] = "Aircraft Pitch DOWN",
+			["removed"] = {
+				[1] = {
+					["key"] = "Up",
+				},
+			},
+		},
+		["dnilp195u196cdnilvdnilvpnilvunil"] = {
+			["name"] = "Aircraft Pitch UP",
+			["removed"] = {
+				[1] = {
+					["key"] = "Down",
+				},
+			},
+		},
+		["dnilp197u198cdnilvdnilvpnilvunil"] = {
+			["name"] = "Aircraft Bank LEFT",
+			["removed"] = {
+				[1] = {
+					["key"] = "Left",
+				},
+			},
+		},
+		["dnilp199u200cdnilvdnilvpnilvunil"] = {
+			["name"] = "Aircraft Bank RIGHT",
+			["removed"] = {
+				[1] = {
+					["key"] = "Right",
+				},
+			},
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
@@ -267,10 +299,7 @@ local diff = {
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num4",
-					["reformers"] = {
-						[1] = "LShift",
-					},
+					["key"] = "Left",
 				},
 			},
 			["name"] = "View Left slow",
@@ -288,6 +317,9 @@ local diff = {
 						[1] = "LShift",
 					},
 				},
+				[2] = {
+					["key"] = "Right",
+				},
 			},
 			["name"] = "View Right slow",
 			["removed"] = {
@@ -299,10 +331,7 @@ local diff = {
 		["dnilp34u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num8",
-					["reformers"] = {
-						[1] = "LShift",
-					},
+					["key"] = "Up",
 				},
 			},
 			["name"] = "View Up slow",
@@ -315,10 +344,7 @@ local diff = {
 		["dnilp35u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num2",
-					["reformers"] = {
-						[1] = "LShift",
-					},
+					["key"] = "Down",
 				},
 			},
 			["name"] = "View Down slow",

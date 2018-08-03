@@ -110,6 +110,22 @@ local diff = {
 			},
 			["name"] = "UFC Function Selector Pushbutton - ON/OFF",
 		},
+		["d3008pnilu3008cd9vd1vpnilvu0"] = {
+			["name"] = "MASTER CAUTION Reset Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "N",
+				},
+			},
+		},
+		["d3014pnilunilcd23vd1vpnilvunil"] = {
+			["name"] = "Master Arm Switch - ARM/SAFE",
+			["removed"] = {
+				[1] = {
+					["key"] = "M",
+				},
+			},
+		},
 		["d3015pnilu3015cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -221,6 +237,22 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Keyboard Pushbutton - ENT",
+		},
+		["d3035pnilunilcd13vd0vpnilvunil"] = {
+			["name"] = "Speed Brake Switch - OFF",
+			["removed"] = {
+				[1] = {
+					["key"] = "B",
+				},
+			},
+		},
+		["d438pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "N",
+				},
+			},
+			["name"] = "Toggle goggles",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -334,6 +366,22 @@ local diff = {
 					["key"] = "Num/",
 				},
 			},
+		},
+		["dnilp840unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "M",
+				},
+			},
+			["name"] = "Gain goggles up",
+		},
+		["dnilp841unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "B",
+				},
+			},
+			["name"] = "Gain goggles down",
 		},
 	},
 }

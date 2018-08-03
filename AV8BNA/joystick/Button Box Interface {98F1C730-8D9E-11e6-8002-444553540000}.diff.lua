@@ -270,22 +270,6 @@ local diff = {
 			},
 			["name"] = "Release Interval Control (Units) UP/CENTER",
 		},
-		["d3421pnilunilcd12vd0.3vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "INS Mode NAV",
-		},
-		["d3421pnilunilcd12vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "INS Mode OFF",
-		},
 		["d3471pnilunilcd28vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -308,6 +292,14 @@ local diff = {
 				},
 			},
 			["name"] = "RPS/YAW Trim Switch OFF",
+		},
+		["d3508pnilu3508cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Fuel Dump L Switch ON/OFF",
 		},
 		["d3508pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
@@ -497,29 +489,6 @@ local diff = {
 			},
 			["name"] = "Test Lights ON/OFF",
 		},
-		["d3800pnilunilcd11vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-					["reformers"] = {
-						[1] = "RCtrl",
-						[2] = "RWin",
-					},
-				},
-			},
-			["name"] = "Seat Ground Safety Lever UP",
-		},
-		["d3800pnilunilcd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Seat Ground Safety Lever DOWN",
-		},
 		["d438pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -527,6 +496,22 @@ local diff = {
 				},
 			},
 			["name"] = "Helmet Visor/NVG Toggle",
+		},
+		["d455pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "INS Mode Right (OFF - ALIGN  - NAV)",
+		},
+		["d456pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "INS Mode Left  (NAV - ALIGN  - OFF)",
 		},
 		["d461pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
