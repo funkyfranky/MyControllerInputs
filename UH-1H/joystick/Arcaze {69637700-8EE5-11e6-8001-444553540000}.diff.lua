@@ -306,7 +306,7 @@ local diff = {
 			},
 			["name"] = "UHF Radio 50kHz Increase",
 		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+		["d84pnilu84cdnilvd1vpnilvu0"] = {
 			["name"] = "Pilot weapon release/Machinegun fire",
 			["removed"] = {
 				[1] = {

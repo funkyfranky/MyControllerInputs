@@ -60,7 +60,7 @@ local diff = {
 				},
 			},
 		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+		["d84pnilu84cdnilvd1vpnilvu0"] = {
 			["name"] = "Pilot weapon release/Machinegun fire",
 			["removed"] = {
 				[1] = {
