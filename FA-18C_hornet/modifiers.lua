@@ -1,11 +1,11 @@
 local modifiers = {
 	["JOY_BTN15"] = {
-		["device"] = "Throttle - HOTAS Warthog {F1154630-8D67-11e6-8001-444553540000}",
+		["device"] = "Throttle - HOTAS Warthog {5D5FE9C0-C188-11e8-8002-444553540000}",
 		["key"] = "JOY_BTN15",
 		["switch"] = true,
 	},
 	["JOY_BTN8"] = {
-		["device"] = "UnoJoy Enhanced {98F12AF0-8D9E-11e6-8001-444553540000}",
+		["device"] = "UnoJoy Enhanced {5D625AC0-C188-11e8-8011-444553540000}",
 		["key"] = "JOY_BTN8",
 		["switch"] = true,
 	},
