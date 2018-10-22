@@ -164,22 +164,6 @@ local diff = {
 			},
 			["name"] = "Engine De-ice switch",
 		},
-		["d3009pnilunilcd23vd0.1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Datapanel 1 TAKT",
-		},
-		["d3009pnilunilcd23vd0.6vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Datapanel 6 AKT/POS",
-		},
 		["d3010pnilunilcd28vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -201,6 +185,22 @@ local diff = {
 				},
 			},
 			["name"] = "Countermeasure KB Stråk Mod 4",
+		},
+		["d3011pnilunilcd23vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Datapanel Rotary Counterclockwise",
+		},
+		["d3011pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Datapanel Rotary Clockwise",
 		},
 		["d3011pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {

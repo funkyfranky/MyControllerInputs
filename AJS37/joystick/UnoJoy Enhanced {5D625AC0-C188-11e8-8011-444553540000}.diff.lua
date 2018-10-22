@@ -356,7 +356,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Seat Adjustment - Down",
+			["name"] = "Seat Adjustment - Up",
 		},
 		["dnilp3404u3404cd22vdnilvp1vu0"] = {
 			["added"] = {
@@ -364,7 +364,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Seat Adjustment - Up",
+			["name"] = "Seat Adjustment - Down",
 		},
 		["dnilp34u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up slow",
