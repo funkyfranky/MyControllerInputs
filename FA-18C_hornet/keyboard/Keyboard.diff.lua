@@ -65,6 +65,14 @@ local diff = {
 			},
 		},
 		["d19pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num.",
+					["reformers"] = {
+						[1] = "RWin",
+					},
+				},
+			},
 			["name"] = "Lock View (cycle padlock)",
 			["removed"] = {
 				[1] = {

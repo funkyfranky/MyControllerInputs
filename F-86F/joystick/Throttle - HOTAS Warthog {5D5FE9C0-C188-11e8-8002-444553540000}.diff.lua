@@ -191,6 +191,14 @@ local diff = {
 			},
 			["name"] = "Alternate Hydraulic Emergency Override Handle Pull/Push",
 		},
+		["d3020pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "A-4 Sight Manual Ranging Control (Throttle Twist Grip) - Return to CCW spring-loaded position",
+		},
 		["d3029pnilunilcd5vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -243,6 +251,22 @@ local diff = {
 				},
 			},
 			["name"] = "Wheel Parking Brake Handle",
+		},
+		["dnilp3018unilcd22vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "A-4 Sight Manual Ranging Control (Throttle Twist Grip) - CCW/Increase",
+		},
+		["dnilp3019unilcd22vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "A-4 Sight Manual Ranging Control (Throttle Twist Grip) - CW/Decrease",
 		},
 	},
 }
