@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3003cd58"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "HMD OFF/BRT Knob",
+		},
 		["a3011cd9"] = {
 			["added"] = {
 				[1] = {
@@ -300,28 +308,6 @@ local diff = {
 				},
 			},
 			["name"] = "HUD Video Control Switch - Up",
-		},
-		["d3022pnilunilcd11vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Windshield Anti-Ice/Rain Switch - Down",
-		},
-		["d3022pnilunilcd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Windshield Anti-Ice/Rain Switch - Up",
 		},
 		["d3022pnilunilcd34vd-1vpnilvunil"] = {
 			["added"] = {

@@ -10,22 +10,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d10001pnilu10000cdnilvdnilvpnilvunil"] = {
-			["name"] = "Flaps Up else Stop (HOTAS)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-		},
-		["d10002pnilu10000cdnilvdnilvpnilvunil"] = {
-			["name"] = "Flaps Down else Stop (HOTAS)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-		},
 		["d10004pnilu10005cdnilvdnilvpnilvunil"] = {
 			["name"] = "*Spoilers ARM: ON else OFF",
 			["removed"] = {
@@ -145,6 +129,54 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
+		},
+		["d1587pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Kneeboard ON/OFF",
+		},
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Communication menu",
+		},
+		["d3001pnilunilcd100vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Kneeboard Next Page",
+		},
+		["d3002pnilunilcd100vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Kneeboard Previous Page",
+		},
+		["d430pnilu431cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Landing Gear Up/Down (2pos)",
+		},
+		["d73pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Airbrake",
 		},
 	},
 }

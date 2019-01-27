@@ -34,37 +34,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d10006pnilu10007cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapon Fire",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-		},
-		["d10008pnilu10009cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapon Release",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-		},
-		["d3013pnilu3013cd17vd1vpnilvu0"] = {
+		["d3032pnilunilcd6vd-0.25vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "Starter Switch Press/Depress",
+			["name"] = "Magnets -",
 		},
-		["d69pnilunilcdnilvdnilvpnilvunil"] = {
+		["d3032pnilunilcd6vd0.25vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "Tail Hook Up/Down",
+			["name"] = "Magnets +",
 		},
 	},
 }

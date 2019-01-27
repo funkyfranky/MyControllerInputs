@@ -61,17 +61,6 @@ local diff = {
 			},
 			["name"] = "UFC Function Selector Pushbutton - A/P",
 		},
-		["d3001pnilu3001cd53vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
-				},
-			},
-			["name"] = "ALR-67 POWER Pushbutton",
-		},
 		["d3002pnilu3002cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -419,6 +408,17 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Option Select Pushbutton 5",
+		},
+		["d3014pnilunilcd53vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "JOY_BTN15",
+					},
+				},
+			},
+			["name"] = "ALR-67 POWER Pushbutton - ON/OFF",
 		},
 		["d3016pnilu3016cd3vd1vpnilvu0"] = {
 			["added"] = {
