@@ -85,6 +85,22 @@ local diff = {
 			},
 			["name"] = "ODU Option 5",
 		},
+		["d1308pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "UFC IFF Function Button",
+		},
+		["d1316pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "UFC TACAN Function Button",
+		},
 		["d178pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

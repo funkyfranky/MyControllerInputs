@@ -75,10 +75,7 @@ local diff = {
 		["d3034pnilunilcd25vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "RShift",
-					},
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "UFC COMM 2 Channel Selector Knob - CCW/Decrease",
@@ -86,10 +83,7 @@ local diff = {
 		["d3034pnilunilcd25vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "RShift",
-					},
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "UFC COMM 2 Channel Selector Knob - CW/Increase",
@@ -129,7 +123,10 @@ local diff = {
 		["dnilp3036unilcd25vdnilvp-0.5vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "RShift",
+					},
 				},
 			},
 			["name"] = "UFC COMM 1 Volume Control Knob - CCW/Decrease",
@@ -137,7 +134,10 @@ local diff = {
 		["dnilp3036unilcd25vdnilvp0.5vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "RShift",
+					},
 				},
 			},
 			["name"] = "UFC COMM 1 Volume Control Knob - CW/Increase",

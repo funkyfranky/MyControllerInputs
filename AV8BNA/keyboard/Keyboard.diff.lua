@@ -115,7 +115,7 @@ local diff = {
 		["d1309pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Backspace",
+					["key"] = "Back",
 				},
 			},
 			["name"] = "UFC Clear Button",
