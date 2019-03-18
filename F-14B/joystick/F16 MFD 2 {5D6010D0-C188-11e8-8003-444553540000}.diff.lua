@@ -16,19 +16,19 @@ local diff = {
 				},
 			},
 		},
-		["a3112cd32"] = {
-			["name"] = "Throttle Axis",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-		},
-		["a3123cd35"] = {
-			["name"] = "Rudder Axis",
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
+				},
+			},
+		},
+		["a2004cdnil"] = {
+			["name"] = "Throttle Both",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
 				},
 			},
 		},

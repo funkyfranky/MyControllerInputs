@@ -16,22 +16,6 @@ local diff = {
 				},
 			},
 		},
-		["a3082cd21"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Instrument Lighting",
-		},
-		["a3083cd21"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Console Lighting",
-		},
 		["a3112cd32"] = {
 			["name"] = "Throttle Axis",
 			["removed"] = {
@@ -45,6 +29,24 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
+				},
+			},
+		},
+	},
+	["keyDiffs"] = {
+		["d10006pnilu10007cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon Fire",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
+		["d10008pnilu10009cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon Release",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
 				},
 			},
 		},

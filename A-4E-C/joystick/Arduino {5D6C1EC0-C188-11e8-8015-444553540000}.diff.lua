@@ -16,37 +16,19 @@ local diff = {
 				},
 			},
 		},
-		["a2003cdnil"] = {
-			["name"] = "Rudder",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-		},
-		["a2004cdnil"] = {
-			["name"] = "Thrust",
+		["a3112cd32"] = {
+			["name"] = "Throttle Axis",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
 				},
 			},
 		},
-	},
-	["keyDiffs"] = {
-		["d10006pnilu10007cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapon Fire",
+		["a3123cd35"] = {
+			["name"] = "Rudder Axis",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-		},
-		["d10008pnilu10009cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapon Release",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_RZ",
 				},
 			},
 		},

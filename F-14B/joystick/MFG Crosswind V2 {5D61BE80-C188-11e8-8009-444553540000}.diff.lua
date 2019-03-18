@@ -16,37 +16,29 @@ local diff = {
 				},
 			},
 		},
-		["a3082cd21"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Instrument Lighting",
-		},
-		["a3083cd21"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Console Lighting",
-		},
-		["a3112cd32"] = {
-			["name"] = "Throttle Axis",
+		["a2004cdnil"] = {
+			["name"] = "Throttle Both",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
 				},
 			},
 		},
-		["a3123cd35"] = {
-			["name"] = "Rudder Axis",
-			["removed"] = {
+		["a2112cdnil"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_RZ",
+					["key"] = "JOY_X",
 				},
 			},
+			["name"] = "Wheel Brake Left",
+		},
+		["a2113cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Wheel Brake Right",
 		},
 	},
 }

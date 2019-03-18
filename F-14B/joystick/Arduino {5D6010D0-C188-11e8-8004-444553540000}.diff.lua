@@ -16,31 +16,39 @@ local diff = {
 				},
 			},
 		},
-		["a3112cd32"] = {
-			["name"] = "Throttle Axis",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-		},
-		["a3123cd35"] = {
-			["name"] = "Rudder Axis",
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
 				},
 			},
 		},
-	},
-	["keyDiffs"] = {
-		["d69pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
+		["a2004cdnil"] = {
+			["name"] = "Throttle Both",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "Tail Hook Up/Down",
+		},
+		["a3cd3359"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "UHF ARC-159 Volume Pilot",
+		},
+	},
+	["keyDiffs"] = {
+		["d3067pnilu3067cd20vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Fuel Dump 1/0",
 		},
 	},
 }

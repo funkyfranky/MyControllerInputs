@@ -16,31 +16,39 @@ local diff = {
 				},
 			},
 		},
-		["a3112cd32"] = {
-			["name"] = "Throttle Axis",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-		},
-		["a3123cd35"] = {
-			["name"] = "Rudder Axis",
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
 				},
 			},
 		},
-	},
-	["keyDiffs"] = {
-		["d69pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
+		["a2004cdnil"] = {
+			["name"] = "Throttle Both",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "Tail Hook Up/Down",
+		},
+	},
+	["keyDiffs"] = {
+		["d3374pnilunilcd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "UHF ARC-159 CHAN SEL Dec",
+		},
+		["d3374pnilunilcd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "UHF ARC-159 CHAN SEL Inc",
 		},
 	},
 }
