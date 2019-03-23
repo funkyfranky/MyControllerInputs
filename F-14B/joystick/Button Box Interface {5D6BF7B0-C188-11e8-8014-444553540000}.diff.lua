@@ -98,6 +98,17 @@ local diff = {
 			},
 			["name"] = "Master Test Selector 03/11",
 		},
+		["d3190pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Oxygen ON",
+		},
 		["d3216pnilunilcd40vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

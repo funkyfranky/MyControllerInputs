@@ -1,5 +1,60 @@
 local diff = {
 	["keyDiffs"] = {
+		["d3001pnilu3001cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Hydraulic Transfer Pump Switch 1/0",
+		},
+		["d3002pnilunilcd12vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Hydraulic Transfer Pump Switch Cover 1",
+		},
+		["d3003pnilu3003cd12vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Hydraulic Emergency Flight Control Switch -1/0",
+		},
+		["d3003pnilu3003cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Hydraulic Emergency Flight Control Switch 1/0",
+		},
+		["d3004pnilunilcd12vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Hydraulic Emergency Flight Control Switch Cover 1",
+		},
 		["d3016pnilu3016cd17vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
