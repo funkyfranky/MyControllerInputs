@@ -34,80 +34,163 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilunilcd12vd1vpnilvunil"] = {
+		["d3006pnilu3006cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Hydraulic Transfer Pump Switch Cover 1",
-		},
-		["d3024pnilu3024cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Wing Sweep Auto Mode",
-		},
-		["d3025pnilu3025cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Wing Sweep Forward",
-		},
-		["d3026pnilu3026cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Wing Sweep Aft",
-		},
-		["d3027pnilu3027cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Wing Sweep Bomb Mode",
-		},
-		["d3076pnilunilcd10vd0.090909090909091vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Master Test Selector 01/11",
-		},
-		["d3076pnilunilcd10vd0.18181818181818vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Master Test Selector 02/11",
-		},
-		["d3076pnilunilcd10vd0.27272727272727vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Master Test Selector 03/11",
-		},
-		["d3190pnilunilcd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN19",
 					["reformers"] = {
 						[1] = "JOY_BTN8",
 					},
 				},
 			},
-			["name"] = "Oxygen ON",
+			["name"] = "Hydraulic Hand Pump 1/0",
+		},
+		["d3034pnilunilcd21vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "AFCS Pitch Stabilisation On",
+		},
+		["d3035pnilunilcd21vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "AFCS Roll Stabilisation On",
+		},
+		["d3036pnilunilcd21vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "AFCS Yaw Stabilisation On",
+		},
+		["d3051pnilunilcd19vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Crank Right Engine",
+		},
+		["d3051pnilunilcd19vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Crank Left Engine",
+		},
+		["d3076pnilunilcd10vd0.090909090909091vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Master Test Selector 01/11",
+		},
+		["d3076pnilunilcd10vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Master Test Selector 00/11",
+		},
+		["d3077pnilu3077cd10vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Master Test Selector Push 1/0",
+		},
+		["d3137pnilu3137cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Master Arm On and Cover Open, else Safe and Closed",
+		},
+		["d3138pnilu3138cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "ACM Jettison",
+		},
+		["d3142pnilu3142cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Emergency Jettison",
+		},
+		["d3182pnilu3182cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Canopy CLOSE/HOLD",
+		},
+		["d3182pnilu3182cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Canopy OPEN/HOLD",
+		},
+		["d3188pnilunilcd11vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Toggle Arm Ejection Seat",
+		},
+		["d3190pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Pilot Oxygen ON",
 		},
 		["d3216pnilunilcd40vd1vpnilvunil"] = {
 			["added"] = {
@@ -189,179 +272,200 @@ local diff = {
 			},
 			["name"] = "STEER CMD AWL/PCD",
 		},
-		["d3327pnilunilcd47vd-1vpnilvu0"] = {
+		["d3320pnilunilcd48vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN10",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
 				},
 			},
-			["name"] = "TACAN Function Dec",
+			["name"] = "ILS Power Toggle",
 		},
-		["d3327pnilunilcd47vd1vpnilvu0"] = {
+		["d3321pnilu3321cd48vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN21",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
 				},
 			},
-			["name"] = "TACAN Function Inc",
+			["name"] = "ILS BIT pushbutton",
 		},
-		["d3331pnilunilcd47vd-1vpnilvu0"] = {
+		["d3323pnilunilcd48vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN29",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
 				},
 			},
-			["name"] = "TACAN Channel 10 Dec",
+			["name"] = "ILS Channel Dec",
 		},
-		["d3331pnilunilcd47vd1vpnilvu0"] = {
+		["d3323pnilunilcd48vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN30",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
 				},
 			},
-			["name"] = "TACAN Channel 10 Inc",
+			["name"] = "ILS Channel Inc",
 		},
-		["d3333pnilunilcd47vd-1vpnilvu0"] = {
+		["d3367pnilu3367cd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "TACAN Channel 1 Dec",
+			["name"] = "UHF ARC-159 10 MHz Switch Down",
 		},
-		["d3333pnilunilcd47vd1vpnilvu0"] = {
+		["d3367pnilu3367cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "TACAN Channel 1 Inc",
+			["name"] = "UHF ARC-159 10 MHz Switch Up",
 		},
-		["d3376pnilunilcd3vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "UHF ARC-159 Mode Dec",
-		},
-		["d3376pnilunilcd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "UHF ARC-159 Mode Inc",
-		},
-		["d3649pnilunilcd11vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Lights ACM Brightnes Down",
-		},
-		["d3649pnilunilcd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Lights ACM Brightnes Up",
-		},
-		["d3650pnilunilcd11vd-1vpnilvu0"] = {
+		["d3368pnilu3368cd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
 				},
 			},
-			["name"] = "Lights Instrument Brightnes Down",
+			["name"] = "UHF ARC-159 1 MHz Switch Down",
 		},
-		["d3650pnilunilcd11vd1vpnilvu0"] = {
+		["d3368pnilu3368cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
 				},
 			},
-			["name"] = "Lights Instrument Brightnes Up",
+			["name"] = "UHF ARC-159 1 MHz Switch Up",
 		},
-		["d3651pnilunilcd11vd-1vpnilvu0"] = {
+		["d3369pnilu3369cd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN29",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
 				},
 			},
-			["name"] = "Lights Console Brightnes Down",
+			["name"] = "UHF ARC-159 0.1 MHz Switch Down",
 		},
-		["d3651pnilunilcd11vd1vpnilvu0"] = {
+		["d3369pnilu3369cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN30",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
 				},
 			},
-			["name"] = "Lights Console Brightnes Up",
+			["name"] = "UHF ARC-159 0.1 MHz Switch Up",
 		},
-		["d3652pnilunilcd11vd-1vpnilvu0"] = {
+		["d3370pnilu3370cd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
 				},
 			},
-			["name"] = "Lights Formation Brightnes Down",
+			["name"] = "UHF ARC-159 0.025 MHz Switch Down",
 		},
-		["d3652pnilunilcd11vd1vpnilvu0"] = {
+		["d3370pnilu3370cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN32",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
 				},
 			},
-			["name"] = "Lights Formation Brightnes Up",
+			["name"] = "UHF ARC-159 0.025 MHz Switch Up",
 		},
-		["d3654pnilunilcd11vd-1vpnilvu0"] = {
+		["d3374pnilunilcd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
+					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "Lights Indexer Brightnes Down",
+			["name"] = "UHF ARC-159 CHAN SEL Dec",
 		},
-		["d3654pnilunilcd11vd1vpnilvu0"] = {
+		["d3374pnilunilcd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "UHF ARC-159 CHAN SEL Inc",
+		},
+		["d3375pnilunilcd3vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
 					["reformers"] = {
 						[1] = "JOY_BTN8",
 					},
 				},
 			},
-			["name"] = "Lights Indexer Brightnes Up",
+			["name"] = "UHF ARC-159 Mode MANUAL",
+		},
+		["d3375pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Mode GUARD",
+		},
+		["d3435pnilunilcd51vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Compass Mode Dec",
+		},
+		["d3435pnilunilcd51vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Compass Mode Inc",
+		},
+		["d3437pnilunilcd51vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Compass N-S Hemisphere Switch Toggle",
+		},
+		["d3653pnilunilcd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Lights Hook Bypass Toggle",
+		},
+		["d3701pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Hook Toggle",
 		},
 	},
 }

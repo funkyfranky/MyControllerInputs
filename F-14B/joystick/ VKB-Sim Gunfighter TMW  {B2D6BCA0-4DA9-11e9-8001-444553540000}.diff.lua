@@ -74,6 +74,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3024pnilu3024cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Wing Sweep Auto Mode",
+		},
+		["d3027pnilu3027cd16vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Wing Sweep Bomb Mode",
+		},
 		["d3078pnilu3078cd57vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -145,6 +161,22 @@ local diff = {
 				},
 			},
 			["name"] = "Trigger First Detent",
+		},
+		["d3126pnilu3126cd57vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "CAGE-SEAM button",
+		},
+		["d3127pnilu3127cd57vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "PLM button",
 		},
 		["dnilp2019u2019cdnilvdnilvp-1vu0"] = {
 			["added"] = {

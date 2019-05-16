@@ -76,6 +76,42 @@ local diff = {
 			},
 			["name"] = "Zoom View",
 		},
+		["a3043cd13"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.1,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Vertical Axis",
+		},
+		["a3044cd13"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.1,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Horizontal Axis",
+		},
 	},
 	["keyDiffs"] = {
 		["d1587pnilunilcdnilvdnilvpnilvunil"] = {
@@ -217,7 +253,7 @@ local diff = {
 		["d3024pnilu3024cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "Radar Elevation Control - Up",
@@ -225,7 +261,7 @@ local diff = {
 		["d3025pnilu3025cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "Radar Elevation Control - Down",
@@ -233,7 +269,7 @@ local diff = {
 		["d3027pnilu3027cd13vd0.2vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "COMM Switch - COMM 1",
@@ -241,31 +277,15 @@ local diff = {
 		["d3028pnilu3028cd13vd0.4vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "COMM Switch - COMM 2",
 		},
-		["d3029pnilu3029cd13vd0.6vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "COMM Switch - MIDS A",
-		},
-		["d3030pnilu3030cd13vd0.8vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "COMM Switch - MIDS B",
-		},
 		["d3032pnilu3032cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN11",
 				},
 			},
 			["name"] = "Dispense Switch - Forward(CHAFF)/Center(OFF)",
@@ -273,7 +293,7 @@ local diff = {
 		["d3033pnilu3033cd13vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "Dispense Switch - Aft(FLARE)/Center(OFF)",

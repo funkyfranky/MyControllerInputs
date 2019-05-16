@@ -16,37 +16,37 @@ local diff = {
 				},
 			},
 		},
-		["a3112cd32"] = {
-			["name"] = "Throttle Axis",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-		},
-		["a3123cd35"] = {
-			["name"] = "Rudder Axis",
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
 				},
 			},
 		},
-	},
-	["keyDiffs"] = {
-		["d10006pnilu10007cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapon Fire",
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_Z",
 				},
 			},
 		},
-		["d10008pnilu10009cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapon Release",
+	},
+	["keyDiffs"] = {
+		["d3002pnilu3002cd7vd1vpnilvu0"] = {
+			["name"] = "Weapon Release Button",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Cannon Fire Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
 				},
 			},
 		},

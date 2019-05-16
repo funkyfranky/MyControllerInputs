@@ -37,7 +37,7 @@ local diff = {
 		["d1533pnilunilcd7vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN4",
 					["reformers"] = {
 						[1] = "JOY_BTN8",
 					},
@@ -434,7 +434,7 @@ local diff = {
 		["d3016pnilunilcd7vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN5",
 					["reformers"] = {
 						[1] = "JOY_BTN8",
 					},

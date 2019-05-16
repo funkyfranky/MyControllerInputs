@@ -50,22 +50,6 @@ local diff = {
 			},
 			["name"] = "Master Arm Switch, ON/OFF",
 		},
-		["d3002pnilu3002cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Normal/IR View Toggle",
-		},
-		["d3003pnilu3003cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "VCB Zoom +",
-		},
 		["d3003pnilu3003cd26vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -73,14 +57,6 @@ local diff = {
 				},
 			},
 			["name"] = "Pilot Sight Deploy/Retract",
-		},
-		["d3004pnilu3004cd16vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "VCB Zoom -",
 		},
 		["d3005pnilu3005cd13vd1vpnilvunil"] = {
 			["added"] = {

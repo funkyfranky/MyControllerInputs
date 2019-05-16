@@ -134,6 +134,22 @@ local diff = {
 			},
 			["name"] = "UFC COMM 1 Channel Selector Knob - PULL",
 		},
+		["d3009pnilu3009cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Windshield Anti-Ice/Rain Switch - RAIN/OFF",
+		},
+		["d3009pnilu3009cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Windshield Anti-Ice/Rain Switch - ANTI ICE/OFF",
+		},
 		["d3009pnilu3009cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -155,6 +171,22 @@ local diff = {
 				},
 			},
 			["name"] = "Selective Jettison Pushbutton",
+		},
+		["d3014pnilu3014cd12vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Engine Anti-Ice Switch - TEST/OFF",
+		},
+		["d3014pnilu3014cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Engine Anti-Ice Switch - ON/OFF",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

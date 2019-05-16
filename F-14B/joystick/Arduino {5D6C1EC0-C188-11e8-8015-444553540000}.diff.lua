@@ -34,21 +34,81 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3374pnilunilcd3vd-1vpnilvu0"] = {
+		["d3327pnilunilcd47vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "TACAN Function Dec",
+		},
+		["d3327pnilunilcd47vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "TACAN Function Inc",
+		},
+		["d3331pnilunilcd47vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "TACAN Channel 10 Dec",
+		},
+		["d3331pnilunilcd47vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "TACAN Channel 10 Inc",
+		},
+		["d3333pnilunilcd47vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "UHF ARC-159 CHAN SEL Dec",
+			["name"] = "TACAN Channel 1 Dec",
 		},
-		["d3374pnilunilcd3vd1vpnilvu0"] = {
+		["d3333pnilunilcd47vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "UHF ARC-159 CHAN SEL Inc",
+			["name"] = "TACAN Channel 1 Inc",
+		},
+		["d3371pnilunilcd3vd0.66666666666667vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Function MAIN",
+		},
+		["d3371pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Function ADF",
 		},
 	},
 }

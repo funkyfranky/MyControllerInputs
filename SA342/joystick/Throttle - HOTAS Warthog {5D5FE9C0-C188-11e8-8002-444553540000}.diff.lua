@@ -82,7 +82,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "SA342 VHF AM Communication menu",
+			["name"] = "Radios Communication Menu Toggle",
 		},
 		["d3001pnilunilcd100vd1vpnilvunil"] = {
 			["added"] = {
