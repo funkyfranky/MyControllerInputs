@@ -85,15 +85,23 @@ local diff = {
 		["d3130pnilu3130cd55vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "Gun rate toggle",
 		},
+		["d3134pnilunilcd55vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "ACM cover toggle",
+		},
 		["d3139pnilu3139cd55vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "AIM-9 cooling toggle",
@@ -101,7 +109,7 @@ local diff = {
 		["d3140pnilu3140cd55vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "Missile prepare toggle",

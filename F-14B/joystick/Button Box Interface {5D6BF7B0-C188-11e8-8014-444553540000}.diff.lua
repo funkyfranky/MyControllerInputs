@@ -91,28 +91,6 @@ local diff = {
 			},
 			["name"] = "Crank Left Engine",
 		},
-		["d3076pnilunilcd10vd0.090909090909091vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Master Test Selector 01/11",
-		},
-		["d3076pnilunilcd10vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Master Test Selector 00/11",
-		},
 		["d3077pnilu3077cd10vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -147,6 +125,30 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency Jettison",
+		},
+		["d3143pnilu3143cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Target designate up / VSL HI",
+		},
+		["d3144pnilu3144cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Target designate fwd / PAL",
+		},
+		["d3145pnilu3145cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Target designate down / VSL LO",
 		},
 		["d3182pnilu3182cd11vd-1vpnilvu0"] = {
 			["added"] = {
@@ -466,6 +468,28 @@ local diff = {
 				},
 			},
 			["name"] = "Hook Toggle",
+		},
+		["dnilp3076u3076cd10vdnilvp-0.090909090909091vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Master Test Selector Decrease",
+		},
+		["dnilp3076u3076cd10vdnilvp0.090909090909091vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "Master Test Selector Increase",
 		},
 	},
 }

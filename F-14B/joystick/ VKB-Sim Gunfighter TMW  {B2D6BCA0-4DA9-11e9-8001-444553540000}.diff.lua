@@ -98,6 +98,14 @@ local diff = {
 			},
 			["name"] = "Store Release",
 		},
+		["d3079pnilunilcd55vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Weapon Selector Sparrow or Phoenix Missiles",
+		},
 		["d3080pnilu3080cd57vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -117,7 +125,7 @@ local diff = {
 		["d3082pnilu3082cd57vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Weapon Selector press",
@@ -126,6 +134,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",
+				},
+				[2] = {
+					["key"] = "JOY_BTN19",
 				},
 			},
 			["name"] = "DLC Toggle / Countermeasure Dispense",
