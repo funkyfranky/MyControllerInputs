@@ -205,18 +205,18 @@ local diff = {
 		["d3037pnilu3037cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "ATC Engage/Disengage Switch",
 		},
-		["d3042pnilunilcd13vd1vpnilvunil"] = {
+		["d3045pnilu3045cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Exterior Lights Switch - ON/OFF",
+			["name"] = "Sensor Control Switch - Depress",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

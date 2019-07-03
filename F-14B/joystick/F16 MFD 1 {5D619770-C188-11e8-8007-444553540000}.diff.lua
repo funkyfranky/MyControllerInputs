@@ -66,6 +66,14 @@ local diff = {
 			},
 			["name"] = "Catapult Shoot",
 		},
+		["d3056pnilu3056cd34vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Master Caution Reset",
+		},
 		["d3063pnilu3063cd20vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
