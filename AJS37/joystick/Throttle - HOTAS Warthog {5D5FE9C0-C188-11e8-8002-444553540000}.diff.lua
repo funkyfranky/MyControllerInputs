@@ -92,7 +92,7 @@ local diff = {
 					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "RWR KB Off/Lights",
+			["name"] = "KB Off/Lights",
 		},
 		["d3001pnilunilcd100vd1vpnilvunil"] = {
 			["added"] = {
@@ -134,14 +134,6 @@ local diff = {
 			},
 			["name"] = "A0 Mode (Three position switch)",
 		},
-		["d3002pnilu3004cd28vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Countermeasure dispense Kont/Off",
-		},
 		["d3002pnilunilcd100vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -156,7 +148,7 @@ local diff = {
 					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "RWR KB Lights+Sound/Lights",
+			["name"] = "KB Lights+Sound/Lights",
 		},
 		["d3003pnilu3003cd18vd1vpnilvu0"] = {
 			["added"] = {
@@ -165,14 +157,6 @@ local diff = {
 				},
 			},
 			["name"] = "Ignition System Man/Aut",
-		},
-		["d3003pnilu3004cd28vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Countermeasure dispense Int/Off",
 		},
 		["d3004pnilu3003cd23vd1vpnilvu1"] = {
 			["added"] = {
@@ -269,6 +253,22 @@ local diff = {
 				},
 			},
 			["name"] = "Canopy Close/Center",
+		},
+		["d3500pnilu3500cd28vd0vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Countermeasure Dispense - Press: Int Release: Off",
+		},
+		["d3500pnilu3500cd28vd0vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Countermeasure Dispense - Press: Kont Release: Off",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",

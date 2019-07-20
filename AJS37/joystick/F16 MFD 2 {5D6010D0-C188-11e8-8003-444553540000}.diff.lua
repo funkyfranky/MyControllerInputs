@@ -96,7 +96,7 @@ local diff = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Navigationpanel Waypoint BX",
+			["name"] = "Navigation panel Waypoint Bx",
 		},
 		["d3011pnilu3011cd12vd1vpnilvu0"] = {
 			["added"] = {

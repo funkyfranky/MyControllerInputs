@@ -80,15 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Radar T1/T0 Fix (first detent)",
-		},
-		["d3007pnilu3005cd23vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Radar TV/T0 Fix (second detent)",
+			["name"] = "T1 Fix (Two-stage trigger middle position)",
 		},
 		["d3090pnilu3090cd22vd1vpnilvu0"] = {
 			["added"] = {

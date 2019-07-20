@@ -126,7 +126,7 @@ local diff = {
 					["key"] = "Num+",
 				},
 			},
-			["name"] = "Navigationpanel Button L MÅL",
+			["name"] = "Navigation panel Waypoint L MÅL",
 		},
 		["d3008pnilunilcd23vd0vpnilvunil"] = {
 			["added"] = {
@@ -150,7 +150,7 @@ local diff = {
 					["key"] = "NumEnter",
 				},
 			},
-			["name"] = "Navigationpanel Button LS",
+			["name"] = "Navigation panel Waypoint LS SKU",
 		},
 		["d3010pnilu3010cd12vd1vpnilvu0"] = {
 			["added"] = {
@@ -161,7 +161,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Navigationpanel Waypoint BX",
+			["name"] = "Navigation panel Waypoint Bx",
 		},
 		["d3020pnilu3020cd12vd1vpnilvu0"] = {
 			["added"] = {

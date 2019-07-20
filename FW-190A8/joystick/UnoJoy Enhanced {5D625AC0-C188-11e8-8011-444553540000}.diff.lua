@@ -33,5 +33,151 @@ local diff = {
 			},
 		},
 	},
+	["keyDiffs"] = {
+		["d3003pnilu3003cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Stopwatch",
+		},
+		["d3005pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Magneto Switch Backward",
+		},
+		["d3005pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Magneto Switch Forward",
+		},
+		["d3005pnilunilcd6vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Fuel Selector Valve Down",
+		},
+		["d3005pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Fuel Selector Valve Up",
+		},
+		["d3008pnilu3043cd1vd1vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "CB Navigation Lights ON/OFF",
+		},
+		["d3014pnilu3014cd20vd1vpnilvu0"] = {
+			["name"] = "Input.FW190A8.trigger_b2",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
+		["d3014pnilu3049cd1vd1vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "CB Generator ON/OFF",
+		},
+		["d3015pnilu3050cd1vd1vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "CB Battery ON/OFF",
+		},
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["name"] = "Input.FW190A8.trigger_b1",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Input.FW190A8.trigger_a",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
+		["dnilp210u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UR",
+				},
+			},
+		},
+		["dnilp213u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UL",
+				},
+			},
+		},
+		["dnilp3002unilcd3vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Canopy Opening",
+		},
+		["dnilp3002unilcd3vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Canopy Closing",
+		},
+		["dnilp32u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+		},
+		["dnilp33u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+		},
+		["dnilp34u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+		},
+	},
 }
 return diff

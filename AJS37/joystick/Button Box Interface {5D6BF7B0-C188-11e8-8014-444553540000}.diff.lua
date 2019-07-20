@@ -42,6 +42,14 @@ local diff = {
 			},
 			["name"] = "Missile Select Button (IR-RB FRAMSTEGN) Depress/Release",
 		},
+		["d3001pnilu3001cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Thrust Reverser On/Off",
+		},
 		["d3002pnilu3002cd26vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -49,14 +57,6 @@ local diff = {
 				},
 			},
 			["name"] = "Check indicator lights",
-		},
-		["d3003pnilu3003cd19vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Backup Generator On/Off",
 		},
 		["d3004pnilu3004cd18vd1vpnilvu0"] = {
 			["added"] = {
@@ -285,7 +285,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Anti Jamming Mode (AS) Selector 1",
+			["name"] = "Radar AS1",
 		},
 		["d3208pnilunilcd5vd0vpnilvunil"] = {
 			["added"] = {
@@ -296,7 +296,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Anti Jamming Mode (AS) Selector 0",
+			["name"] = "Radar AS0",
 		},
 		["d3210pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
@@ -401,14 +401,6 @@ local diff = {
 				},
 			},
 			["name"] = "Max G Reset Depress/Release",
-		},
-		["d3802pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Clock Stopwatch Start/Stop/Reset",
 		},
 		["d3905pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {

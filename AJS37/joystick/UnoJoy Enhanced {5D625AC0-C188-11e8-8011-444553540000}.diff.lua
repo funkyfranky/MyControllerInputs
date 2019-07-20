@@ -188,7 +188,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Emergency Roll Trim (NÖDTRIM ROLL) Left(V)/Center",
+			["name"] = "Emergency Trim Roll Left",
 		},
 		["d3716pnilu3716cd22vd1vpnilvu0"] = {
 			["added"] = {
@@ -199,7 +199,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Emergency Roll Trim (NÖDTRIM ROLL) Right(H)/Center",
+			["name"] = "Emergency Trim Roll Rght",
 		},
 		["d3717pnilu3717cd22vd-1vpnilvu0"] = {
 			["added"] = {
