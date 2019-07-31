@@ -94,6 +94,22 @@ local diff = {
 			},
 			["name"] = "Master Mode Button - A/A",
 		},
+		["d3001pnilu3001cd62vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "FLIR Switch OFF/STBY",
+		},
+		["d3001pnilu3001cd62vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "FLIR Switch ON/STBY",
+		},
 		["d3002pnilu3002cd23vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -101,6 +117,22 @@ local diff = {
 				},
 			},
 			["name"] = "Master Mode Button - A/G",
+		},
+		["d3002pnilu3002cd62vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "LTD/R Switch AFT/SAFE",
+		},
+		["d3002pnilu3002cd62vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "LTD/R Switch ARM/SAFE",
 		},
 		["d3004pnilu3004cd5vd1vpnilvu0"] = {
 			["added"] = {
@@ -118,6 +150,22 @@ local diff = {
 			},
 			["name"] = "LDG/TAXI LIGHT Switch ON/OFF",
 		},
+		["d3004pnilu3004cd9vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "MODE Switch - DAY/NITE",
+		},
+		["d3004pnilu3004cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "MODE Switch - NVG/NITE",
+		},
 		["d3008pnilu3008cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -134,18 +182,10 @@ local diff = {
 			},
 			["name"] = "UFC COMM 1 Channel Selector Knob - PULL",
 		},
-		["d3009pnilu3009cd11vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Windshield Anti-Ice/Rain Switch - RAIN/OFF",
-		},
 		["d3009pnilu3009cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN13",
 				},
 			},
 			["name"] = "Windshield Anti-Ice/Rain Switch - ANTI ICE/OFF",
@@ -161,6 +201,14 @@ local diff = {
 			},
 			["name"] = "UFC COMM 2 Channel Selector Knob - PULL",
 		},
+		["d3009pnilunilcd11vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Windshield Anti-Ice/Rain Switch - RAIN",
+		},
 		["d3010pnilu3010cd23vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -175,7 +223,7 @@ local diff = {
 		["d3014pnilu3014cd12vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "Engine Anti-Ice Switch - TEST/OFF",
@@ -183,7 +231,7 @@ local diff = {
 		["d3014pnilu3014cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "Engine Anti-Ice Switch - ON/OFF",

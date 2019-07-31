@@ -230,7 +230,7 @@ local diff = {
 		["d3004pnilu3004cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN10",
 					["reformers"] = {
 						[1] = "JOY_BTN8",
 					},
@@ -293,7 +293,7 @@ local diff = {
 		["d3007pnilu3007cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN9",
 					["reformers"] = {
 						[1] = "JOY_BTN8",
 					},
@@ -389,17 +389,6 @@ local diff = {
 				},
 			},
 			["name"] = "Arresting Hook Handle - Cycle",
-		},
-		["d3014pnilu3014cd12vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Engine Anti-Ice Switch - ON/OFF",
 		},
 		["d3014pnilu3014cd25vd1vpnilvu0"] = {
 			["added"] = {
