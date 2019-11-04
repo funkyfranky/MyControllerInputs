@@ -45,30 +45,6 @@ local diff = {
 			},
 			["name"] = "Hydraulic Hand Pump 1/0",
 		},
-		["d3034pnilunilcd21vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "AFCS Pitch Stabilisation On",
-		},
-		["d3035pnilunilcd21vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "AFCS Roll Stabilisation On",
-		},
-		["d3036pnilunilcd21vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "AFCS Yaw Stabilisation On",
-		},
 		["d3051pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -453,14 +429,6 @@ local diff = {
 			},
 			["name"] = "Compass N-S Hemisphere Switch Toggle",
 		},
-		["d3653pnilunilcd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Lights Hook Bypass Toggle",
-		},
 		["d3701pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -468,6 +436,30 @@ local diff = {
 				},
 			},
 			["name"] = "Hook Toggle",
+		},
+		["d3713pnilunilcd21vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "AFCS Pitch Stabilisation Toggle",
+		},
+		["d3714pnilunilcd21vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "AFCS Roll Stabilisation Toggle",
+		},
+		["d3715pnilunilcd21vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "AFCS Yaw Stabilisation Toggle",
 		},
 		["dnilp3076u3076cd10vdnilvp-0.090909090909091vu0"] = {
 			["added"] = {

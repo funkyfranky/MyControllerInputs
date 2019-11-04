@@ -42,6 +42,28 @@ local diff = {
 			},
 			["name"] = "Right MFD OSB 1",
 		},
+		["d3002p3005u3002cd47vd1vp-0.3vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "SAI Cage Knob PULL/CCW",
+		},
+		["d3002p3005u3002cd47vd1vp0.3vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+					["reformers"] = {
+						[1] = "JOY_BTN8",
+					},
+				},
+			},
+			["name"] = "SAI Cage Knob PULL/CW",
+		},
 		["d3002pnilu3002cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -194,69 +216,133 @@ local diff = {
 			},
 			["name"] = "Right MFD OSB 20",
 		},
-		["d3021pnilu3021cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Right MFD GAIN Rocker Switch - Up/Increase",
-		},
-		["d3022pnilu3022cd25vd-1vpnilvu0"] = {
+		["d3021pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "Right MFD GAIN Rocker Switch - Down/Decrease",
+			["name"] = "HUD DED/PFLD Data Switch - Down",
 		},
-		["d3023pnilu3023cd25vd1vpnilvu0"] = {
+		["d3021pnilunilcd19vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "Right MFD SYM Rocker Switch - Up/Increase",
+			["name"] = "HUD DED/PFLD Data Switch - Up",
 		},
-		["d3024pnilu3024cd25vd-1vpnilvu0"] = {
+		["d3022pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN22",
 				},
 			},
-			["name"] = "Right MFD SYM Rocker Switch - Down/Decrease",
+			["name"] = "HUD Depressible Reticle Switch - Down",
 		},
-		["d3025pnilu3025cd25vd1vpnilvu0"] = {
+		["d3022pnilunilcd19vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "Right MFD CON Rocker Switch - Up/Increase",
+			["name"] = "HUD Depressible Reticle Switch - Up",
 		},
-		["d3026pnilu3026cd25vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Right MFD CON Rocker Switch - Down/Decrease",
-		},
-		["d3027pnilu3027cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Right MFD BRT Rocker Switch - Up/Increase",
-		},
-		["d3028pnilu3028cd25vd-1vpnilvu0"] = {
+		["d3023pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "Right MFD BRT Rocker Switch - Down/Decrease",
+			["name"] = "HUD Velocity Switch - Down",
+		},
+		["d3023pnilunilcd19vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "HUD Velocity Switch - Up",
+		},
+		["d3025pnilunilcd19vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "HUD Brightness Control Switch - Down",
+		},
+		["d3025pnilunilcd19vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "HUD Brightness Control Switch - Up",
+		},
+		["dnilp210u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UR",
+				},
+			},
+		},
+		["dnilp211u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DR",
+				},
+			},
+		},
+		["dnilp212u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DL",
+				},
+			},
+		},
+		["dnilp213u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UL",
+				},
+			},
+		},
+		["dnilp32u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+		},
+		["dnilp33u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+		},
+		["dnilp34u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+		},
+		["dnilp35u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
 		},
 	},
 }

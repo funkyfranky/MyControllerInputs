@@ -24,8 +24,68 @@ local diff = {
 				},
 			},
 		},
+		["a2012cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "Zoom View",
+		},
+		["a3046cd16"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0.15,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "RDR CURSOR Switch - Y axis",
+		},
+		["a3047cd16"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0.15,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "RDR CURSOR Switch - X axis",
+		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilu3001cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Master Caution Button",
+		},
+		["d3001pnilu3001cd28vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Mode (M) Button - Depress",
+		},
 		["d3001pnilu3001cd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -42,29 +102,85 @@ local diff = {
 			},
 			["name"] = "MAIN PWR Switch - MAIN PWR/BATT",
 		},
-		["d3004pnilu3004cd6vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "Engine ANTI ICE Switch - ON/AUTO",
-		},
-		["d3010pnilu3010cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "MANUAL PITCH Override Switch - OVRD/NORM",
-		},
-		["d3014pnilunilcd4vd1vpnilvunil"] = {
+		["d3002pnilu3002cd19vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "TANK INERTING Switch - TANK INERTING /OFF",
+			["name"] = "MASTER ARM Switch - MASTER ARM/OFF",
+		},
+		["d3003pnilu3003cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "ANTI-SKID Switch - Up",
+		},
+		["d3004pnilu3004cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "LASER ARM Switch ARM/OFF",
+		},
+		["d3004pnilu3004cd7vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "ANTI-SKID Switch - OFF/ANTI-SKID",
+		},
+		["d3008pnilu3008cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "LANDING TAXI LIGHTS Switch - TAXI/OFF",
+		},
+		["d3008pnilu3008cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "LANDING TAXI LIGHTS Switch - LANDING/OFF",
+		},
+		["d3008pnilu3008cd4vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "AIR REFUEL Switch OPEN/CLOSE",
+		},
+		["d3008pnilu3008cd6vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "ENG CONT Switch SEC/PRI",
+		},
+		["d3009pnilu3009cd6vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "MAX POWER Switch ON/OFF",
+		},
+		["d3017pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "ENG CONT Switch Cover - OPEN/CLOSE",
 		},
 		["d3024pnilu3024cd16vd1vpnilvu0"] = {
 			["added"] = {
@@ -170,13 +286,13 @@ local diff = {
 			},
 			["name"] = "Throttle - OFF/IDLE",
 		},
-		["d68pnilunilcdnilvdnilvpnilvunil"] = {
+		["d430pnilu431cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN20",
 				},
 			},
-			["name"] = "LG Handle - UP/DN",
+			["name"] = "LG Handle UP/DOWN",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

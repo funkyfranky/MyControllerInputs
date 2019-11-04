@@ -88,7 +88,7 @@ local diff = {
 			},
 			["name"] = "TACAN Channel 1 Inc",
 		},
-		["d3371pnilunilcd3vd0.66666666666667vpnilvunil"] = {
+		["d3371pnilunilcd3vd0.33333333333333vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
@@ -97,9 +97,9 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "UHF ARC-159 Function MAIN",
+			["name"] = "UHF ARC-159 Function BOTH",
 		},
-		["d3371pnilunilcd3vd0vpnilvunil"] = {
+		["d3371pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
@@ -108,7 +108,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "UHF ARC-159 Function ADF",
+			["name"] = "UHF ARC-159 Function OFF",
 		},
 	},
 }

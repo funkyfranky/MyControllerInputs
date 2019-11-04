@@ -35,16 +35,6 @@ local diff = {
 		["a2005cdnil"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 0.9,
-						["slider"] = true,
-					},
 					["key"] = "JOY_RZ",
 				},
 			},
@@ -53,16 +43,6 @@ local diff = {
 		["a2006cdnil"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 0.9,
-						["slider"] = true,
-					},
 					["key"] = "JOY_Z",
 				},
 			},
