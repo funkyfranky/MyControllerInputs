@@ -358,6 +358,28 @@ local diff = {
 			},
 			["name"] = "UHF ARC-159 0.025 MHz Switch Up",
 		},
+		["d3372pnilunilcd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Function Dec",
+		},
+		["d3372pnilunilcd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Function Inc",
+		},
 		["d3374pnilunilcd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -395,6 +417,28 @@ local diff = {
 				},
 			},
 			["name"] = "UHF ARC-159 Mode GUARD",
+		},
+		["d3376pnilunilcd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Mode Dec",
+		},
+		["d3376pnilunilcd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UHF ARC-159 Mode Inc",
 		},
 		["d3435pnilunilcd51vd-1vpnilvu0"] = {
 			["added"] = {

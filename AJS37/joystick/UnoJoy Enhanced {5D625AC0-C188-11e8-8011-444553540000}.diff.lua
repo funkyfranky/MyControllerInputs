@@ -62,6 +62,28 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3010pnilunilcd23vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "LWin",
+					},
+				},
+			},
+			["name"] = "Select Data Cartridge - Down",
+		},
+		["d3010pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+					["reformers"] = {
+						[1] = "LWin",
+					},
+				},
+			},
+			["name"] = "Select Data Cartridge - Up",
+		},
 		["d3200pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

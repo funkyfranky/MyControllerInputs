@@ -234,7 +234,7 @@ local diff = {
 		["d439pnilu440cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "A-4 Sight Electrical Caging Button (On Throttle)",

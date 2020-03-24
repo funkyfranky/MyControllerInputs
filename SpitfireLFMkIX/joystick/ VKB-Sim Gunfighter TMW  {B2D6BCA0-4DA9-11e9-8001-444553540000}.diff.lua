@@ -109,7 +109,7 @@ local diff = {
 		["d3030pnilu3030cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "Trim Elevator NOSE DOWN",
@@ -117,7 +117,7 @@ local diff = {
 		["d3032pnilu3032cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 			["name"] = "Trim Elevator NOSE UP",

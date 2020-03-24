@@ -24,137 +24,119 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd4"] = {
+		["a2012cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RY",
+					["key"] = "JOY_SLIDER1",
 				},
 			},
-			["name"] = "LH Dashboard Lamp Brightness (analog)",
+			["name"] = "Zoom View",
 		},
-		["a3005cd2"] = {
-			["name"] = "Throttle (analog)",
+		["a2028cdnil"] = {
+			["name"] = "T6_Axis: Antenna Elevation",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_Z",
+					["key"] = "JOY_RX",
 				},
 			},
-		},
-		["a3006cd4"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "RH Dashboard Lamp Brightness (analog)",
-		},
-		["a3009cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Gun Sight Range (analog)",
-		},
-		["a3012cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Gun Sight Base (analog)",
-		},
-		["a3019cd1"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Compass Course (analog)",
 		},
 	},
 	["keyDiffs"] = {
-		["d3017pnilu3017cd4vd1vpnilvu0"] = {
-			["added"] = {
+		["d10053pnilu10053cdnilvd1vpnilvu0"] = {
+			["name"] = "S3: Weapon Launch",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "I.F.F. Upper Toggle (Type B) On/Off",
 		},
-		["d3019pnilu3019cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "I.F.F. Lower Toggle (Type D) On/Off",
-		},
-		["d3021pnilu3021cd1vd1vpnilvu0"] = {
-			["added"] = {
+		["d10054pnilu10054cdnilvd1vpnilvu0"] = {
+			["name"] = "S4: Fire Main Gun",
+			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "De-Icer Lever Up/Down",
 		},
-		["d3022pnilunilcd2vd1vpnilvunil"] = {
+		["d10065pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
-			["name"] = "Starter Button Cover (toggle)",
+			["name"] = "Master Mode Switch - Next Mode",
 		},
-		["d3023pnilu3023cd2vd1vpnilvu0"] = {
+		["d10066pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "Starter",
+			["name"] = "Master Mode Switch - Prev Mode",
 		},
-		["d3026pnilunilcd2vd1vpnilvunil"] = {
+		["d10067pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "T2_Forward: SPJ Standby/Jam",
+		},
+		["d10068pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "T2_Backward: Countermeasures Dispense",
+		},
+		["d10071pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Booster Coil Button Cover (toggle)",
+			["name"] = "T4_Forward: Radio Comm 1",
 		},
-		["d3027pnilu3027cd2vd1vpnilvu0"] = {
+		["d10072pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Booster Coil",
+			["name"] = "T4_Backward: Radio Comm 2",
 		},
-		["d3041pnilunilcd2vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Drop Tank Fuel Cock OFF",
-		},
-		["d3041pnilunilcd2vd1vpnilvunil"] = {
+		["d10074pnilu10074cdnilvd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Drop Tank Fuel Cock ON",
+			["name"] = "T4_Press: IFF Interrogation Start/Stop",
+		},
+		["d10079pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "T5_Press: Lock Target",
+		},
+		["dnilp10025unilcd39vdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "T3_Forward: Speed Brake On",
+		},
+		["dnilp10026unilcd39vdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "T3_Backward: Speed Brake Off",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -217,14 +199,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_D",
-				},
-			},
-		},
-		["dnilp36unilcdnilvdnilvpnilvunil"] = {
-			["name"] = "View Center",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
 				},
 			},
 		},
