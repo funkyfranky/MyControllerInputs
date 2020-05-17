@@ -195,7 +195,7 @@ local diff = {
 			["name"] = "Throttle STOP/IDLE",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.FW190A8.trigger_a",
+			["name"] = "Fire Machineguns (A)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",

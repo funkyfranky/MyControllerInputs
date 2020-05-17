@@ -56,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "Input.FW190A8.trigger_b2",
+			["name"] = "Bomb Release (B2)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
@@ -69,7 +69,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Input.FW190A8.trigger_t",
+			["name"] = "Gun Camera (T)",
 		},
 		["d3019pnilunilcd20vd1vpnilvunil"] = {
 			["added"] = {
@@ -77,7 +77,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Input.FW190A8.safety",
+			["name"] = "Guns Safety Lever (toggle)",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

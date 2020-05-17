@@ -43,7 +43,7 @@ local diff = {
 			["name"] = "Circuit Breakers Fore Cover (toggle)",
 		},
 		["d3014pnilu3014cd20vd1vpnilvu0"] = {
-			["name"] = "Input.FW190A8.trigger_b2",
+			["name"] = "Bomb Release (B2)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
@@ -219,7 +219,7 @@ local diff = {
 			["name"] = "CB FuG 25a IFF Self-Destruct (toggle)",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.FW190A8.trigger_b1",
+			["name"] = "Fire Cannons (B)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -227,7 +227,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.FW190A8.trigger_a",
+			["name"] = "Fire Machineguns (A)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
