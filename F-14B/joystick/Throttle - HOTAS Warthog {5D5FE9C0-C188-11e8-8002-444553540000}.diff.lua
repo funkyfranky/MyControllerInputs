@@ -325,22 +325,6 @@ local diff = {
 			},
 			["name"] = "MASTER RESET",
 		},
-		["d3066pnilu3066cd20vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Wing/External Transfer Off, else Auto",
-		},
-		["d3066pnilu3066cd20vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Wing/External Transfer Oride, else Auto",
-		},
 		["d3126pnilu3126cd57vd1vpnilvu0"] = {
 			["name"] = "CAGE-SEAM button",
 			["removed"] = {
@@ -405,14 +389,6 @@ local diff = {
 				},
 			},
 		},
-		["d3171pnilu3171cd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Taxi Light 1/0",
-		},
 		["d3371pnilunilcd3vd0.33333333333333vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -458,7 +434,7 @@ local diff = {
 				},
 			},
 		},
-		["d3640pnilu3640cd11vd1vpnilvu0"] = {
+		["d3653pnilu3653cd11vd1vpnilvu0"] = {
 			["name"] = "Exterior Lights Master Switch ON (pressed) / OFF (released)",
 			["removed"] = {
 				[1] = {
@@ -466,13 +442,13 @@ local diff = {
 				},
 			},
 		},
-		["d3640pnilu3640cd11vd1vpnilvunil"] = {
+		["d3654pnilunilcd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Exterior Lights Master Switch OFF/ON",
+			["name"] = "Exterior Lights Master Switch Toggle",
 		},
 	},
 }

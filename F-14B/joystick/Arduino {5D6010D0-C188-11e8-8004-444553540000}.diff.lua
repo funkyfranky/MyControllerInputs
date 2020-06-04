@@ -106,14 +106,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3013pnilu3013cd17vd0vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Parking brake enabled, else disabed",
-		},
 		["d3014pnilu3014cd17vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -137,6 +129,22 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency Wing Sweep to 68°, Lock & Close",
+		},
+		["d3066pnilu3066cd20vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Wing/External Transfer Off, else Auto",
+		},
+		["d3066pnilu3066cd20vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Wing/External Transfer Oride, else Auto",
 		},
 		["d3067pnilu3067cd20vd1vpnilvu-1"] = {
 			["added"] = {
@@ -162,21 +170,29 @@ local diff = {
 			},
 			["name"] = "Refuel Probe extend & Refuel All, else Refuel Fuselage",
 		},
-		["d3172pnilu3172cd11vd-1vpnilvu0"] = {
+		["d3171pnilu3171cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Red Flood Light -1/0",
+			["name"] = "Taxi Light 1/0",
 		},
 		["d3172pnilu3172cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "Red Flood Light 1/0",
+		},
+		["d3173pnilu3173cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "White Flood Light 1/0",
 		},
 		["d3174pnilu3174cd11vd1vpnilvu0"] = {
 			["added"] = {
@@ -186,6 +202,14 @@ local diff = {
 			},
 			["name"] = "Position Lights Wing 1/0",
 		},
+		["d3174pnilunilcd11vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Lights Position Wing DIM",
+		},
 		["d3175pnilu3175cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -193,6 +217,14 @@ local diff = {
 				},
 			},
 			["name"] = "Position Lights Tail 1/0",
+		},
+		["d3175pnilunilcd11vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Lights Position Tail DIM",
 		},
 		["d3177pnilu3177cd11vd1vpnilvu0"] = {
 			["added"] = {
@@ -220,22 +252,6 @@ local diff = {
 				},
 			},
 			["name"] = "TACAN MODE X/Y Toggle",
-		},
-		["d3645pnilunilcd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Lights Position Wing Toggle",
-		},
-		["d3646pnilunilcd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Lights Position Tail Toggle",
 		},
 		["dnilp3030u3029cd16vdnilvp0vu0"] = {
 			["added"] = {

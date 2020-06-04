@@ -45,6 +45,17 @@ local diff = {
 			},
 			["name"] = "Ejection Seat SAFE/ARMED Handle - SAFE/ARMED",
 		},
+		["d238pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "Pilot Salute",
+		},
 		["d3001pnilu3001cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

@@ -34,46 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3070pnilunilcd56vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Play",
-		},
-		["d3071pnilunilcd56vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Stop",
-		},
-		["d3073pnilunilcd56vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Fast Backward",
-		},
-		["d3074pnilunilcd56vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Volume Up",
-		},
-		["d3075pnilunilcd56vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Volume Down",
-		},
 		["d3076pnilunilcd10vd0.090909090909091vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -151,29 +111,93 @@ local diff = {
 			},
 			["name"] = "Master Test Selector Push 1",
 		},
-		["d3228pnilunilcd40vd0vpnilvunil"] = {
+		["d3216pnilunilcd40vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Display mode takeoff",
+		},
+		["d3217pnilunilcd40vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Display mode cruise",
+		},
+		["d3218pnilunilcd40vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN18",
 				},
 			},
-			["name"] = "HUD filter OFF",
+			["name"] = "Display mode air to air",
 		},
-		["d3228pnilunilcd40vd1vpnilvunil"] = {
+		["d3219pnilunilcd40vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "HUD filter ON",
+			["name"] = "Display mode air to ground",
 		},
-		["d438pnilunilcdnilvdnilvpnilvunil"] = {
+		["d3220pnilunilcd40vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "Night Vision Goggles",
+			["name"] = "Display mode landing",
+		},
+		["d3314pnilu3314cd46vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "STEER CMD TACAN",
+		},
+		["d3315pnilu3315cd46vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "STEER CMD Destination",
+		},
+		["d3316pnilu3316cd46vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "STEER CMD VEC",
+		},
+		["d3317pnilu3317cd46vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "STEER CMD MAN",
+		},
+		["d3318pnilu3318cd46vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "STEER CMD AWL/PCD",
+		},
+		["d3659pnilunilcd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Lights Position Tail Toggle",
 		},
 		["dnilp3484u3484cd29vdnilvp-0.01vu0"] = {
 			["added"] = {

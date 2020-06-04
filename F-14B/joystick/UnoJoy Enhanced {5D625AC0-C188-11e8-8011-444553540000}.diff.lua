@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3131cd55"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Gun Elevation Lead Adjustment",
+		},
 		["a3178cd11"] = {
 			["added"] = {
 				[1] = {

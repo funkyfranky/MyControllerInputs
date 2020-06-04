@@ -8,22 +8,6 @@ local diff = {
 				},
 			},
 		},
-		["d3656pnilunilcd62vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Space",
-				},
-			},
-			["name"] = "Check",
-		},
-		["d3657pnilunilcd62vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Enter",
-				},
-			},
-			["name"] = "Loud and Clear",
-		},
 	},
 }
 return diff

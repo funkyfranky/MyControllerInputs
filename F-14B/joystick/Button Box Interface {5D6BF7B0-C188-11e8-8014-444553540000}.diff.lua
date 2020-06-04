@@ -473,15 +473,7 @@ local diff = {
 			},
 			["name"] = "Compass N-S Hemisphere Switch Toggle",
 		},
-		["d3701pnilunilcd17vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Hook Toggle",
-		},
-		["d3713pnilunilcd21vd1vpnilvunil"] = {
+		["d3726pnilunilcd21vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN6",
@@ -489,7 +481,7 @@ local diff = {
 			},
 			["name"] = "AFCS Pitch Stabilisation Toggle",
 		},
-		["d3714pnilunilcd21vd1vpnilvunil"] = {
+		["d3727pnilunilcd21vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
@@ -497,7 +489,7 @@ local diff = {
 			},
 			["name"] = "AFCS Roll Stabilisation Toggle",
 		},
-		["d3715pnilunilcd21vd1vpnilvunil"] = {
+		["d3728pnilunilcd21vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN8",
