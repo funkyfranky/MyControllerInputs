@@ -26,6 +26,28 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3035pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "Undercarriage UP",
+		},
+		["d3035pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "Undercarriage DOWN",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Bomb Release",
 			["removed"] = {
@@ -73,6 +95,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3011unilcd2vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Altimeter Set Pressure DECREASE",
+		},
+		["dnilp3011unilcd2vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Altimeter Set Pressure INCREASE",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

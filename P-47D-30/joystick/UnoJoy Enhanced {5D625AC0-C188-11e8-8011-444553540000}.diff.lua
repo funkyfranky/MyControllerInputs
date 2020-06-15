@@ -24,8 +24,124 @@ local diff = {
 				},
 			},
 		},
+		["a3006cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "Instrument UV Left Light (analog)",
+		},
+		["a3008cd3"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "Engine RPM / Propeller Pitch  (analog)",
+		},
+		["a3012cd6"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "K-14 Target span",
+		},
+		["a3019cd21"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Radio Volume (analog)",
+		},
+		["a3021cd6"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "K-14 Range to target",
+		},
 	},
 	["keyDiffs"] = {
+		["d3021pnilu3021cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Starter ENERGIZE",
+		},
+		["d3021pnilu3021cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Starter ENGAGE",
+		},
+		["d3033pnilu3032cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Battery On/Off",
+		},
+		["d3043pnilu3043cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Intercooler Shutter CLOSE",
+		},
+		["d3043pnilu3043cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Intercooler Shutter OPEN",
+		},
+		["d3046pnilu3046cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Oil Cooler Shutter CLOSE",
+		},
+		["d3046pnilu3046cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Oil Cooler Shutter OPEN",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Bomb Release",
 			["removed"] = {

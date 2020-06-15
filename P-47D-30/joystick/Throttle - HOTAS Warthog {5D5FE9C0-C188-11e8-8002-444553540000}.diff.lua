@@ -50,6 +50,86 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1587pnilu1587cdnilvd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Kneeboard glance view",
+		},
+		["d1587pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Kneeboard ON/OFF",
+		},
+		["d1591pnilu1592cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "COMM Push to talk",
+		},
+		["d3001pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Kneeboard Next Page",
+		},
+		["d3002pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Kneeboard Previous Page",
+		},
+		["d3004pnilunilcd13vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Gun Safety Switch Cover (toggle)",
+		},
+		["d3007pnilu3007cd13vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Guns Both/Off",
+		},
+		["d3007pnilu3007cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Guns Cam/Off",
+		},
+		["d3015pnilu3015cd2vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Canopy Electrical Switch CLOSE",
+		},
+		["d3015pnilu3015cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Canopy Electrical Switch OPEN",
+		},
 		["d3031pnilu3031cd2vd0vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {
@@ -66,13 +146,45 @@ local diff = {
 			},
 			["name"] = "Landing Flaps EXTEND (hold) / NEUTRAL (release)",
 		},
-		["d3034pnilu3034cd2vd1vpnilvu0"] = {
+		["d3032pnilu3032cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Cowl Flaps CLOSE",
+		},
+		["d3032pnilu3032cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Cowl Flaps OPEN",
+		},
+		["d3035pnilu3035cd2vd-1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",
 				},
 			},
-			["name"] = "Undercarriage (toggle)",
+			["name"] = "Undercarriage Up/Down",
+		},
+		["d3040pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Interconnect Boost Lever to Throttle (toggle)",
+		},
+		["d3043pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Tail Wheel Lock (toggle)",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Bomb Release",
@@ -121,6 +233,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3007unilcd3vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Engine RPM / Propeller Pitch DECREASE",
+		},
+		["dnilp3007unilcd3vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Engine RPM / Propeller Pitch INCREASE",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

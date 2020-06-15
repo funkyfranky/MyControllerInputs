@@ -74,6 +74,38 @@ local diff = {
 				},
 			},
 		},
+		["dnilp3004unilcd9vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Horizon pitch Decrease",
+		},
+		["dnilp3004unilcd9vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Horizon pitch Increase",
+		},
+		["dnilp3054unilcd2vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Directional Gyro Course DECREASE",
+		},
+		["dnilp3054unilcd2vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Directional Gyro Course INCREASE",
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {
