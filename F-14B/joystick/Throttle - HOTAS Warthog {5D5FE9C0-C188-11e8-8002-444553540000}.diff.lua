@@ -97,7 +97,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN18",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -116,7 +116,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN31",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 						[2] = "RShift",
 					},
 				},
@@ -128,7 +128,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN31",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -147,7 +147,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN28",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -158,7 +158,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN27",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -169,7 +169,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN26",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 						[2] = "RShift",
 					},
 				},
@@ -181,7 +181,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN26",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},

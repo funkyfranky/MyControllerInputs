@@ -239,7 +239,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},

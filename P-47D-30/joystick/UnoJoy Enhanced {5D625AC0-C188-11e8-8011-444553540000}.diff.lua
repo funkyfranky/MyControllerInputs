@@ -126,6 +126,14 @@ local diff = {
 			},
 			["name"] = "Intercooler Shutter OPEN",
 		},
+		["d3046pnilu3046cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Defroster On/Off",
+		},
 		["d3046pnilu3046cd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -141,6 +149,14 @@ local diff = {
 				},
 			},
 			["name"] = "Oil Cooler Shutter OPEN",
+		},
+		["d3049pnilu3049cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Cockpit Ventilation On/Off",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Bomb Release",

@@ -39,7 +39,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -50,7 +50,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -93,7 +93,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -104,7 +104,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
