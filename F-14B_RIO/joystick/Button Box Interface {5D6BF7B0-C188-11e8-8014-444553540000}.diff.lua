@@ -17,5 +17,31 @@ local diff = {
 			},
 		},
 	},
+	["keyDiffs"] = {
+		["d3107pnilunilcd50vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "INS Nav Mode Inc",
+		},
+		["d3108pnilunilcd50vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "INS Nav Mode Dec",
+		},
+		["d3161pnilu3161cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "A2A launch",
+		},
+	},
 }
 return diff
