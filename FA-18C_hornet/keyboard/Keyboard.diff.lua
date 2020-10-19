@@ -80,6 +80,14 @@ local diff = {
 				},
 			},
 		},
+		["d3002pnilu3002cd13vd1vpnilvu0"] = {
+			["name"] = "Gun Trigger - SECOND DETENT (Press to shoot)",
+			["removed"] = {
+				[1] = {
+					["key"] = "Space",
+				},
+			},
+		},
 		["d3003pnilunilcd23vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

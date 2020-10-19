@@ -254,22 +254,6 @@ local diff = {
 			},
 			["name"] = "SPD BRK Switch (special) - Fwd/RETRACT /OFF",
 		},
-		["d3033pnilu3033cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
-				},
-			},
-			["name"] = "ANT ELEV Knob - CW",
-		},
-		["d3034pnilu3034cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
-				},
-			},
-			["name"] = "ANT ELEV Knob - CCW",
-		},
 		["d3039pnilu3039cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

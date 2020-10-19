@@ -264,6 +264,14 @@ local diff = {
 				},
 			},
 		},
+		["d3021pnilu3021cd16vd1vpnilvu0"] = {
+			["name"] = "CAMERA/GUN Trigger - SECOND DETENT",
+			["removed"] = {
+				[1] = {
+					["key"] = "Space",
+				},
+			},
+		},
 		["d3025pnilu3025cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -353,6 +361,14 @@ local diff = {
 					["reformers"] = {
 						[1] = "LCtrl",
 					},
+				},
+			},
+		},
+		["d3039pnilu3039cd16vd1vpnilvu0"] = {
+			["name"] = "ENABLE Switch - Depress",
+			["removed"] = {
+				[1] = {
+					["key"] = "Enter",
 				},
 			},
 		},

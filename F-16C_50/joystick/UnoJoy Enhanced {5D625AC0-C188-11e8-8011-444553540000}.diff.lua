@@ -40,21 +40,13 @@ local diff = {
 			},
 			["name"] = "HMCS SYMBOLOGY INT Knob",
 		},
-		["a3011cd12"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "PRIMARY CONSOLES BRT Knob",
-		},
 		["a3013cd12"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "PRIMARY INST PNL BRT Knob",
+			["name"] = "PRIMARY CONSOLES BRT Knob",
 		},
 		["a3015cd12"] = {
 			["added"] = {
@@ -62,7 +54,7 @@ local diff = {
 					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "PRIMARY DATA ENTRY DISPLAY BRT Knob",
+			["name"] = "PRIMARY INST PNL BRT Knob",
 		},
 		["a3017cd12"] = {
 			["added"] = {
@@ -70,7 +62,7 @@ local diff = {
 					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "FLOOD CONSOLES BRT Knob",
+			["name"] = "PRIMARY DATA ENTRY DISPLAY BRT Knob",
 		},
 		["a3019cd12"] = {
 			["added"] = {
@@ -78,7 +70,7 @@ local diff = {
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "FLOOD INST PNL BRT Knob",
+			["name"] = "FLOOD CONSOLES BRT Knob",
 		},
 	},
 	["keyDiffs"] = {
@@ -127,28 +119,6 @@ local diff = {
 				},
 			},
 			["name"] = "RIGHT HDPT Switch ON/OFF",
-		},
-		["d3016pnilu3016cd10vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Canopy Switch - Down",
-		},
-		["d3016pnilunilcd10vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "Canopy Switch - Up",
 		},
 		["d3019pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {

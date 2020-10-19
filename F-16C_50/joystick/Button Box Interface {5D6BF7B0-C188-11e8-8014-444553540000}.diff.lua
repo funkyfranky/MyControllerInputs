@@ -334,7 +334,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Canopy Handle - DOWN/UP",
+			["name"] = "Canopy Switch - Up",
 		},
 		["d3017pnilunilcd32vd1vpnilvunil"] = {
 			["added"] = {
@@ -343,17 +343,6 @@ local diff = {
 				},
 			},
 			["name"] = "O2 Expendable Category Switch - ON/OFF",
-		},
-		["d3017pnilunilcdnilvd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "RWR Indicator Control POWER Button - Depressed/Released",
 		},
 		["d3018pnilu3018cd17vd1vpnilvu0"] = {
 			["added"] = {

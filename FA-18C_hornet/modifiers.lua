@@ -29,6 +29,11 @@ local modifiers = {
 		["key"] = "LWin",
 		["switch"] = false,
 	},
+	["Mail"] = {
+		["device"] = "Keyboard",
+		["key"] = "Mail",
+		["switch"] = true,
+	},
 	["RAlt"] = {
 		["device"] = "Keyboard",
 		["key"] = "RAlt",

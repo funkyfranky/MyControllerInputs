@@ -118,6 +118,14 @@ local diff = {
 			},
 			["name"] = "Master Mode Button - A/G",
 		},
+		["d3003pnilu3003cd62vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "LST/NFLR Switch ON/OFF",
+		},
 		["d3004pnilu3004cd5vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -149,6 +157,22 @@ local diff = {
 				},
 			},
 			["name"] = "MODE Switch - NVG/NITE",
+		},
+		["d3005pnilu3005cd62vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "LTD/R Switch AFT/SAFE",
+		},
+		["d3005pnilu3005cd62vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "LTD/R Switch ARM/SAFE",
 		},
 		["d3008pnilu3008cd12vd1vpnilvu0"] = {
 			["added"] = {
