@@ -157,7 +157,7 @@ local diff = {
 		["d3014pnilu3014cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN11",
 				},
 			},
 			["name"] = "Engine RPM Decrease",
@@ -165,7 +165,7 @@ local diff = {
 		["d3014pnilu3014cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "Engine RPM Increase",

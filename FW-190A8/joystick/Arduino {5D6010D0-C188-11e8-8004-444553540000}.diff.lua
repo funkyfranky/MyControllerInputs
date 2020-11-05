@@ -24,14 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a3001cd7"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Instrument Lights Brightness",
-		},
 		["a3003cd2"] = {
 			["name"] = "Throttle",
 			["removed"] = {
@@ -130,6 +122,22 @@ local diff = {
 				},
 			},
 		},
+		["dnilp211u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DR",
+				},
+			},
+		},
+		["dnilp212u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DL",
+				},
+			},
+		},
 		["dnilp213u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Left slow",
 			["removed"] = {
@@ -175,6 +183,14 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+		},
+		["dnilp35u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 		},

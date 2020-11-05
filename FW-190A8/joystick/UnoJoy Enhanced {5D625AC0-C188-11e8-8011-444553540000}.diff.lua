@@ -34,14 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3003pnilu3003cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Stopwatch",
-		},
 		["d3005pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -73,6 +65,14 @@ local diff = {
 				},
 			},
 			["name"] = "Fuel Selector Valve Up",
+		},
+		["d3008pnilu3008cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Clock Start/Stop/Reset Chronometer",
 		},
 		["d3008pnilu3043cd1vd1vpnilvu1"] = {
 			["added"] = {

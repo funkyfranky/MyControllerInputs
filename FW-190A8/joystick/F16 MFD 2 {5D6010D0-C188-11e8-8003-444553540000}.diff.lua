@@ -61,7 +61,7 @@ local diff = {
 		["d3079pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN1",
 				},
 			},
 			["name"] = "CB Drop Ordnance & Optional Armament (toggle)",
@@ -69,7 +69,7 @@ local diff = {
 		["d3080pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "CB Gun Sight and Gun Camera (toggle)",
@@ -77,23 +77,15 @@ local diff = {
 		["d3081pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "CB Instruments (toggle)",
 		},
-		["d3082pnilunilcd1vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "CB Navigation Lights (toggle)",
-		},
 		["d3083pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "CB Cabin Illumination (toggle)",
@@ -101,7 +93,7 @@ local diff = {
 		["d3084pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
+					["key"] = "JOY_BTN5",
 				},
 			},
 			["name"] = "CB Clothes Heating (toggle)",
@@ -109,7 +101,7 @@ local diff = {
 		["d3085pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "CB Pitot Heating (toggle)",
@@ -117,7 +109,7 @@ local diff = {
 		["d3086pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "CB Ignition (toggle)",
@@ -125,7 +117,7 @@ local diff = {
 		["d3087pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "CB FuG 25a IFF (toggle)",
@@ -133,7 +125,7 @@ local diff = {
 		["d3095pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "CB FuG 16 ZY Radio (toggle)",
@@ -141,7 +133,7 @@ local diff = {
 		["d3096pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "CB Undercarriage Drives (toggle)",
@@ -149,7 +141,7 @@ local diff = {
 		["d3097pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN19",
 				},
 			},
 			["name"] = "CB Landing Flaps (toggle)",
@@ -157,7 +149,7 @@ local diff = {
 		["d3098pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "CB Prop. Pitch Drive (toggle)",
@@ -165,7 +157,7 @@ local diff = {
 		["d3099pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "CB Prop. Pitch Controls (toggle)",
@@ -173,7 +165,7 @@ local diff = {
 		["d3100pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "CB Stabilizer Trim (toggle)",
@@ -181,7 +173,7 @@ local diff = {
 		["d3101pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "CB Artificial Horizon (toggle)",
@@ -189,7 +181,7 @@ local diff = {
 		["d3102pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN14",
 				},
 			},
 			["name"] = "CB Motor-Generator (toggle)",
@@ -197,7 +189,7 @@ local diff = {
 		["d3103pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN13",
 				},
 			},
 			["name"] = "CB Repeater Compass (toggle)",
@@ -205,7 +197,7 @@ local diff = {
 		["d3104pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "CB Undercarriage Controls (toggle)",
@@ -249,22 +241,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
-		},
-		["dnilp3004unilcd13vdnilvp-0.002vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Clock Bezel CCW",
-		},
-		["dnilp3004unilcd13vdnilvp0.002vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Clock Bezel CW",
 		},
 		["dnilp3004unilcd4vdnilvp-0.5vunil"] = {
 			["added"] = {

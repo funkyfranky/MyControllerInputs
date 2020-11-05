@@ -18,6 +18,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1587pnilu1587cdnilvd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Kneeboard glance view",
+		},
+		["d1587pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Kneeboard ON/OFF",
+		},
 		["d1591pnilu1592cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -26,6 +42,14 @@ local diff = {
 			},
 			["name"] = "COMM Push to talk",
 		},
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "COMM Communication menu",
+		},
 		["d3001pnilu3001cd21vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -33,6 +57,22 @@ local diff = {
 				},
 			},
 			["name"] = "EZ42 Gunsight Gyro Power ON/OFF",
+		},
+		["d3001pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Kneeboard Next Page",
+		},
+		["d3002pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Kneeboard Previous Page",
 		},
 		["d3005pnilu3007cd8vd1vpnilvu1"] = {
 			["added"] = {

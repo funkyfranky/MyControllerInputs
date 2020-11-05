@@ -34,6 +34,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3003pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Circuit Breakers Fore Cover (toggle)",
+		},
 		["d3009pnilu3009cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -82,6 +90,14 @@ local diff = {
 			},
 			["name"] = "Electric Kill-switch",
 		},
+		["d3078pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Circuit Breakers Aft Cover (toggle)",
+		},
 		["d3090pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -121,6 +137,30 @@ local diff = {
 				},
 			},
 			["name"] = "CB Aux. Tank Fuel Pump (toggle)",
+		},
+		["d3106pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "CB Outer Wing Guns (toggle)",
+		},
+		["d3107pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "CB Inner Wing Guns (toggle)",
+		},
+		["d3108pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "CB Cowling Guns (toggle)",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Cannons (B)",

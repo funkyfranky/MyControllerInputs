@@ -24,33 +24,13 @@ local diff = {
 				},
 			},
 		},
-		["a3002cd21"] = {
+		["a3003cd15"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "EZ42 Gunsight Target Wingspan Knob",
+			["name"] = "VHF Radio Volume",
 		},
 		["a3003cd2"] = {
 			["name"] = "Throttle",
@@ -59,34 +39,6 @@ local diff = {
 					["key"] = "JOY_Z",
 				},
 			},
-		},
-		["a3003cd21"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "EZ42 Gunsight Target Distance Control",
 		},
 		["a3004cd21"] = {
 			["added"] = {
