@@ -222,7 +222,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},

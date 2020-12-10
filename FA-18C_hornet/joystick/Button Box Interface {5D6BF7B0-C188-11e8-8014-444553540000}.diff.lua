@@ -107,7 +107,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
@@ -175,7 +175,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
@@ -254,7 +254,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
@@ -273,7 +273,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
@@ -414,7 +414,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN5",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
@@ -458,7 +458,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN20",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
@@ -477,7 +477,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN19",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
@@ -496,7 +496,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN18",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
@@ -526,7 +526,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN21",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
@@ -567,7 +567,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN22",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},

@@ -39,7 +39,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
@@ -50,7 +50,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 					["reformers"] = {
-						[1] = "JOY_BTN15",
+						[1] = "MediaSelect",
 					},
 				},
 			},
