@@ -11,7 +11,7 @@ local diff = {
 							[4] = 0.12,
 							[5] = 0.16,
 							[6] = 0.21,
-							[7] = 0.28,
+							[7] = 0.29,
 							[8] = 0.42,
 							[9] = 0.6,
 							[10] = 0.8,
@@ -39,7 +39,7 @@ local diff = {
 							[4] = 0.12,
 							[5] = 0.16,
 							[6] = 0.21,
-							[7] = 0.28,
+							[7] = 0.29,
 							[8] = 0.42,
 							[9] = 0.6,
 							[10] = 0.8,
@@ -65,7 +65,7 @@ local diff = {
 			},
 		},
 		["a2004cdnil"] = {
-			["name"] = "Thrust",
+			["name"] = "Throttle Both",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
@@ -74,136 +74,157 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Fast countermeasure dispense",
-		},
-		["d3006pnilu3005cd23vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "T1 Fix (Two-stage trigger middle position)",
-		},
-		["d3007pnilu3006cd23vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "TV Fix (Three position switch)",
-		},
-		["d3090pnilu3090cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Reference button",
-		},
-		["d3300pnilunilcd2vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Trigger safety bracket SAFE",
-		},
-		["d3300pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Trigger safety bracket ARM",
-		},
-		["d3311pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Autothrottle disconnect / IR-missile fast select",
-		},
-		["d3314pnilunilcd2vd1vpnilvunil"] = {
+		["d1041pnilu1042cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "IR-missile uncage",
+			["name"] = "HOTAS CMS Z Axis",
 		},
-		["d3321pnilu3321cd2vd-1vpnilvu0"] = {
+		["d544pnilu548cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Rb05 stick yaw left",
+			["name"] = "HOTAS TMS Forward",
 		},
-		["d3321pnilu3321cd2vd1vpnilvu0"] = {
+		["d545pnilu548cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Rb05 stick yaw right",
+			["name"] = "HOTAS TMS Aft",
 		},
-		["d3322pnilu3322cd2vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Rb05 stick pitch down",
-		},
-		["d3322pnilu3322cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Rb05 stick pitch up",
-		},
-		["d3323pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Radar Range Increase",
-		},
-		["d3324pnilunilcd5vd1vpnilvunil"] = {
+		["d546pnilu548cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Radar Range Decrease",
+			["name"] = "HOTAS TMS Left",
 		},
-		["d3401pnilunilcd22vd1vpnilvunil"] = {
+		["d547pnilu548cdnilvdnilvpnilvunil"] = {
 			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "HOTAS TMS Right",
+		},
+		["d549pnilu553cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "HOTAS DMS Forward",
+		},
+		["d550pnilu553cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "HOTAS DMS Aft",
+		},
+		["d551pnilu553cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "HOTAS DMS Left",
+		},
+		["d552pnilu553cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "HOTAS DMS Right",
+		},
+		["d554pnilu638cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Gun Trigger",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
+		["d555pnilu639cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Gun Trigger (first stage)",
+		},
+		["d556pnilu560cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "HOTAS CMS Forward",
+		},
+		["d557pnilu560cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "HOTAS CMS Aft",
+		},
+		["d558pnilu560cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "HOTAS CMS Left",
+		},
+		["d559pnilu560cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "HOTAS CMS Right",
+		},
+		["d561pnilu633cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "HOTAS Master Mode Control Button",
+		},
+		["d562pnilu606cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "HOTAS Nosewheel Steering Button",
+			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "HUD shift to lower position",
 		},
-		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Weapon Release",
+		["d957pnilu958cdnilvdnilvpnilvunil"] = {
+			["name"] = "Stick to trimmer control mode",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN3",
 				},
 			},
 		},
@@ -240,11 +261,6 @@ local diff = {
 			},
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
 			["name"] = "View Left slow",
 			["removed"] = {
 				[1] = {
@@ -253,11 +269,6 @@ local diff = {
 			},
 		},
 		["dnilp33u214cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
 			["name"] = "View Right slow",
 			["removed"] = {
 				[1] = {
@@ -274,15 +285,18 @@ local diff = {
 			},
 		},
 		["dnilp35u214cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
 			["name"] = "View Down slow",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "View Center",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
 				},
 			},
 		},
@@ -305,18 +319,18 @@ local diff = {
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
-				},
-			},
-			["name"] = "Trim: Nose Up",
-		},
-		["dnilp96u215cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
 					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "Trim: Nose Down",
+		},
+		["dnilp96u215cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_D",
+				},
+			},
+			["name"] = "Trim: Nose Up",
 		},
 	},
 }

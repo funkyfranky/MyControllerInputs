@@ -133,7 +133,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "JOY_BTN4",
 					},
 				},
 			},
@@ -144,7 +144,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "JOY_BTN4",
 					},
 				},
 			},
@@ -155,7 +155,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "JOY_BTN4",
 					},
 				},
 			},
@@ -166,7 +166,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "JOY_BTN4",
 					},
 				},
 			},

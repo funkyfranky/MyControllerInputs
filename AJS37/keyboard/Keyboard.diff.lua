@@ -24,6 +24,22 @@ local diff = {
 				},
 			},
 		},
+		["d193pnilu194cdnilvdnilvpnilvunil"] = {
+			["name"] = "Aircraft Pitch Down",
+			["removed"] = {
+				[1] = {
+					["key"] = "Up",
+				},
+			},
+		},
+		["d195pnilu196cdnilvdnilvpnilvunil"] = {
+			["name"] = "Aircraft Pitch Up",
+			["removed"] = {
+				[1] = {
+					["key"] = "Down",
+				},
+			},
+		},
 		["d197pnilu198cdnilvdnilvpnilvunil"] = {
 			["name"] = "Aircraft Bank Left",
 			["removed"] = {
@@ -87,22 +103,6 @@ local diff = {
 				},
 			},
 			["name"] = "Fast countermeasure dispense",
-		},
-		["d3004pnilunilcd31vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Right",
-				},
-			},
-			["name"] = "FR22 Frequency wheel 3 Down",
-		},
-		["d3004pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Left",
-				},
-			},
-			["name"] = "FR22 Frequency wheel 3 Up",
 		},
 		["d3005pnilunilcd23vd1vpnilvunil"] = {
 			["added"] = {
@@ -331,6 +331,9 @@ local diff = {
 						[1] = "LShift",
 					},
 				},
+				[2] = {
+					["key"] = "Left",
+				},
 			},
 			["name"] = "View Left slow",
 			["removed"] = {
@@ -346,6 +349,9 @@ local diff = {
 					["reformers"] = {
 						[1] = "LShift",
 					},
+				},
+				[2] = {
+					["key"] = "Right",
 				},
 			},
 			["name"] = "View Right slow",
@@ -363,6 +369,9 @@ local diff = {
 						[1] = "LShift",
 					},
 				},
+				[2] = {
+					["key"] = "Up",
+				},
 			},
 			["name"] = "View Up slow",
 			["removed"] = {
@@ -378,6 +387,9 @@ local diff = {
 					["reformers"] = {
 						[1] = "LShift",
 					},
+				},
+				[2] = {
+					["key"] = "Down",
 				},
 			},
 			["name"] = "View Down slow",

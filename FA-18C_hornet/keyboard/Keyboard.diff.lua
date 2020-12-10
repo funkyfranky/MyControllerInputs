@@ -198,6 +198,14 @@ local diff = {
 			},
 			["name"] = "UFC Keyboard Pushbutton - 4",
 		},
+		["d3023pnilu3023cd13vd1vpnilvu0"] = {
+			["name"] = "Throttle Designator Controller - Depress",
+			["removed"] = {
+				[1] = {
+					["key"] = "Enter",
+				},
+			},
+		},
 		["d3023pnilu3023cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -269,6 +277,29 @@ local diff = {
 				},
 			},
 			["name"] = "Toggle goggles",
+		},
+		["d816pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Tab",
+				},
+				[2] = {
+					["key"] = "Space",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Active Pause",
+			["removed"] = {
+				[1] = {
+					["key"] = "Pause",
+					["reformers"] = {
+						[1] = "LShift",
+						[2] = "LWin",
+					},
+				},
+			},
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

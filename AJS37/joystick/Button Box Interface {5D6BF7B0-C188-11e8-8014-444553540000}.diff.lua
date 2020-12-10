@@ -42,14 +42,6 @@ local diff = {
 			},
 			["name"] = "Missile Select Button (IR-RB FRAMSTEGN) Depress/Release",
 		},
-		["d3001pnilu3001cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Thrust Reverser On/Off",
-		},
 		["d3002pnilu3002cd26vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -58,13 +50,13 @@ local diff = {
 			},
 			["name"] = "Check indicator lights",
 		},
-		["d3004pnilu3004cd18vd1vpnilvu0"] = {
+		["d3003pnilu3003cd19vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Aterstart (Restart) Switch On/Off",
+			["name"] = "Backup Generator On/Off",
 		},
 		["d3004pnilu3004cd26vd1vpnilvu0"] = {
 			["added"] = {
@@ -101,7 +93,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN29",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -131,7 +123,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN30",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -164,12 +156,20 @@ local diff = {
 			},
 			["name"] = "Engine De-ice switch",
 		},
+		["d3008pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "FR22 AM/FM switch",
+		},
 		["d3010pnilunilcd28vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN31",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -180,7 +180,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN32",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -207,7 +207,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN25",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -218,7 +218,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN26",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -251,7 +251,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN27",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -262,26 +262,18 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN28",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "Mail",
 					},
 				},
 			},
 			["name"] = "Countermeasure U22 Jammer Band G",
-		},
-		["d3091pnilu3091cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "FL37 ADI Fast Erect (Snabbresning) Depress/Release",
 		},
 		["d3208pnilunilcd5vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -292,7 +284,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN23",
 					["reformers"] = {
-						[1] = "RShift",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -321,6 +313,14 @@ local diff = {
 				},
 			},
 			["name"] = "Weapon Interval 01 RAKT",
+		},
+		["d3401pnilu3401cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Aterstart (Restart) Switch On/Off",
 		},
 		["d3405pnilu3405cd22vd1vpnilvu0"] = {
 			["added"] = {
@@ -369,6 +369,14 @@ local diff = {
 				},
 			},
 			["name"] = "TILS rotary clockwise",
+		},
+		["d3511pnilunilcd22vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "TILS rotary layer switch",
 		},
 		["d3669pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {

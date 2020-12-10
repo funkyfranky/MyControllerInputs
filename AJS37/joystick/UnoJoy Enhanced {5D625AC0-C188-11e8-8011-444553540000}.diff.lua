@@ -60,8 +60,46 @@ local diff = {
 			},
 			["name"] = "Master Volume / Sidewinder Tone",
 		},
+		["a3800cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Radar Night Filter - Absolute",
+		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilu3001cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Thrust Reverser On/Off",
+		},
+		["d3002pnilunilcd32vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "LWin",
+					},
+				},
+			},
+			["name"] = "IK (IFF) Code Down",
+		},
+		["d3002pnilunilcd32vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "LWin",
+					},
+				},
+			},
+			["name"] = "IK (IFF) Code Up",
+		},
 		["d3010pnilunilcd23vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -141,10 +179,7 @@ local diff = {
 		["d3320pnilu3320cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "LCtrl",
-					},
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Fuel Tank Jettison Button Depress/Release",
@@ -245,29 +280,21 @@ local diff = {
 			},
 			["name"] = "Emergency Trim Pitch Down",
 		},
-		["d3718pnilu3718cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Oxygen Lever On/Off",
-		},
-		["d3918pnilu3918cd22vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Emergency Yaw Trim (SIDTRIM) Left(V)/Center",
-		},
-		["d3918pnilu3918cd22vd1vpnilvu0"] = {
+		["d3718pnilunilcd22vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Emergency Yaw Trim (SIDTRIM) Right(H)/Center",
+			["name"] = "Oxygen Lever OFF",
+		},
+		["d3718pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Oxygen Lever ON",
 		},
 		["d3920pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {

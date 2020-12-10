@@ -78,14 +78,6 @@ local diff = {
 			},
 			["name"] = "Communication menu",
 		},
-		["d3001pnilu3001cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Thrust Reverser On/Off",
-		},
 		["d3001pnilu3002cd24vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -117,14 +109,6 @@ local diff = {
 				},
 			},
 			["name"] = "Master caution reset",
-		},
-		["d3001pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Fast countermeasure dispense",
 		},
 		["d3002pnilu3003cd23vd1vpnilvu1"] = {
 			["added"] = {
@@ -177,7 +161,7 @@ local diff = {
 		["d3011pnilunilcd31vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "FR22 Push-to-talk",
@@ -193,7 +177,7 @@ local diff = {
 		["d3212pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "Memory mode",
@@ -254,22 +238,6 @@ local diff = {
 			},
 			["name"] = "Canopy Close/Center",
 		},
-		["d3500pnilu3500cd28vd0vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Countermeasure Dispense - Press: Int Release: Off",
-		},
-		["d3500pnilu3500cd28vd0vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Countermeasure Dispense - Press: Kont Release: Off",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {
@@ -301,6 +269,22 @@ local diff = {
 				},
 			},
 			["name"] = "Landing Gear Lever Up/Down",
+		},
+		["d3800pnilu3800cd28vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Countermeasure Dispense - Press: Off Release: Int",
+		},
+		["d3800pnilu3800cd28vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Countermeasure Dispense - Press: Kont Release: Int",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
