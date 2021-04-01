@@ -97,7 +97,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "UHF ARC-159 Function BOTH",
+			["name"] = "UHF ARC-159 Function MAIN",
 		},
 		["d3371pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -108,7 +108,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "UHF ARC-159 Function OFF",
+			["name"] = "UHF ARC-159 Function ADF",
 		},
 	},
 }

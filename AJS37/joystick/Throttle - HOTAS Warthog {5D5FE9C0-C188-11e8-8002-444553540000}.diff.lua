@@ -70,14 +70,6 @@ local diff = {
 			},
 			["name"] = "Kneeboard ON/OFF",
 		},
-		["d179pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Communication menu",
-		},
 		["d3001pnilu3002cd24vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -153,7 +145,7 @@ local diff = {
 		["d3011pnilunilcd30vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "FR24 Push-to-talk",

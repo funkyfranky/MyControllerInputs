@@ -52,6 +52,14 @@ local diff = {
 			},
 			["name"] = "Active Pause",
 		},
+		["d84pnilu84cdnilvd1vpnilvu0"] = {
+			["name"] = "Pilot weapon release/Machinegun fire",
+			["removed"] = {
+				[1] = {
+					["key"] = "Space",
+				},
+			},
+		},
 		["dnilp212u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

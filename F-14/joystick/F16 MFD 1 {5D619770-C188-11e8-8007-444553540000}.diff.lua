@@ -48,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "Nose strut kneel",
+			["name"] = "Nose Strut Compression Switch -1/0",
 		},
 		["d3019pnilu3019cd17vd1vpnilvu0"] = {
 			["added"] = {
@@ -56,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "Nose strut extend",
+			["name"] = "Nose Strut Compression Switch 1/0",
 		},
 		["d3023pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {

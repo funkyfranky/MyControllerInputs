@@ -167,7 +167,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Magnetic brake On/Off",
+			["name"] = "Trim On/Off",
 		},
 		["d3023pnilunilcd26vd1vpnilvunil"] = {
 			["added"] = {
@@ -283,6 +283,14 @@ local diff = {
 				},
 			},
 			["name"] = "Strobe Lights Attenuated",
+		},
+		["d3041pnilu3041cd16vd1vpnilvu0"] = {
+			["name"] = "Missile Launch Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "Space",
+				},
+			},
 		},
 		["d3043pnilunilcd15vd1vpnilvunil"] = {
 			["added"] = {

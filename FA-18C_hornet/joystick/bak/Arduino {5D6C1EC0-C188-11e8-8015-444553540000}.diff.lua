@@ -24,45 +24,69 @@ local diff = {
 				},
 			},
 		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
 	},
 	["keyDiffs"] = {
-		["d3035pnilunilcd2vd-1vpnilvunil"] = {
+		["d3015pnilunilcd23vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN2",
 					["reformers"] = {
-						[1] = "Mail",
+						[1] = "MediaSelect",
 					},
 				},
 			},
-			["name"] = "Undercarriage UP",
+			["name"] = "Selective Jettison Knob - CCW",
 		},
-		["d3035pnilunilcd2vd1vpnilvunil"] = {
+		["d3015pnilunilcd23vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
+					["key"] = "JOY_BTN1",
 					["reformers"] = {
-						[1] = "Mail",
+						[1] = "MediaSelect",
 					},
 				},
 			},
-			["name"] = "Undercarriage DOWN",
+			["name"] = "Selective Jettison Knob - CW",
 		},
-		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Bomb Release (D-30 & D-40)",
-			["removed"] = {
+		["d3033pnilunilcd25vd-1vpnilvunil"] = {
+			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
+			["name"] = "UFC COMM 1 Channel Selector Knob - CCW/Decrease",
 		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Fire Machineguns",
-			["removed"] = {
+		["d3033pnilunilcd25vd1vpnilvunil"] = {
+			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+			["name"] = "UFC COMM 1 Channel Selector Knob - CW/Increase",
+		},
+		["d3034pnilunilcd25vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "UFC COMM 2 Channel Selector Knob - CCW/Decrease",
+		},
+		["d3034pnilunilcd25vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "UFC COMM 2 Channel Selector Knob - CW/Increase",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -96,21 +120,49 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3011unilcd2vdnilvp-1vunil"] = {
+		["dnilp3036unilcd25vdnilvp-0.5vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN2",
+					["reformers"] = {
+						[1] = "RShift",
+					},
 				},
 			},
-			["name"] = "Altimeter Set Pressure DECREASE",
+			["name"] = "UFC COMM 1 Volume Control Knob - CCW/Decrease",
 		},
-		["dnilp3011unilcd2vdnilvp1vunil"] = {
+		["dnilp3036unilcd25vdnilvp0.5vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN1",
+					["reformers"] = {
+						[1] = "RShift",
+					},
 				},
 			},
-			["name"] = "Altimeter Set Pressure INCREASE",
+			["name"] = "UFC COMM 1 Volume Control Knob - CW/Increase",
+		},
+		["dnilp3038unilcd25vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UFC COMM 2 Volume Control Knob - CCW/Decrease",
+		},
+		["dnilp3038unilcd25vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "RShift",
+					},
+				},
+			},
+			["name"] = "UFC COMM 2 Volume Control Knob - CW/Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

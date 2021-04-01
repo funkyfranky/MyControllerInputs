@@ -26,62 +26,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3012pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Left Wing Bomb Arming Switch Cover (toggle)",
-		},
-		["d3014pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Left Wing Bomb Arming (toggle)",
-		},
-		["d3016pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Right Wing Bomb Arming Switch Cover (toggle)",
-		},
-		["d3018pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Right Wing Bomb Arming (toggle)",
-		},
-		["d3020pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Belly Bomb Arming Switch Cover (toggle)",
-		},
-		["d3022pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Belly Bomb Arming (toggle)",
-		},
-		["d3024pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Left Chemical Tank Arming Switch Cover (toggle)",
-		},
 		["d3025pnilu3025cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -89,14 +33,6 @@ local diff = {
 				},
 			},
 			["name"] = "Operate Fuel Priming Pump",
-		},
-		["d3026pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Left Chemical Tank Arming (toggle)",
 		},
 		["d3027pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
@@ -113,22 +49,6 @@ local diff = {
 				},
 			},
 			["name"] = "Magneto Switch (next selection)",
-		},
-		["d3028pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Right Chemical Tank Arming Switch Cover (toggle)",
-		},
-		["d3030pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Right Chemical Tank Arming (toggle)",
 		},
 		["d3031pnilu3031cd3vd0.1vpnilvu0"] = {
 			["added"] = {
@@ -195,7 +115,7 @@ local diff = {
 			["name"] = "External Tanks Fuel Selector Valve (previous selection)",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Bomb Release",
+			["name"] = "Bomb Release (D-30 & D-40)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",

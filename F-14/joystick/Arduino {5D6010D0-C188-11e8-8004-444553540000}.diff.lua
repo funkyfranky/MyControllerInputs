@@ -152,7 +152,7 @@ local diff = {
 					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "Fueldump Off, else Dump",
+			["name"] = "Fueldump Dump, else Off",
 		},
 		["d3068pnilu3068cd20vd-1vpnilvu0"] = {
 			["added"] = {

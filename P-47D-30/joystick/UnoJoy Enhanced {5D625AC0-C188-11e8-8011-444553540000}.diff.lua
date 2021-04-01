@@ -24,14 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a3006cd17"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Instrument UV Left Light (analog)",
-		},
 		["a3008cd3"] = {
 			["added"] = {
 				[1] = {
@@ -57,24 +49,6 @@ local diff = {
 				},
 			},
 			["name"] = "K-14 Target span",
-		},
-		["a3019cd21"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Radio Volume (analog)",
 		},
 		["a3021cd6"] = {
 			["added"] = {
@@ -102,7 +76,7 @@ local diff = {
 			},
 			["name"] = "Starter ENGAGE",
 		},
-		["d3033pnilu3032cd7vd1vpnilvu0"] = {
+		["d3033pnilu3032cd8vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
@@ -159,7 +133,7 @@ local diff = {
 			["name"] = "Cockpit Ventilation On/Off",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Bomb Release",
+			["name"] = "Bomb Release (D-30 & D-40)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",

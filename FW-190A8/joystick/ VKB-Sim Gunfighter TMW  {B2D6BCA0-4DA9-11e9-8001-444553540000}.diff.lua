@@ -1,5 +1,23 @@
 local diff = {
 	["axisDiffs"] = {
+		["a2002cdnil"] = {
+			["changed"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 0.71,
+						["slider"] = false,
+					},
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Roll",
+		},
 		["a2003cdnil"] = {
 			["name"] = "Rudder",
 			["removed"] = {
@@ -25,14 +43,6 @@ local diff = {
 				},
 			},
 			["name"] = "Gun Sight Smoked Screen ON/OFF",
-		},
-		["d3008pnilunilcd21vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Gun Sight Smoked Screen (toggle)",
 		},
 		["d3012pnilu3012cd8vd-1vpnilvu0"] = {
 			["added"] = {

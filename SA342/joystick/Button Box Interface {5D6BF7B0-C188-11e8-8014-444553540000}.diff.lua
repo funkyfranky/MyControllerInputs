@@ -42,14 +42,6 @@ local diff = {
 			},
 			["name"] = "Cycle Station",
 		},
-		["d283pnilu283cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Master Arm Switch, ON/OFF",
-		},
 		["d3003pnilu3003cd26vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -339,14 +331,6 @@ local diff = {
 				},
 			},
 			["name"] = "Lasing Button",
-		},
-		["d3042pnilu3042cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Sand filter On/Off",
 		},
 		["d3045pnilu3045cd23vd1vpnilvu0"] = {
 			["added"] = {

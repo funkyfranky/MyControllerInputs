@@ -117,7 +117,7 @@ local diff = {
 		["dnilp3005unilcd2vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 			["name"] = "Trim Elevator Up",
@@ -125,7 +125,7 @@ local diff = {
 		["dnilp3005unilcd2vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "Trim Elevator Down",

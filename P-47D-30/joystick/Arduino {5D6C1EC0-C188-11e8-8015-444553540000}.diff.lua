@@ -27,7 +27,7 @@ local diff = {
 	},
 	["keyDiffs"] = {
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Bomb Release",
+			["name"] = "Bomb Release (D-30 & D-40)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -73,22 +73,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
-		},
-		["dnilp3004unilcd9vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Horizon pitch Decrease",
-		},
-		["dnilp3004unilcd9vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Horizon pitch Increase",
 		},
 		["dnilp3054unilcd2vdnilvp-1vunil"] = {
 			["added"] = {

@@ -225,14 +225,6 @@ local diff = {
 			},
 			["name"] = "Strobe Lights Attenuated",
 		},
-		["d3043pnilu3043cd15vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Panels Lighting On/Off",
-		},
 		["d3049pnilu3050cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -248,14 +240,6 @@ local diff = {
 				},
 			},
 			["name"] = "Starter Ventilation",
-		},
-		["d3053pnilu3053cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Fuel Pump On/Off",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Gun or Rockets",

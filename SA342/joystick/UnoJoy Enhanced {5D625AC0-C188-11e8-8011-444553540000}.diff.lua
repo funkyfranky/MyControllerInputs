@@ -188,30 +188,6 @@ local diff = {
 			},
 			["name"] = "SA342 Pitch On",
 		},
-		["d3021pnilu3021cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Battery On/Off",
-		},
-		["d3022pnilu3022cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Alternator On/Off",
-		},
-		["d3023pnilu3023cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Generator On/Off",
-		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Gun or Rockets",
 			["removed"] = {

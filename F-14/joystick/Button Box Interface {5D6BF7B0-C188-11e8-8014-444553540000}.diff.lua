@@ -43,7 +43,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Hydraulic Hand Pump 1/0",
+			["name"] = "Hydraulic Hand Pump",
 		},
 		["d3051pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
@@ -416,7 +416,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "UHF ARC-159 Mode GUARD",
+			["name"] = "UHF ARC-159 Mode PRESET",
 		},
 		["d3376pnilunilcd3vd-1vpnilvu0"] = {
 			["added"] = {

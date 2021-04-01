@@ -74,46 +74,6 @@ local diff = {
 			},
 			["name"] = "COMM Push to talk",
 		},
-		["d3001pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
-				},
-			},
-			["name"] = "Kneeboard Next Page",
-		},
-		["d3002pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
-				},
-			},
-			["name"] = "Kneeboard Previous Page",
-		},
-		["d3004pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Gun Safety Switch Cover (toggle)",
-		},
-		["d3007pnilu3007cd13vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Guns Both/Off",
-		},
-		["d3007pnilu3007cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Guns Cam/Off",
-		},
 		["d3015pnilu3015cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -187,7 +147,7 @@ local diff = {
 			["name"] = "Tail Wheel Lock (toggle)",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Bomb Release",
+			["name"] = "Bomb Release (D-30 & D-40)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",

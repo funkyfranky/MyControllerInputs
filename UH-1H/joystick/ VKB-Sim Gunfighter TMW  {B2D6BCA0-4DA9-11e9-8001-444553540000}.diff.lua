@@ -98,14 +98,6 @@ local diff = {
 				},
 			},
 		},
-		["d3004pnilunilcd52vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "External Cargo Safety",
-		},
 		["d3009pnilu3009cd21vd1vpnilvu0"] = {
 			["name"] = "Pilot's radio trigger RADIO",
 			["removed"] = {

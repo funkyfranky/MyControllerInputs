@@ -24,7 +24,7 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd17"] = {
+		["a3003cd18"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -42,7 +42,7 @@ local diff = {
 			},
 			["name"] = "Instrument Light (analog)",
 		},
-		["a3003cd7"] = {
+		["a3003cd8"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -60,7 +60,7 @@ local diff = {
 			},
 			["name"] = "K-14 Brightness",
 		},
-		["a3006cd7"] = {
+		["a3006cd8"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -78,7 +78,7 @@ local diff = {
 			},
 			["name"] = "Compass Light (analog)",
 		},
-		["a3012cd7"] = {
+		["a3012cd8"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -98,102 +98,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3008pnilunilcd9vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Horizon Cage",
-		},
-		["d3015pnilu3015cd7vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Wing Tips Nav Lights Dim/Off",
-		},
-		["d3015pnilu3015cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Wing Tips Nav Lights Bright/Off",
-		},
-		["d3018pnilu3018cd7vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Tail Nav Lights Dim/Off",
-		},
-		["d3018pnilu3018cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Tail Nav Lights Bright/Off",
-		},
-		["d3021pnilu3021cd7vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Landing Lights Dim/Off",
-		},
-		["d3021pnilu3021cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Landing Lights Bright/Off",
-		},
-		["d3023pnilu3023cd7vd0.1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Cockpit Lights (On)/Off",
-		},
-		["d3023pnilu3023cd7vd0.3vpnilvu0.2"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Cockpit Lights On/Off",
-		},
-		["d3025pnilu3024cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Generator On/Off",
-		},
-		["d3027pnilu3026cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Pitot On/Off",
-		},
-		["d3029pnilu3028cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Oil Delution On/Off",
-		},
 		["d3035pnilu3035cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -203,7 +107,7 @@ local diff = {
 			["name"] = "Air Filter Control Lever Up/Down",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Bomb Release",
+			["name"] = "Bomb Release (D-30 & D-40)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",

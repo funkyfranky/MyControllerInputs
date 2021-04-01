@@ -395,7 +395,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "UHF ARC-159 Function BOTH",
+			["name"] = "UHF ARC-159 Function MAIN",
 		},
 		["d3384pnilu3384cd2vd1vpnilvu0"] = {
 			["added"] = {

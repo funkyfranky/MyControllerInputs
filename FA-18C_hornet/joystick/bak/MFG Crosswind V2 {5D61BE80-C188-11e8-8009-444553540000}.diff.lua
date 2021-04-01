@@ -17,12 +17,22 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
-			["name"] = "Rudder",
-			["removed"] = {
+			["changed"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0.05,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RZ",
 				},
 			},
+			["name"] = "Rudder",
 		},
 		["a2004cdnil"] = {
 			["name"] = "Thrust",
@@ -32,7 +42,7 @@ local diff = {
 				},
 			},
 		},
-		["a3014cd11"] = {
+		["a2112cdnil"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -45,12 +55,12 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
-					["key"] = "JOY_RY",
+					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "FORM Knob",
+			["name"] = "Wheel Brake Left",
 		},
-		["a3017cd11"] = {
+		["a2113cdnil"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -63,101 +73,13 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
-					["key"] = "JOY_RZ",
+					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "AERIAL REFUELING Knob",
-		},
-		["a3041cd17"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "HUD Symbology Intensity Knob",
+			["name"] = "Wheel Brake Right",
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3002cd19vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "MASTER ARM Switch - SIMULATE/OFF",
-		},
-		["d3009pnilunilcd10vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Ejection Safety Lever ARMED",
-		},
-		["d3011pnilu3011cd2vd0vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "STORES CONFIG Switch CAT I/III",
-		},
-		["d3014pnilu3014cd2vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Autopilot ROLL Switch STRG SEL/ATT HOLD",
-		},
-		["d3014pnilu3014cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Autopilot ROLL Switch HDG SEL/ATT HOLD",
-		},
-		["d3031pnilu3032cd2vd-1vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Autopilot PITCH Switch ATT HOLD/A/P OFF",
-		},
-		["d3032pnilu3032cd2vd1vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Autopilot PITCH Switch ALT HOLD/A/P OFF",
-		},
-		["d3034pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "ADV MODE Switch - Depressed/Released",
-		},
-		["d3036pnilu3036cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "F-ACK Button",
-		},
-		["d3037pnilu3037cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "IFF IDENT Button",
-		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
