@@ -8,6 +8,9 @@ local diff = {
 						[1] = "Mail",
 					},
 				},
+				[2] = {
+					["key"] = "JOY_BTN23",
+				},
 			},
 			["name"] = "IFEI Up Arrow Button",
 		},
@@ -19,40 +22,11 @@ local diff = {
 						[1] = "Mail",
 					},
 				},
-			},
-			["name"] = "IFEI Down Arrow Button",
-		},
-		["d3004pnilu3004cd35vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Heading Set Switch - Right",
-		},
-		["d3005pnilu3005cd35vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Heading Set Switch - Left",
-		},
-		["d3006pnilu3006cd35vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Course Set Switch - Right",
-		},
-		["d3007pnilu3007cd35vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
+				[2] = {
 					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "Course Set Switch - Left",
+			["name"] = "IFEI Down Arrow Button",
 		},
 		["d3011pnilu3011cd35vd1vpnilvu0"] = {
 			["added"] = {
@@ -304,9 +278,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "Mail",
-					},
 				},
 			},
 			["name"] = "Left MDI Brightness Control Knob - CCW/Decrease",
@@ -315,9 +286,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "Mail",
-					},
 				},
 			},
 			["name"] = "Left MDI Brightness Control Knob - CW/Increase",

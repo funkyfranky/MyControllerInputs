@@ -306,9 +306,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "Mail",
-					},
 				},
 			},
 			["name"] = "Right MDI Brightness Control Knob - CCW/Decrease",
@@ -317,12 +314,31 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "Mail",
-					},
 				},
 			},
 			["name"] = "Right MDI Brightness Control Knob - CW/Increase",
+		},
+		["dnilp3044unilcd36vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+					["reformers"] = {
+						[1] = "MediaSelect",
+					},
+				},
+			},
+			["name"] = "Right MDI Contrast Control Knob - CCW/Decrease",
+		},
+		["dnilp3044unilcd36vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+					["reformers"] = {
+						[1] = "MediaSelect",
+					},
+				},
+			},
+			["name"] = "Right MDI Contrast Control Knob - CW/Increase",
 		},
 		["dnilp316unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

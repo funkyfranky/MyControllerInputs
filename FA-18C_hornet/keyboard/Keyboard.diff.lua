@@ -33,6 +33,14 @@ local diff = {
 			},
 		},
 		["d193pnilu194cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Up",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Aircraft Pitch Down",
 			["removed"] = {
 				[1] = {
@@ -41,6 +49,14 @@ local diff = {
 			},
 		},
 		["d195pnilu196cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Down",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Aircraft Pitch Up",
 			["removed"] = {
 				[1] = {
@@ -49,6 +65,14 @@ local diff = {
 			},
 		},
 		["d197pnilu198cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Left",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Aircraft Bank Left",
 			["removed"] = {
 				[1] = {
@@ -57,6 +81,14 @@ local diff = {
 			},
 		},
 		["d199pnilu200cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Right",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Aircraft Bank Right",
 			["removed"] = {
 				[1] = {
@@ -81,6 +113,14 @@ local diff = {
 			},
 		},
 		["d3002pnilu3002cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Space",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Gun Trigger - SECOND DETENT (Press to shoot)",
 			["removed"] = {
 				[1] = {
@@ -169,7 +209,7 @@ local diff = {
 		["d3019pnilu3019cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num1",
+					["key"] = "Num7",
 				},
 			},
 			["name"] = "UFC Keyboard Pushbutton - 1",
@@ -177,7 +217,7 @@ local diff = {
 		["d3020pnilu3020cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num2",
+					["key"] = "Num8",
 				},
 			},
 			["name"] = "UFC Keyboard Pushbutton - 2",
@@ -185,7 +225,7 @@ local diff = {
 		["d3021pnilu3021cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num3",
+					["key"] = "Num9",
 				},
 			},
 			["name"] = "UFC Keyboard Pushbutton - 3",
@@ -225,7 +265,7 @@ local diff = {
 		["d3025pnilu3025cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num7",
+					["key"] = "Num1",
 				},
 			},
 			["name"] = "UFC Keyboard Pushbutton - 7",
@@ -233,7 +273,7 @@ local diff = {
 		["d3026pnilu3026cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num8",
+					["key"] = "Num2",
 				},
 			},
 			["name"] = "UFC Keyboard Pushbutton - 8",
@@ -241,7 +281,7 @@ local diff = {
 		["d3027pnilu3027cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num9",
+					["key"] = "Num3",
 				},
 			},
 			["name"] = "UFC Keyboard Pushbutton - 9",
@@ -277,29 +317,6 @@ local diff = {
 				},
 			},
 			["name"] = "Toggle goggles",
-		},
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Tab",
-				},
-				[2] = {
-					["key"] = "Space",
-					["reformers"] = {
-						[1] = "LCtrl",
-					},
-				},
-			},
-			["name"] = "Active Pause",
-			["removed"] = {
-				[1] = {
-					["key"] = "Pause",
-					["reformers"] = {
-						[1] = "LShift",
-						[2] = "LWin",
-					},
-				},
-			},
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
