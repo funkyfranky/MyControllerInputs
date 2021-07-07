@@ -64,24 +64,6 @@ local diff = {
 				},
 			},
 		},
-		["a3031cd16"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 0.5,
-						["slider"] = true,
-					},
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "Emergency Wing Sweep Handle",
-		},
 	},
 	["keyDiffs"] = {
 		["d1587pnilunilcdnilvdnilvpnilvunil"] = {
@@ -141,51 +123,6 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard Previous Page",
-		},
-		["d3003pnilu3003cd12vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Hydraulic Emergency Flight Control Switch -1/0",
-		},
-		["d3003pnilu3003cd12vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Hydraulic Emergency Flight Control Switch 1/0",
-		},
-		["d3003pnilunilcd12vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "Mail",
-						[2] = "RShift",
-					},
-				},
-			},
-			["name"] = "Hydraulic Emergency Flight Control Switch 0",
-		},
-		["d3004pnilunilcd12vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Hydraulic Emergency Flight Control Switch Cover 1",
 		},
 		["d3016pnilu3016cd17vd0vpnilvu1"] = {
 			["added"] = {
@@ -292,30 +229,6 @@ local diff = {
 				},
 			},
 			["name"] = "Toggle Auto Throttle",
-		},
-		["d3050pnilu3050cd19vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Engine Airstart 1/0",
-		},
-		["d3052pnilu3052cd19vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Left Engine Mode 1/0",
-		},
-		["d3053pnilu3053cd19vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Right Engine Mode 1/0",
 		},
 		["d3058pnilu3058cd22vd1vpnilvu0"] = {
 			["added"] = {

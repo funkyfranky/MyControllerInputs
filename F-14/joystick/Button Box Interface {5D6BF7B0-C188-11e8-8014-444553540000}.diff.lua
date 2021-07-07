@@ -67,17 +67,6 @@ local diff = {
 			},
 			["name"] = "Crank Left Engine",
 		},
-		["d3077pnilu3077cd10vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Master Test Selector Push 1/0",
-		},
 		["d3137pnilu3137cd55vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -125,28 +114,6 @@ local diff = {
 				},
 			},
 			["name"] = "Target designate down / VSL LO",
-		},
-		["d3182pnilu3182cd11vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Canopy CLOSE/HOLD",
-		},
-		["d3182pnilu3182cd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Canopy OPEN/HOLD",
 		},
 		["d3188pnilunilcd11vd-1vpnilvunil"] = {
 			["added"] = {
@@ -473,6 +440,14 @@ local diff = {
 			},
 			["name"] = "Compass N-S Hemisphere Switch Toggle",
 		},
+		["d3714pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Hook Toggle",
+		},
 		["d3726pnilunilcd21vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -496,28 +471,6 @@ local diff = {
 				},
 			},
 			["name"] = "AFCS Yaw Stabilisation Toggle",
-		},
-		["dnilp3076u3076cd10vdnilvp-0.090909090909091vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Master Test Selector Decrease",
-		},
-		["dnilp3076u3076cd10vdnilvp0.090909090909091vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Master Test Selector Increase",
 		},
 	},
 }

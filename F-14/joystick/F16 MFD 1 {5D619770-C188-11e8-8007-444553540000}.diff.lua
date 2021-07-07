@@ -42,29 +42,13 @@ local diff = {
 			},
 			["name"] = "Catapult Hook up",
 		},
-		["d3019pnilu3019cd17vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Nose Strut Compression Switch -1/0",
-		},
-		["d3019pnilu3019cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Nose Strut Compression Switch 1/0",
-		},
 		["d3023pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Catapult Shoot",
+			["name"] = "Catapult Salute",
 		},
 		["d3056pnilu3056cd34vd1vpnilvu0"] = {
 			["added"] = {
@@ -193,38 +177,6 @@ local diff = {
 				},
 			},
 			["name"] = "Command 8",
-		},
-		["dnilp3241u3241cd41vdnilvp-0.0005vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Heading Knob CCW",
-		},
-		["dnilp3241u3241cd41vdnilvp0.0005vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Heading Knob CW",
-		},
-		["dnilp3242u3242cd41vdnilvp-0.0005vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Course Knob CCW",
-		},
-		["dnilp3242u3242cd41vdnilvp0.0005vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Course Knob CW",
 		},
 	},
 }

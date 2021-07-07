@@ -32,65 +32,13 @@ local diff = {
 				},
 			},
 		},
-		["a3131cd55"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Gun Elevation Lead Adjustment",
-		},
 		["a3178cd11"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
 					["key"] = "JOY_Z",
 				},
 			},
 			["name"] = "ACM Panel Light BRT Wheel",
-		},
-		["a3179cd11"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Instruments Light BRT Wheel",
-		},
-		["a3180cd11"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Console Light BRT Wheel",
-		},
-		["a3181cd11"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Formation Light BRT Wheel",
 		},
 		["a3212cd25"] = {
 			["added"] = {
