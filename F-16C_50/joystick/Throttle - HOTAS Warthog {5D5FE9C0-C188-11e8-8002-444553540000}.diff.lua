@@ -92,7 +92,7 @@ local diff = {
 					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "MAIN PWR Switch - OFF/BATT",
+			["name"] = "MAIN PWR Switch (special) - OFF/BATT",
 		},
 		["d3001pnilu3001cd3vd1vpnilvu0"] = {
 			["added"] = {
@@ -100,31 +100,15 @@ local diff = {
 					["key"] = "JOY_BTN22",
 				},
 			},
-			["name"] = "MAIN PWR Switch - MAIN PWR/BATT",
+			["name"] = "MAIN PWR Switch (special) - MAIN PWR/BATT",
 		},
-		["d3002pnilu3002cd19vd1vpnilvu0"] = {
+		["d3003pnilu3003cd11vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "MASTER ARM Switch - MASTER ARM/OFF",
-		},
-		["d3003pnilu3003cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "ANTI-SKID Switch - Up",
-		},
-		["d3004pnilu3004cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "LASER ARM Switch ARM/OFF",
+			["name"] = "WING/TAIL Switch DIM/OFF",
 		},
 		["d3004pnilu3004cd7vd-1vpnilvu0"] = {
 			["added"] = {
@@ -132,7 +116,15 @@ local diff = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "ANTI-SKID Switch - OFF/ANTI-SKID",
+			["name"] = "ANTI-SKID Switch (special) - OFF/ANTI-SKID",
+		},
+		["d3004pnilu3004cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "ANTI-SKID Switch (special) - PARKING BRAKE/ANTI-SKID",
 		},
 		["d3008pnilu3008cd11vd-1vpnilvu0"] = {
 			["added"] = {
@@ -140,7 +132,7 @@ local diff = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "LANDING TAXI LIGHTS Switch - TAXI/OFF",
+			["name"] = "LANDING TAXI LIGHTS Switch TAXI/OFF",
 		},
 		["d3008pnilu3008cd11vd1vpnilvu0"] = {
 			["added"] = {
@@ -148,12 +140,12 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "LANDING TAXI LIGHTS Switch - LANDING/OFF",
+			["name"] = "LANDING TAXI LIGHTS Switch LANDING/OFF",
 		},
 		["d3008pnilu3008cd4vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "AIR REFUEL Switch OPEN/CLOSE",
@@ -166,13 +158,29 @@ local diff = {
 			},
 			["name"] = "ENG CONT Switch SEC/PRI",
 		},
-		["d3009pnilu3009cd6vd1vpnilvu0"] = {
+		["d3011pnilu3011cd2vd0vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "STORES CONFIG Switch CAT I/III",
+		},
+		["d3012pnilunilcd32vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "RWR Source Switch - ON/OFF",
+		},
+		["d3013pnilunilcd32vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "MAX POWER Switch ON/OFF",
+			["name"] = "JMR Source Switch - ON/OFF",
 		},
 		["d3017pnilunilcd6vd1vpnilvunil"] = {
 			["added"] = {
@@ -188,7 +196,7 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "Transmit Switch - VHF",
+			["name"] = "Transmit Switch - VHF (call radio menu)",
 		},
 		["d3025pnilu3025cd16vd1vpnilvu0"] = {
 			["added"] = {
@@ -196,7 +204,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Transmit Switch - UHF",
+			["name"] = "Transmit Switch - UHF (call radio menu)",
 		},
 		["d3026pnilu3026cd16vd1vpnilvu0"] = {
 			["added"] = {
@@ -269,14 +277,6 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle - OFF/IDLE",
-		},
-		["d430pnilu431cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "LG Handle UP/DOWN",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

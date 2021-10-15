@@ -1,33 +1,5 @@
 local diff = {
 	["keyDiffs"] = {
-		["d3003pnilu3003cd33vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-				[2] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "IFEI Up Arrow Button",
-		},
-		["d3004pnilu3004cd33vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-				[2] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "IFEI Down Arrow Button",
-		},
 		["d3011pnilu3011cd35vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

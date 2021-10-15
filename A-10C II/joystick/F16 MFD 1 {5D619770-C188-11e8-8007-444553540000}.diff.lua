@@ -96,22 +96,6 @@ local diff = {
 			},
 			["name"] = "HSI Course rotate right",
 		},
-		["dnilp766unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "HSI Heading rotate left",
-		},
-		["dnilp767unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "HSI Heading rotate right",
-		},
 		["dnilp934unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

@@ -170,38 +170,6 @@ local diff = {
 			},
 			["name"] = "Navigation panel Waypoint B9",
 		},
-		["d3316pnilunilcd2vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "EP13 Brightness down",
-		},
-		["d3316pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "EP13 Brightness up",
-		},
-		["d3317pnilunilcd2vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "EP13 Contrast down",
-		},
-		["d3317pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "EP13 Contrast up",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {
@@ -305,66 +273,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-		},
-		["dnilp3721unilcd22vdnilvp-0.005vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "LCtrl",
-					},
-				},
-			},
-			["name"] = "Backup Altimeter Setting Down - Slow",
-		},
-		["dnilp3721unilcd22vdnilvp-0.015vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Backup Altimeter Setting Down - Normal",
-		},
-		["dnilp3721unilcd22vdnilvp-0.045vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Backup Altimeter Setting Down - Fast",
-		},
-		["dnilp3721unilcd22vdnilvp0.005vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "LCtrl",
-					},
-				},
-			},
-			["name"] = "Backup Altimeter Setting Up - Slow",
-		},
-		["dnilp3721unilcd22vdnilvp0.015vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Backup Altimeter Setting Up - Normal",
-		},
-		["dnilp3721unilcd22vdnilvp0.045vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Backup Altimeter Setting Up - Fast",
 		},
 	},
 }

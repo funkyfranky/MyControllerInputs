@@ -24,33 +24,39 @@ local diff = {
 				},
 			},
 		},
-		["a3327cd5"] = {
+		["a3321cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Radar stick horizontal",
+		},
+		["a3322cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Radar stick vertical",
+		},
+		["a3641cd5"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
+							[1] = 0,
 						},
 						["deadzone"] = 0,
-						["invert"] = false,
+						["invert"] = true,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
-						["slider"] = true,
+						["slider"] = false,
 					},
 					["key"] = "JOY_SLIDER1",
 				},
 			},
-			["name"] = "Radar MKR Gain",
+			["name"] = "Radar elevation",
 		},
 	},
 	["keyDiffs"] = {
@@ -70,6 +76,22 @@ local diff = {
 			},
 			["name"] = "Kneeboard ON/OFF",
 		},
+		["d3001pnilu3001cd21vd1vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Doppler Mode Land/Sea (toggle)",
+		},
+		["d3001pnilu3001cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Thrust Reverser On/Off",
+		},
 		["d3001pnilu3002cd24vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -86,14 +108,6 @@ local diff = {
 			},
 			["name"] = "Kneeboard Next Page",
 		},
-		["d3001pnilunilcd21vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "Radar alitmeter land/sea mode",
-		},
 		["d3001pnilunilcd26vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -101,6 +115,14 @@ local diff = {
 				},
 			},
 			["name"] = "Master caution reset",
+		},
+		["d3001pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Fast countermeasure dispense",
 		},
 		["d3002pnilu3003cd23vd1vpnilvu1"] = {
 			["added"] = {
@@ -126,14 +148,6 @@ local diff = {
 			},
 			["name"] = "KB Lights+Sound/Lights",
 		},
-		["d3003pnilu3003cd18vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Ignition System Man/Aut",
-		},
 		["d3004pnilu3003cd23vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -158,13 +172,29 @@ local diff = {
 			},
 			["name"] = "FR22 Push-to-talk",
 		},
-		["d3209pnilu3209cd5vd0vpnilvu1"] = {
+		["d3200pnilu3200cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "Radar Gain Lin/Log",
+			["name"] = "HÖJD CISI LD/RHM (toggle)",
+		},
+		["d3201pnilu3201cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Slav SI Switch F/T (toggle)",
+		},
+		["d3209pnilu3209cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Radar Gain Log/Lin",
 		},
 		["d3212pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
@@ -182,18 +212,10 @@ local diff = {
 			},
 			["name"] = "Obstacle detection mode",
 		},
-		["d3304pnilu3304cd18vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Autopilot Autothrottle mode AFK On/Off",
-		},
 		["d3328pnilu3328cd5vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Radar Pulse Normal/Short",
@@ -201,7 +223,7 @@ local diff = {
 		["d3350pnilu3350cd5vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "Radar Passive Recce On/Off",
@@ -254,21 +276,13 @@ local diff = {
 			},
 			["name"] = "Airbrake Out/In",
 		},
-		["d3719pnilu3719cd22vd0vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Landing Gear Lever Up/Down",
-		},
 		["d3800pnilu3800cd28vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Countermeasure Dispense - Press: Off Release: Int",
+			["name"] = "Countermeasure Dispense - Press: Kont Release: Off",
 		},
 		["d3800pnilu3800cd28vd1vpnilvu0"] = {
 			["added"] = {
@@ -276,7 +290,7 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Countermeasure Dispense - Press: Kont Release: Int",
+			["name"] = "Countermeasure Dispense - Press: Int Release: Off",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

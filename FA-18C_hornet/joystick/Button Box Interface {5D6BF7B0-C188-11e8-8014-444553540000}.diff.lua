@@ -56,14 +56,6 @@ local diff = {
 			},
 			["name"] = "Pilot Salute",
 		},
-		["d3001pnilu3001cd12vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "APU Control Switch - ON/OFF",
-		},
 		["d3001pnilu3001cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -72,16 +64,13 @@ local diff = {
 			},
 			["name"] = "UFC Function Selector Pushbutton - A/P",
 		},
-		["d3002pnilu3002cd11vd1vpnilvu0"] = {
+		["d3001pnilu3001cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "Bleed Air Knob - AUG PULL",
+			["name"] = "Canopy Control Switch - OPEN",
 		},
 		["d3002pnilu3002cd25vd1vpnilvu0"] = {
 			["added"] = {
@@ -90,17 +79,6 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Function Selector Pushbutton - IFF",
-		},
-		["d3002pnilu3002cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "T/O TRIM Button",
 		},
 		["d3002pnilu3002cd53vd1vpnilvu0"] = {
 			["added"] = {
@@ -120,6 +98,14 @@ local diff = {
 				},
 			},
 			["name"] = "Dispense Button",
+		},
+		["d3002pnilu3002cd7vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Canopy Control Switch - CLOSE",
 		},
 		["d3002pnilunilcd44vd-1vpnilvunil"] = {
 			["added"] = {
@@ -143,14 +129,6 @@ local diff = {
 			},
 			["name"] = "INS Switch - CW",
 		},
-		["d3003pnilu3003cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Master Arm Switch ARM/OFF",
-		},
 		["d3003pnilu3003cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -158,17 +136,6 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Function Selector Pushbutton - TCN",
-		},
-		["d3003pnilu3003cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "FCS RESET Button",
 		},
 		["d3003pnilu3003cd53vd1vpnilvu0"] = {
 			["added"] = {
@@ -180,25 +147,6 @@ local diff = {
 				},
 			},
 			["name"] = "ALR-67 SPECIAL Pushbutton",
-		},
-		["d3003pnilu3003cd6vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Fuel Dump Switch - ON/OFF",
-		},
-		["d3003pnilunilcd10vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "OBOGS Control Switch - ON/OFF",
 		},
 		["d3003pnilunilcd42vd-1vpnilvunil"] = {
 			["added"] = {
@@ -222,14 +170,6 @@ local diff = {
 			},
 			["name"] = "RADAR Switch - CW",
 		},
-		["d3004pnilu3004cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Emergency Jettison Button",
-		},
 		["d3004pnilu3004cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -241,10 +181,7 @@ local diff = {
 		["d3004pnilu3004cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "FCS BIT Switch",
@@ -279,28 +216,6 @@ local diff = {
 			},
 			["name"] = "ALR-67 BIT Pushbutton",
 		},
-		["d3005pnilu3005cd5vd-1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Emergency/Parking Brake Handle PULL/STOW",
-		},
-		["d3006pnilu3006cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Emergency/Parking Brake Handle - CCW",
-		},
 		["d3007pnilu3007cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -311,33 +226,6 @@ local diff = {
 				},
 			},
 			["name"] = "Lights Test Switch - TEST/OFF",
-		},
-		["d3007pnilunilcd5vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Emergency/Parking Brake Handle - CW",
-		},
-		["d3008pnilu3008cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Launch Bar Control Switch - EXTEND/RETRACT",
-		},
-		["d3009pnilu3009cd9vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "HOOK BYPASS Switch - FIELD/CARRIER",
 		},
 		["d3010pnilu3010cd25vd1vpnilvu0"] = {
 			["added"] = {
@@ -366,10 +254,7 @@ local diff = {
 		["d3012pnilunilcd11vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN31",
 				},
 			},
 			["name"] = "Bleed Air Knob - CCW",
@@ -377,10 +262,7 @@ local diff = {
 		["d3012pnilunilcd11vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN32",
 				},
 			},
 			["name"] = "Bleed Air Knob - CW",
@@ -392,14 +274,6 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Option Select Pushbutton 4",
-		},
-		["d3013pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Arresting Hook Handle - Cycle",
 		},
 		["d3014pnilu3014cd25vd1vpnilvu0"] = {
 			["added"] = {
@@ -419,17 +293,6 @@ local diff = {
 				},
 			},
 			["name"] = "ALR-67 POWER Pushbutton - ON/OFF",
-		},
-		["d3016pnilu3016cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Pitot Heater Switch - ON/AUTO",
 		},
 		["d3016pnilunilcd7vd0vpnilvunil"] = {
 			["added"] = {
@@ -453,55 +316,6 @@ local diff = {
 			},
 			["name"] = "Shoulder Harness Control Handle - LOCK/UNLOCK",
 		},
-		["d3018pnilunilcd23vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
-				},
-			},
-			["name"] = "Station Jettison Select Button CENTER - ON/OFF",
-		},
-		["d3019pnilu3019cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Throttle Designator Controller - Up",
-		},
-		["d3019pnilunilcd23vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
-				},
-			},
-			["name"] = "Station Jettison Select Button LEFT IN - ON/OFF",
-		},
-		["d3020pnilu3020cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Throttle Designator Controller - Down",
-		},
-		["d3020pnilunilcd23vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
-				},
-			},
-			["name"] = "Station Jettison Select Button LEFT OUT - ON/OFF",
-		},
 		["d3020pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -512,25 +326,6 @@ local diff = {
 				},
 			},
 			["name"] = "Wing Fold Control Handle - PULL/STOW",
-		},
-		["d3021pnilu3021cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Throttle Designator Controller - Left",
-		},
-		["d3021pnilunilcd23vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
-				},
-			},
-			["name"] = "Station Jettison Select Button RIGHT IN - ON/OFF",
 		},
 		["d3021pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
@@ -553,25 +348,6 @@ local diff = {
 				},
 			},
 			["name"] = "Wing Fold Control Handle - CW/Right",
-		},
-		["d3022pnilu3022cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Throttle Designator Controller - Right",
-		},
-		["d3022pnilunilcd23vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
-				},
-			},
-			["name"] = "Station Jettison Select Button RIGHT OUT - ON/OFF",
 		},
 		["d83pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -616,21 +392,21 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3008unilcd33vdnilvp-0.5vunil"] = {
+		["dnilp3005unilcd32vdnilvp-0.3vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN29",
+					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "IFEI Brightness Control Knob - CCW/Decrease",
+			["name"] = "SAI Cage Knob - CCW",
 		},
-		["dnilp3008unilcd33vdnilvp0.5vunil"] = {
+		["dnilp3005unilcd32vdnilvp0.3vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN30",
+					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "IFEI Brightness Control Knob - CW/Increase",
+			["name"] = "SAI Cage Knob - CW",
 		},
 		["dnilp3013unilcd2vdnilvp-1vunil"] = {
 			["added"] = {
@@ -664,21 +440,21 @@ local diff = {
 			},
 			["name"] = "Black Level Control Knob - CW/Increase",
 		},
-		["dnilp3017unilcd34vdnilvp-0.5vunil"] = {
+		["dnilp316unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN30",
 				},
 			},
-			["name"] = "Balance Control Knob - CCW/Decrease",
+			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CW/Increase",
 		},
-		["dnilp3017unilcd34vdnilvp0.5vunil"] = {
+		["dnilp317unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN29",
 				},
 			},
-			["name"] = "Balance Control Knob - CW/Increase",
+			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CCW/Decrease",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

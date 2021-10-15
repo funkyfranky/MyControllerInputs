@@ -102,30 +102,6 @@ local diff = {
 			},
 			["name"] = "Kneeboard ON/OFF",
 		},
-		["d3001pnilu3001cd54vd0.2vpnilvu0.1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "DISPENSER Switch BYPASS/ON",
-		},
-		["d3001pnilu3001cd54vd0vpnilvu0.1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "DISPENSER Switch OFF/ON",
-		},
-		["d3001pnilunilcd100vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
-				},
-			},
-			["name"] = "Kneeboard Next Page",
-		},
 		["d3002pnilu3002cd3vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -134,21 +110,21 @@ local diff = {
 			},
 			["name"] = "Left Generator Control Switch OFF/MORM",
 		},
+		["d3002pnilu3002cd6vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Probe Control Switch EMERG/RETRACT",
+		},
 		["d3002pnilu3002cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Probe Control Switch EXTEND/RETRACT",
-		},
-		["d3002pnilunilcd100vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
-				},
-			},
-			["name"] = "Kneeboard Previous Page",
 		},
 		["d3003pnilu3003cd3vd0vpnilvu1"] = {
 			["added"] = {
@@ -157,6 +133,14 @@ local diff = {
 				},
 			},
 			["name"] = "Right Generator Control Switch OFF/NORM",
+		},
+		["d3003pnilu3003cd6vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Fuel Dump Switch - ON/OFF",
 		},
 		["d3003pnilu3003cd8vd-1vpnilvu0"] = {
 			["added"] = {
@@ -214,14 +198,6 @@ local diff = {
 			},
 			["name"] = "MASTER CAUTION Reset Button",
 		},
-		["d3012pnilu3012cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Auxiliary Release Switch ENABLE/NORM",
-		},
 		["d3013pnilu3013cd23vd0.1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -229,6 +205,14 @@ local diff = {
 				},
 			},
 			["name"] = "IR Cooling Switch NORM/OFF",
+		},
+		["d3023pnilu3023cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "APU Control Sw (special) - ON/OFF",
 		},
 		["d3024pnilu3024cd13vd1vpnilvu0"] = {
 			["added"] = {
@@ -317,14 +301,6 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle (Right) - OFF/IDLE",
-		},
-		["d430pnilu431cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Landing Gear Control Handle UP/DOWN",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

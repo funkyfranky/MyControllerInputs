@@ -37,7 +37,7 @@ local diff = {
 		["d3002pnilu3002cd37vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "AMPCD Night/Day Brightness Selector - DAY",
@@ -45,77 +45,39 @@ local diff = {
 		["d3003pnilu3003cd37vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "AMPCD Night/Day Brightness Selector - NGT",
 		},
-		["d3004pnilu3004cd35vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Heading Set Switch - Right",
-		},
 		["d3004pnilu3004cd37vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "AMPCD Symbology Control Switch - UP",
-		},
-		["d3005pnilu3005cd35vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Heading Set Switch - Left",
-		},
-		["d3005pnilu3005cd37vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "AMPCD Symbology Control Switch - DOWN",
-		},
-		["d3006pnilu3006cd35vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "Course Set Switch - Right",
+			["name"] = "AMPCD Symbology Control Switch - UP",
+		},
+		["d3005pnilu3005cd37vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "AMPCD Symbology Control Switch - DOWN",
 		},
 		["d3006pnilu3006cd37vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "Mail",
-					},
 				},
 			},
 			["name"] = "AMPCD Contrast Control Switch - UP",
 		},
-		["d3007pnilu3007cd35vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Course Set Switch - Left",
-		},
 		["d3007pnilu3007cd37vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "AMPCD Contrast Control Switch - DOWN",
@@ -123,10 +85,7 @@ local diff = {
 		["d3008pnilu3008cd37vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN25",
 				},
 			},
 			["name"] = "AMPCD Gain Control Switch - UP",
@@ -134,10 +93,7 @@ local diff = {
 		["d3009pnilu3009cd37vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN26",
 				},
 			},
 			["name"] = "AMPCD Gain Control Switch - DOWN",

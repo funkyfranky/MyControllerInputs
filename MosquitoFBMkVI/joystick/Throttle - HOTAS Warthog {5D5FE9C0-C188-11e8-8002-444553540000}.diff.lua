@@ -24,37 +24,71 @@ local diff = {
 				},
 			},
 		},
-		["a2004cdnil"] = {
-			["name"] = "Thrust",
-			["removed"] = {
+		["a3022cd3"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "Throttle, left engine - axis",
+		},
+		["a3025cd3"] = {
+			["added"] = {
 				[1] = {
 					["key"] = "JOY_Z",
 				},
 			},
+			["name"] = "Throttle, right engine - axis",
+		},
+		["a3088cd3"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "Mixture - axis",
 		},
 	},
 	["keyDiffs"] = {
-		["d3015pnilunilcd23vd-1vpnilvunil"] = {
+		["d1591pnilu1592cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
+					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Selective Jettison Knob - CCW",
+			["name"] = "COMM Push to talk",
 		},
-		["d3015pnilunilcd23vd1vpnilvunil"] = {
+		["d3003pnilu3003cd17vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
+					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "Selective Jettison Knob - CW",
+			["name"] = "Flaps lever - push down",
+		},
+		["d3003pnilu3003cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Flaps lever - pull up",
+		},
+		["d3007pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Flaps lever, lock latch - lock/unlock",
+		},
+		["d3023pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Supercharger, cycle mode - AUTO/MOD",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -87,38 +121,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
-		},
-		["dnilp3036unilcd25vdnilvp-0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "UFC COMM 1 Volume Control Knob - CCW/Decrease",
-		},
-		["dnilp3036unilcd25vdnilvp0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "UFC COMM 1 Volume Control Knob - CW/Increase",
-		},
-		["dnilp3038unilcd25vdnilvp-0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "UFC COMM 2 Volume Control Knob - CCW/Decrease",
-		},
-		["dnilp3038unilcd25vdnilvp0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "UFC COMM 2 Volume Control Knob - CW/Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

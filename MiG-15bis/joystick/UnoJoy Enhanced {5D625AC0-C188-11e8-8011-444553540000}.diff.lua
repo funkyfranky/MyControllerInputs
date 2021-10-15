@@ -32,14 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd30"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "RSI-6K Antenna Control Handle (fvh)",
-		},
 		["a3007cd22"] = {
 			["added"] = {
 				[1] = {

@@ -34,18 +34,10 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3000pnilu3000cd18vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Missile Select Button (IR-RB FRAMSTEGN) Depress/Release",
-		},
 		["d3002pnilu3002cd26vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "Check indicator lights",
@@ -156,40 +148,10 @@ local diff = {
 			},
 			["name"] = "Engine De-ice switch",
 		},
-		["d3008pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "FR22 AM/FM switch",
-		},
-		["d3010pnilunilcd28vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Countermeasure KB Stråk Mod 0",
-		},
-		["d3010pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Countermeasure KB Stråk Mod 4",
-		},
 		["d3011pnilunilcd23vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN23",
 				},
 			},
 			["name"] = "Datapanel Rotary Counterclockwise",
@@ -197,7 +159,7 @@ local diff = {
 		["d3011pnilunilcd23vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "Datapanel Rotary Clockwise",
@@ -227,24 +189,10 @@ local diff = {
 		["d3012pnilunilcd31vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
+					["key"] = "JOY_BTN31",
 				},
 			},
 			["name"] = "Radio volume control decrease",
-		},
-		["d3012pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Radio volume control increase",
 		},
 		["d3016pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
@@ -301,7 +249,7 @@ local diff = {
 		["d3305pnilunilcd2vd0.6vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN30",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Weapon Interval 04 15m",
@@ -309,7 +257,7 @@ local diff = {
 		["d3305pnilunilcd2vd0.9vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN29",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Weapon Interval 01 RAKT",
@@ -357,7 +305,7 @@ local diff = {
 		["d3510pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN31",
+					["key"] = "JOY_BTN29",
 				},
 			},
 			["name"] = "TILS rotary counterclockwise",
@@ -365,7 +313,7 @@ local diff = {
 		["d3510pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN32",
+					["key"] = "JOY_BTN30",
 				},
 			},
 			["name"] = "TILS rotary clockwise",
@@ -375,29 +323,16 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN22",
 				},
+				[2] = {
+					["key"] = "JOY_BTN21",
+				},
 			},
 			["name"] = "TILS rotary layer switch",
-		},
-		["d3669pnilunilcd22vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Mode select - turn counterclockwise",
-		},
-		["d3669pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Mode select - turn clockwise",
 		},
 		["d3720pnilu3720cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "Backup ADI Cage Depress/Release",
@@ -551,7 +486,7 @@ local diff = {
 		["d3925pnilu3925cd18vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN1",
 				},
 			},
 			["name"] = "Data Cartridge Insert/Remove",
@@ -559,7 +494,7 @@ local diff = {
 		["d3969pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN26",
 				},
 			},
 			["name"] = "Weapon selector turn clockwise",
@@ -567,7 +502,7 @@ local diff = {
 		["d3969pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN25",
 				},
 			},
 			["name"] = "Weapon selector turn counterclockwise",
@@ -636,6 +571,14 @@ local diff = {
 			},
 			["name"] = "Radarstick Right",
 		},
+		["dnilp3208u0cd5vdnilvp0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Anti Jamming Mode (AS) Selector Up (test)",
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {
@@ -643,14 +586,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-		},
-		["dnilp3305u3305cd22vdnilvp1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Roll centrering (Roll trim reset) ",
 		},
 		["dnilp33u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Right slow",

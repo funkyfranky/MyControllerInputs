@@ -19,6 +19,16 @@ local modifiers = {
 		["key"] = "LWin",
 		["switch"] = false,
 	},
+	["Mail"] = {
+		["device"] = "Keyboard",
+		["key"] = "Mail",
+		["switch"] = true,
+	},
+	["MediaSelect"] = {
+		["device"] = "Keyboard",
+		["key"] = "MediaSelect",
+		["switch"] = true,
+	},
 	["RAlt"] = {
 		["device"] = "Keyboard",
 		["key"] = "RAlt",
@@ -39,16 +49,6 @@ local modifiers = {
 		["key"] = "RWin",
 		["switch"] = false,
 	},
-	["Mail"] = {
-		["device"] = "Keyboard",
-		["key"] = "Mail",
-		["switch"] = true,
-	},
-	["MediaSelect"] = {
-		["device"] = "Keyboard",
-		["key"] = "MediaSelect",
-		["switch"] = true,
-	},	
 	["WebHome"] = {
 		["device"] = "Keyboard",
 		["key"] = "WebHome",

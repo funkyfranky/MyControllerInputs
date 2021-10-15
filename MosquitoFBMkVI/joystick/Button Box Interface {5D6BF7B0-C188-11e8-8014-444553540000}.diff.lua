@@ -1,70 +1,84 @@
 local diff = {
-	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["name"] = "Pitch",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-		},
-		["a2002cdnil"] = {
-			["name"] = "Roll",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-		},
-		["a2003cdnil"] = {
-			["name"] = "Rudder",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-		},
-		["a2004cdnil"] = {
-			["name"] = "Thrust",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-		},
-	},
 	["keyDiffs"] = {
-		["d3009pnilunilcd11vd-1vpnilvunil"] = {
+		["d3052pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "ANTI-COLL Knob - CCW",
+			["name"] = "Gun Sight power - on/off",
 		},
-		["d3009pnilunilcd11vd1vpnilvunil"] = {
+		["d3065pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "ANTI-COLL Knob - CW",
+			["name"] = "Starter, button cover - open/close",
 		},
-		["d3015pnilunilcd11vd-1vpnilvunil"] = {
+		["d3066pnilu3066cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "MASTER Switch - CCW",
+			["name"] = "Starter, button - press",
 		},
-		["d3015pnilunilcd11vd1vpnilvunil"] = {
+		["d3068pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN18",
 				},
 			},
-			["name"] = "MASTER Switch - CW",
+			["name"] = "Booster coil, button cover - open/close",
+		},
+		["d3069pnilu3069cd3vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Booster сoil, button - press",
+		},
+		["d3079pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Guncam - on/off",
+		},
+		["d3081pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Nav lights - on/off",
+		},
+		["d3083pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "UV light - on/off",
+		},
+		["d3085pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Pitot Heater - on/off",
+		},
+		["d3087pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Fuel Pump - on/off",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

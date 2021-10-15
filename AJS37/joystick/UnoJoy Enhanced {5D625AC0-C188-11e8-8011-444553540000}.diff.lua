@@ -32,74 +32,8 @@ local diff = {
 				},
 			},
 		},
-		["a3006cd24"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Master Volume / Sidewinder Tone",
-		},
-		["a3800cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Radar Night Filter - Absolute",
-		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Thrust Reverser On/Off",
-		},
-		["d3002pnilunilcd32vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-					["reformers"] = {
-						[1] = "LWin",
-					},
-				},
-			},
-			["name"] = "IK (IFF) Code Down",
-		},
-		["d3002pnilunilcd32vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "LWin",
-					},
-				},
-			},
-			["name"] = "IK (IFF) Code Up",
-		},
 		["d3010pnilunilcd23vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -121,22 +55,6 @@ local diff = {
 				},
 			},
 			["name"] = "Select Data Cartridge - Up",
-		},
-		["d3200pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "HÖJD CISI",
-		},
-		["d3201pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "SLAV SI",
 		},
 		["d3302pnilu3302cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -176,24 +94,21 @@ local diff = {
 			},
 			["name"] = "RB-04/RB-15/BK Release Mode Valb/Prep",
 		},
-		["d3320pnilu3320cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Fuel Tank Jettison Button Depress/Release",
-		},
-		["d3402pnilu3402cd2vd1vpnilvu0"] = {
+		["d3325pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",
-					["reformers"] = {
-						[1] = "LCtrl",
-					},
 				},
 			},
-			["name"] = "External Tank Release Cover Open/Close",
+			["name"] = "Radar MKR Gain increase",
+		},
+		["d3326pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Radar MKR Gain decrease",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -202,17 +117,6 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["d3511pnilunilcd22vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "TILS rotary layer switch",
 		},
 		["d3712pnilu3712cd22vd-1vpnilvu0"] = {
 			["added"] = {
@@ -280,76 +184,53 @@ local diff = {
 			},
 			["name"] = "Emergency Trim Pitch Down",
 		},
-		["d3718pnilunilcd22vd0vpnilvunil"] = {
+		["d3718pnilu3718cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Oxygen Lever OFF",
+			["name"] = "Oxygen Lever On/Off",
 		},
-		["d3718pnilunilcd22vd1vpnilvunil"] = {
+		["d3801pnilu3804cd5vd-0.1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Oxygen Lever ON",
+			["name"] = "Radar Night Filter - Up",
 		},
-		["d3920pnilunilcd18vd0vpnilvunil"] = {
+		["d3801pnilu3804cd5vd0.1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "LShift",
-					},
+					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "IFF/Transponder Power Off",
-		},
-		["d3920pnilunilcd18vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "IFF/Transponder Power On",
-		},
-		["d3921pnilunilcd18vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "IFF Channel Selector A",
-		},
-		["d3921pnilunilcd18vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "IFF Channel Selector A+C",
+			["name"] = "Radar Night Filter - Down",
 		},
 		["d3922pnilu3922cd5vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "LShift",
-					},
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "IFF Identification Depressed/Released",
+		},
+		["d3924pnilunilcd5vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Radar Decrease Brightness",
+		},
+		["d3924pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Radar Increase Brightness",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -398,22 +279,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
-		},
-		["dnilp3404u3404cd22vdnilvp-1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Seat Adjustment - Up",
-		},
-		["dnilp3404u3404cd22vdnilvp1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Seat Adjustment - Down",
 		},
 		["dnilp34u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up slow",

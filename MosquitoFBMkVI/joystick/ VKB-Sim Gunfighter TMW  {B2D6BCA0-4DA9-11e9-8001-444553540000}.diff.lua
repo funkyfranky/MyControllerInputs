@@ -1,60 +1,60 @@
 local diff = {
-	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["name"] = "Pitch",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-		},
-		["a2002cdnil"] = {
-			["name"] = "Roll",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-		},
-		["a2003cdnil"] = {
-			["name"] = "Rudder",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-		},
-		["a2004cdnil"] = {
-			["name"] = "Thrust",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-		},
-	},
 	["keyDiffs"] = {
-		["d3015pnilunilcd23vd-1vpnilvunil"] = {
+		["d3007pnilu3007cd5vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
 				},
 			},
-			["name"] = "Selective Jettison Knob - CCW",
+			["name"] = "Trigger button (release bomb/guncam on) - press",
 		},
-		["d3015pnilunilcd23vd1vpnilvunil"] = {
+		["d3016pnilu3016cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "Selective Jettison Knob - CW",
+			["name"] = "Trim Elevator Nose Up",
+		},
+		["d3016pnilu3016cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_U",
+				},
+			},
+			["name"] = "Trim Elevator Nose Down",
+		},
+		["d3051pnilu3051cd2vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_R",
+				},
+			},
+			["name"] = "Trim Aileron Right",
+		},
+		["d3051pnilu3051cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_L",
+				},
+			},
+			["name"] = "Trim Aileron Left",
+		},
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Fire Cannons",
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Fire Machineguns",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -88,37 +88,37 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3036unilcd25vdnilvp-0.5vunil"] = {
+		["dnilp3046unilcd5vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "UFC COMM 1 Volume Control Knob - CCW/Decrease",
+			["name"] = "Gun Sight Range - decrease",
 		},
-		["dnilp3036unilcd25vdnilvp0.5vunil"] = {
+		["dnilp3046unilcd5vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "UFC COMM 1 Volume Control Knob - CW/Increase",
+			["name"] = "Gun Sight Range - increase",
 		},
-		["dnilp3038unilcd25vdnilvp-0.5vunil"] = {
+		["dnilp3049unilcd5vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "UFC COMM 2 Volume Control Knob - CCW/Decrease",
+			["name"] = "Gun Sight Base - decrease",
 		},
-		["dnilp3038unilcd25vdnilvp0.5vunil"] = {
+		["dnilp3049unilcd5vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "UFC COMM 2 Volume Control Knob - CW/Increase",
+			["name"] = "Gun Sight Base - increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
@@ -151,6 +151,14 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp74u75cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Wheel Brakes",
 		},
 	},
 }

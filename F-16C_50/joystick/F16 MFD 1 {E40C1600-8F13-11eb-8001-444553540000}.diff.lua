@@ -194,101 +194,69 @@ local diff = {
 			},
 			["name"] = "Left MFD OSB 20",
 		},
-		["dnilp210u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_UR",
-				},
-			},
-		},
-		["dnilp211u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_DR",
-				},
-			},
-		},
-		["dnilp212u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_DL",
-				},
-			},
-		},
-		["dnilp213u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_UL",
-				},
-			},
-		},
-		["dnilp3001unilcd46vdnilvp-0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "SET INDEX Knob - CCW/Decrease",
-		},
-		["dnilp3001unilcd46vdnilvp0.01vunil"] = {
+		["d3021pnilu3021cd24vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "SET INDEX Knob - CW/Increase",
+			["name"] = "Left MFD GAIN Rocker Switch - Up/Increase",
 		},
-		["dnilp3003unilcd45vdnilvp-0.01vunil"] = {
+		["d3022pnilu3022cd24vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "Barometric Setting Knob - CCW/Decrease",
+			["name"] = "Left MFD GAIN Rocker Switch - Down/Decrease",
 		},
-		["dnilp3003unilcd45vdnilvp0.01vunil"] = {
+		["d3023pnilu3023cd24vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "Barometric Setting Knob - CW/Increase",
+			["name"] = "Left MFD SYM Rocker Switch - Up/Increase",
 		},
-		["dnilp32u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Left slow",
-			["removed"] = {
+		["d3024pnilu3024cd24vd-1vpnilvu0"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN22",
 				},
 			},
+			["name"] = "Left MFD SYM Rocker Switch - Down/Decrease",
 		},
-		["dnilp33u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Right slow",
-			["removed"] = {
+		["d3025pnilu3025cd24vd1vpnilvu0"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
+					["key"] = "JOY_BTN23",
 				},
 			},
+			["name"] = "Left MFD CON Rocker Switch - Up/Increase",
 		},
-		["dnilp34u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up slow",
-			["removed"] = {
+		["d3026pnilu3026cd24vd-1vpnilvu0"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN24",
 				},
 			},
+			["name"] = "Left MFD CON Rocker Switch - Down/Decrease",
 		},
-		["dnilp35u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down slow",
-			["removed"] = {
+		["d3027pnilu3027cd24vd1vpnilvu0"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN25",
 				},
 			},
+			["name"] = "Left MFD BRT Rocker Switch - Up/Increase",
+		},
+		["d3028pnilu3028cd24vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Left MFD BRT Rocker Switch - Down/Decrease",
 		},
 	},
 }

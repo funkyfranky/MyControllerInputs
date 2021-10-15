@@ -322,9 +322,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
 				},
 			},
 			["name"] = "Right MDI Contrast Control Knob - CCW/Decrease",
@@ -333,28 +330,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "MediaSelect",
-					},
 				},
 			},
 			["name"] = "Right MDI Contrast Control Knob - CW/Increase",
-		},
-		["dnilp316unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CW/Increase",
-		},
-		["dnilp317unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CCW/Decrease",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

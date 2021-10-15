@@ -34,27 +34,37 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3010pnilunilcd31vd-1vpnilvunil"] = {
+		["d3316pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
 				},
 			},
-			["name"] = "Radio function selector turn right",
+			["name"] = "EP13 Brightness down",
 		},
-		["d3010pnilunilcd31vd1vpnilvunil"] = {
+		["d3316pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
 				},
 			},
-			["name"] = "Radio function selector turn left",
+			["name"] = "EP13 Brightness up",
+		},
+		["d3317pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "EP13 Contrast down",
+		},
+		["d3317pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "EP13 Contrast up",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -95,82 +105,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
-		},
-		["dnilp3003u3003cd31vdnilvp-0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Left Decrease",
-		},
-		["dnilp3003u3003cd31vdnilvp0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Left Increase",
-		},
-		["dnilp3004u3004cd31vdnilvp-0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Left Decrease",
-		},
-		["dnilp3004u3004cd31vdnilvp0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Left Increase",
-		},
-		["dnilp3005u3005cd31vdnilvp-0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Right Decrease",
-		},
-		["dnilp3005u3005cd31vdnilvp0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Right Increase",
-		},
-		["dnilp3006u3006cd31vdnilvp-0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Right Decrease",
-		},
-		["dnilp3006u3006cd31vdnilvp0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Right Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

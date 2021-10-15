@@ -127,7 +127,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN29",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -138,7 +138,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN30",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -149,7 +149,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN31",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -160,18 +160,34 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN32",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
 			["name"] = "MIDS LVT Knob - CW",
+		},
+		["d3004pnilunilcd10vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Canopy Handle - UP",
+		},
+		["d3004pnilunilcd10vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Canopy Handle - DOWN",
 		},
 		["d3005pnilu3005cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN16",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -182,7 +198,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -193,38 +209,11 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN17",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
 			["name"] = "JFS Switch - START 2 / OFF",
-		},
-		["d3009pnilunilcd11vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "ANTI-COLL Knob - CCW",
-		},
-		["d3009pnilunilcd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "ANTI-COLL Knob - CW",
-		},
-		["d3010pnilu3010cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
-				},
-			},
-			["name"] = "MANUAL PITCH Override Switch - OVRD/NORM",
 		},
 		["d3012pnilu3012cd17vd1vpnilvu0"] = {
 			["added"] = {
@@ -233,14 +222,6 @@ local diff = {
 				},
 			},
 			["name"] = "ICP COM Override Button - COM1(UHF)",
-		},
-		["d3012pnilunilcd32vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "RWR Source Switch - ON/OFF",
 		},
 		["d3013pnilu3013cd17vd1vpnilvu0"] = {
 			["added"] = {
@@ -258,14 +239,6 @@ local diff = {
 			},
 			["name"] = "FUEL QTY SEL Knob - CCW",
 		},
-		["d3013pnilunilcd32vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "JMR Source Switch - ON/OFF",
-		},
 		["d3013pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -273,6 +246,14 @@ local diff = {
 				},
 			},
 			["name"] = "FUEL QTY SEL Knob - CW",
+		},
+		["d3014pnilunilcd32vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "MWS Source Switch - ON/OFF",
 		},
 		["d3015pnilu3015cd17vd1vpnilvu0"] = {
 			["added"] = {
@@ -282,28 +263,12 @@ local diff = {
 			},
 			["name"] = "ICP LIST Override Button - LIST",
 		},
-		["d3015pnilunilcd11vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "MASTER Switch - CCW",
-		},
-		["d3015pnilunilcd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "MASTER Switch - CW",
-		},
 		["d3015pnilunilcd19vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN6",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -312,7 +277,7 @@ local diff = {
 		["d3015pnilunilcd32vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN13",
 				},
 			},
 			["name"] = "JETT Switch - JETT/OFF",
@@ -325,13 +290,18 @@ local diff = {
 			},
 			["name"] = "O1 Expendable Category Switch - ON/OFF",
 		},
+		["d3017pnilu3017cd10vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Canopy Switch - Down",
+		},
 		["d3017pnilunilcd10vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
-					["reformers"] = {
-						[1] = "JOY_BTN8",
-					},
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Canopy Switch - Up",
@@ -373,7 +343,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN6",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 						[2] = "RShift",
 					},
 				},
@@ -393,7 +363,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN27",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -404,7 +374,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN28",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -447,7 +417,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN23",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -458,7 +428,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN24",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -469,7 +439,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN25",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -480,7 +450,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN26",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -491,7 +461,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN8",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -519,44 +489,12 @@ local diff = {
 			},
 			["name"] = "UHF A-3-2 Knob - CW/Increase",
 		},
-		["d3032pnilu3032cd17vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "ICP Data Control Switch - RET",
-		},
-		["d3033pnilu3033cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "ICP Data Control Switch - SEQ",
-		},
-		["d3034pnilu3034cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "ICP Data Control Switch - UP",
-		},
-		["d3035pnilu3035cd17vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "ICP Data Control Switch - DOWN",
-		},
 		["d3039pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN9",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -567,7 +505,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -578,7 +516,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN12",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},

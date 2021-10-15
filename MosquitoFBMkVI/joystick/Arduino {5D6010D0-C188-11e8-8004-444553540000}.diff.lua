@@ -16,15 +16,15 @@ local diff = {
 				},
 			},
 		},
-		["a2004cdnil"] = {
-			["name"] = "Throttle Both",
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_Z",
+					["key"] = "JOY_RZ",
 				},
 			},
 		},
-		["a2112cdnil"] = {
+		["a3014cd4"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -37,12 +37,12 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
-					["key"] = "JOY_X",
+					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "Wheel Brake Left",
+			["name"] = "Compass flood light, intensity - axis",
 		},
-		["a2113cdnil"] = {
+		["a3035cd4"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -55,10 +55,28 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
-					["key"] = "JOY_Y",
+					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Wheel Brake Right",
+			["name"] = "Windscreen wiper speed rheostat - axis",
+		},
+	},
+	["keyDiffs"] = {
+		["d3004pnilu3004cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Gear Lever UP/NEUTRAL",
+		},
+		["d3005pnilu3004cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Gear Lever DOWN/NEUTRAL",
 		},
 	},
 }

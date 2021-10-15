@@ -32,14 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd30"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "HMCS SYMBOLOGY INT Knob",
-		},
 		["a3013cd12"] = {
 			["added"] = {
 				[1] = {
@@ -95,7 +87,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
@@ -106,7 +98,7 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 					["reformers"] = {
-						[1] = "JOY_BTN8",
+						[1] = "Mail",
 					},
 				},
 			},
