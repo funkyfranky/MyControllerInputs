@@ -64,6 +64,14 @@ local diff = {
 				},
 			},
 		},
+		["a3729cd19"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "Flap Lever",
+		},
 	},
 	["keyDiffs"] = {
 		["d1587pnilunilcdnilvdnilvpnilvunil"] = {
@@ -74,13 +82,10 @@ local diff = {
 			},
 			["name"] = "Kneeboard ON/OFF",
 		},
-		["d3001pnilu3001cd12vd1vpnilvu0"] = {
+		["d3001pnilu3001cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN18",
-					["reformers"] = {
-						[1] = "Mail",
-					},
 				},
 			},
 			["name"] = "Hydraulic Transfer Pump Switch SHUTOFF else NORMAL",
@@ -93,25 +98,10 @@ local diff = {
 			},
 			["name"] = "Kneeboard Next Page",
 		},
-		["d3002pnilunilcd12vd0vpnilvunil"] = {
+		["d3002pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "Mail",
-						[2] = "RShift",
-					},
-				},
-			},
-			["name"] = "Hydraulic Transfer Pump Switch Cover CLOSE",
-		},
-		["d3002pnilunilcd12vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "Mail",
-					},
 				},
 			},
 			["name"] = "Hydraulic Transfer Pump Switch Cover OPEN",
@@ -124,15 +114,23 @@ local diff = {
 			},
 			["name"] = "Kneeboard Previous Page",
 		},
-		["d3016pnilu3016cd17vd0vpnilvu1"] = {
+		["d3003pnilu3003cd13vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "Gear Up, else Down",
+			["name"] = "Hydraulic Emergency Flight Control Switch -1/0",
 		},
-		["d3018pnilunilcd17vd0vpnilvunil"] = {
+		["d3004pnilunilcd13vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Hydraulic Emergency Flight Control Switch Cover 1",
+		},
+		["d3018pnilunilcd18vd0vpnilvunil"] = {
 			["name"] = "Gears Toggle",
 			["removed"] = {
 				[1] = {
@@ -140,49 +138,7 @@ local diff = {
 				},
 			},
 		},
-		["d3024pnilu3024cd16vd1vpnilvu0"] = {
-			["name"] = "Wing Sweep Auto Mode",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-		},
-		["d3025pnilu3025cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Wing Sweep Forward",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-		},
-		["d3026pnilu3026cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Wing Sweep Aft",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-		},
-		["d3027pnilu3027cd16vd1vpnilvu0"] = {
-			["name"] = "Wing Sweep Bomb Mode",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-		},
-		["d3037pnilu3037cd21vd-1vpnilvu0"] = {
+		["d3037pnilu3037cd22vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
@@ -190,7 +146,7 @@ local diff = {
 			},
 			["name"] = "Autopilot Vector ACL, else Off",
 		},
-		["d3038pnilu3038cd21vd1vpnilvu0"] = {
+		["d3038pnilu3038cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
@@ -198,45 +154,29 @@ local diff = {
 			},
 			["name"] = "Autopilot - Altitude Hold 1/0",
 		},
-		["d3039pnilu3039cd21vd-1vpnilvu0"] = {
+		["d3050pnilu3050cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN20",
 				},
 			},
-			["name"] = "Heading Hold GT, else Off",
+			["name"] = "Engine Airstart 1/0",
 		},
-		["d3039pnilu3039cd21vd1vpnilvu0"] = {
+		["d3052pnilu3052cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
+					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "Heading Hold On, else Off",
+			["name"] = "Left Engine Mode 1/0",
 		},
-		["d3045pnilu3045cd19vd-1vpnilvu0"] = {
+		["d3053pnilu3053cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "Throttle Mode MAN else BOOST",
-		},
-		["d3046pnilunilcd19vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "Toggle Auto Throttle",
-		},
-		["d3058pnilu3058cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "MASTER RESET",
+			["name"] = "Right Engine Mode 1/0",
 		},
 		["d3126pnilu3126cd57vd1vpnilvu0"] = {
 			["name"] = "CAGE-SEAM button",
@@ -254,7 +194,7 @@ local diff = {
 				},
 			},
 		},
-		["d3128pnilu3128cd19vd1vpnilvu0"] = {
+		["d3128pnilu3128cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN30",
@@ -262,7 +202,7 @@ local diff = {
 			},
 			["name"] = "Left Engine Cutoff",
 		},
-		["d3129pnilu3129cd19vd1vpnilvu0"] = {
+		["d3129pnilu3129cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN29",
@@ -347,21 +287,13 @@ local diff = {
 				},
 			},
 		},
-		["d3653pnilu3653cd11vd1vpnilvu0"] = {
-			["name"] = "Exterior Lights Master Switch ON (pressed) / OFF (released)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-		},
-		["d3654pnilunilcd11vd1vpnilvu0"] = {
+		["d3744pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
+					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "Exterior Lights Master Switch Toggle",
+			["name"] = "Autopilot Heading Toggle On",
 		},
 	},
 }

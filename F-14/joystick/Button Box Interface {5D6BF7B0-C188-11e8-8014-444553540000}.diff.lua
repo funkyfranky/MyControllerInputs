@@ -34,18 +34,7 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3006pnilu3006cd12vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Hydraulic Hand Pump",
-		},
-		["d3051pnilunilcd19vd-1vpnilvunil"] = {
+		["d3051pnilunilcd20vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN15",
@@ -56,7 +45,7 @@ local diff = {
 			},
 			["name"] = "Crank Right Engine",
 		},
-		["d3051pnilunilcd19vd1vpnilvunil"] = {
+		["d3051pnilunilcd20vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN14",
@@ -66,14 +55,6 @@ local diff = {
 				},
 			},
 			["name"] = "Crank Left Engine",
-		},
-		["d3137pnilu3137cd55vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Master Arm On and Cover Open, else Safe and Closed",
 		},
 		["d3138pnilu3138cd55vd1vpnilvu0"] = {
 			["added"] = {
@@ -89,7 +70,7 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Emergency Jettison",
+			["name"] = "Emergency Jettison switch - toggle",
 		},
 		["d3143pnilu3143cd55vd1vpnilvu0"] = {
 			["added"] = {
@@ -115,27 +96,27 @@ local diff = {
 			},
 			["name"] = "Target designate down / VSL LO",
 		},
-		["d3188pnilunilcd11vd-1vpnilvunil"] = {
+		["d3182pnilu3182cd12vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN17",
 					["reformers"] = {
 						[1] = "Mail",
 					},
 				},
 			},
-			["name"] = "Toggle Arm Ejection Seat",
+			["name"] = "Canopy CLOSE/HOLD",
 		},
-		["d3190pnilunilcd11vd1vpnilvunil"] = {
+		["d3182pnilu3182cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN16",
 					["reformers"] = {
 						[1] = "Mail",
 					},
 				},
 			},
-			["name"] = "Pilot Oxygen ON",
+			["name"] = "Canopy OPEN/HOLD",
 		},
 		["d3216pnilunilcd40vd1vpnilvunil"] = {
 			["added"] = {
@@ -216,6 +197,14 @@ local diff = {
 				},
 			},
 			["name"] = "STEER CMD AWL/PCD",
+		},
+		["d3319pnilu3319cd48vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "AN/ARA-63 Power Switch 1/0",
 		},
 		["d3320pnilunilcd48vd1vpnilvu0"] = {
 			["added"] = {
@@ -439,38 +428,6 @@ local diff = {
 				},
 			},
 			["name"] = "Compass N-S Hemisphere Switch Toggle",
-		},
-		["d3714pnilunilcd17vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Hook Toggle",
-		},
-		["d3726pnilunilcd21vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "AFCS Pitch Stabilisation Toggle",
-		},
-		["d3727pnilunilcd21vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "AFCS Roll Stabilisation Toggle",
-		},
-		["d3728pnilunilcd21vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "AFCS Yaw Stabilisation Toggle",
 		},
 	},
 }

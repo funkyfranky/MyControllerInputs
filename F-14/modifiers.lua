@@ -1,4 +1,9 @@
 local modifiers = {
+	["JOY_BTN8"] = {
+		["device"] = "UnoJoy Enhanced {5D625AC0-C188-11e8-8011-444553540000}",
+		["key"] = "JOY_BTN8",
+		["switch"] = true,
+	},
 	["LAlt"] = {
 		["device"] = "Keyboard",
 		["key"] = "LAlt",
@@ -24,6 +29,11 @@ local modifiers = {
 		["key"] = "Mail",
 		["switch"] = true,
 	},
+	["MediaSelect"] = {
+		["device"] = "Keyboard",
+		["key"] = "MediaSelect",
+		["switch"] = true,
+	},
 	["RAlt"] = {
 		["device"] = "Keyboard",
 		["key"] = "RAlt",
@@ -44,25 +54,10 @@ local modifiers = {
 		["key"] = "RWin",
 		["switch"] = false,
 	},
-	["JOY_BTN8"] = {
-		["device"] = "UnoJoy Enhanced {5D625AC0-C188-11e8-8011-444553540000}",
-		["key"] = "JOY_BTN8",
-		["switch"] = true,
-	},	
-	["Mail"] = {
-		["device"] = "Keyboard",
-		["key"] = "Mail",
-		["switch"] = true,
-	},
-	["MediaSelect"] = {
-		["device"] = "Keyboard",
-		["key"] = "MediaSelect",
-		["switch"] = true,
-	},
 	["WebHome"] = {
 		["device"] = "Keyboard",
 		["key"] = "WebHome",
 		["switch"] = true,
-	},	
+	},
 }
 return modifiers

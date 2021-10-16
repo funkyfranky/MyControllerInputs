@@ -42,38 +42,6 @@ local diff = {
 			},
 			["name"] = "Catapult Hook up",
 		},
-		["d3023pnilunilcd17vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Catapult Salute",
-		},
-		["d3056pnilu3056cd34vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Master Caution Reset",
-		},
-		["d3063pnilu3063cd20vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "QTY select External, else Feed",
-		},
-		["d3063pnilu3063cd20vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "QTY Select Wing, else Feed",
-		},
 		["d3130pnilu3130cd55vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

@@ -114,14 +114,6 @@ local diff = {
 			},
 			["name"] = "STEER CMD AWL/PCD",
 		},
-		["d3659pnilunilcd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Lights Position Tail Toggle",
-		},
 		["dnilp840unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

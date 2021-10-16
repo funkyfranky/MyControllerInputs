@@ -66,7 +66,7 @@ local diff = {
 			},
 			["name"] = "Autopilot Reference / Nosewheel Steering Toggle",
 		},
-		["d3086pnilu3086cd21vd1vpnilvu0"] = {
+		["d3086pnilu3086cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",

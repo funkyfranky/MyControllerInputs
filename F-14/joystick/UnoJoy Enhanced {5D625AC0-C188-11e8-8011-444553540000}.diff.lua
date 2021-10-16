@@ -32,22 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3178cd11"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "ACM Panel Light BRT Wheel",
-		},
-		["a3212cd25"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "AOA Indexer Light BRT Wheel",
-		},
 	},
 	["keyDiffs"] = {
 		["d3213pnilunilcd40vd0vpnilvunil"] = {
