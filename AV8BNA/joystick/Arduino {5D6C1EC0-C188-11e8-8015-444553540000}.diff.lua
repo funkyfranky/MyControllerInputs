@@ -34,28 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1272pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
-				},
-			},
-			["name"] = "Selective Jettison Selector Left",
-		},
-		["d1273pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
-				},
-			},
-			["name"] = "Selective Jettison Selector Right",
-		},
 		["d3395pnilunilcd29vd0.33vpnilvunil"] = {
 			["added"] = {
 				[1] = {

@@ -76,18 +76,18 @@ local diff = {
 			},
 			["name"] = "Radar Altimeter Power Switch On/Off",
 		},
-		["d3008pnilu3008cd17vd0.1vpnilvu0"] = {
+		["d3008pnilu3008cd9vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "Transponder APX-72 STBY/OFF",
+			["name"] = "Armament Selector OFF/SAFE",
 		},
 		["d3008pnilu3008cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Armament Selector ARMED/SAFE",
@@ -124,6 +124,14 @@ local diff = {
 			},
 			["name"] = "Gun Selector RIGHT/ALL",
 		},
+		["d3011pnilunilcd50vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Ripple Fire Cover",
+		},
 		["d3012pnilu3012cd7vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -131,6 +139,14 @@ local diff = {
 				},
 			},
 			["name"] = "Landing Light Switch Toggle",
+		},
+		["d3012pnilunilcd50vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Ripple Fire Switch",
 		},
 		["d3013pnilu3013cd50vd0vpnilvu0"] = {
 			["added"] = {
@@ -164,6 +180,22 @@ local diff = {
 			},
 			["name"] = "Armament Selector Up/Down",
 		},
+		["d3023pnilu3023cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Jettison Switch",
+		},
+		["d3025pnilunilcd9vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Jettison Switch Cover",
+		},
 		["d3026pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -172,14 +204,6 @@ local diff = {
 			},
 			["name"] = "AutoPilot",
 		},
-		["d3028pnilu3029cd9vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "AutoPilot Attitude/Level",
-		},
 		["d3028pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -187,14 +211,6 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle Stop Switch",
-		},
-		["d3030pnilu3029cd9vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "AutoPilot Orbit/Level",
 		},
 	},
 }

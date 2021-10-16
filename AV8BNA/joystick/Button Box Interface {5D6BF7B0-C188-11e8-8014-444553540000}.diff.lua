@@ -45,73 +45,6 @@ local diff = {
 			},
 			["name"] = "Fuel Shutoff Lever lock release",
 		},
-		["d1242pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "ODU Option 1",
-		},
-		["d1243pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "ODU Option 2",
-		},
-		["d1244pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "ODU Option 3",
-		},
-		["d1245pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "ODU Option 4",
-		},
-		["d1246pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "ODU Option 5",
-		},
-		["d1308pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "UFC IFF Function Button",
-		},
-		["d1316pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "UFC TACAN Function Button",
-		},
-		["d178pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Emergency Jettison Pushbutton",
-		},
 		["d3273pnilunilcd18vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -167,14 +100,6 @@ local diff = {
 				},
 			},
 			["name"] = "Flare Salvo Button PUSH/RELEASE",
-		},
-		["d3287pnilu3287cd29vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Master Arm Switch ON/OFF",
 		},
 		["d3398pnilu3398cd29vd-1vpnilvu0"] = {
 			["added"] = {
@@ -286,106 +211,6 @@ local diff = {
 			},
 			["name"] = "Release Interval Control (Units) UP/CENTER",
 		},
-		["d3471pnilunilcd28vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "RPS/YAW Trim Switch ON",
-		},
-		["d3471pnilunilcd28vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-					["reformers"] = {
-						[1] = "RShift",
-						[2] = "RWin",
-					},
-				},
-			},
-			["name"] = "RPS/YAW Trim Switch OFF",
-		},
-		["d3508pnilu3508cd9vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Fuel Dump L Switch ON/OFF",
-		},
-		["d3508pnilunilcd9vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "RAlt",
-						[2] = "RWin",
-					},
-				},
-			},
-			["name"] = "Fuel Dump L Switch OFF",
-		},
-		["d3508pnilunilcd9vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "Fuel Dump L Switch ON",
-		},
-		["d3509pnilunilcd9vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "RAlt",
-						[2] = "RWin",
-					},
-				},
-			},
-			["name"] = "Fuel Dump R Switch OFF",
-		},
-		["d3509pnilunilcd9vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "Fuel Dump R Switch ON",
-		},
-		["d3514pnilunilcd36vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-					["reformers"] = {
-						[1] = "RCtrl",
-						[2] = "RWin",
-					},
-				},
-			},
-			["name"] = "Oxygen Switch OFF",
-		},
-		["d3514pnilunilcd36vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Oxygen Switch ON",
-		},
 		["d3515pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -408,29 +233,6 @@ local diff = {
 				},
 			},
 			["name"] = "H2O Dump Switch ON",
-		},
-		["d3516pnilunilcd13vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "RCtrl",
-						[2] = "RWin",
-					},
-				},
-			},
-			["name"] = "LIDS Switch OFF",
-		},
-		["d3516pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "LIDS Switch ON",
 		},
 		["d3517pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
@@ -497,6 +299,14 @@ local diff = {
 			},
 			["name"] = "Fuel Shutoff Lever DOWN",
 		},
+		["d3554pnilunilcd1vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Generator ON/OFF",
+		},
 		["d3634pnilu3634cd34vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -512,77 +322,6 @@ local diff = {
 				},
 			},
 			["name"] = "Helmet Visor/NVG Toggle",
-		},
-		["d455pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "INS Mode Right (OFF - ALIGN  - NAV)",
-		},
-		["d456pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "INS Mode Left  (NAV - ALIGN  - OFF)",
-		},
-		["d461pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
-				},
-			},
-			["name"] = "Station 2 Pushbutton",
-		},
-		["d462pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
-				},
-			},
-			["name"] = "Station 3 Pushbutton",
-		},
-		["d463pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
-				},
-			},
-			["name"] = "Station 4 Pushbutton",
-		},
-		["d464pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
-				},
-			},
-			["name"] = "Station 5 Pushbutton",
-		},
-		["d465pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
-				},
-			},
-			["name"] = "Station 6 Pushbutton",
 		},
 		["d58pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -627,14 +366,6 @@ local diff = {
 				},
 			},
 			["name"] = "Q Feel On/Off Toggle",
-		},
-		["d69pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Air Refueling Probe Toggle IN/OUT",
 		},
 		["d71pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

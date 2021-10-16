@@ -90,38 +90,6 @@ local diff = {
 			},
 			["name"] = "Emergency SAAHS Disconnect",
 		},
-		["d549pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Sensor Select FWD: INS, IRMV/EOMV",
-		},
-		["d550pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Sensor Select AFT: DMT: LST/TV",
-		},
-		["d551pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Sensor Select LEFT: MAP Center/Decenter",
-		},
-		["d552pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Sensor Select RIGHT: FLIR BH/WH",
-		},
 		["d562pnilu606cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -153,14 +121,6 @@ local diff = {
 				},
 			},
 			["name"] = "A/A Mode DOWN: Gun",
-		},
-		["d566pnilu553cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Sensor Select DOWN: HUD Scene Reject/TGP",
 		},
 		["d634pnilu635cdnilvdnilvpnilvunil"] = {
 			["added"] = {

@@ -58,7 +58,7 @@ local diff = {
 					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "FF HUD Off/Brightness Control",
+			["name"] = "HUD BRT CONTROL",
 		},
 		["a3291cd22"] = {
 			["added"] = {
@@ -86,7 +86,7 @@ local diff = {
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "FF HUD Video Brightness Control",
+			["name"] = "VIDEO BRT CONTROL",
 		},
 		["a3292cd22"] = {
 			["added"] = {
@@ -114,7 +114,7 @@ local diff = {
 					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "FF HUD Video Contrast Control",
+			["name"] = "VIDEO CONT CONTROL",
 		},
 		["a3510cd33"] = {
 			["added"] = {
@@ -142,37 +142,10 @@ local diff = {
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "FF Formation Lights Knob",
+			["name"] = "Formation Lights Knob Axis",
 		},
 	},
 	["keyDiffs"] = {
-		["d3405pnilu3405cd29vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
-				},
-			},
-			["name"] = "Jettison Stores Button PUSH/RELEASE",
-		},
-		["d3457pnilu3457cd13vd0.5vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Flaps Power ON/OFF",
-		},
-		["d3459pnilu3459cd28vd0.5vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Anti-Skid Switch ON/NWS",
-		},
 		["d3503pnilu3503cd33vd0vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {
@@ -188,6 +161,22 @@ local diff = {
 				},
 			},
 			["name"] = "External Lights NVG/NORM",
+		},
+		["d3504pnilu3504cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Fuel Proportioner ON/OFF",
+		},
+		["d3507pnilu3507cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Air Refueling Probe Switch ON/OFF",
 		},
 		["d3511pnilu3511cd33vd0vpnilvu0.5"] = {
 			["added"] = {
@@ -221,45 +210,37 @@ local diff = {
 			},
 			["name"] = "External Auxiliary Lights Switch ON/OFF",
 		},
-		["d3610pnilu3610cd1vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "APU Generator Switch OFF/ON",
-		},
-		["d3610pnilu3610cd1vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "APU Generator Switch RESET/ON",
-		},
-		["d3611pnilu3611cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Engine Start Switch ON/OFF",
-		},
-		["d3612pnilu3612cd1vd1vpnilvu0.5"] = {
+		["d3514pnilu3514cd36vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "Generator ON/OFF",
+			["name"] = "Oxygen Switch ON/OFF",
 		},
-		["d3613pnilu3613cd1vd1vpnilvu0.5"] = {
+		["d3515pnilu3515cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",
 				},
 			},
-			["name"] = "Battery ON/OFF",
+			["name"] = "H2O Dump Switch ON/OFF",
+		},
+		["d3517pnilu3517cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Engine RPM Switch ON/OFF",
+		},
+		["d3518pnilu3518cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "EFC Switch POS1/POS2",
 		},
 		["d590pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -284,6 +265,14 @@ local diff = {
 				},
 			},
 			["name"] = "Master Mode AG",
+		},
+		["d69pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Air Refueling Probe Toggle IN/OUT",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

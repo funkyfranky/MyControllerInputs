@@ -122,30 +122,6 @@ local diff = {
 			},
 			["name"] = "CMBT Thrust Button PUSH/RELEASE",
 		},
-		["d3454pnilu3454cd13vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Flaps Mode STOL/AUTO",
-		},
-		["d3454pnilu3454cd13vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Flaps Mode CRUISE/AUTO",
-		},
-		["d3461pnilu3461cd28vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Landing Gear Lever UP/DOWN",
-		},
 		["d3472pnilu3472cd33vd0vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {
@@ -162,22 +138,6 @@ local diff = {
 			},
 			["name"] = "Landing/Taxi Lights HVR/APRCH",
 		},
-		["d3476pnilu3476cd28vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Alt Hold Switch ON/OFF",
-		},
-		["d3477pnilu3477cd28vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "AFC Switch ON/OFF",
-		},
 		["d3490pnilu3490cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -185,14 +145,6 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle Cutoff",
-		},
-		["d3504pnilu3504cd9vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Fuel Proportioner ON/OFF",
 		},
 		["d3505pnilu3505cd9vd0vpnilvu0.5"] = {
 			["added"] = {
@@ -226,10 +178,34 @@ local diff = {
 			},
 			["name"] = "Fuel Pump R ON/OFF",
 		},
-		["d3520pnilu3520cd9vd1vpnilvu0"] = {
+		["d3508pnilu3508cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Fuel Dump L Switch ON/OFF",
+		},
+		["d3509pnilu3509cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Fuel Dump R Switch ON/OFF",
+		},
+		["d3516pnilu3516cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "LIDS Switch ON/OFF",
+		},
+		["d3520pnilu3520cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "DECS Switch ON/OFF",
@@ -273,14 +249,6 @@ local diff = {
 				},
 			},
 			["name"] = "Cage/Uncage",
-		},
-		["d556pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Engine Air Start",
 		},
 		["d572pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

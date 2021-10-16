@@ -98,17 +98,6 @@ local diff = {
 			},
 			["name"] = "Nav Lights Steady/Off",
 		},
-		["d3003pnilunilcd25vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "RWin",
-					},
-				},
-			},
-			["name"] = "VOR/ILS Power TEST",
-		},
 		["d3004pnilu3004cd41vd1vpnilvu0"] = {
 			["name"] = "Pilot Trimmer",
 			["removed"] = {
@@ -132,6 +121,14 @@ local diff = {
 				},
 			},
 			["name"] = "Inverter Spare/Off",
+		},
+		["d3008pnilunilcd25vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "VOR/ILS Mode Select (rotary)",
 		},
 		["d3009pnilu3009cd1vd1vpnilvu0"] = {
 			["added"] = {
@@ -188,14 +185,6 @@ local diff = {
 				},
 			},
 			["name"] = "Anti Collision Light Switch On/Off",
-		},
-		["d3015pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "UHF Radio Freq. Mode Select(rotary)",
 		},
 		["d3020pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {

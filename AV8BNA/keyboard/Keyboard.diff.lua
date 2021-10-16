@@ -1,189 +1,5 @@
 local diff = {
 	["keyDiffs"] = {
-		["d1252pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num.",
-				},
-			},
-			["name"] = "UFC . Button",
-		},
-		["d1253pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num-",
-				},
-			},
-			["name"] = "UFC - Button",
-		},
-		["d1295pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num1",
-				},
-			},
-			["name"] = "UFC 1 Button",
-		},
-		["d1296pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num2",
-				},
-			},
-			["name"] = "UFC 2/N Button",
-		},
-		["d1297pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num3",
-				},
-			},
-			["name"] = "UFC 3 Button",
-		},
-		["d1298pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num4",
-				},
-			},
-			["name"] = "UFC 4/W Button",
-		},
-		["d1299pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num5",
-				},
-			},
-			["name"] = "UFC 5 Button",
-		},
-		["d1300pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num6",
-				},
-			},
-			["name"] = "UFC 6/E Button",
-		},
-		["d1301pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num7",
-				},
-			},
-			["name"] = "UFC 7 Button",
-		},
-		["d1302pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num8",
-				},
-			},
-			["name"] = "UFC 8/S Button",
-		},
-		["d1303pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num9",
-				},
-			},
-			["name"] = "UFC 9 Button",
-		},
-		["d1304pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num0",
-				},
-			},
-			["name"] = "UFC 0 Button",
-		},
-		["d1306pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num/",
-				},
-			},
-			["name"] = "UFC Timer Function Button",
-		},
-		["d1307pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "PageUp",
-				},
-			},
-			["name"] = "UFC Weapons Function Button",
-		},
-		["d1309pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Back",
-				},
-			},
-			["name"] = "UFC Clear Button",
-		},
-		["d1310pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "NumEnter",
-				},
-			},
-			["name"] = "UFC Enter Button",
-		},
-		["d1311pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Delete",
-				},
-			},
-			["name"] = "UFC RDR Beacon Function Button",
-		},
-		["d1312pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "End",
-				},
-			},
-			["name"] = "UFC Altimeter Function Button",
-		},
-		["d1314pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num*",
-				},
-			},
-			["name"] = "UFC Target-Of-Opportunity Function Button",
-		},
-		["d1316pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Insert",
-				},
-			},
-			["name"] = "UFC TACAN Function Button",
-		},
-		["d1317pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Home",
-				},
-			},
-			["name"] = "UFC AWLS Function Button",
-		},
-		["d1318pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num+",
-				},
-			},
-			["name"] = "UFC ON/OFF Toggle Button",
-		},
-		["d1319pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "PageDown",
-				},
-			},
-			["name"] = "UFC EMCON Toggle Button",
-		},
 		["d177pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Zoom normal",
 			["removed"] = {
@@ -207,6 +23,161 @@ local diff = {
 					["key"] = "Num.",
 				},
 			},
+		},
+		["d3001pnilunilcd100vd1vpnilvunil"] = {
+			["name"] = "Kneeboard Next Page",
+			["removed"] = {
+				[1] = {
+					["key"] = "]",
+				},
+			},
+		},
+		["d3002pnilunilcd100vd1vpnilvunil"] = {
+			["name"] = "Kneeboard Previous Page",
+			["removed"] = {
+				[1] = {
+					["key"] = "[",
+				},
+			},
+		},
+		["d3003pnilunilcd100vd1vpnilvunil"] = {
+			["name"] = "Kneeboard current position mark point",
+			["removed"] = {
+				[1] = {
+					["key"] = "K",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+		},
+		["d3302pnilu3302cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num7",
+				},
+			},
+			["name"] = "UFC 1 Button",
+		},
+		["d3303pnilu3303cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num8",
+				},
+			},
+			["name"] = "UFC 2/N Button",
+		},
+		["d3304pnilu3304cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num9",
+				},
+			},
+			["name"] = "UFC 3 Button",
+		},
+		["d3305pnilu3305cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num/",
+				},
+			},
+			["name"] = "UFC Clear Button",
+		},
+		["d3306pnilu3306cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num4",
+				},
+			},
+			["name"] = "UFC 4/W Button",
+		},
+		["d3307pnilu3307cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num5",
+				},
+			},
+			["name"] = "UFC 5 Button",
+		},
+		["d3308pnilu3308cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num6",
+				},
+			},
+			["name"] = "UFC 6/E Button",
+		},
+		["d3309pnilu3309cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num*",
+				},
+			},
+			["name"] = "UFC Save Button",
+		},
+		["d3310pnilu3310cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num1",
+				},
+			},
+			["name"] = "UFC 7 Button",
+		},
+		["d3311pnilu3311cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num2",
+				},
+			},
+			["name"] = "UFC 8/S Button",
+		},
+		["d3312pnilu3312cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num3",
+				},
+			},
+			["name"] = "UFC 9 Button",
+		},
+		["d3313pnilu3313cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num-",
+				},
+			},
+			["name"] = "UFC - Button",
+		},
+		["d3314pnilu3314cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "NumEnter",
+				},
+			},
+			["name"] = "UFC Enter Button",
+		},
+		["d3315pnilu3315cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num0",
+				},
+			},
+			["name"] = "UFC 0 Button",
+		},
+		["d3316pnilu3316cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num.",
+				},
+			},
+			["name"] = "UFC . Button",
+		},
+		["d3317pnilu3317cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num+",
+				},
+			},
+			["name"] = "UFC ON/OFF Toggle Button",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Trigger: Fire Gun/Launch Sidewinder, Sidearm",
