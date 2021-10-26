@@ -1,5 +1,27 @@
 local diff = {
 	["keyDiffs"] = {
+		["d1665pnilu1667cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "SEAT ADJ Switch - UP/OFF",
+		},
+		["d1666pnilu1667cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "SEAT ADJ Switch - DOWN/OFF",
+		},
 		["d3001pnilunilcd14vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -24,6 +46,30 @@ local diff = {
 			},
 			["name"] = "INS Knob - NAV",
 		},
+		["d3001pnilunilcd14vd0.4vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "INS Knob - CAL",
+		},
+		["d3001pnilunilcd14vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "INS Knob - INFLT ALIGN",
+		},
+		["d3001pnilunilcd14vd0.6vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "INS Knob - ATT",
+		},
 		["d3001pnilunilcd14vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -31,6 +77,30 @@ local diff = {
 				},
 			},
 			["name"] = "INS Knob - OFF",
+		},
+		["d3001pnilunilcd15vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "RDR ALT Switch - OFF",
+		},
+		["d3001pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "RDR ALT Switch - STBY",
+		},
+		["d3001pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "RDR ALT Switch - RDR ALT",
 		},
 		["d3002pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
@@ -80,6 +150,36 @@ local diff = {
 			},
 			["name"] = "LASER ARM Switch - ARM",
 		},
+		["d3005pnilu3005cd6vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "JFS Switch - START 1 / OFF",
+		},
+		["d3006pnilu3006cd6vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "JFS Switch - START 2 / OFF",
+		},
+		["d3009pnilu3009cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "RWR Indicator Control SEARCH Button",
+		},
 		["d3009pnilunilcd32vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -119,6 +219,14 @@ local diff = {
 				},
 			},
 			["name"] = "PROGRAM Knob - BIT",
+		},
+		["d3010pnilu3010cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "RWR Indicator Control ACT/PWR Button",
 		},
 		["d3010pnilunilcd32vd0.1vpnilvunil"] = {
 			["added"] = {
@@ -160,6 +268,14 @@ local diff = {
 			},
 			["name"] = "MODE Knob - OFF",
 		},
+		["d3012pnilu3012cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "RWR Indicator Control ALTITUDE Button",
+		},
 		["d3014pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -183,6 +299,14 @@ local diff = {
 				},
 			},
 			["name"] = "Autopilot ROLL Switch - HDG SEL",
+		},
+		["d3017pnilunilcd33vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "RWR Indicator Control POWER Button - Depressed/Released",
 		},
 		["d3031pnilu3031cd2vd-1vpnilvu0"] = {
 			["added"] = {
@@ -295,6 +419,22 @@ local diff = {
 				},
 			},
 			["name"] = "COMM 1 (UHF) Power Knob - CW/Increase",
+		},
+		["dnilp3022unilcd39vdnilvp-0.3vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "COMM 2 (VHF) Power Knob - CCW/Decrease",
+		},
+		["dnilp3022unilcd39vdnilvp0.3vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "COMM 2 (VHF) Power Knob - CW/Increase",
 		},
 	},
 }

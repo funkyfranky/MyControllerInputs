@@ -32,6 +32,46 @@ local diff = {
 				},
 			},
 		},
+		["a3178cd12"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "ACM Panel Light BRT Wheel",
+		},
+		["a3179cd12"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "Instruments Light BRT Wheel",
+		},
+		["a3180cd12"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Console Light BRT Wheel",
+		},
+		["a3181cd12"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Formation Light BRT Wheel",
+		},
+		["a3212cd26"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "AOA Indexer Light BRT Wheel",
+		},
 	},
 	["keyDiffs"] = {
 		["d3213pnilunilcd40vd0vpnilvunil"] = {

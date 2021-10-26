@@ -35,6 +35,16 @@ local diff = {
 		["a3031cd17"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RX",
 				},
 			},
@@ -50,22 +60,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3013pnilunilcd18vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "Parking brake pull",
-		},
-		["d3013pnilunilcd18vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Parking brake stow",
-		},
 		["d3016pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -101,18 +95,10 @@ local diff = {
 			},
 			["name"] = "Hook Extend",
 		},
-		["d3029pnilu3030cd17vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Emergency Wing Sweep Open & Extend",
-		},
 		["d3029pnilunilcd17vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN32",
+					["key"] = "JOY_BTN30",
 				},
 			},
 			["name"] = "Emergency Wing Sweep Handle Cover CLOSE",
@@ -120,18 +106,26 @@ local diff = {
 		["d3029pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN30",
+					["key"] = "JOY_BTN32",
 				},
 			},
 			["name"] = "Emergency Wing Sweep Handle Cover OPEN",
 		},
-		["d3031p3030u3029cd17vd0.3vp0vu0"] = {
+		["d3030pnilunilcd17vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN29",
 				},
 			},
-			["name"] = "Emergency Wing Sweep to 68°, Lock & Close",
+			["name"] = "Emergency Wing Sweep Handle Pop Out 0",
+		},
+		["d3030pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Emergency Wing Sweep Handle Pop Out 1",
 		},
 		["d3076pnilunilcd11vd0.090909090909091vpnilvunil"] = {
 			["added"] = {
@@ -260,14 +254,6 @@ local diff = {
 				},
 			},
 			["name"] = "Anti-Collision Lights 1/0",
-		},
-		["dnilp3030u3029cd17vdnilvp0vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Emergency Wing Sweep Lock & Close",
 		},
 	},
 }

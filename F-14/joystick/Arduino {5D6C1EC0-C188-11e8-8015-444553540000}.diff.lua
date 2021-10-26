@@ -34,28 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3327pnilunilcd47vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "TACAN Function Dec",
-		},
-		["d3327pnilunilcd47vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "TACAN Function Inc",
-		},
 		["d3331pnilunilcd47vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

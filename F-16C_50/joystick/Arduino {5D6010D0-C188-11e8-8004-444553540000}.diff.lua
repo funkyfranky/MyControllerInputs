@@ -68,31 +68,63 @@ local diff = {
 			},
 			["name"] = "AERIAL REFUELING Knob",
 		},
-		["a3041cd17"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "HUD Symbology Intensity Knob",
-		},
 	},
 	["keyDiffs"] = {
+		["d3003pnilu3003cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "WING/TAIL Switch DIM/OFF",
+		},
 		["d3003pnilu3003cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "WING/TAIL Switch BRT/OFF",
 		},
+		["d3004pnilu3004cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "FUSELAGE Switch DIM/OFF",
+		},
 		["d3004pnilu3004cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "FUSELAGE Switch BRT/OFF",
+		},
+		["d3008pnilu3008cd4vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "AIR REFUEL Switch OPEN/CLOSE",
+		},
+		["d3010pnilunilcd11vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "FUSELAGE Switch BRT/OFF",
+			["name"] = "FLASH STEADY Switch - FLASH/STEADY",
+		},
+		["d3014pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "TANK INERTING Switch - TANK INERTING /OFF",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

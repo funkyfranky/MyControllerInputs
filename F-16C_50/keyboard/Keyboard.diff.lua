@@ -17,6 +17,14 @@ local diff = {
 			},
 		},
 		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num5",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Zoom normal",
 			["removed"] = {
 				[1] = {
@@ -91,7 +99,7 @@ local diff = {
 		["d3003pnilu3003cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num1",
+					["key"] = "Num7",
 				},
 			},
 			["name"] = "ICP Priority Function Button - 1(T-ILS)",
@@ -107,7 +115,7 @@ local diff = {
 		["d3004pnilu3004cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num2",
+					["key"] = "Num8",
 				},
 			},
 			["name"] = "ICP Priority Function Button - 2/N(ALOW)",
@@ -123,7 +131,7 @@ local diff = {
 		["d3005pnilu3005cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num3",
+					["key"] = "Num9",
 				},
 			},
 			["name"] = "ICP Priority Function Button - 3",
@@ -187,7 +195,7 @@ local diff = {
 		["d3009pnilu3009cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num7",
+					["key"] = "Num1",
 				},
 			},
 			["name"] = "ICP Priority Function Button - 7(MARK)",
@@ -203,7 +211,7 @@ local diff = {
 		["d3010pnilu3010cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num8",
+					["key"] = "Num2",
 				},
 			},
 			["name"] = "ICP Priority Function Button - 8/S(FIX)",
@@ -219,7 +227,7 @@ local diff = {
 		["d3011pnilu3011cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num9",
+					["key"] = "Num3",
 				},
 			},
 			["name"] = "ICP Priority Function Button - 9(A-CAL)",
@@ -271,14 +279,6 @@ local diff = {
 					["key"] = "Space",
 				},
 			},
-		},
-		["d3025pnilu3025cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num*",
-				},
-			},
-			["name"] = "ICP FLIR Increment/Decrement Switch - Increment",
 		},
 		["d3026pnilu3026cd17vd-1vpnilvu0"] = {
 			["added"] = {
@@ -465,6 +465,14 @@ local diff = {
 			},
 		},
 		["dnilp39u289cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num*",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Zoom in slow",
 			["removed"] = {
 				[1] = {
@@ -473,6 +481,14 @@ local diff = {
 			},
 		},
 		["dnilp40u290cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Num/",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Zoom out slow",
 			["removed"] = {
 				[1] = {

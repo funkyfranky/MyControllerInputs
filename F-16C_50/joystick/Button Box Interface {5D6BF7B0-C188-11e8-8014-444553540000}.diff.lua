@@ -38,9 +38,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
 				},
 			},
 			["name"] = "UHF 10Mhz Manual Frequency Knob - Increase",
@@ -49,9 +46,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
 				},
 			},
 			["name"] = "UHF 10Mhz Manual Frequency Knob - Decrease",
@@ -60,9 +54,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
 				},
 			},
 			["name"] = "UHF 1Mhz Manual Frequency Knob - Increase",
@@ -71,9 +62,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
 				},
 			},
 			["name"] = "UHF 1Mhz Manual Frequency Knob - Decrease",
@@ -82,9 +70,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN30",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
 				},
 			},
 			["name"] = "UHF 0.1Mhz Manual Frequency Knob - Increase",
@@ -93,9 +78,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN29",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
 				},
 			},
 			["name"] = "UHF 0.1Mhz Manual Frequency Knob - Decrease",
@@ -104,9 +86,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN32",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
 				},
 			},
 			["name"] = "UHF 0.025Mhz Manual Frequency Knob - Increase",
@@ -115,9 +94,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
 				},
 			},
 			["name"] = "UHF 0.025Mhz Manual Frequency Knob - Decrease",
@@ -165,6 +141,28 @@ local diff = {
 				},
 			},
 			["name"] = "MIDS LVT Knob - CW",
+		},
+		["d3002pnilunilcd59vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "GPS Switch - GPS/OFF",
+		},
+		["d3002pnilunilcd60vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "DL Switch - DL/OFF",
 		},
 		["d3004pnilunilcd10vd0vpnilvunil"] = {
 			["added"] = {
@@ -231,22 +229,6 @@ local diff = {
 			},
 			["name"] = "ICP COM Override Button - COM2(VHF)",
 		},
-		["d3013pnilu3013cd4vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "FUEL QTY SEL Knob - CCW",
-		},
-		["d3013pnilunilcd4vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "FUEL QTY SEL Knob - CW",
-		},
 		["d3014pnilunilcd32vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -273,14 +255,6 @@ local diff = {
 				},
 			},
 			["name"] = "MMC Switch - MMC/OFF",
-		},
-		["d3015pnilunilcd32vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "JETT Switch - JETT/OFF",
 		},
 		["d3016pnilunilcd32vd1vpnilvunil"] = {
 			["added"] = {
@@ -380,38 +354,6 @@ local diff = {
 			},
 			["name"] = "UHF Function Knob - CW",
 		},
-		["d3020pnilunilcd32vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "PROGRAM Knob - CCW",
-		},
-		["d3020pnilunilcd32vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "PROGRAM Knob - CW",
-		},
-		["d3021pnilunilcd32vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "MODE Knob - CCW",
-		},
-		["d3021pnilunilcd32vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "MODE Knob - CW",
-		},
 		["d3021pnilunilcd39vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -471,9 +413,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
 				},
 			},
 			["name"] = "UHF A-3-2 Knob - CCW/Decrease",
@@ -482,9 +421,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "JOY_BTN4",
-					},
 				},
 			},
 			["name"] = "UHF A-3-2 Knob - CW/Increase",
@@ -499,28 +435,6 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Switch - UFC/OFF",
-		},
-		["d3102pnilunilcd3vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "GPS Switch GPS",
-		},
-		["d3103pnilunilcd3vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "DL Switch DL",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

@@ -35,7 +35,7 @@ local diff = {
 		["a3013cd12"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RZ",
+					["key"] = "JOY_RX",
 				},
 			},
 			["name"] = "PRIMARY CONSOLES BRT Knob",
@@ -51,7 +51,7 @@ local diff = {
 		["a3017cd12"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_Y",
+					["key"] = "JOY_RZ",
 				},
 			},
 			["name"] = "PRIMARY DATA ENTRY DISPLAY BRT Knob",
@@ -59,10 +59,26 @@ local diff = {
 		["a3019cd12"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_X",
+					["key"] = "JOY_Y",
 				},
 			},
 			["name"] = "FLOOD CONSOLES BRT Knob",
+		},
+		["a3021cd12"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "FLOOD INST PNL BRT Knob",
+		},
+		["a3041cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "HUD Symbology Intensity Knob",
 		},
 	},
 	["keyDiffs"] = {
@@ -81,28 +97,6 @@ local diff = {
 				},
 			},
 			["name"] = "LEFT HDPT Switch ON/OFF",
-		},
-		["d3002pnilunilcd15vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "RDR ALT Switch - Down",
-		},
-		["d3002pnilunilcd15vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "RDR ALT Switch - Up",
 		},
 		["d3003pnilu3003cd22vd1vpnilvu0"] = {
 			["added"] = {

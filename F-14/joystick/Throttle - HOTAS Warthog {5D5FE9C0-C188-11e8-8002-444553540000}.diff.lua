@@ -67,6 +67,16 @@ local diff = {
 		["a3729cd19"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_SLIDER1",
 				},
 			},
@@ -177,6 +187,14 @@ local diff = {
 				},
 			},
 			["name"] = "Right Engine Mode 1/0",
+		},
+		["d3056pnilu3056cd35vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Master Caution Reset",
 		},
 		["d3126pnilu3126cd57vd1vpnilvu0"] = {
 			["name"] = "CAGE-SEAM button",

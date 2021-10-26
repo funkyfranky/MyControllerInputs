@@ -120,6 +120,134 @@ local diff = {
 			},
 			["name"] = "Emergency Jettison switch - toggle",
 		},
+		["d3326pnilunilcd47vd0.25vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "TACAN Function REC",
+		},
+		["d3326pnilunilcd47vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "TACAN Function T/R",
+		},
+		["d3326pnilunilcd47vd0.75vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "TACAN Function A/A",
+		},
+		["d3326pnilunilcd47vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "TACAN Function OFF",
+		},
+		["d3326pnilunilcd47vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36",
+				},
+			},
+			["name"] = "TACAN Function BCN",
+		},
+		["d3371pnilunilcd3vd0.33333333333333vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "UHF ARC-159 Function MAIN",
+		},
+		["d3371pnilunilcd3vd0.66666666666667vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "UHF ARC-159 Function BOTH",
+		},
+		["d3371pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "UHF ARC-159 Function OFF",
+		},
+		["d3371pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "UHF ARC-159 Function ADF",
+		},
+		["d3375pnilunilcd3vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "UHF ARC-159 Mode MANUAL",
+		},
+		["d3375pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "UHF ARC-159 Mode PRESET",
+		},
+		["d3375pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "UHF ARC-159 Mode GUARD",
+		},
+		["dnilp3241unilcd41vdnilvp-0.0015vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "HSD Heading Knob Dec",
+		},
+		["dnilp3241unilcd41vdnilvp0.0015vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "HSD Heading Knob Inc",
+		},
+		["dnilp3242unilcd41vdnilvp-0.001vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "HSD Course Knob Dec",
+		},
+		["dnilp3242unilcd41vdnilvp0.001vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "HSD Course Knob Inc",
+		},
 	},
 }
 return diff

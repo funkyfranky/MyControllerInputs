@@ -24,13 +24,13 @@ local diff = {
 				},
 			},
 		},
-		["a2012cdnil"] = {
+		["a3032cd16"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_SLIDER1",
 				},
 			},
-			["name"] = "Zoom View",
+			["name"] = "ANT ELEV Knob",
 		},
 		["a3046cd16"] = {
 			["added"] = {
@@ -110,21 +110,21 @@ local diff = {
 			},
 			["name"] = "WING/TAIL Switch DIM/OFF",
 		},
-		["d3004pnilu3004cd7vd-1vpnilvu0"] = {
+		["d3003pnilu3003cd6vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "ANTI-SKID Switch (special) - OFF/ANTI-SKID",
+			["name"] = "EPU Switch (special) - OFF/NORM",
 		},
-		["d3004pnilu3004cd7vd1vpnilvu0"] = {
+		["d3003pnilu3003cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN32",
+					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "ANTI-SKID Switch (special) - PARKING BRAKE/ANTI-SKID",
+			["name"] = "EPU Switch (special) - ON/NORM",
 		},
 		["d3008pnilu3008cd11vd-1vpnilvu0"] = {
 			["added"] = {
@@ -142,14 +142,6 @@ local diff = {
 			},
 			["name"] = "LANDING TAXI LIGHTS Switch LANDING/OFF",
 		},
-		["d3008pnilu3008cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "AIR REFUEL Switch OPEN/CLOSE",
-		},
 		["d3008pnilu3008cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -158,29 +150,21 @@ local diff = {
 			},
 			["name"] = "ENG CONT Switch SEC/PRI",
 		},
-		["d3011pnilu3011cd2vd0vpnilvu1"] = {
+		["d3009pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "STORES CONFIG Switch CAT I/III",
+			["name"] = "FUEL MASTER Switch - MASTER/OFF",
 		},
-		["d3012pnilunilcd32vd1vpnilvunil"] = {
+		["d3010pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN32",
 				},
 			},
-			["name"] = "RWR Source Switch - ON/OFF",
-		},
-		["d3013pnilunilcd32vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "JMR Source Switch - ON/OFF",
+			["name"] = "FUEL MASTER Switch Cover - OPEN/CLOSE",
 		},
 		["d3017pnilunilcd6vd1vpnilvunil"] = {
 			["added"] = {

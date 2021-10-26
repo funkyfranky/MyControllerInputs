@@ -429,6 +429,30 @@ local diff = {
 			},
 			["name"] = "Compass N-S Hemisphere Switch Toggle",
 		},
+		["d3726pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "AFCS Pitch Stabilisation Toggle",
+		},
+		["d3727pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "AFCS Roll Stabilisation Toggle",
+		},
+		["d3728pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "AFCS Yaw Stabilisation Toggle",
+		},
 	},
 }
 return diff
