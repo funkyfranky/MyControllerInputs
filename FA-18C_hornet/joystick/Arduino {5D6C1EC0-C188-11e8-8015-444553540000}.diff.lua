@@ -88,37 +88,37 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3036unilcd25vdnilvp-0.5vunil"] = {
+		["dnilp3002unilcd30vdnilvp-0.02vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "UFC COMM 1 Volume Control Knob - CCW/Decrease",
+			["name"] = "Push to Test Switch - CCW/Decrease",
 		},
-		["dnilp3036unilcd25vdnilvp0.5vunil"] = {
+		["dnilp3002unilcd30vdnilvp0.02vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "UFC COMM 1 Volume Control Knob - CW/Increase",
+			["name"] = "Push to Test Switch - CW/Increase",
 		},
-		["dnilp3038unilcd25vdnilvp-0.5vunil"] = {
+		["dnilp3005unilcd32vdnilvp-0.3vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "UFC COMM 2 Volume Control Knob - CCW/Decrease",
+			["name"] = "SAI Cage Knob - CCW",
 		},
-		["dnilp3038unilcd25vdnilvp0.5vunil"] = {
+		["dnilp3005unilcd32vdnilvp0.3vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "UFC COMM 2 Volume Control Knob - CW/Increase",
+			["name"] = "SAI Cage Knob - CW",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

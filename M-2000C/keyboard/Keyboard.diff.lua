@@ -1,28 +1,12 @@
 local diff = {
 	["keyDiffs"] = {
-		["d107pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Q",
-				},
-			},
-			["name"] = "Special Modes FWD",
-		},
-		["d109pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "W",
-				},
-			},
-			["name"] = "Special Modes AFT",
-		},
 		["d110pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "M",
 				},
 			},
-			["name"] = "MAGIC SELECT",
+			["name"] = "CNM MAGIC",
 		},
 		["d1126pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -41,7 +25,7 @@ local diff = {
 					["key"] = "V",
 				},
 			},
-			["name"] = "PCA SELECT",
+			["name"] = "CNM neutral (PCA SELECT)",
 		},
 		["d276pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -123,42 +107,6 @@ local diff = {
 			},
 			["name"] = "Selective Jettison ON",
 		},
-		["d3276pnilu3276cd6vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "B",
-					["reformers"] = {
-						[1] = "RAlt",
-						[2] = "RShift",
-					},
-				},
-			},
-			["name"] = "Bomb Fuze: RET",
-		},
-		["d3276pnilu3276cd6vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "B",
-					["reformers"] = {
-						[1] = "RAlt",
-						[2] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Bomb Fuze: INST",
-		},
-		["d3276pnilu3276cd6vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "B",
-					["reformers"] = {
-						[1] = "RCtrl",
-						[2] = "RShift",
-					},
-				},
-			},
-			["name"] = "Bomb Fuze: INERT",
-		},
 		["d3420pnilu3420cd3vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -216,7 +164,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Police Lights OFF",
+			["name"] = "Police Lights Disabled",
 		},
 		["d3449pnilu3449cd16vd1vpnilvunil"] = {
 			["added"] = {
@@ -227,7 +175,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Police Lights ON",
+			["name"] = "Police Lights Enabled",
 		},
 		["d3450pnilu3450cd16vd0.5vpnilvunil"] = {
 			["added"] = {
@@ -272,7 +220,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Refuel Lights OFF",
+			["name"] = "Refuel Lights Disabled",
 		},
 		["d3452pnilu3452cd16vd1vpnilvunil"] = {
 			["added"] = {
@@ -283,7 +231,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Refuel Lights ON",
+			["name"] = "Refuel Lights Enabled",
 		},
 		["d3454pnilu3454cd16vd1vpnilvunil"] = {
 			["added"] = {
@@ -295,7 +243,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Navigation Lights ON",
+			["name"] = "Navigation Lights BRIGHT",
 		},
 		["d3462pnilu3462cd14vd-1vpnilvunil"] = {
 			["added"] = {
@@ -341,7 +289,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Radar WARM UP",
+			["name"] = "Radar Power PCH Warm-up",
 		},
 		["d3486pnilu3486cd11vd0.67vpnilvunil"] = {
 			["added"] = {
@@ -352,7 +300,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Radar STANDBY",
+			["name"] = "Radar Power SIL Standby",
 		},
 		["d3486pnilu3486cd11vd0vpnilvunil"] = {
 			["added"] = {
@@ -363,7 +311,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Radar OFF",
+			["name"] = "Radar Power A Off",
 		},
 		["d3486pnilu3486cd11vd1vpnilvunil"] = {
 			["added"] = {
@@ -374,7 +322,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Radar ON",
+			["name"] = "Radar Power EM On",
 		},
 		["d3520pnilu3520cd8vd0vpnilvunil"] = {
 			["added"] = {
@@ -398,25 +346,6 @@ local diff = {
 			},
 			["name"] = "Main Battery ON",
 		},
-		["d459pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "N",
-				},
-			},
-			["name"] = "Next Waypoint, Airfield or Target",
-		},
-		["d460pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "N",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Previous Waypoint, Airfield or Target",
-		},
 		["d516pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -427,14 +356,6 @@ local diff = {
 				},
 			},
 			["name"] = "Police Light Toggle",
-		},
-		["d74pnilu75cdnilvdnilvpnilvunil"] = {
-			["name"] = "Wheel Brakes",
-			["removed"] = {
-				[1] = {
-					["key"] = "W",
-				},
-			},
 		},
 		["dnilp193u194cdnilvdnilvpnilvunil"] = {
 			["name"] = "Aircraft Pitch DOWN",

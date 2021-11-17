@@ -32,143 +32,24 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd58"] = {
+		["a3006cd8"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 0.95,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "HMD OFF/BRT Knob",
-		},
-		["a3011cd9"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 0.95,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "CONSOLES Lights Dimmer Control",
-		},
-		["a3013cd9"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 0.95,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "INST PNL Dimmer Control",
-		},
-		["a3015cd9"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 0.95,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "FLOOD Light Dimmer Control",
-		},
-		["a3018cd9"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "CHART Light Dimmer Control",
+			["name"] = "POSITION Lights Dimmer Control",
 		},
-		["a3023cd9"] = {
+		["a3008cd8"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "WARN/CAUTION Dimmer Control",
+			["name"] = "FORMATION Lights Dimmer Control",
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd3vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Battery Switch ORIDE/OFF",
-		},
-		["d3001pnilu3001cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Battery Switch ON/OFF",
-		},
-		["d3002pnilu3002cd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Bleed Air Knob - AUG PULL",
-		},
 		["d3002pnilu3002cd12vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -201,43 +82,13 @@ local diff = {
 			},
 			["name"] = "Fire and Bleed Air Test Switch - TEST B",
 		},
-		["d3014pnilu3014cd12vd1vpnilvu0"] = {
+		["d83pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "Engine Anti-Ice Switch - ON/OFF",
-		},
-		["d3014pnilunilcd11vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Cabin Pressure Switch - Down",
-		},
-		["d3014pnilunilcd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Cabin Pressure Switch - Up",
-		},
-		["d3016pnilu3016cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Pitot Heater Switch - ON/AUTO",
+			["name"] = "Eject (3 times)",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

@@ -45,54 +45,6 @@ local diff = {
 			},
 			["name"] = "Fuel Shutoff Lever lock release",
 		},
-		["d3273pnilunilcd18vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "RWR Power/Volume Button ON+VOL",
-		},
-		["d3273pnilunilcd18vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "RWR Power/Volume Button OFF",
-		},
-		["d3274pnilunilcd30vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Decoy Dispenser Control UP",
-		},
-		["d3274pnilunilcd30vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Decoy Dispenser Control OFF",
-		},
-		["d3275pnilunilcd30vd0.25vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "Jammer Control STBY",
-		},
-		["d3275pnilunilcd30vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Jammer Control OFF",
-		},
 		["d3286pnilu3286cd30vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -105,9 +57,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
 				},
 			},
 			["name"] = "Quantity Selector (Tens) DOWN/CENTER",
@@ -116,9 +65,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
 				},
 			},
 			["name"] = "Quantity Selector (Tens) UP/CENTER",
@@ -127,9 +73,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
 				},
 			},
 			["name"] = "Quantity Selector (Units) DOWN/CENTER",
@@ -138,9 +81,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
 				},
 			},
 			["name"] = "Quantity Selector (Units) UP/CENTER",
@@ -149,9 +89,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
 				},
 			},
 			["name"] = "Release Interval Control (Hundreds) DOWN/CENTER",
@@ -160,9 +97,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
 				},
 			},
 			["name"] = "Release Interval Control (Hundreds) UP/CENTER",
@@ -171,9 +105,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN29",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
 				},
 			},
 			["name"] = "Release Interval Control (Tens) DOWN/CENTER",
@@ -182,9 +113,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN30",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
 				},
 			},
 			["name"] = "Release Interval Control (Tens) UP/CENTER",
@@ -193,9 +121,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
 				},
 			},
 			["name"] = "Release Interval Control (Units) DOWN/CENTER",
@@ -204,9 +129,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN32",
-					["reformers"] = {
-						[1] = "JOY_BTN15",
-					},
 				},
 			},
 			["name"] = "Release Interval Control (Units) UP/CENTER",
@@ -374,22 +296,6 @@ local diff = {
 				},
 			},
 			["name"] = "Canopy Open/Close",
-		},
-		["dnilp1322unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "UFC Display Brightness Increase",
-		},
-		["dnilp1323unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "UFC Display Brightness Decrease",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

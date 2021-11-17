@@ -80,28 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "STT/TWS Toggle (Target Lock)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-		},
-		["d107pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Special Modes FWD",
-		},
-		["d109pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Special Modes AFT",
+			["name"] = "STT/TWS Toggle",
 		},
 		["d1126pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -110,14 +89,6 @@ local diff = {
 				},
 			},
 			["name"] = "NAV Update/MAGIC unlock",
-		},
-		["d143pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Target Unlock/Special Modes Deselect",
 		},
 		["d262pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -166,30 +137,6 @@ local diff = {
 				},
 			},
 			["name"] = "Autopilot Standby Mode",
-		},
-		["d459pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Next Waypoint, Airfield or Target",
-		},
-		["d460pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Previous Waypoint, Airfield or Target",
-		},
-		["d74pnilu75cdnilvdnilvpnilvunil"] = {
-			["name"] = "Wheel Brakes",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

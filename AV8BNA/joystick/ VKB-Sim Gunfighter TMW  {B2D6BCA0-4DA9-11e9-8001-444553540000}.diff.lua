@@ -74,6 +74,46 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3080pnilu3080cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Sensor Select FWD: INS, IRMV/EOMV",
+		},
+		["d3081pnilu3081cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Sensor Select AFT: DMT: LST/TV",
+		},
+		["d3082pnilu3082cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Sensor Select LEFT: MAP Center/Decenter",
+		},
+		["d3083pnilu3083cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Sensor Select RIGHT: FLIR BH/WH",
+		},
+		["d3084pnilu3084cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Sensor Select DOWN: HUD Scene Reject/TGP",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -121,6 +161,14 @@ local diff = {
 				},
 			},
 			["name"] = "A/A Mode DOWN: Gun",
+		},
+		["d568pnilu570cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "WP Increment",
 		},
 		["d634pnilu635cdnilvdnilvpnilvunil"] = {
 			["added"] = {

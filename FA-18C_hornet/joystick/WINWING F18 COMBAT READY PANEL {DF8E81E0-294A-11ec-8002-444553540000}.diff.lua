@@ -276,7 +276,7 @@ local diff = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "LTD/R Switch ARM/SAFE",
+			["name"] = "LTD/R Switch - ARM",
 		},
 		["d3005pnilunilcd62vd-1vpnilvunil"] = {
 			["added"] = {

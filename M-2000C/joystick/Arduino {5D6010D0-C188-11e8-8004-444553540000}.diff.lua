@@ -32,30 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3192cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Minimum Altitude Selector",
-		},
-		["a3197cd13"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "ECM Box LCD Display Brightness",
-		},
-		["a3207cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Auxiliary Gunsight Deflection",
-		},
 		["a3209cd5"] = {
 			["added"] = {
 				[1] = {
@@ -66,14 +42,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d100pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "STT/TWS Toggle (Target Lock)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-		},
 		["d3193pnilu3193cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -97,30 +65,6 @@ local diff = {
 				},
 			},
 			["name"] = "CM Box Auto/On",
-		},
-		["d3266pnilu3266cd6vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "MIS PREP: Super 530D Standby Toggle",
-		},
-		["d3272pnilu3272cd6vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "MAG PREP: MAGIC II Standby Toggle",
-		},
-		["d3279pnilu3279cd6vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "530D/Rockets/Guns TOT/PAR Firing Mode Toggle",
 		},
 		["d3450pnilu3450cd16vd0.5vpnilvunil"] = {
 			["added"] = {
@@ -193,30 +137,6 @@ local diff = {
 				},
 			},
 			["name"] = "TDC Mode Z/S",
-		},
-		["d564pnilu563cdnilvdnilvpnilvunil"] = {
-			["name"] = "Nosewheel Steering/IFF Interrogate",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-		},
-		["d74pnilu75cdnilvdnilvpnilvunil"] = {
-			["name"] = "Wheel Brakes",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapons FIRE/Bombs Release",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

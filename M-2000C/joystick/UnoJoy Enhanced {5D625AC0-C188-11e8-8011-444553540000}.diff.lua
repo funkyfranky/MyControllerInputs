@@ -174,14 +174,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d100pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "STT/TWS Toggle (Target Lock)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-		},
 		["d3201pnilu3201cd5vd0.5vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -241,38 +233,6 @@ local diff = {
 				},
 			},
 			["name"] = "Radar Screen On/Off",
-		},
-		["d3277pnilu3277cd6vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Bomb Qty Decrease",
-		},
-		["d3277pnilu3277cd6vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Bomb Qty Increase",
-		},
-		["d3278pnilu3278cd6vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Bomb Release Interval Increase",
-		},
-		["d3278pnilu3278cd6vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Bomb Release Interval Decrease",
 		},
 		["d3520pnilu3520cd8vd1vpnilvu0"] = {
 			["added"] = {
@@ -489,7 +449,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Ventilation Selector Switch OFF",
+			["name"] = "Ignition Selector Switch OFF",
 		},
 		["d3650pnilu3650cd7vd1vpnilvunil"] = {
 			["added"] = {
@@ -500,7 +460,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Ventilation Selector Switch RIGHT",
+			["name"] = "Ignition Selector Switch RIGHT",
 		},
 		["d3652pnilunilcd7vd0vpnilvunil"] = {
 			["added"] = {
@@ -523,28 +483,6 @@ local diff = {
 				},
 			},
 			["name"] = "Fuel Cutoff Switch ON",
-		},
-		["d3657pnilu3657cd3vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-			["name"] = "Hydraulic Emergency Pump OFF",
-		},
-		["d3657pnilu3657cd3vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-			["name"] = "Hydraulic Emergency Pump ON",
 		},
 		["d3658pnilu3658cd16vd0.5vpnilvunil"] = {
 			["added"] = {
@@ -611,30 +549,6 @@ local diff = {
 				},
 			},
 			["name"] = "Pitot Heat Switch OFF",
-		},
-		["d564pnilu563cdnilvdnilvpnilvunil"] = {
-			["name"] = "Nosewheel Steering/IFF Interrogate",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-		},
-		["d74pnilu75cdnilvdnilvpnilvunil"] = {
-			["name"] = "Wheel Brakes",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapons FIRE/Bombs Release",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
 		},
 		["dnilp1665u1667cdnilvdnilvpnilvunil"] = {
 			["added"] = {

@@ -32,6 +32,22 @@ local diff = {
 			},
 			["name"] = "Nozzle STO Stop",
 		},
+		["a2033cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "TDC Slew Horizontal",
+		},
+		["a2034cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "TDC Slew Vertical",
+		},
 		["a2087cdnil"] = {
 			["added"] = {
 				[1] = {
@@ -245,7 +261,7 @@ local diff = {
 		["d503pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "Cage/Uncage",
@@ -253,7 +269,7 @@ local diff = {
 		["d572pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "COMM FWD: Select COMM 1",
@@ -261,7 +277,7 @@ local diff = {
 		["d573pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "COMM AFT: Select COMM 2",

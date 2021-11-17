@@ -44,21 +44,13 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d100pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "STT/TWS Toggle (Target Lock)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-		},
 		["d110pnilu112cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Select Magic/PCA",
+			["name"] = "MAGIC SELECT, else PCA SELECT",
 		},
 		["d113pnilu112cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -66,7 +58,7 @@ local diff = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Select AAGun/PCA",
+			["name"] = "AA Gun SELECT, else PCA SELECT",
 		},
 		["d136pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -99,14 +91,6 @@ local diff = {
 				},
 			},
 			["name"] = "Magic Slave/AG Designate/INS Position Update",
-		},
-		["d283pnilu283cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Master Arm ON/OFF",
 		},
 		["d313pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -234,14 +218,6 @@ local diff = {
 			},
 			["name"] = "Decoy PANIC release",
 		},
-		["d430pnilu431cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Landing Gear UP, else DOWN",
-		},
 		["d516pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -249,14 +225,6 @@ local diff = {
 				},
 			},
 			["name"] = "Police Light Toggle",
-		},
-		["d564pnilu563cdnilvdnilvpnilvunil"] = {
-			["name"] = "Nosewheel Steering/IFF Interrogate",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
 		},
 		["d572pnilu576cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -274,14 +242,6 @@ local diff = {
 			},
 			["name"] = "Aux. UHF Radio SELECT",
 		},
-		["d647pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "AG Gun SELECT",
-		},
 		["d73pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -289,22 +249,6 @@ local diff = {
 				},
 			},
 			["name"] = "Airbrake TOGGLE",
-		},
-		["d74pnilu75cdnilvdnilvpnilvunil"] = {
-			["name"] = "Wheel Brakes",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapons FIRE/Bombs Release",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

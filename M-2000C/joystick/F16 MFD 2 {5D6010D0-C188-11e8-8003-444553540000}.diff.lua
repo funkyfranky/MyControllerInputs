@@ -34,21 +34,13 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d100pnilunilcdnilvdnilvpnilvunil"] = {
-			["name"] = "STT/TWS Toggle (Target Lock)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-		},
 		["d3452pnilu3452cd16vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "Refuel Lights OFF",
+			["name"] = "Refuel Lights Disabled",
 		},
 		["d3452pnilu3452cd16vd1vpnilvunil"] = {
 			["added"] = {
@@ -56,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "Refuel Lights ON",
+			["name"] = "Refuel Lights Enabled",
 		},
 		["d3486pnilu3486cd11vd0.33vpnilvunil"] = {
 			["added"] = {
@@ -64,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Radar WARM UP",
+			["name"] = "Radar Power PCH Warm-up",
 		},
 		["d3486pnilu3486cd11vd0.67vpnilvunil"] = {
 			["added"] = {
@@ -72,7 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Radar STANDBY",
+			["name"] = "Radar Power SIL Standby",
 		},
 		["d3486pnilu3486cd11vd0vpnilvunil"] = {
 			["added"] = {
@@ -80,7 +72,7 @@ local diff = {
 					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Radar OFF",
+			["name"] = "Radar Power A Off",
 		},
 		["d3486pnilu3486cd11vd1vpnilvunil"] = {
 			["added"] = {
@@ -88,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Radar ON",
+			["name"] = "Radar Power EM On",
 		},
 		["d389pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -121,22 +113,6 @@ local diff = {
 				},
 			},
 			["name"] = "Autopilot",
-		},
-		["d74pnilu75cdnilvdnilvpnilvunil"] = {
-			["name"] = "Wheel Brakes",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapons FIRE/Bombs Release",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

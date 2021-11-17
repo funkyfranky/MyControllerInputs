@@ -37,12 +37,12 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0,
+							[1] = 0.01,
 						},
-						["deadzone"] = 0.15,
-						["invert"] = false,
+						["deadzone"] = 0,
+						["invert"] = true,
 						["saturationX"] = 1,
-						["saturationY"] = 1,
+						["saturationY"] = 0.3,
 						["slider"] = false,
 					},
 					["key"] = "JOY_Y",
@@ -57,10 +57,10 @@ local diff = {
 						["curvature"] = {
 							[1] = 0,
 						},
-						["deadzone"] = 0.15,
+						["deadzone"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 1,
+						["saturationY"] = 0.3,
 						["slider"] = false,
 					},
 					["key"] = "JOY_X",

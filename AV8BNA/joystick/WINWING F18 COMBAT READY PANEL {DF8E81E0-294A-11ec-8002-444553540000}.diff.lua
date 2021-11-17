@@ -112,6 +112,46 @@ local diff = {
 			},
 			["name"] = "ODU Option 3",
 		},
+		["d3274pnilunilcd30vd0.25vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Decoy Dispenser Control AUT",
+		},
+		["d3274pnilunilcd30vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Decoy Dispenser Control UP",
+		},
+		["d3274pnilunilcd30vd0.75vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "EXP Decoy Dispenser Control: DOWN",
+		},
+		["d3274pnilunilcd30vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Decoy Dispenser Control OFF",
+		},
+		["d3274pnilunilcd30vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "EXP Decoy Dispenser Control: RWR",
+		},
 		["d3275pnilunilcd30vd0.25vpnilvunil"] = {
 			["added"] = {
 				[1] = {

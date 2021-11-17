@@ -24,39 +24,23 @@ local diff = {
 				},
 			},
 		},
-		["a2087cdnil"] = {
-			["name"] = "Flight Control Collective",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-		},
 	},
 	["keyDiffs"] = {
-		["d3007pnilu3008cd14vd1vpnilvu0"] = {
+		["d3002pnilu3003cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Roof Lamp Increase",
+			["name"] = "Rotor Brake Release (lever Forward)",
 		},
-		["d3009pnilu3010cd14vd1vpnilvu0"] = {
+		["d3004pnilu3005cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Roof Lamp Decrease",
-		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Fire Gun or Rockets",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
+			["name"] = "Rotor Brake On (lever Backward)",
 		},
 	},
 }

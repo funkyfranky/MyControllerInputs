@@ -24,23 +24,21 @@ local diff = {
 				},
 			},
 		},
-		["a3042cd37"] = {
+		["a2012cdnil"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Zoom View",
+		},
+		["a3003cd58"] = {
+			["added"] = {
+				[1] = {
 					["key"] = "JOY_SLIDER2",
 				},
 			},
-			["name"] = "AMPCD Off/Brightness Control Knob",
+			["name"] = "HMD OFF/BRT Knob",
 		},
 	},
 	["keyDiffs"] = {
@@ -50,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN18",
 				},
 			},
-			["name"] = "LDG/TAXI LIGHT Switch ON/OFF",
+			["name"] = "LDG/TAXI LIGHT Switch (special) - ON/OFF",
 		},
 		["d3004pnilunilcd5vd0vpnilvunil"] = {
 			["added"] = {
@@ -124,6 +122,22 @@ local diff = {
 			},
 			["name"] = "Emergency/Parking Brake Handle - CW",
 		},
+		["d3008pnilu3008cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Launch Bar Control Switch - EXTEND/RETRACT",
+		},
+		["d3009pnilu3009cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "HOOK BYPASS Switch - FIELD/CARRIER",
+		},
 		["d3009pnilunilcd5vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -147,14 +161,6 @@ local diff = {
 				},
 			},
 			["name"] = "Selective Jettison Pushbutton",
-		},
-		["d3010pnilunilcd2vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Wing Fold Control Handle - STOW",
 		},
 		["d3011pnilunilcd23vd-0.1vpnilvunil"] = {
 			["added"] = {
@@ -219,6 +225,14 @@ local diff = {
 				},
 			},
 			["name"] = "Wing Fold Control Handle - SPREAD",
+		},
+		["d3020pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Wing Fold Control Handle - PULL/STOW",
 		},
 		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

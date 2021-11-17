@@ -82,22 +82,6 @@ local diff = {
 			},
 			["name"] = "Right MDI PB 6",
 		},
-		["d3016pnilunilcd9vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "MODE Switch - Down",
-		},
-		["d3016pnilunilcd9vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "MODE Switch - Up",
-		},
 		["d3017pnilu3017cd36vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -258,28 +242,6 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3002unilcd30vdnilvp-0.02vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Push to Test Switch - CCW/Decrease",
-		},
-		["dnilp3002unilcd30vdnilvp0.02vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Push to Test Switch - CW/Increase",
-		},
 		["dnilp3005unilcd32vdnilvp-0.3vunil"] = {
 			["added"] = {
 				[1] = {
@@ -333,6 +295,22 @@ local diff = {
 				},
 			},
 			["name"] = "Right MDI Contrast Control Knob - CW/Increase",
+		},
+		["dnilp316unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CW/Increase",
+		},
+		["dnilp317unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CCW/Decrease",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

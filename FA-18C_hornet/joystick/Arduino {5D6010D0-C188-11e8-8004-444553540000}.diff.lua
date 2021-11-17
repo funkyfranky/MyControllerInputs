@@ -32,23 +32,7 @@ local diff = {
 				},
 			},
 		},
-		["a3006cd8"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "POSITION Lights Dimmer Control",
-		},
-		["a3008cd8"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "FORMATION Lights Dimmer Control",
-		},
-		["a3009cd33"] = {
+		["a3012cd34"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -57,16 +41,16 @@ local diff = {
 						},
 						["deadzone"] = 0,
 						["invert"] = true,
-						["saturationX"] = 0.83,
+						["saturationX"] = 1,
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "IFEI Brightness Control Knob",
+			["name"] = "HUD Symbology Brightness Control Knob",
 		},
-		["a3012cd34"] = {
+		["a3042cd37"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -82,18 +66,10 @@ local diff = {
 					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "HUD Symbology Brightness Control Knob",
+			["name"] = "AMPCD Off/Brightness Control Knob",
 		},
 	},
 	["keyDiffs"] = {
-		["d1533pnilunilcd7vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Ejection Seat SAFE/ARMED Handle - SAFE/ARMED",
-		},
 		["d3001pnilu3001cd10vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -101,22 +77,6 @@ local diff = {
 				},
 			},
 			["name"] = "OBOGS Control Switch (special) - ON/OFF",
-		},
-		["d3001pnilu3001cd34vd0.2vpnilvu0.1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "HUD Symbology Reject Switch - NORM/REJ 1",
-		},
-		["d3001pnilu3001cd34vd0vpnilvu0.1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "HUD Symbology Reject Switch - REJ 2/REJ 1",
 		},
 		["d3002pnilu3002cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -126,13 +86,13 @@ local diff = {
 			},
 			["name"] = "T/O TRIM Button",
 		},
-		["d3003pnilu3003cd2vd1vpnilvu0"] = {
+		["d3002pnilu3002cd32vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "FCS RESET Button",
+			["name"] = "SAI Cage Knob - PULL",
 		},
 		["d3003pnilu3003cd34vd1vpnilvu0"] = {
 			["added"] = {
@@ -140,7 +100,15 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "HUD Symbology Brightness Selector Knob DAY/NIGHT",
+			["name"] = "HUD Symbology Brightness Selector Knob (special) - DAY/NIGHT",
+		},
+		["d3004pnilu3004cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "FCS BIT Switch",
 		},
 		["d3004pnilu3004cd8vd1vpnilvu0"] = {
 			["added"] = {
@@ -148,7 +116,7 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "LDG/TAXI LIGHT Switch ON/OFF",
+			["name"] = "LDG/TAXI LIGHT Switch (special) - ON/OFF",
 		},
 		["d3005pnilu3005cd34vd0.2vpnilvu0.1"] = {
 			["added"] = {
@@ -166,13 +134,37 @@ local diff = {
 			},
 			["name"] = "HUD Video Control Switch - OFF/VID",
 		},
+		["d3008pnilu3008cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "AV COOL Switch - EMERG/NORM",
+		},
 		["d3008pnilu3008cd34vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Altitude Switch BARO/RDR",
+			["name"] = "Altitude Switch (special) - BARO/RDR",
+		},
+		["d3009pnilu3009cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Windshield Anti-Ice/Rain Switch - RAIN/OFF",
+		},
+		["d3009pnilu3009cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Windshield Anti-Ice/Rain Switch - ANTI ICE/OFF",
 		},
 		["d3009pnilu3009cd25vd1vpnilvu0"] = {
 			["added"] = {
@@ -184,6 +176,14 @@ local diff = {
 				},
 			},
 			["name"] = "UFC COMM 2 Channel Selector Knob - PULL",
+		},
+		["d3009pnilu3009cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Spin Recovery Switch (special) - RCVY/NORM",
 		},
 		["d3009pnilu3009cd34vd-1vpnilvu0"] = {
 			["added"] = {
@@ -201,14 +201,6 @@ local diff = {
 			},
 			["name"] = "Attitude Selector Switch - INS/AUTO",
 		},
-		["d3009pnilunilcd11vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Windshield Anti-Ice/Rain Switch - RAIN",
-		},
 		["d3010pnilu3010cd23vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -219,6 +211,22 @@ local diff = {
 				},
 			},
 			["name"] = "Selective Jettison Pushbutton",
+		},
+		["d3013pnilu3013cd23vd0vpnilvu0.1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "IR Cooling Switch - OFF/NORM",
+		},
+		["d3018pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Spin Recovery Switch Cover - OPEN/CLOSE",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
