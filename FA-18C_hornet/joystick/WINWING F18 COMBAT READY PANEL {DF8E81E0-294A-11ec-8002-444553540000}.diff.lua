@@ -128,30 +128,6 @@ local diff = {
 			},
 			["name"] = "DISPENSER Switch - OFF",
 		},
-		["d3001pnilunilcd62vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "FLIR Switch - OFF",
-		},
-		["d3001pnilunilcd62vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "FLIR Switch - STBY",
-		},
-		["d3001pnilunilcd62vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "FLIR Switch - ON",
-		},
 		["d3001pnilunilcd66vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
