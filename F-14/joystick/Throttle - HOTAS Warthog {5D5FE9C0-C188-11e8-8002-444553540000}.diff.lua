@@ -108,14 +108,6 @@ local diff = {
 			},
 			["name"] = "Kneeboard Next Page",
 		},
-		["d3002pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "Hydraulic Transfer Pump Switch Cover OPEN",
-		},
 		["d3002pnilunilcd61vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -123,22 +115,6 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard Previous Page",
-		},
-		["d3003pnilu3003cd13vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Hydraulic Emergency Flight Control Switch -1/0",
-		},
-		["d3004pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "Hydraulic Emergency Flight Control Switch Cover 1",
 		},
 		["d3018pnilunilcd18vd0vpnilvunil"] = {
 			["name"] = "Gears Toggle",

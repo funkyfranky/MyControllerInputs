@@ -50,38 +50,6 @@ local diff = {
 			},
 			["name"] = "Refuel Lights Enabled",
 		},
-		["d3486pnilu3486cd11vd0.33vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Radar Power PCH Warm-up",
-		},
-		["d3486pnilu3486cd11vd0.67vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Radar Power SIL Standby",
-		},
-		["d3486pnilu3486cd11vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Radar Power A Off",
-		},
-		["d3486pnilu3486cd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Radar Power EM On",
-		},
 		["d389pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

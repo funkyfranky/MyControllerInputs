@@ -32,24 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3005cd14"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Oxygen Regulator Supply Lever",
-		},
 		["a3008cd26"] = {
 			["added"] = {
 				[1] = {
@@ -57,30 +39,6 @@ local diff = {
 				},
 			},
 			["name"] = "AN/ARC-27 UHF Audio Volume Knob",
-		},
-		["a3010cd17"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Instrument Panel Primary Light Rheostat",
-		},
-		["a3011cd17"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Instrument Panel Auxiliary Light Rheostat",
-		},
-		["a3012cd17"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Console and Panel Light Rheostat",
 		},
 		["a3016cd27"] = {
 			["added"] = {
@@ -155,22 +113,6 @@ local diff = {
 				},
 			},
 			["name"] = "Position and Fuselage Light Selector Switch - Up",
-		},
-		["d3055pnilu3055cd1vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Battery-Starter Switch - Down",
-		},
-		["d3055pnilu3055cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Battery-Starter Switch - Up",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",

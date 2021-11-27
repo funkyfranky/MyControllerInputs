@@ -221,7 +221,7 @@ local diff = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Throttle Down",
+			["name"] = "Throttle Levers - DOWN",
 		},
 		["dnilp3025unilcd3vdnilvp1vunil"] = {
 			["added"] = {
@@ -229,7 +229,7 @@ local diff = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Throttle Up",
+			["name"] = "Throttle Levers - UP",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

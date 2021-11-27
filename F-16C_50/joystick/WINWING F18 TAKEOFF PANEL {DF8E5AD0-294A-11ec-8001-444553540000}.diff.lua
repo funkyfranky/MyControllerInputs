@@ -24,6 +24,14 @@ local diff = {
 				},
 			},
 		},
+		["a2012cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Zoom View",
+		},
 		["a3003cd30"] = {
 			["added"] = {
 				[1] = {
@@ -32,56 +40,8 @@ local diff = {
 			},
 			["name"] = "HMCS SYMBOLOGY INT Knob",
 		},
-		["a3020cd39"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "COMM 1 (UHF) Power Knob",
-		},
-		["a3023cd39"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "COMM 2 (VHF) Power Knob",
-		},
 	},
 	["keyDiffs"] = {
-		["d1218pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "UHF Function Knob - OFF",
-		},
-		["d1219pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "UHF Function Knob - MAIN",
-		},
-		["d1220pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "UHF Function Knob - BOTH",
-		},
-		["d1221pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "UHF Function Knob - ADF",
-		},
 		["d3001pnilunilcd32vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -97,30 +57,6 @@ local diff = {
 				},
 			},
 			["name"] = "RWR Source Switch - ON",
-		},
-		["d3001pnilunilcd41vd0.1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "MIDS LVT Knob - OFF",
-		},
-		["d3001pnilunilcd41vd0.2vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "MIDS LVT Knob - ON",
-		},
-		["d3001pnilunilcd41vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "MIDS LVT Knob - ZERO",
 		},
 		["d3002pnilunilcd32vd0vpnilvunil"] = {
 			["added"] = {

@@ -148,22 +148,6 @@ local diff = {
 			},
 			["name"] = "Engine De-ice switch",
 		},
-		["d3011pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Datapanel Rotary Counterclockwise",
-		},
-		["d3011pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Datapanel Rotary Clockwise",
-		},
 		["d3011pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -246,30 +230,6 @@ local diff = {
 			},
 			["name"] = "Pitch gearing Automatic/Landing",
 		},
-		["d3305pnilunilcd2vd0.6vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Weapon Interval 04 15m",
-		},
-		["d3305pnilunilcd2vd0.9vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Weapon Interval 01 RAKT",
-		},
-		["d3401pnilu3401cd18vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Aterstart (Restart) Switch On/Off",
-		},
 		["d3405pnilu3405cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -301,33 +261,6 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["d3510pnilunilcd22vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "TILS rotary counterclockwise",
-		},
-		["d3510pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "TILS rotary clockwise",
-		},
-		["d3511pnilunilcd22vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-				[2] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "TILS rotary layer switch",
 		},
 		["d3720pnilu3720cd22vd1vpnilvu0"] = {
 			["added"] = {
@@ -482,30 +415,6 @@ local diff = {
 				},
 			},
 			["name"] = "CB Engine Out",
-		},
-		["d3925pnilu3925cd18vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Data Cartridge Insert/Remove",
-		},
-		["d3969pnilunilcd2vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Weapon selector turn clockwise",
-		},
-		["d3969pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Weapon selector turn counterclockwise",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

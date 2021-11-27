@@ -32,40 +32,8 @@ local diff = {
 				},
 			},
 		},
-		["a3209cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Target Wingspan Knob",
-		},
 	},
 	["keyDiffs"] = {
-		["d3193pnilu3193cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Air Refuel Transfer Switch ON(NIGHT)/OFF ",
-		},
-		["d3194pnilu3194cd13vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "CM Box On/Off",
-		},
-		["d3194pnilu3194cd13vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "CM Box Auto/On",
-		},
 		["d3450pnilu3450cd16vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -73,30 +41,6 @@ local diff = {
 				},
 			},
 			["name"] = "Landing Lights TAXI",
-		},
-		["d3450pnilu3450cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Landing Lights On/Off",
-		},
-		["d3468pnilu3468cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "In-Flight Start Switch On/Off",
-		},
-		["d3499pnilu3499cd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Radar Mode B-Scope/PPI",
 		},
 		["d3502pnilu3502cd11vd0vpnilvu0.5"] = {
 			["added"] = {
@@ -129,14 +73,6 @@ local diff = {
 				},
 			},
 			["name"] = "Radar Azimuth NARROW, else MIDDLE",
-		},
-		["d3710pnilu3710cd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "TDC Mode Z/S",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

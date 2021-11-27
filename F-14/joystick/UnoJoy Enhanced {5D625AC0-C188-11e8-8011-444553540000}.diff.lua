@@ -40,30 +40,6 @@ local diff = {
 			},
 			["name"] = "ACM Panel Light BRT Wheel",
 		},
-		["a3179cd12"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Instruments Light BRT Wheel",
-		},
-		["a3180cd12"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Console Light BRT Wheel",
-		},
-		["a3181cd12"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Formation Light BRT Wheel",
-		},
 		["a3212cd26"] = {
 			["added"] = {
 				[1] = {
@@ -74,72 +50,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3213pnilunilcd40vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "HUD Power Off",
-		},
-		["d3213pnilunilcd40vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "HUD Power On",
-		},
-		["d3214pnilunilcd42vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "VDI Power Off",
-		},
-		["d3214pnilunilcd42vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "VDI Power On",
-		},
-		["d3215pnilunilcd41vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "HSD/ECM Power Off",
-		},
-		["d3215pnilunilcd41vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "HSD/ECM Power On",
-		},
 		["d3224pnilunilcd42vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

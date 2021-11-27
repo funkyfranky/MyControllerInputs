@@ -84,22 +84,6 @@ local diff = {
 			},
 			["name"] = "Doppler Mode Land/Sea (toggle)",
 		},
-		["d3001pnilu3001cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Thrust Reverser On/Off",
-		},
-		["d3001pnilu3002cd24vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "KB Off/Lights",
-		},
 		["d3001pnilunilcd100vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -139,14 +123,6 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard Previous Page",
-		},
-		["d3003pnilu3002cd24vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "KB Lights+Sound/Lights",
 		},
 		["d3004pnilu3003cd23vd1vpnilvu1"] = {
 			["added"] = {

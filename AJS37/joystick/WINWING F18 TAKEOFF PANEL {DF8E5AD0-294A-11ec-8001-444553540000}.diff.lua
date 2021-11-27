@@ -62,45 +62,29 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd17vd1vpnilvu0"] = {
+		["d3001pnilu3001cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Anti Collision Lights On/Off",
+			["name"] = "Thrust Reverser On/Off",
 		},
-		["d3002pnilu3002cd17vd-2vpnilvu0"] = {
+		["d3001pnilu3002cd24vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Navigation Lights Dim/Off",
+			["name"] = "KB Off/Lights",
 		},
-		["d3002pnilu3002cd17vd1vpnilvu0"] = {
+		["d3003pnilu3002cd24vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Navigation Lights Bright/Off",
-		},
-		["d3003pnilu3003cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Formation Lights On/Off",
-		},
-		["d3004pnilu3004cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Position Lights On/Off",
+			["name"] = "KB Lights+Sound/Lights",
 		},
 		["d3005pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
@@ -142,6 +126,14 @@ local diff = {
 			},
 			["name"] = "Taxi/landing lights switch - OFF",
 		},
+		["d3009pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Taxi/landing lights switch - ON",
+		},
 		["d3009pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -157,6 +149,14 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency lights switch - OFF",
+		},
+		["d3010pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Emergency lights switch - ON",
 		},
 		["d3010pnilunilcd28vd0vpnilvunil"] = {
 			["added"] = {

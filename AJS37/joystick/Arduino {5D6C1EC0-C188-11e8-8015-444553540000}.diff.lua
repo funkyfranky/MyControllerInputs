@@ -34,37 +34,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3316pnilunilcd2vd-1vpnilvunil"] = {
+		["d3011pnilunilcd23vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "EP13 Brightness down",
+			["name"] = "Datapanel Rotary Counterclockwise",
 		},
-		["d3316pnilunilcd2vd1vpnilvunil"] = {
+		["d3011pnilunilcd23vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "EP13 Brightness up",
-		},
-		["d3317pnilunilcd2vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "EP13 Contrast down",
-		},
-		["d3317pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "EP13 Contrast up",
+			["name"] = "Datapanel Rotary Clockwise",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -73,6 +57,22 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["d3969pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Weapon selector turn clockwise",
+		},
+		["d3969pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Weapon selector turn counterclockwise",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

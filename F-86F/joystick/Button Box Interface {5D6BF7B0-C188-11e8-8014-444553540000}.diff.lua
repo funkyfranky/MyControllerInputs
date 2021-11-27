@@ -160,7 +160,7 @@ local diff = {
 					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "Take-Off Position Indicator Light Test",
+			["name"] = "TakeOff Position Indicator Light Test",
 		},
 		["d3013pnilunilcd27vd-1vpnilvunil"] = {
 			["added"] = {
@@ -233,22 +233,6 @@ local diff = {
 				},
 			},
 			["name"] = "Gun Selector Switch - CW",
-		},
-		["d3040pnilunilcd5vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Rocket Intervalometer Knob - CCW",
-		},
-		["d3040pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Rocket Intervalometer Knob - CW",
 		},
 		["d3044pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
@@ -346,28 +330,6 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3006unilcd26vdnilvp-0.1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "AN/ARC-27 UHF Audio Volume Knob - CCW/Down",
-		},
-		["dnilp3006unilcd26vdnilvp0.1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "AN/ARC-27 UHF Audio Volume Knob - CW/Up",
-		},
 		["dnilp3010unilcd27vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
@@ -383,50 +345,6 @@ local diff = {
 				},
 			},
 			["name"] = "AN/ARN-6 Tuning Crank - CW/Increase Frequency",
-		},
-		["dnilp3011unilcd27vdnilvp-0.1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "AN/ARN-6 Audio Volume Control - Down",
-		},
-		["dnilp3011unilcd27vdnilvp0.1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "AN/ARN-6 Audio Volume Control - Up",
-		},
-		["dnilp3038unilcd5vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Missile Tone Volume - CCW/Decrease",
-		},
-		["dnilp3038unilcd5vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Missile Tone Volume - CW/Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

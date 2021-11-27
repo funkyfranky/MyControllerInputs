@@ -42,6 +42,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1037pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Fuel Shutoff Lever lock release",
+		},
 		["d3404pnilunilcd29vd-0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -177,6 +185,22 @@ local diff = {
 				},
 			},
 			["name"] = "Parking Brake OFF",
+		},
+		["d3519pnilunilcd9vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Fuel Shutoff Lever UP",
+		},
+		["d3519pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Fuel Shutoff Lever DOWN",
 		},
 		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

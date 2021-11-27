@@ -34,28 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3010pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "LWin",
-					},
-				},
-			},
-			["name"] = "Select Data Cartridge - Down",
-		},
-		["d3010pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "LWin",
-					},
-				},
-			},
-			["name"] = "Select Data Cartridge - Up",
-		},
 		["d3302pnilu3302cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -77,14 +55,6 @@ local diff = {
 				},
 			},
 			["name"] = "Weapon Emergency Release Button Depress/Release",
-		},
-		["d3306pnilu3306cd2vd0vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Weapon Release Mode Fallsattomkopplare Up/Down",
 		},
 		["d3307pnilu3307cd2vd0vpnilvu1"] = {
 			["added"] = {
@@ -117,28 +87,6 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["d3712pnilu3712cd22vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-			["name"] = "Autopilot yaw trim Left",
-		},
-		["d3712pnilu3712cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-			["name"] = "Autopilot yaw trim Right",
 		},
 		["d3716pnilu3716cd22vd-1vpnilvu0"] = {
 			["added"] = {
@@ -183,14 +131,6 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency Trim Pitch Down",
-		},
-		["d3718pnilu3718cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Oxygen Lever On/Off",
 		},
 		["d3801pnilu3804cd5vd-0.1vpnilvu0"] = {
 			["added"] = {

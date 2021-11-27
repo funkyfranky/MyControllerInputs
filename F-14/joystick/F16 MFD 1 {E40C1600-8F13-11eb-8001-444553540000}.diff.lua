@@ -34,22 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3019pnilunilcd18vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Nose strut kneel",
-		},
-		["d3019pnilunilcd18vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Nose strut extend",
-		},
 		["d3063pnilunilcd21vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

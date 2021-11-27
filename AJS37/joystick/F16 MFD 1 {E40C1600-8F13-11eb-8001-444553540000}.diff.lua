@@ -1,21 +1,5 @@
 local diff = {
 	["keyDiffs"] = {
-		["d3001pnilunilcd31vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "F22 Base selector turn left",
-		},
-		["d3001pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "FR22 Base selector turn right",
-		},
 		["d3002pnilunilcd31vd0.05vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -95,22 +79,6 @@ local diff = {
 				},
 			},
 			["name"] = "FR22 Push-button H",
-		},
-		["d3007pnilunilcd31vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "FR22 Group selector turn left",
-		},
-		["d3007pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "FR22 Group selector turn right",
 		},
 		["d3010pnilunilcd31vd-1vpnilvunil"] = {
 			["added"] = {

@@ -38,6 +38,33 @@ local diff = {
 			},
 			["name"] = "Magic Slave/AG Designate/INS Position Update",
 		},
+		["d3001pnilunilcd100vd1vpnilvunil"] = {
+			["name"] = "Kneeboard Next Page",
+			["removed"] = {
+				[1] = {
+					["key"] = "]",
+				},
+			},
+		},
+		["d3002pnilunilcd100vd1vpnilvunil"] = {
+			["name"] = "Kneeboard Previous Page",
+			["removed"] = {
+				[1] = {
+					["key"] = "[",
+				},
+			},
+		},
+		["d3003pnilunilcd100vd1vpnilvunil"] = {
+			["name"] = "Kneeboard current position mark point",
+			["removed"] = {
+				[1] = {
+					["key"] = "K",
+					["reformers"] = {
+						[1] = "RCtrl",
+					},
+				},
+			},
+		},
 		["d3193pnilu3193cd7vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -279,50 +306,6 @@ local diff = {
 				},
 			},
 			["name"] = "Slats EXTEND",
-		},
-		["d3486pnilu3486cd11vd0.33vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Radar Power PCH Warm-up",
-		},
-		["d3486pnilu3486cd11vd0.67vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "RWin",
-					},
-				},
-			},
-			["name"] = "Radar Power SIL Standby",
-		},
-		["d3486pnilu3486cd11vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Radar Power A Off",
-		},
-		["d3486pnilu3486cd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "R",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "Radar Power EM On",
 		},
 		["d3520pnilu3520cd8vd0vpnilvunil"] = {
 			["added"] = {

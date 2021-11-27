@@ -34,28 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3051pnilunilcd20vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Crank Right Engine",
-		},
-		["d3051pnilunilcd20vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Crank Left Engine",
-		},
 		["d3138pnilu3138cd55vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -70,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Emergency Jettison switch - toggle",
+			["name"] = "Emergency Jettison Switch",
 		},
 		["d3143pnilu3143cd55vd1vpnilvu0"] = {
 			["added"] = {
@@ -117,94 +95,6 @@ local diff = {
 				},
 			},
 			["name"] = "Canopy OPEN/HOLD",
-		},
-		["d3216pnilunilcd40vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Display mode takeoff",
-		},
-		["d3217pnilunilcd40vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Display mode cruise",
-		},
-		["d3218pnilunilcd40vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Display mode air to air",
-		},
-		["d3219pnilunilcd40vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Display mode air to ground",
-		},
-		["d3220pnilunilcd40vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Display mode landing",
-		},
-		["d3314pnilu3314cd46vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "STEER CMD TACAN",
-		},
-		["d3315pnilu3315cd46vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "STEER CMD Destination",
-		},
-		["d3316pnilu3316cd46vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "STEER CMD VEC",
-		},
-		["d3317pnilu3317cd46vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "STEER CMD MAN",
-		},
-		["d3318pnilu3318cd46vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "STEER CMD AWL/PCD",
-		},
-		["d3319pnilu3319cd48vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "AN/ARA-63 Power Switch 1/0",
 		},
 		["d3320pnilunilcd48vd1vpnilvu0"] = {
 			["added"] = {

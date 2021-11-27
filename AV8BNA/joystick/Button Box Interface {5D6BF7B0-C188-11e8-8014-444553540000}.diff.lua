@@ -34,17 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1037pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-					["reformers"] = {
-						[1] = "RWin",
-					},
-				},
-			},
-			["name"] = "Fuel Shutoff Lever lock release",
-		},
 		["d3286pnilu3286cd30vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -156,29 +145,6 @@ local diff = {
 			},
 			["name"] = "H2O Dump Switch ON",
 		},
-		["d3517pnilunilcd9vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "RCtrl",
-						[2] = "RWin",
-					},
-				},
-			},
-			["name"] = "Engine RPM Switch OFF",
-		},
-		["d3517pnilunilcd9vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Engine RPM Switch ON",
-		},
 		["d3518pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -201,25 +167,6 @@ local diff = {
 				},
 			},
 			["name"] = "EFC Switch POS1",
-		},
-		["d3519pnilunilcd9vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-					["reformers"] = {
-						[1] = "RWin",
-					},
-				},
-			},
-			["name"] = "Fuel Shutoff Lever UP",
-		},
-		["d3519pnilunilcd9vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Fuel Shutoff Lever DOWN",
 		},
 		["d3554pnilunilcd1vd0vpnilvunil"] = {
 			["added"] = {

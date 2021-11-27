@@ -34,21 +34,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3009pnilunilcd11vd-1vpnilvunil"] = {
+		["d3002p3005u3002cd47vd1vp-0.3vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "ANTI-COLL Knob - CCW",
+			["name"] = "SAI Cage Knob PULL/CCW",
 		},
-		["d3009pnilunilcd11vd1vpnilvunil"] = {
+		["d3002p3005u3002cd47vd1vp0.3vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "ANTI-COLL Knob - CW",
+			["name"] = "SAI Cage Knob PULL/CW",
 		},
 		["d3015pnilunilcd11vd-1vpnilvunil"] = {
 			["added"] = {

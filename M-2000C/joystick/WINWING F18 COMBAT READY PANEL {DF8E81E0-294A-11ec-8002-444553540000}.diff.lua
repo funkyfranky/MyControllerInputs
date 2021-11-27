@@ -1,4 +1,14 @@
 local diff = {
+	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+		},
+	},
 	["keyDiffs"] = {
 		["d3234pnilunilcd6vd-1vpnilvunil"] = {
 			["added"] = {
@@ -82,6 +92,46 @@ local diff = {
 				},
 			},
 			["name"] = "INS Mode Selector - OFF (AR)",
+		},
+		["d3629pnilunilcd9vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "INS Operational Mode - STS",
+		},
+		["d3629pnilunilcd9vd0.2vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "INS Operational Mode - DCI",
+		},
+		["d3629pnilunilcd9vd0.3vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "INS Operational Mode - CRV",
+		},
+		["d3629pnilunilcd9vd0.4vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "INS Operational Mode - MAIN",
+		},
+		["d3629pnilunilcd9vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "INS Operational Mode - N",
 		},
 	},
 }

@@ -34,22 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3012pnilu3012cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "ICP COM Override Button - COM1(UHF)",
-		},
-		["d3013pnilu3013cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "ICP COM Override Button - COM2(VHF)",
-		},
 		["d3015pnilu3015cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

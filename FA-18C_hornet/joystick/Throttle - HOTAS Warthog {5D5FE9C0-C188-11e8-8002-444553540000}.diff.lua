@@ -118,7 +118,7 @@ local diff = {
 					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "Probe Control Switch - EMERG EXTD/RETRACT",
+			["name"] = "Probe Control Switch EMERG/RETRACT",
 		},
 		["d3002pnilu3002cd6vd1vpnilvu0"] = {
 			["added"] = {
@@ -126,12 +126,12 @@ local diff = {
 					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "Probe Control Switch - EXTEND/RETRACT",
+			["name"] = "Probe Control Switch EXTEND/RETRACT",
 		},
 		["d3003pnilu3003cd8vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN23",
 				},
 			},
 			["name"] = "STROBE Lights Switch - DIM/OFF",
@@ -139,7 +139,7 @@ local diff = {
 		["d3003pnilu3003cd8vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "STROBE Lights Switch - BRT/OFF",
@@ -192,6 +192,22 @@ local diff = {
 			},
 			["name"] = "COMM Switch - COMM 2 (call radio menu)",
 		},
+		["d3029pnilu3029cd13vd0.6vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "COMM Switch - MIDS A",
+		},
+		["d3030pnilu3030cd13vd0.8vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "COMM Switch - MIDS B",
+		},
 		["d3032pnilu3032cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -231,6 +247,22 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle Finger Lift (Both) - UP/DOWN",
+		},
+		["d3041pnilunilcd13vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Exterior Lights Switch - OFF",
+		},
+		["d3041pnilunilcd13vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Exterior Lights Switch - ON",
 		},
 		["d313pnilu311cdnilvd1vpnilvu1"] = {
 			["added"] = {

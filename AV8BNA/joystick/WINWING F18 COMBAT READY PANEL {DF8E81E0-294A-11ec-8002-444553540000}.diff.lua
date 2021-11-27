@@ -1,4 +1,14 @@
 local diff = {
+	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+		},
+	},
 	["keyDiffs"] = {
 		["d1465pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -210,30 +220,6 @@ local diff = {
 				},
 			},
 			["name"] = "Master Arm Switch ON",
-		},
-		["d3288pnilunilcd22vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "HUD Symbology Reject Switch REJ 1",
-		},
-		["d3288pnilunilcd22vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "HUD Symbology Reject Switch NORM",
-		},
-		["d3288pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "HUD Symbology Reject Switch REJ 2",
 		},
 		["d3290pnilunilcd22vd0.5vpnilvunil"] = {
 			["added"] = {

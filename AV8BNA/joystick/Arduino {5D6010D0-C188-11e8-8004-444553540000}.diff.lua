@@ -32,34 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3289cd22"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "HUD BRT CONTROL",
-		},
 		["a3291cd22"] = {
 			["added"] = {
 				[1] = {
@@ -116,52 +88,8 @@ local diff = {
 			},
 			["name"] = "VIDEO CONT CONTROL",
 		},
-		["a3510cd33"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Formation Lights Knob Axis",
-		},
 	},
 	["keyDiffs"] = {
-		["d3503pnilu3503cd33vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "External Lights OFF/NVG",
-		},
-		["d3503pnilu3503cd33vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "External Lights NVG/NORM",
-		},
 		["d3504pnilu3504cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -210,14 +138,6 @@ local diff = {
 			},
 			["name"] = "External Auxiliary Lights Switch ON/OFF",
 		},
-		["d3514pnilu3514cd36vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Oxygen Switch ON/OFF",
-		},
 		["d3515pnilu3515cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -225,14 +145,6 @@ local diff = {
 				},
 			},
 			["name"] = "H2O Dump Switch ON/OFF",
-		},
-		["d3517pnilu3517cd9vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Engine RPM Switch ON/OFF",
 		},
 		["d3518pnilu3518cd9vd1vpnilvu0"] = {
 			["added"] = {

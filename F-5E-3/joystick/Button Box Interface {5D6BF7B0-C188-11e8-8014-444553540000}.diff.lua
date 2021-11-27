@@ -308,22 +308,6 @@ local diff = {
 			},
 			["name"] = "Armament Position Selector Switch (RIGHT OUTBD) - ON/OFF",
 		},
-		["d3030pnilunilcd15vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "External Stores Selector - CCW",
-		},
-		["d3030pnilunilcd15vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "External Stores Selector - CW",
-		},
 		["d71pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

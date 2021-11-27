@@ -8,13 +8,37 @@ local diff = {
 			},
 			["name"] = "Missile Select Button (IR-RB FRAMSTEGN) Depress/Release",
 		},
-		["d3008pnilunilcd31vd1vpnilvunil"] = {
+		["d3001pnilunilcd31vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN53",
+					["key"] = "JOY_BTN54",
 				},
 			},
-			["name"] = "FR22 AM/FM switch",
+			["name"] = "F22 Base selector turn left",
+		},
+		["d3001pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "FR22 Base selector turn right",
+		},
+		["d3007pnilunilcd31vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "FR22 Group selector turn left",
+		},
+		["d3007pnilunilcd31vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "FR22 Group selector turn right",
 		},
 		["d3011pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
@@ -152,6 +176,14 @@ local diff = {
 			},
 			["name"] = "Mode select - LANDPO",
 		},
+		["d3301pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "SAS mode SPAK flight stabiliser",
+		},
 		["d3302pnilu3302cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -160,6 +192,14 @@ local diff = {
 			},
 			["name"] = "Weapon Emergency Release Cover Open/Close",
 		},
+		["d3302pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Autopilot mode ATT (Attitude hold)",
+		},
 		["d3303pnilu3303cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -167,6 +207,14 @@ local diff = {
 				},
 			},
 			["name"] = "Weapon Emergency Release Button Depress/Release",
+		},
+		["d3303pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Autopilot mode HÖJD (Altitude Hold)",
 		},
 		["d3320pnilu3320cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -191,38 +239,6 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["dnilp3003u3003cd31vdnilvp-0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN54",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Left Decrease",
-		},
-		["dnilp3003u3003cd31vdnilvp0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN55",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Left Increase",
-		},
-		["dnilp3004u3004cd31vdnilvp-0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN51",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Left Decrease",
-		},
-		["dnilp3004u3004cd31vdnilvp0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN52",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Left Increase",
 		},
 		["dnilp3305u3305cd22vdnilvp1vu0"] = {
 			["added"] = {

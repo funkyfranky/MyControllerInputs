@@ -96,6 +96,14 @@ local diff = {
 			},
 			["name"] = "Refuel Probe extend, Refuel All",
 		},
+		["d3130pnilu3130cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Gun rate toggle",
+		},
 		["d3136pnilu3136cd55vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -112,13 +120,29 @@ local diff = {
 			},
 			["name"] = "Master Arm On and Cover Open, else Safe and Closed",
 		},
+		["d3139pnilu3139cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "AIM-9 cooling toggle",
+		},
+		["d3140pnilu3140cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Missile prepare toggle",
+		},
 		["d3142pnilu3142cd55vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Emergency Jettison switch - toggle",
+			["name"] = "Emergency Jettison Switch",
 		},
 		["d3326pnilunilcd47vd0.25vpnilvunil"] = {
 			["added"] = {

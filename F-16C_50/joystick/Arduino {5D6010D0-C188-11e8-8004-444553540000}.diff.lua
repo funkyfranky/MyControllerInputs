@@ -70,45 +70,117 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3003pnilu3003cd11vd-1vpnilvu0"] = {
+		["d3001pnilu3001cd15vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "WING/TAIL Switch DIM/OFF",
+			["name"] = "RDR ALT Switch (special) - OFF/STBY",
 		},
-		["d3003pnilu3003cd11vd1vpnilvu0"] = {
+		["d3001pnilu3001cd15vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "WING/TAIL Switch BRT/OFF",
+			["name"] = "RDR ALT Switch (special) - RDR ALT/STBY",
 		},
-		["d3004pnilu3004cd11vd-1vpnilvu0"] = {
+		["d3001pnilu3001cd31vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "FUSELAGE Switch DIM/OFF",
+			["name"] = "FCR Switch ON/OFF",
 		},
-		["d3004pnilu3004cd11vd1vpnilvu0"] = {
+		["d3002pnilu3002cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "FUSELAGE Switch BRT/OFF",
+			["name"] = "LEFT HDPT Switch ON/OFF",
 		},
-		["d3008pnilu3008cd4vd1vpnilvu0"] = {
+		["d3002pnilu3002cd47vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "SAI Cage Knob - Pull",
+		},
+		["d3003pnilu3003cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",
 				},
 			},
-			["name"] = "AIR REFUEL Switch OPEN/CLOSE",
+			["name"] = "RIGHT HDPT Switch ON/OFF",
+		},
+		["d3006pnilu3006cd19vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "HUD Scales Switch (special) - OFF/VAH",
+		},
+		["d3006pnilu3006cd19vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "HUD Scales Switch (special) - VV/VAH /VAH",
+		},
+		["d3007pnilu3007cd19vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "HUD Flightpath Marker Switch (special) - OFF/FPM",
+		},
+		["d3007pnilu3007cd19vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "HUD Flightpath Marker Switch (special) - ATT/FPM /FPM",
+		},
+		["d3008pnilu3008cd19vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "HUD DED/PFLD Data Switch (special) - DED/PFL",
+		},
+		["d3008pnilunilcd19vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "HUD DED/PFLD Data Switch - OFF",
+		},
+		["d3009pnilu3009cd19vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "HUD Depressible Reticle Switch (special) - STBY/PRI",
+		},
+		["d3009pnilunilcd19vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "HUD Depressible Reticle Switch - OFF",
 		},
 		["d3010pnilunilcd11vd1vpnilvunil"] = {
 			["added"] = {
@@ -117,14 +189,6 @@ local diff = {
 				},
 			},
 			["name"] = "FLASH STEADY Switch - FLASH/STEADY",
-		},
-		["d3014pnilunilcd4vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "TANK INERTING Switch - TANK INERTING /OFF",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

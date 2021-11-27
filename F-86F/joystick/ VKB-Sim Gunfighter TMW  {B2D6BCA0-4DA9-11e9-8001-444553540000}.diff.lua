@@ -103,22 +103,6 @@ local diff = {
 			},
 			["name"] = "A-4 Sight Mechanical Caging Lever - ON/OFF",
 		},
-		["d3037pnilunilcd5vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Missile Control Switch - Down",
-		},
-		["d3037pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Missile Control Switch - Up",
-		},
 		["d439pnilu440cdnilvdnilvpnilvunil"] = {
 			["name"] = "A-4 Sight Electrical Caging Button (On Throttle)",
 			["removed"] = {

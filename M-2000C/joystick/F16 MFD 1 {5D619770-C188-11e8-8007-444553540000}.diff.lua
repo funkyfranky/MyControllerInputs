@@ -34,30 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3608pnilunilcd13vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "DDM Power ON",
-		},
-		["d3608pnilunilcd13vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "DDM Power OFF",
-		},
-		["d3624pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "TACAN Y",
-		},
 		["d3666pnilu3666cd22vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

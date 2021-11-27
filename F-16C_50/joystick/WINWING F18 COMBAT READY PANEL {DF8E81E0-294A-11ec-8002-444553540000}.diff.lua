@@ -1,106 +1,38 @@
 local diff = {
+	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+		},
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+	},
 	["keyDiffs"] = {
-		["d1665pnilu1667cdnilvdnilvpnilvunil"] = {
+		["d1226pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN43",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN53",
 				},
 			},
-			["name"] = "SEAT ADJ Switch - UP/OFF",
+			["name"] = "UHF SQUELCH Switch - ON/OFF",
 		},
-		["d1666pnilu1667cdnilvdnilvpnilvunil"] = {
+		["d1227pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN41",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN56",
 				},
 			},
-			["name"] = "SEAT ADJ Switch - DOWN/OFF",
-		},
-		["d3001pnilunilcd14vd0.1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "INS Knob - STOR HDG (ALIGN)",
-		},
-		["d3001pnilunilcd14vd0.2vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "INS Knob - NORM (ALIGN)",
-		},
-		["d3001pnilunilcd14vd0.3vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "INS Knob - NAV",
-		},
-		["d3001pnilunilcd14vd0.4vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "INS Knob - CAL",
-		},
-		["d3001pnilunilcd14vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "INS Knob - INFLT ALIGN",
-		},
-		["d3001pnilunilcd14vd0.6vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "INS Knob - ATT",
-		},
-		["d3001pnilunilcd14vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "INS Knob - OFF",
-		},
-		["d3001pnilunilcd15vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "RDR ALT Switch - OFF",
-		},
-		["d3001pnilunilcd15vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "RDR ALT Switch - STBY",
-		},
-		["d3001pnilunilcd15vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "RDR ALT Switch - RDR ALT",
+			["name"] = "UHF Access Door - OPEN/CLOSE",
 		},
 		["d3002pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
@@ -172,6 +104,62 @@ local diff = {
 			},
 			["name"] = "JFS Switch - START 2 / OFF",
 		},
+		["d3006pnilunilcd11vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "MASTER Switch - ALL",
+		},
+		["d3006pnilunilcd11vd0.2vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "MASTER Switch - A-C",
+		},
+		["d3006pnilunilcd11vd0.3vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "MASTER Switch - FORM",
+		},
+		["d3006pnilunilcd11vd0.4vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36",
+				},
+			},
+			["name"] = "MASTER Switch - NORM",
+		},
+		["d3006pnilunilcd11vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "MASTER Switch - OFF",
+		},
+		["d3008pnilu3008cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "LANDING TAXI LIGHTS Switch TAXI/OFF",
+		},
+		["d3008pnilu3008cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "LANDING TAXI LIGHTS Switch LANDING/OFF",
+		},
 		["d3009pnilu3009cd33vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -231,7 +219,7 @@ local diff = {
 		["d3010pnilunilcd32vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN33",
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "MODE Knob - STBY",
@@ -239,7 +227,7 @@ local diff = {
 		["d3010pnilunilcd32vd0.2vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN34",
+					["key"] = "JOY_BTN23",
 				},
 			},
 			["name"] = "MODE Knob - MAN",
@@ -247,7 +235,7 @@ local diff = {
 		["d3010pnilunilcd32vd0.3vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN35",
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "MODE Knob - SEMI",
@@ -255,15 +243,23 @@ local diff = {
 		["d3010pnilunilcd32vd0.4vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN36",
+					["key"] = "JOY_BTN25",
 				},
 			},
 			["name"] = "MODE Knob - AUTO",
 		},
+		["d3010pnilunilcd32vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "MODE Knob - BYP",
+		},
 		["d3010pnilunilcd32vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN32",
+					["key"] = "JOY_BTN21",
 				},
 			},
 			["name"] = "MODE Knob - OFF",
@@ -307,6 +303,38 @@ local diff = {
 				},
 			},
 			["name"] = "RWR Indicator Control POWER Button - Depressed/Released",
+		},
+		["d3019pnilunilcd37vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "UHF Function Knob - CCW",
+		},
+		["d3019pnilunilcd37vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "UHF Function Knob - CW",
+		},
+		["d3020pnilunilcd37vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "UHF Mode Knob - CCW",
+		},
+		["d3020pnilunilcd37vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "UHF Mode Knob - CW",
 		},
 		["d3031pnilu3031cd2vd-1vpnilvu0"] = {
 			["added"] = {
@@ -403,38 +431,6 @@ local diff = {
 				},
 			},
 			["name"] = "CRS Set / Brightness Control Knob - CW/Increase",
-		},
-		["dnilp3019unilcd39vdnilvp-0.3vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN51",
-				},
-			},
-			["name"] = "COMM 1 (UHF) Power Knob - CCW/Decrease",
-		},
-		["dnilp3019unilcd39vdnilvp0.3vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN52",
-				},
-			},
-			["name"] = "COMM 1 (UHF) Power Knob - CW/Increase",
-		},
-		["dnilp3022unilcd39vdnilvp-0.3vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN54",
-				},
-			},
-			["name"] = "COMM 2 (VHF) Power Knob - CCW/Decrease",
-		},
-		["dnilp3022unilcd39vdnilvp0.3vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN55",
-				},
-			},
-			["name"] = "COMM 2 (VHF) Power Knob - CW/Increase",
 		},
 	},
 }

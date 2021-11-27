@@ -32,24 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3012cd34"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "HUD Symbology Brightness Control Knob",
-		},
 		["a3042cd37"] = {
 			["added"] = {
 				[1] = {
@@ -100,7 +82,7 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "HUD Symbology Brightness Selector Knob (special) - DAY/NIGHT",
+			["name"] = "HUD Symbology Brightness Selector Knob DAY/NIGHT",
 		},
 		["d3004pnilu3004cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -116,7 +98,7 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "LDG/TAXI LIGHT Switch (special) - ON/OFF",
+			["name"] = "LDG/TAXI LIGHT Switch ON/OFF",
 		},
 		["d3005pnilu3005cd34vd0.2vpnilvu0.1"] = {
 			["added"] = {
@@ -148,7 +130,7 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Altitude Switch (special) - BARO/RDR",
+			["name"] = "Altitude Switch BARO/RDR",
 		},
 		["d3009pnilu3009cd11vd-1vpnilvu0"] = {
 			["added"] = {
@@ -218,7 +200,7 @@ local diff = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "IR Cooling Switch - OFF/NORM",
+			["name"] = "IR Cooling Switch OFF/NORM",
 		},
 		["d3018pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {

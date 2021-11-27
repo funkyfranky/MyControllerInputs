@@ -120,23 +120,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Take-Off Position Indicator Light Test",
-		},
-		["d3043pnilunilcd5vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Manual Pip Control Change Calibrated Dials (Presets) - Down",
-		},
-		["d3043pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Manual Pip Control Change Calibrated Dials (Presets) - Up",
+			["name"] = "TakeOff Position Indicator Light Test",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",

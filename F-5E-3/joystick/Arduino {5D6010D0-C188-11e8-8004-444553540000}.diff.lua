@@ -141,14 +141,6 @@ local diff = {
 			},
 			["name"] = "Landing Gear Alternate Release Handle",
 		},
-		["d3003pnilu3003cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Landing Gear Downlock Override Button",
-		},
 		["d3004pnilu3004cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -244,22 +236,6 @@ local diff = {
 				},
 			},
 			["name"] = "Guns, Missile, Cam Switch Cover OPEN/CLOSE",
-		},
-		["d430pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Landing Gear Lever - LG UP",
-		},
-		["d431pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Landing Gear Lever - LG DOWN",
 		},
 	},
 }

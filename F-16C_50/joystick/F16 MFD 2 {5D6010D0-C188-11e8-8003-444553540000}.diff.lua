@@ -42,28 +42,6 @@ local diff = {
 			},
 			["name"] = "Right MFD OSB 1",
 		},
-		["d3002p3005u3002cd47vd1vp-0.3vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "SAI Cage Knob PULL/CCW",
-		},
-		["d3002p3005u3002cd47vd1vp0.3vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "SAI Cage Knob PULL/CW",
-		},
 		["d3002pnilu3002cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -215,54 +193,6 @@ local diff = {
 				},
 			},
 			["name"] = "Right MFD OSB 20",
-		},
-		["d3021pnilunilcd19vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "HUD DED/PFLD Data Switch - Down",
-		},
-		["d3021pnilunilcd19vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "HUD DED/PFLD Data Switch - Up",
-		},
-		["d3022pnilunilcd19vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "HUD Depressible Reticle Switch - Down",
-		},
-		["d3022pnilunilcd19vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "HUD Depressible Reticle Switch - Up",
-		},
-		["d3023pnilunilcd19vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "HUD Velocity Switch - Down",
-		},
-		["d3023pnilunilcd19vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "HUD Velocity Switch - Up",
 		},
 		["d3025pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {

@@ -42,14 +42,6 @@ local diff = {
 			},
 			["name"] = "Navigation Lights TOGGLE",
 		},
-		["d311pnilu313cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Engines START/STOP",
-		},
 		["d3433pnilunilcd20vd0.25vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -59,7 +51,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "UHF Mode ON",
+			["name"] = "UHF MODE M",
 		},
 		["d3433pnilunilcd20vd0vpnilvunil"] = {
 			["added"] = {
@@ -70,31 +62,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "UHF Mode OFF",
-		},
-		["d3449pnilu3449cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Police Lights On/Off",
-		},
-		["d3486pnilu3486cd11vd0.67vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Radar Power SIL Standby",
-		},
-		["d3486pnilu3486cd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Radar Power EM On",
+			["name"] = "UHF MODE AR",
 		},
 		["d3600pnilu3600cd11vd0vpnilvunil"] = {
 			["added"] = {
@@ -139,80 +107,6 @@ local diff = {
 				},
 			},
 			["name"] = "Jammer Mode []",
-		},
-		["d3617pnilunilcd24vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "VOR/ILS Power OFF",
-		},
-		["d3617pnilunilcd24vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "VOR/ILS Power ON",
-		},
-		["d3619pnilunilcd24vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "VOR/ILS Test HG",
-		},
-		["d3619pnilunilcd24vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "VOR/ILS Test BD",
-		},
-		["d3626pnilunilcd23vd0.66vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "TACAN Mode T/R",
-		},
-		["d3626pnilunilcd23vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
-				},
-			},
-			["name"] = "TACAN Mode OFF",
-		},
-		["d3645pnilu3645cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Start Button Safety Cover Open/Close",
 		},
 		["d368pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

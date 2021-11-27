@@ -98,50 +98,6 @@ local diff = {
 			},
 			["name"] = "UHF 0.025Mhz Manual Frequency Knob - Decrease",
 		},
-		["d3002pnilunilcd14vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "INS Knob - CCW",
-		},
-		["d3002pnilunilcd14vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "INS Knob - CW",
-		},
-		["d3002pnilunilcd41vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "MIDS LVT Knob - CCW",
-		},
-		["d3002pnilunilcd41vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "MIDS LVT Knob - CW",
-		},
 		["d3002pnilunilcd59vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -180,17 +136,6 @@ local diff = {
 			},
 			["name"] = "Canopy Handle - DOWN",
 		},
-		["d3005pnilu3005cd6vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "JFS Switch - START 1 / OFF",
-		},
 		["d3005pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -201,17 +146,6 @@ local diff = {
 				},
 			},
 			["name"] = "ST STA Switch - ST STA/OFF",
-		},
-		["d3006pnilu3006cd6vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "JFS Switch - START 2 / OFF",
 		},
 		["d3012pnilu3012cd17vd1vpnilvu0"] = {
 			["added"] = {
@@ -236,25 +170,6 @@ local diff = {
 				},
 			},
 			["name"] = "MWS Source Switch - ON/OFF",
-		},
-		["d3015pnilu3015cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "ICP LIST Override Button - LIST",
-		},
-		["d3015pnilunilcd19vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "MMC Switch - MMC/OFF",
 		},
 		["d3016pnilunilcd32vd1vpnilvunil"] = {
 			["added"] = {
@@ -288,14 +203,6 @@ local diff = {
 			},
 			["name"] = "O2 Expendable Category Switch - ON/OFF",
 		},
-		["d3018pnilu3018cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "ICP Master Mode Button - A-A",
-		},
 		["d3018pnilunilcd32vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -303,14 +210,6 @@ local diff = {
 				},
 			},
 			["name"] = "CH Expendable Category Switch - ON/OFF",
-		},
-		["d3019pnilu3019cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "ICP Master Mode Button - A-G",
 		},
 		["d3019pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
@@ -331,28 +230,6 @@ local diff = {
 				},
 			},
 			["name"] = "FL Expendable Category Switch - ON/OFF",
-		},
-		["d3019pnilunilcd37vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "UHF Function Knob - CCW",
-		},
-		["d3019pnilunilcd37vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "UHF Function Knob - CW",
 		},
 		["d3021pnilunilcd39vd-1vpnilvunil"] = {
 			["added"] = {

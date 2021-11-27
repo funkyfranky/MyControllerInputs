@@ -28,34 +28,6 @@ local diff = {
 			},
 			["name"] = "Pitch",
 		},
-		["a2002cdnil"] = {
-			["changed"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-							[2] = 0.04,
-							[3] = 0.08,
-							[4] = 0.12,
-							[5] = 0.16,
-							[6] = 0.21,
-							[7] = 0.29,
-							[8] = 0.43,
-							[9] = 0.6,
-							[10] = 0.8,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Roll",
-		},
 		["a2003cdnil"] = {
 			["name"] = "Rudder",
 			["removed"] = {
@@ -74,14 +46,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d100pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "STT/TWS Toggle",
-		},
 		["d1126pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -89,22 +53,6 @@ local diff = {
 				},
 			},
 			["name"] = "NAV Update/MAGIC unlock",
-		},
-		["d262pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Radar Range DECREASE",
-		},
-		["d263pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Radar Range INCREASE",
 		},
 		["d3001pnilunilcd100vd1vpnilvunil"] = {
 			["added"] = {

@@ -24,24 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a2028cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_SLIDER1",
-				},
-			},
-			["name"] = "Radar Antenna Elevation",
-		},
 	},
 	["keyDiffs"] = {
 		["d110pnilu112cdnilvdnilvpnilvunil"] = {
@@ -111,14 +93,6 @@ local diff = {
 			},
 			["name"] = "Selective Jettison Safety Cover CLOSED",
 		},
-		["d3248pnilunilcd6vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "Selective Jettison Safety Cover Open",
-		},
 		["d3249pnilu3249cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -126,22 +100,6 @@ local diff = {
 				},
 			},
 			["name"] = "Selective Jettison On/Off",
-		},
-		["d3276pnilu3276cd6vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Bomb Fuze Inst/Ret",
-		},
-		["d3276pnilu3276cd6vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Bomb Fuze Inert/Ret",
 		},
 		["d3330pnilu3330cd3vd0vpnilvu1"] = {
 			["added"] = {
@@ -161,30 +119,6 @@ local diff = {
 				},
 			},
 			["name"] = "FBW Gain Cover CLOSED",
-		},
-		["d3420pnilunilcd3vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "FBW Gain Cover Open",
-		},
-		["d3421pnilu3421cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "FBW Gain Emer/Norm",
-		},
-		["d3422pnilu3422cd3vd-1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "FBW G-Limiter Mode On/Off",
 		},
 		["d3462pnilu3462cd14vd-1vpnilvu0"] = {
 			["added"] = {
@@ -225,22 +159,6 @@ local diff = {
 				},
 			},
 			["name"] = "Police Light Toggle",
-		},
-		["d572pnilu576cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Main U/VHF Radio SELECT",
-		},
-		["d573pnilu576cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Aux. UHF Radio SELECT",
 		},
 		["d73pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -313,38 +231,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-		},
-		["dnilp88u235cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
-				},
-			},
-			["name"] = "TDC LEFT",
-		},
-		["dnilp89u235cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
-				},
-			},
-			["name"] = "TDC RIGHT",
-		},
-		["dnilp90u235cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
-				},
-			},
-			["name"] = "TDC UP",
-		},
-		["dnilp91u235cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
-				},
-			},
-			["name"] = "TDC DOWN",
 		},
 	},
 }

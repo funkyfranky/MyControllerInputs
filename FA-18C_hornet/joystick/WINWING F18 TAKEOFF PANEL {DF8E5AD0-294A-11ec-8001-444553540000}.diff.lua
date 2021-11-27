@@ -48,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN18",
 				},
 			},
-			["name"] = "LDG/TAXI LIGHT Switch (special) - ON/OFF",
+			["name"] = "LDG/TAXI LIGHT Switch ON/OFF",
 		},
 		["d3004pnilunilcd5vd0vpnilvunil"] = {
 			["added"] = {

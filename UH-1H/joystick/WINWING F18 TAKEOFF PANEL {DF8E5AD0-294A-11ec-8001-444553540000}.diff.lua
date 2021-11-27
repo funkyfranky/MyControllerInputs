@@ -96,7 +96,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Autopilot ATTITUDE HOLD",
+			["name"] = "AutoPilot ATTITUDE HOLD",
 		},
 		["d3029pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
@@ -104,7 +104,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Autopilot LEVEL FLIGHT",
+			["name"] = "AutoPilot LEVEL FLIGHT",
 		},
 		["d3030pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
@@ -112,7 +112,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Autopilot ORBIT",
+			["name"] = "AutoPilot ORBIT",
 		},
 		["d84pnilu84cdnilvd1vpnilvu0"] = {
 			["name"] = "Pilot weapon release/Machinegun fire",

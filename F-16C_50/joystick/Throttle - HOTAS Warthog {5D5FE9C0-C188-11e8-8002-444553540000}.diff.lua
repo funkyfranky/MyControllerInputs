@@ -102,14 +102,6 @@ local diff = {
 			},
 			["name"] = "MAIN PWR Switch (special) - MAIN PWR/BATT",
 		},
-		["d3003pnilu3003cd11vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "WING/TAIL Switch DIM/OFF",
-		},
 		["d3003pnilu3003cd6vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -141,14 +133,6 @@ local diff = {
 				},
 			},
 			["name"] = "LANDING TAXI LIGHTS Switch LANDING/OFF",
-		},
-		["d3008pnilu3008cd6vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "ENG CONT Switch SEC/PRI",
 		},
 		["d3009pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {

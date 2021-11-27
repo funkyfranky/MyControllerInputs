@@ -128,7 +128,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "VOR/ILS Mode Select (rotary)",
+			["name"] = "VOR/ILS Mode Select (totary)",
 		},
 		["d3009pnilu3009cd1vd1vpnilvu0"] = {
 			["added"] = {
