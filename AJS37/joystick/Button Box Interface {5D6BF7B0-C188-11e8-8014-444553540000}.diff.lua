@@ -42,13 +42,13 @@ local diff = {
 			},
 			["name"] = "Check indicator lights",
 		},
-		["d3003pnilu3003cd19vd1vpnilvu0"] = {
+		["d3003pnilunilcd19vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Backup Generator On/Off",
+			["name"] = "Backup Generator - ON",
 		},
 		["d3004pnilu3004cd26vd1vpnilvu0"] = {
 			["added"] = {
@@ -57,39 +57,6 @@ local diff = {
 				},
 			},
 			["name"] = "KONTROLL Indicator System Test",
-		},
-		["d3005pnilunilcd24vd-0.1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Master Volume / Sidewinder Tone Down",
-		},
-		["d3005pnilunilcd24vd0.1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Master Volume / Sidewinder Tone Up",
-		},
-		["d3005pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Countermeasure KB Mod A",
 		},
 		["d3005pnilunilcd35vd1vpnilvunil"] = {
 			["added"] = {
@@ -100,45 +67,15 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Volume Up",
+			["name"] = "Kneeboard Next Shortcut",
 		},
-		["d3006pnilunilcd18vd1vpnilvunil"] = {
+		["d3006pnilunilcd18vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "Afterburner fuel valve (LTkran EBK)",
-		},
-		["d3006pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Countermeasure KB Mod 0",
-		},
-		["d3006pnilunilcd35vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Volume Down",
-		},
-		["d3007pnilunilcd18vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Manual fuel regulator switch",
+			["name"] = "Manual Afterburner Fuel Valve Open/Closed (toggle)",
 		},
 		["d3008pnilunilcd18vd1vpnilvunil"] = {
 			["added"] = {
@@ -146,59 +83,15 @@ local diff = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Engine De-ice switch",
+			["name"] = "Engine De-ice switch (toggle)",
 		},
-		["d3011pnilunilcd28vd1vpnilvunil"] = {
+		["d3009pnilunilcd18vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Countermeasure U22 Jammer Mod 0",
-		},
-		["d3012pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Countermeasure U22 Jammer Mod A",
-		},
-		["d3012pnilunilcd31vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "Radio volume control decrease",
-		},
-		["d3016pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Countermeasure U22 Jammer Band F",
-		},
-		["d3017pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Countermeasure U22 Jammer Band G",
+			["name"] = "Manual fuel regulator switch (toggle)",
 		},
 		["d3208pnilunilcd5vd0.1vpnilvunil"] = {
 			["added"] = {
@@ -222,13 +115,21 @@ local diff = {
 			},
 			["name"] = "Radar AS0",
 		},
-		["d3210pnilunilcd22vd1vpnilvunil"] = {
+		["d3211pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Pitch gearing Automatic/Landing",
+			["name"] = "Pitch gearing Automatic/Landing (toggle)",
+		},
+		["d3401pnilu3401cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Aterstart (Restart) Switch On/Off",
 		},
 		["d3405pnilu3405cd22vd1vpnilvu0"] = {
 			["added"] = {
@@ -451,18 +352,18 @@ local diff = {
 		["dnilp3101u3100cd5vdnilvp1vu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "Radarstick Up",
+			["name"] = "Radarstick Aft",
 		},
 		["dnilp3102u3100cd5vdnilvp1vu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
+					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "Radarstick Down",
+			["name"] = "Radarstick Forward",
 		},
 		["dnilp3103u3100cd5vdnilvp1vu1"] = {
 			["added"] = {

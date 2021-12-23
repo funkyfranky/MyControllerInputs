@@ -1,61 +1,5 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["changed"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-							[2] = 0.04,
-							[3] = 0.08,
-							[4] = 0.12,
-							[5] = 0.16,
-							[6] = 0.21,
-							[7] = 0.28,
-							[8] = 0.42,
-							[9] = 0.6,
-							[10] = 0.8,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Flight Control Cyclic Pitch",
-		},
-		["a2002cdnil"] = {
-			["changed"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-							[2] = 0.04,
-							[3] = 0.08,
-							[4] = 0.12,
-							[5] = 0.16,
-							[6] = 0.21,
-							[7] = 0.28,
-							[8] = 0.42,
-							[9] = 0.6,
-							[10] = 0.8,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Flight Control Cyclic Roll",
-		},
 		["a2003cdnil"] = {
 			["name"] = "Flight Control Rudder",
 			["removed"] = {
@@ -90,7 +34,20 @@ local diff = {
 			},
 			["name"] = "External Cargo Pilot Unhook",
 		},
+		["d3003pnilunilcd41vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Trimmer reset",
+		},
 		["d3004pnilu3004cd41vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
 			["name"] = "Pilot Trimmer",
 			["removed"] = {
 				[1] = {
@@ -122,7 +79,7 @@ local diff = {
 		["dnilp193u194cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "Cyclic nose down",
@@ -130,7 +87,7 @@ local diff = {
 		["dnilp195u196cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 			["name"] = "Cyclic nose up",

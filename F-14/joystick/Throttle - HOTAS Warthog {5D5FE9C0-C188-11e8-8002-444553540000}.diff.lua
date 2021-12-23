@@ -140,14 +140,6 @@ local diff = {
 			},
 			["name"] = "Autopilot - Altitude Hold 1/0",
 		},
-		["d3050pnilu3050cd20vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Engine Airstart 1/0",
-		},
 		["d3052pnilu3052cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -163,14 +155,6 @@ local diff = {
 				},
 			},
 			["name"] = "Right Engine Mode 1/0",
-		},
-		["d3056pnilu3056cd35vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Master Caution Reset",
 		},
 		["d3126pnilu3126cd57vd1vpnilvu0"] = {
 			["name"] = "CAGE-SEAM button",

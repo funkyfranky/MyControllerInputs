@@ -74,14 +74,6 @@ local diff = {
 			},
 			["name"] = "Missile prepare toggle",
 		},
-		["d3141pnilu3141cd55vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Missile mode toggle",
-		},
 		["d3551pnilunilcd62vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

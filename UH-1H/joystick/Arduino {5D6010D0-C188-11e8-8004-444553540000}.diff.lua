@@ -106,6 +106,14 @@ local diff = {
 				},
 			},
 		},
+		["d3008pnilu3008cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Radar Altimeter Power Switch On/Off",
+		},
 		["d3008pnilu3008cd1vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

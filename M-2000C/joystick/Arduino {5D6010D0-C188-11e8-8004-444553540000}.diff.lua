@@ -34,45 +34,29 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3450pnilu3450cd16vd0.5vpnilvunil"] = {
+		["d1436pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Landing Lights TAXI",
+			["name"] = "TACAN CH XY Switch",
 		},
-		["d3502pnilu3502cd11vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Radar Scan 4-LINE, else 2-LINE",
-		},
-		["d3502pnilu3502cd11vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Radar Scan 1-LINE, else 2-LINE",
-		},
-		["d3506pnilu3506cd11vd0vpnilvu0.5"] = {
+		["d3276pnilu3276cd6vd0vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Radar Azimuth WIDE, else MIDDLE",
+			["name"] = "Bomb Fuze Inst/Ret",
 		},
-		["d3506pnilu3506cd11vd1vpnilvu0.5"] = {
+		["d3276pnilu3276cd6vd1vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "Radar Azimuth NARROW, else MIDDLE",
+			["name"] = "Bomb Fuze Inert/Ret",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

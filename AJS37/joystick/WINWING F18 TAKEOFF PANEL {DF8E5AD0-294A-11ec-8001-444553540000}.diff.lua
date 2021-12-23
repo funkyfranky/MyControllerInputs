@@ -32,59 +32,23 @@ local diff = {
 			},
 			["name"] = "Zoom View",
 		},
-		["a3409cd22"] = {
+		["a3327cd5"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_SLIDER2",
+					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "HUD Brightness Knob",
+			["name"] = "Radar MKR Gain",
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd7vd1vpnilvu0"] = {
+		["d3001pnilu3001cd21vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Thrust Reverser On/Off",
-		},
-		["d3001pnilu3002cd24vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "KB Off/Lights",
-		},
-		["d3003pnilu3002cd24vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "KB Lights+Sound/Lights",
+			["name"] = "Doppler Mode Land (hold)",
 		},
 		["d3005pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
@@ -118,10 +82,18 @@ local diff = {
 			},
 			["name"] = "Countermeasure KB Mod 2",
 		},
+		["d3009pnilunilcd17vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Taxi/landing lights switch - ON",
+		},
 		["d3009pnilunilcd17vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN11",
 				},
 			},
 			["name"] = "Taxi/landing lights switch - OFF",
@@ -129,10 +101,10 @@ local diff = {
 		["d3009pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Taxi/landing lights switch - ON",
+			["name"] = "Taxi/landing lights switch - TAXI",
 		},
 		["d3009pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
@@ -149,22 +121,6 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency lights switch - OFF",
-		},
-		["d3010pnilunilcd17vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Emergency lights switch - ON",
-		},
-		["d3010pnilunilcd28vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Countermeasure KB Stråk Mod 0",
 		},
 		["d3010pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
@@ -190,21 +146,37 @@ local diff = {
 			},
 			["name"] = "Countermeasure Chaff/Flares Selector R/RF",
 		},
-		["d3304pnilunilcd18vd0vpnilvunil"] = {
+		["d3209pnilu3209cd5vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN22",
 				},
 			},
-			["name"] = "Autopilot Autothrottle mode AFK OFF",
+			["name"] = "Radar Gain Log/Lin",
 		},
-		["d3304pnilunilcd18vd1vpnilvunil"] = {
+		["d3214pnilunilcd5vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Passive radar mode",
+		},
+		["d3304pnilu3304cd18vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Autopilot Autothrottle mode AFK ON",
+			["name"] = "Autopilot Autothrottle mode AFK (hold-On)",
+		},
+		["d3328pnilu3328cd5vd0vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Radar Pulse Normal/Short",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -214,21 +186,21 @@ local diff = {
 				},
 			},
 		},
-		["d3719pnilunilcd22vd0vpnilvunil"] = {
+		["d3719pnilu3719cd22vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Landing Gear Up",
+			["name"] = "Landing Gear Lever Up/Down (hold- Up)",
 		},
-		["d3719pnilunilcd22vd1vpnilvunil"] = {
+		["d3719pnilu3719cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Landing Gear Down",
+			["name"] = "Landing Gear Lever Up/Down (hold- Down)",
 		},
 	},
 }

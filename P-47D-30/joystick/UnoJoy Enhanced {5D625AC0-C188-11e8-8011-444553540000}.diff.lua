@@ -40,7 +40,7 @@ local diff = {
 					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "Engine RPM / Propeller Pitch  (analog)",
+			["name"] = "Input.Generic.pitch_slider",
 		},
 		["a3012cd6"] = {
 			["added"] = {
@@ -66,7 +66,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Starter ENERGIZE",
+			["name"] = "Input.P47.starter_kirk",
 		},
 		["d3021pnilu3021cd3vd1vpnilvu0"] = {
 			["added"] = {
@@ -74,7 +74,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Starter ENGAGE",
+			["name"] = "Input.P47.starter_picard",
 		},
 		["d3033pnilu3032cd8vd1vpnilvu0"] = {
 			["added"] = {
@@ -90,7 +90,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Intercooler Shutter CLOSE",
+			["name"] = "Input.P47.intrclr_minus",
 		},
 		["d3043pnilu3043cd3vd1vpnilvu0"] = {
 			["added"] = {
@@ -98,7 +98,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Intercooler Shutter OPEN",
+			["name"] = "Input.P47.intrclr_plus",
 		},
 		["d3046pnilu3046cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -114,7 +114,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Oil Cooler Shutter CLOSE",
+			["name"] = "Input.P47.oilclr_minus",
 		},
 		["d3046pnilu3046cd3vd1vpnilvu0"] = {
 			["added"] = {
@@ -122,7 +122,7 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "Oil Cooler Shutter OPEN",
+			["name"] = "Input.P47.oilclr_plus",
 		},
 		["d3049pnilu3049cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -133,7 +133,7 @@ local diff = {
 			["name"] = "Cockpit Ventilation On/Off",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Bomb Release (D-30 & D-40)",
+			["name"] = "Input.P47.trigger_b2",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -141,7 +141,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Fire Machineguns",
+			["name"] = "Input.P47.trigger_a",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",

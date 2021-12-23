@@ -42,6 +42,14 @@ local diff = {
 			},
 			["name"] = "Navigation Lights TOGGLE",
 		},
+		["d311pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Engines START",
+		},
 		["d3433pnilunilcd20vd0.25vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -86,49 +94,13 @@ local diff = {
 			},
 			["name"] = "IFF CONT",
 		},
-		["d3605pnilu3605cd13vd-1vpnilvunil"] = {
+		["d3645pnilu3645cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "RShift",
-					},
+					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Jammer Mode Veille",
-		},
-		["d3605pnilu3605cd13vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Jammer Mode []",
-		},
-		["d368pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Decoy Release Program Knob Up",
-		},
-		["d369pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Decoy Release Program Knob Down",
+			["name"] = "Start Button Safety Cover Open/Close",
 		},
 		["d516pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

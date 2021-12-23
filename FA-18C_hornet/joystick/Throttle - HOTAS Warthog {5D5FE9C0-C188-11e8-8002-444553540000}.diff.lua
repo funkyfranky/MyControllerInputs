@@ -112,22 +112,6 @@ local diff = {
 			},
 			["name"] = "Kneeboard ON/OFF",
 		},
-		["d3002pnilu3002cd6vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Probe Control Switch EMERG/RETRACT",
-		},
-		["d3002pnilu3002cd6vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Probe Control Switch EXTEND/RETRACT",
-		},
 		["d3003pnilu3003cd8vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

@@ -66,14 +66,6 @@ local diff = {
 			},
 			["name"] = "Datapanel Switch Input",
 		},
-		["d3008pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "FR22 AM/FM switch",
-		},
 		["d3009pnilu3009cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -242,6 +234,22 @@ local diff = {
 			},
 			["name"] = "Data panel Digit 9",
 		},
+		["d3101pnilu3101cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36",
+				},
+			},
+			["name"] = "Data panel RENSA cover OPEN/CLOSE",
+		},
+		["d3201pnilu3201cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "Slav SI Switch F/T (hold- T)",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {
@@ -250,66 +258,66 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3003u3003cd31vdnilvp-0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN67",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Left Decrease",
-		},
-		["dnilp3003u3003cd31vdnilvp0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN66",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Left Increase",
-		},
-		["dnilp3004u3004cd31vdnilvp-0.1vu0"] = {
+		["dnilp3003u3003cd30vdnilvp-0.1vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN63",
 				},
 			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Left Decrease",
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Left Decrease",
 		},
-		["dnilp3004u3004cd31vdnilvp0.1vu0"] = {
+		["dnilp3003u3003cd30vdnilvp0.1vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN62",
 				},
 			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Left Increase",
+		},
+		["dnilp3004u3004cd30vdnilvp-0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN67",
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Left Decrease",
+		},
+		["dnilp3004u3004cd30vdnilvp0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN66",
+				},
+			},
 			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Left Increase",
 		},
-		["dnilp3005u3005cd31vdnilvp-0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN68",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Right Decrease",
-		},
-		["dnilp3005u3005cd31vdnilvp0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN69",
-				},
-			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Right Increase",
-		},
-		["dnilp3006u3006cd31vdnilvp-0.1vu0"] = {
+		["dnilp3005u3005cd30vdnilvp-0.1vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN65",
 				},
 			},
-			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Right Decrease",
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Right Decrease",
 		},
-		["dnilp3006u3006cd31vdnilvp0.1vu0"] = {
+		["dnilp3005u3005cd30vdnilvp0.1vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN64",
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Inner Right Increase",
+		},
+		["dnilp3006u3006cd30vdnilvp-0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN68",
+				},
+			},
+			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Right Decrease",
+		},
+		["dnilp3006u3006cd30vdnilvp0.1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN69",
 				},
 			},
 			["name"] = "FR22 Radio Manual Frequency Setting Knob Outer Right Increase",

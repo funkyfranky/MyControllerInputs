@@ -32,7 +32,7 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Operate Fuel Priming Pump",
+			["name"] = "Input.Generic.primer",
 		},
 		["d3027pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
@@ -40,7 +40,7 @@ local diff = {
 					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "Magneto Switch (previous selection)",
+			["name"] = "Input.Generic.magnetos_minus",
 		},
 		["d3027pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -48,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "Magneto Switch (next selection)",
+			["name"] = "Input.Generic.magnetos_plus",
 		},
 		["d3031pnilu3031cd3vd0.1vpnilvu0"] = {
 			["added"] = {
@@ -56,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Propeller Control DECREASE R.P.M.",
+			["name"] = "Input.P47.prop_es_dec",
 		},
 		["d3031pnilu3031cd3vd0.2vpnilvu0"] = {
 			["added"] = {
@@ -64,7 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Propeller Control INCREASE R.P.M.",
+			["name"] = "Input.P47.prop_es_inc",
 		},
 		["d3031pnilunilcd3vd0.3vpnilvunil"] = {
 			["added"] = {
@@ -72,7 +72,7 @@ local diff = {
 					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "Propeller Control AUTO",
+			["name"] = "Input.P47.prop_es_auto",
 		},
 		["d3031pnilunilcd3vd0vpnilvunil"] = {
 			["added"] = {
@@ -80,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "Propeller Control FIXED",
+			["name"] = "Input.P47.prop_es_fixed",
 		},
 		["d3048pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
@@ -88,7 +88,7 @@ local diff = {
 					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "Main Fuel Selector Valve (next selection)",
+			["name"] = "Input.P47.main_fuel_selector_next",
 		},
 		["d3048pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -96,7 +96,7 @@ local diff = {
 					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "Main Fuel Selector Valve (previous selection)",
+			["name"] = "Input.P47.main_fuel_selector_prev",
 		},
 		["d3051pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
@@ -104,7 +104,7 @@ local diff = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "External Tanks Fuel Selector Valve (next selection)",
+			["name"] = "Input.P47.droptank_selector_next",
 		},
 		["d3051pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -112,10 +112,10 @@ local diff = {
 					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "External Tanks Fuel Selector Valve (previous selection)",
+			["name"] = "Input.P47.droptank_selector_prev",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Bomb Release (D-30 & D-40)",
+			["name"] = "Input.P47.trigger_b2",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -123,7 +123,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Fire Machineguns",
+			["name"] = "Input.P47.trigger_a",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
@@ -168,7 +168,7 @@ local diff = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Primer Lock (toggle)",
+			["name"] = "Input.P47.primer_lock",
 		},
 		["dnilp3055unilcd3vdnilvp-1vunil"] = {
 			["added"] = {
@@ -176,7 +176,7 @@ local diff = {
 					["key"] = "JOY_BTN31",
 				},
 			},
-			["name"] = "Carburetor Air Heat DECREASE",
+			["name"] = "Input.P47.carb_air_heat_minus",
 		},
 		["dnilp3055unilcd3vdnilvp1vunil"] = {
 			["added"] = {
@@ -184,7 +184,7 @@ local diff = {
 					["key"] = "JOY_BTN32",
 				},
 			},
-			["name"] = "Carburetor Air Heat INCREASE",
+			["name"] = "Input.P47.carb_air_heat_plus",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

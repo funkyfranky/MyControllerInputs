@@ -8,38 +8,6 @@ local diff = {
 			},
 			["name"] = "Missile Select Button (IR-RB FRAMSTEGN) Depress/Release",
 		},
-		["d3001pnilunilcd31vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN54",
-				},
-			},
-			["name"] = "F22 Base selector turn left",
-		},
-		["d3001pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN55",
-				},
-			},
-			["name"] = "FR22 Base selector turn right",
-		},
-		["d3007pnilunilcd31vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN51",
-				},
-			},
-			["name"] = "FR22 Group selector turn left",
-		},
-		["d3007pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN52",
-				},
-			},
-			["name"] = "FR22 Group selector turn right",
-		},
 		["d3011pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -247,22 +215,6 @@ local diff = {
 				},
 			},
 			["name"] = "Roll centrering (Roll trim reset) ",
-		},
-		["dnilp3307unilcd22vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN38",
-				},
-			},
-			["name"] = "Altimeter setting down",
-		},
-		["dnilp3307unilcd22vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN40",
-				},
-			},
-			["name"] = "Altimeter setting up",
 		},
 		["dnilp3404u3404cd22vdnilvp-1vu0"] = {
 			["added"] = {

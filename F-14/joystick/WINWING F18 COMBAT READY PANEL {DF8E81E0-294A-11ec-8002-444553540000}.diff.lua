@@ -24,6 +24,14 @@ local diff = {
 			},
 			["name"] = "Antiskid & Spoiler BK - Both",
 		},
+		["d3056pnilu3056cd35vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Master Caution Reset",
+		},
 		["d3058pnilu3058cd23vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -104,6 +112,14 @@ local diff = {
 			},
 			["name"] = "Gun rate toggle",
 		},
+		["d3134pnilunilcd55vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "ACM cover toggle",
+		},
 		["d3136pnilu3136cd55vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -120,6 +136,14 @@ local diff = {
 			},
 			["name"] = "Master Arm On and Cover Open, else Safe and Closed",
 		},
+		["d3138pnilu3138cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "ACM Jettison",
+		},
 		["d3139pnilu3139cd55vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -135,6 +159,14 @@ local diff = {
 				},
 			},
 			["name"] = "Missile prepare toggle",
+		},
+		["d3141pnilu3141cd55vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Missile mode toggle",
 		},
 		["d3142pnilu3142cd55vd1vpnilvu0"] = {
 			["added"] = {

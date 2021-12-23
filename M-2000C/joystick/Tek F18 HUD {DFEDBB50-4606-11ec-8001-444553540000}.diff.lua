@@ -32,6 +32,22 @@ local diff = {
 				},
 			},
 		},
+		["a3202cd36"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "HUD Brightness",
+		},
+		["a3209cd36"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Target Wingspan Knob",
+		},
 	},
 }
 return diff

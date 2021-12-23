@@ -34,6 +34,70 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3201pnilu3201cd36vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "HUD ON",
+		},
+		["d3201pnilu3201cd36vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "HUD OFF",
+		},
+		["d3204pnilu3204cd38vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN59",
+				},
+			},
+			["name"] = "Radar Altimeter H",
+		},
+		["d3204pnilu3204cd38vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN58",
+				},
+			},
+			["name"] = "Radar Altimeter ZB",
+		},
+		["d3204pnilu3204cd38vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN60",
+				},
+			},
+			["name"] = "Radar Altimeter SELH",
+		},
+		["d3205pnilu3205cd38vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN56",
+				},
+			},
+			["name"] = "Radar Altimeter ON",
+		},
+		["d3205pnilu3205cd38vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN57",
+				},
+			},
+			["name"] = "Radar Altimeter OFF",
+		},
+		["d3205pnilu3205cd38vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "Radar Altimeter TEST",
+		},
 		["d3584pnilu3584cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

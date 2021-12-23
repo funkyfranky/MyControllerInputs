@@ -88,6 +88,46 @@ local diff = {
 				},
 			},
 		},
+		["dnilp3002unilcd29vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "Course Indicator OBS Decrease",
+		},
+		["dnilp3002unilcd29vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "Course Indicator OBS Increase",
+		},
+		["dnilp3007unilcd10vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "GMC Manual Heading Increase",
+		},
+		["dnilp3007unilcd10vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "GMC Manual Heading Decrease",
+		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Center View",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+		},
 	},
 }
 return diff

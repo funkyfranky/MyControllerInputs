@@ -34,38 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3452pnilu3452cd16vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Refuel Lights Disabled",
-		},
-		["d3452pnilu3452cd16vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Refuel Lights Enabled",
-		},
-		["d389pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Altitude Hold Mode",
-		},
-		["d429pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Approach Hold Mode",
-		},
 		["d59pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -73,14 +41,6 @@ local diff = {
 				},
 			},
 			["name"] = "Selected Altitude Hold Mode",
-		},
-		["d62pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Autopilot",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

@@ -32,14 +32,6 @@ local diff = {
 			},
 			["name"] = "Zoom View",
 		},
-		["a2028cdnil"] = {
-			["name"] = "T6_Axis: Antenna Elevation",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-		},
 	},
 	["keyDiffs"] = {
 		["d10053pnilu10053cdnilvd1vpnilvu0"] = {
@@ -96,44 +88,12 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "T4_Forward: Radio Comm 1",
+			["name"] = "T3_Forward: Speed Brake On",
 		},
 		["d10072pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "T4_Backward: Radio Comm 2",
-		},
-		["d10074pnilu10074cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "T4_Press: IFF Interrogation Start/Stop",
-		},
-		["d10079pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "T5_Press: Lock Target",
-		},
-		["dnilp10025unilcd39vdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "T3_Forward: Speed Brake On",
-		},
-		["dnilp10026unilcd39vdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "T3_Backward: Speed Brake Off",

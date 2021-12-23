@@ -149,7 +149,7 @@ local diff = {
 		["d3002pnilu3002cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN34",
+					["key"] = "JOY_BTN58",
 				},
 			},
 			["name"] = "T/O TRIM Button",
@@ -205,7 +205,7 @@ local diff = {
 		["d3003pnilu3003cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN35",
+					["key"] = "JOY_BTN57",
 				},
 			},
 			["name"] = "FCS RESET Button",
@@ -241,6 +241,22 @@ local diff = {
 				},
 			},
 			["name"] = "External Centerline Tank Fuel Control Switch - ORIDE",
+		},
+		["d3005pnilunilcd6vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "External Wing Tanks Fuel Control Switch - STOP",
+		},
+		["d3005pnilunilcd6vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "External Wing Tanks Fuel Control Switch - NORM",
 		},
 		["d3005pnilunilcd6vd1vpnilvunil"] = {
 			["added"] = {
@@ -313,6 +329,22 @@ local diff = {
 				},
 			},
 			["name"] = "COMM G XMT Switch - COMM 1",
+		},
+		["d3012pnilunilcd40vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "IFF Master Switch - NORM",
+		},
+		["d3012pnilunilcd40vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "IFF Master Switch - EMER",
 		},
 		["d3013pnilunilcd40vd-1vpnilvunil"] = {
 			["added"] = {
@@ -441,6 +473,22 @@ local diff = {
 				},
 			},
 			["name"] = "MC Switch - 2 OFF",
+		},
+		["dnilp3013unilcd2vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "RUD TRIM Control - CCW/Left",
+		},
+		["dnilp3013unilcd2vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "RUD TRIM Control - CW/Right",
 		},
 	},
 }

@@ -32,6 +32,38 @@ local diff = {
 				},
 			},
 		},
+		["a3403cd22"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "HUD brightness",
+		},
+		["a3412cd22"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "Airspeed Indexer",
+		},
+		["a3426cd2"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "EP-13 Brightness",
+		},
+		["a3427cd2"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "EP-13 Contrast",
+		},
 	},
 	["keyDiffs"] = {
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {

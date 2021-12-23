@@ -6,7 +6,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Show/Hide Menu",
+			["name"] = "AI Helper Interface - SHOW/HIDE",
 		},
 		["d3008pnilu3008cd30vd1vpnilvu0"] = {
 			["added"] = {
@@ -14,7 +14,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Prepare Weapons Systems",
+			["name"] = "\"Prepare Weapons\" command to gunner",
 		},
 		["d3014pnilu3014cd30vd1vpnilvu0"] = {
 			["added"] = {
@@ -30,7 +30,15 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Select target with ASP-17/Order to fire",
+			["name"] = "\"Designate target\" OR \"Open Fire\" command to gunner",
+		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "View Center",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
 		},
 	},
 }

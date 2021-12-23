@@ -64,7 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Play",
+			["name"] = "Kneeboard Next Page",
 		},
 		["d3002pnilunilcd35vd1vpnilvunil"] = {
 			["added"] = {
@@ -72,7 +72,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Stop",
+			["name"] = "Kneeboard Previous Page",
 		},
 		["d3003pnilunilcd35vd1vpnilvunil"] = {
 			["added"] = {
@@ -80,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Fast Forward",
+			["name"] = "Kneeboard current position mark point",
 		},
 		["d3004pnilunilcd35vd1vpnilvunil"] = {
 			["added"] = {
@@ -88,7 +88,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Fast Backward",
+			["name"] = "Kneeboard Make Shortcut",
 		},
 		["d3010pnilu3010cd12vd1vpnilvu0"] = {
 			["added"] = {

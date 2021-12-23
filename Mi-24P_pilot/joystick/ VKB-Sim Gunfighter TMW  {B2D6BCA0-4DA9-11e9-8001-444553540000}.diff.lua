@@ -6,7 +6,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Radio trigger - ICS",
+			["name"] = "Radio trigger - 1st STAGE (ICS)",
 		},
 		["d3026pnilu3026cd55vd1vpnilvu0"] = {
 			["added"] = {
@@ -14,7 +14,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Radio trigger - RADIO",
+			["name"] = "Radio trigger - 2nd STAGE (RADIO)",
 		},
 		["d3048pnilu3048cd10vd1vpnilvu0"] = {
 			["added"] = {
@@ -22,7 +22,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Autopilot Disengage (OFF) ",
+			["name"] = "Autopilot - DISENGAGE",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -47,6 +47,38 @@ local diff = {
 				},
 			},
 			["name"] = "Wheel Parking Brake",
+		},
+		["dnilp210u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UR",
+				},
+			},
+		},
+		["dnilp211u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DR",
+				},
+			},
+		},
+		["dnilp212u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DL",
+				},
+			},
+		},
+		["dnilp213u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UL",
+				},
+			},
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
@@ -94,7 +126,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-			["name"] = "Trim: Left Wing Down",
+			["name"] = "Trim Hat - ROLL LEFT",
 		},
 		["dnilp94u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -102,7 +134,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
-			["name"] = "Trim: Right Wing Down",
+			["name"] = "Trim Hat - ROLL RIGHT",
 		},
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -110,7 +142,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "Trim: Nose Up",
+			["name"] = "Trim Hat - NOSE UP",
 		},
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -118,7 +150,7 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
-			["name"] = "Trim: Nose Down",
+			["name"] = "Trim Hat - NOSE DOWN",
 		},
 	},
 }

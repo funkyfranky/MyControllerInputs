@@ -122,6 +122,22 @@ local diff = {
 				},
 			},
 		},
+		["dnilp3002unilcd30vdnilvp-0.02vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Push to Test Switch - CCW/Decrease",
+		},
+		["dnilp3002unilcd30vdnilvp0.02vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Push to Test Switch - CW/Increase",
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {

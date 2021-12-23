@@ -122,6 +122,14 @@ local diff = {
 				},
 			},
 		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "Center View",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+		},
 	},
 }
 return diff

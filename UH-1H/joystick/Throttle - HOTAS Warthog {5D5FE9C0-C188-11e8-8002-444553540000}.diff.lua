@@ -68,14 +68,6 @@ local diff = {
 			},
 			["name"] = "Landing Light Extend/Stop",
 		},
-		["d3008pnilu3008cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Radar Altimeter Power Switch On/Off",
-		},
 		["d3008pnilu3008cd9vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

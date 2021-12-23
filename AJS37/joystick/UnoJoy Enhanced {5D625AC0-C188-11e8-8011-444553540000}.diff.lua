@@ -34,28 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3302pnilu3302cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "LCtrl",
-					},
-				},
-			},
-			["name"] = "Weapon Emergency Release Cover Open/Close",
-		},
-		["d3303pnilu3303cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "LCtrl",
-					},
-				},
-			},
-			["name"] = "Weapon Emergency Release Button Depress/Release",
-		},
 		["d3307pnilu3307cd2vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -63,22 +41,6 @@ local diff = {
 				},
 			},
 			["name"] = "RB-04/RB-15/BK Release Mode Valb/Prep",
-		},
-		["d3325pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Radar MKR Gain increase",
-		},
-		["d3326pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Radar MKR Gain decrease",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -132,22 +94,6 @@ local diff = {
 			},
 			["name"] = "Emergency Trim Pitch Down",
 		},
-		["d3801pnilu3804cd5vd-0.1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Radar Night Filter - Up",
-		},
-		["d3801pnilu3804cd5vd0.1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Radar Night Filter - Down",
-		},
 		["d3922pnilu3922cd5vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -155,22 +101,6 @@ local diff = {
 				},
 			},
 			["name"] = "IFF Identification Depressed/Released",
-		},
-		["d3924pnilunilcd5vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Radar Decrease Brightness",
-		},
-		["d3924pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Radar Increase Brightness",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

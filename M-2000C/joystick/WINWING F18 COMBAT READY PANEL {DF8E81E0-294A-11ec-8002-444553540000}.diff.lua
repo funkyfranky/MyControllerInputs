@@ -29,6 +29,78 @@ local diff = {
 			},
 			["name"] = "Master Arm ARMED",
 		},
+		["d3453pnilu3453cd16vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Anti-Collision Lights DIM",
+		},
+		["d3453pnilu3453cd16vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Anti-Collision Lights OFF",
+		},
+		["d3453pnilu3453cd16vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Anti-Collision Lights BRIGHT",
+		},
+		["d3454pnilu3454cd16vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Navigation Lights DIM",
+		},
+		["d3454pnilu3454cd16vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Navigation Lights OFF",
+		},
+		["d3454pnilu3454cd16vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Navigation Lights BRIGHT",
+		},
+		["d3455pnilu3455cd16vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Formation Lights DIM",
+		},
+		["d3455pnilu3455cd16vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Formation Lights OFF",
+		},
+		["d3455pnilu3455cd16vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Formation Lights BRIGHT",
+		},
 		["d3627pnilunilcd9vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -132,6 +204,38 @@ local diff = {
 				},
 			},
 			["name"] = "INS Operational Mode - N",
+		},
+		["d389pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Altitude Hold Mode",
+		},
+		["d429pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Approach Hold Mode",
+		},
+		["d59pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Selected Altitude Hold Mode",
+		},
+		["d62pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Autopilot",
 		},
 	},
 }

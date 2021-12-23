@@ -6,7 +6,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Trigger button (release bomb/guncam on) - press",
+			["name"] = "Input.Mosquito.trigger_camera_bomb",
 		},
 		["d3016pnilu3016cd2vd-1vpnilvu0"] = {
 			["added"] = {
@@ -46,7 +46,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Fire Cannons",
+			["name"] = "Input.SpitfireLFMkIX.trigger_1",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -54,7 +54,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Fire Machineguns",
+			["name"] = "Input.SpitfireLFMkIX.trigger_0",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -94,7 +94,7 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Gun Sight Range - decrease",
+			["name"] = "Input.SpitfireLFMkIX.gun_sight_range_minus",
 		},
 		["dnilp3046unilcd5vdnilvp1vunil"] = {
 			["added"] = {
@@ -102,7 +102,7 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Gun Sight Range - increase",
+			["name"] = "Input.SpitfireLFMkIX.gun_sight_range_plus",
 		},
 		["dnilp3049unilcd5vdnilvp-1vunil"] = {
 			["added"] = {
@@ -110,7 +110,7 @@ local diff = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Gun Sight Base - decrease",
+			["name"] = "Input.SpitfireLFMkIX.gun_sight_span_minus",
 		},
 		["dnilp3049unilcd5vdnilvp1vunil"] = {
 			["added"] = {
@@ -118,7 +118,7 @@ local diff = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Gun Sight Base - increase",
+			["name"] = "Input.SpitfireLFMkIX.gun_sight_span_plus",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
@@ -158,7 +158,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Wheel Brakes",
+			["name"] = "Input.Yak52.wheel_brakes",
 		},
 	},
 }

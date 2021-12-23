@@ -35,7 +35,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Undercarriage UP",
+			["name"] = "Input.Generic.uc_0",
 		},
 		["d3035pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
@@ -46,10 +46,10 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Undercarriage DOWN",
+			["name"] = "Input.Generic.uc_1",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Bomb Release (D-30 & D-40)",
+			["name"] = "Input.P47.trigger_b2",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -57,7 +57,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Fire Machineguns",
+			["name"] = "Input.P47.trigger_a",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
@@ -102,7 +102,7 @@ local diff = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "Altimeter Set Pressure DECREASE",
+			["name"] = "Input.Generic.altimeter_minus",
 		},
 		["dnilp3011unilcd2vdnilvp1vunil"] = {
 			["added"] = {
@@ -110,7 +110,7 @@ local diff = {
 					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "Altimeter Set Pressure INCREASE",
+			["name"] = "Input.Generic.altimeter_plus",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

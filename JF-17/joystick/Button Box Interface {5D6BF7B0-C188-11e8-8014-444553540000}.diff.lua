@@ -24,19 +24,11 @@ local diff = {
 				},
 			},
 		},
-		["a2024cdnil"] = {
+		["a2004cdnil"] = {
 			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
-				},
-			},
-		},
-		["a2028cdnil"] = {
-			["name"] = "T6_Axis: Antenna Elevation",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RX",
 				},
 			},
 		},

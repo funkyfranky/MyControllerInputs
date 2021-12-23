@@ -38,7 +38,7 @@ local diff = {
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Boost (analog)",
+			["name"] = "Input.P47.boost_slider",
 		},
 		["a3014cd3"] = {
 			["added"] = {
@@ -46,7 +46,7 @@ local diff = {
 					["key"] = "JOY_SLIDER1",
 				},
 			},
-			["name"] = "Mixture (analog)",
+			["name"] = "Input.P47.mix_slider",
 		},
 	},
 	["keyDiffs"] = {
@@ -80,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Canopy Electrical Switch CLOSE",
+			["name"] = "Input.P47.canopy_e_minus",
 		},
 		["d3015pnilu3015cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -88,7 +88,7 @@ local diff = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Canopy Electrical Switch OPEN",
+			["name"] = "Input.P47.canopy_e_plus",
 		},
 		["d3031pnilu3031cd2vd0vpnilvu0.5"] = {
 			["added"] = {
@@ -96,7 +96,7 @@ local diff = {
 					["key"] = "JOY_BTN22",
 				},
 			},
-			["name"] = "Landing Flaps RETRACT (hold) / NEUTRAL (release)",
+			["name"] = "Input.Generic.flaps_retract_hold",
 		},
 		["d3031pnilu3031cd2vd1vpnilvu0.5"] = {
 			["added"] = {
@@ -104,7 +104,7 @@ local diff = {
 					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "Landing Flaps EXTEND (hold) / NEUTRAL (release)",
+			["name"] = "Input.Generic.flaps_extend_hold",
 		},
 		["d3032pnilu3032cd3vd-1vpnilvu0"] = {
 			["added"] = {
@@ -112,7 +112,7 @@ local diff = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Cowl Flaps CLOSE",
+			["name"] = "Input.P47.cowl_minus",
 		},
 		["d3032pnilu3032cd3vd1vpnilvu0"] = {
 			["added"] = {
@@ -120,7 +120,7 @@ local diff = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Cowl Flaps OPEN",
+			["name"] = "Input.P47.cowl_plus",
 		},
 		["d3035pnilu3035cd2vd-1vpnilvu1"] = {
 			["added"] = {
@@ -136,7 +136,7 @@ local diff = {
 					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Interconnect Boost Lever to Throttle (toggle)",
+			["name"] = "Input.P47.boost_lock",
 		},
 		["d3043pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
@@ -144,10 +144,10 @@ local diff = {
 					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "Tail Wheel Lock (toggle)",
+			["name"] = "Input.Generic.tail_wheel_lock",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Bomb Release (D-30 & D-40)",
+			["name"] = "Input.P47.trigger_b2",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -155,7 +155,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Fire Machineguns",
+			["name"] = "Input.P47.trigger_a",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
@@ -200,7 +200,7 @@ local diff = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Engine RPM / Propeller Pitch DECREASE",
+			["name"] = "Input.Generic.pitch_minus",
 		},
 		["dnilp3007unilcd3vdnilvp1vunil"] = {
 			["added"] = {
@@ -208,7 +208,7 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Engine RPM / Propeller Pitch INCREASE",
+			["name"] = "Input.Generic.pitch_plus",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

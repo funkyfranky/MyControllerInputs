@@ -32,6 +32,46 @@ local diff = {
 				},
 			},
 		},
+		["a3018cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Panel Lights brightness",
+		},
+		["a3019cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "Ambient Lights brightness",
+		},
+		["a3020cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Instrument Lights brightness",
+		},
+		["a3801cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "Radar Cl filter",
+		},
+		["a3921cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "Radar brightness",
+		},
 	},
 	["keyDiffs"] = {
 		["d3001pnilunilcd17vd0vpnilvunil"] = {
@@ -56,7 +96,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Radar Altimeter Power On/Off (toggle)",
+			["name"] = "Radar Altimeter Power On/Off (hold- on)",
 		},
 		["d3002pnilunilcd17vd-1vpnilvunil"] = {
 			["added"] = {
@@ -98,14 +138,6 @@ local diff = {
 			},
 			["name"] = "Formation lights switch - ON",
 		},
-		["d3004pnilu3004cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN33",
-				},
-			},
-			["name"] = "Position Lights On/Off",
-		},
 		["d3004pnilunilcd17vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -113,6 +145,14 @@ local diff = {
 				},
 			},
 			["name"] = "Position lights switch - OFF",
+		},
+		["d3004pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Position lights switch - ON",
 		},
 		["d3305pnilunilcd2vd0.3vpnilvunil"] = {
 			["added"] = {
@@ -194,21 +234,13 @@ local diff = {
 				},
 			},
 		},
-		["d3718pnilunilcd22vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Oxygen Lever OFF",
-		},
-		["d3718pnilunilcd22vd1vpnilvunil"] = {
+		["d3718pnilu3718cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Oxygen Lever ON",
+			["name"] = "Oxygen lever (hold- on)",
 		},
 		["d3919pnilu3919cd18vd1vpnilvu0"] = {
 			["added"] = {

@@ -125,7 +125,7 @@ local diff = {
 			["name"] = "Flare Power/Speed Le/Ve",
 		},
 		["d3003pnilu3004cd8vd1vpnilvu0"] = {
-			["name"] = "Trim: Nose Down",
+			["name"] = "Trim Hat - NOSE DOWN",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_U",
@@ -141,7 +141,7 @@ local diff = {
 			["name"] = "Landing Light Extend",
 		},
 		["d3005pnilu3006cd8vd1vpnilvu0"] = {
-			["name"] = "Trim: Nose Up",
+			["name"] = "Trim Hat - NOSE UP",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_D",
@@ -165,7 +165,7 @@ local diff = {
 			["name"] = "Flare Dispenser Button Cover Toggle",
 		},
 		["d3009pnilu3010cd8vd1vpnilvu0"] = {
-			["name"] = "Trim: Left Wing Down",
+			["name"] = "Trim Hat - ROLL LEFT",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_L",
@@ -189,7 +189,7 @@ local diff = {
 			["name"] = "SA342 Left Arm On/Off",
 		},
 		["d3011pnilu3012cd8vd1vpnilvu0"] = {
-			["name"] = "Trim: Right Wing Down",
+			["name"] = "Trim Hat - ROLL RIGHT",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_R",

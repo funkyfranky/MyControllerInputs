@@ -76,21 +76,13 @@ local diff = {
 			},
 			["name"] = "Kneeboard ON/OFF",
 		},
-		["d3001pnilu3001cd21vd1vpnilvu1"] = {
+		["d3001pnilu3001cd21vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "Doppler Mode Land/Sea (toggle)",
-		},
-		["d3001pnilunilcd100vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
-				},
-			},
-			["name"] = "Kneeboard Next Page",
+			["name"] = "Doppler Mode Land (hold)",
 		},
 		["d3001pnilunilcd26vd1vpnilvunil"] = {
 			["added"] = {
@@ -108,29 +100,21 @@ local diff = {
 			},
 			["name"] = "Fast countermeasure dispense",
 		},
-		["d3002pnilu3003cd23vd1vpnilvu1"] = {
+		["d3002pnilu3002cd23vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "A0 Mode (Three position switch)",
+			["name"] = "A2 Mode (Three position switch)",
 		},
-		["d3002pnilunilcd100vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
-				},
-			},
-			["name"] = "Kneeboard Previous Page",
-		},
-		["d3004pnilu3003cd23vd1vpnilvu1"] = {
+		["d3002pnilu3002cd23vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "A2 Mode (Three position switch)",
+			["name"] = "A0 Mode (Three position switch)",
 		},
 		["d3011pnilunilcd30vd1vpnilvunil"] = {
 			["added"] = {
@@ -138,7 +122,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "FR24 Push-to-talk",
+			["name"] = "FR22 Push-to-talk",
 		},
 		["d3011pnilunilcd31vd1vpnilvunil"] = {
 			["added"] = {
@@ -146,23 +130,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "FR22 Push-to-talk",
-		},
-		["d3200pnilu3200cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "HÖJD CISI LD/RHM (toggle)",
-		},
-		["d3201pnilu3201cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Slav SI Switch F/T (toggle)",
+			["name"] = "FR24 Push-to-talk",
 		},
 		["d3209pnilu3209cd5vd1vpnilvu0"] = {
 			["added"] = {
@@ -172,7 +140,7 @@ local diff = {
 			},
 			["name"] = "Radar Gain Log/Lin",
 		},
-		["d3212pnilunilcd5vd1vpnilvunil"] = {
+		["d3212pnilu3212cd5vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN12",
@@ -180,13 +148,13 @@ local diff = {
 			},
 			["name"] = "Memory mode",
 		},
-		["d3213pnilunilcd5vd1vpnilvunil"] = {
+		["d3213pnilu3213cd5vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Obstacle detection mode",
+			["name"] = "Radar Terrain Avoidance Mode",
 		},
 		["d3328pnilu3328cd5vd0vpnilvu1"] = {
 			["added"] = {
@@ -258,7 +226,7 @@ local diff = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Countermeasure Dispense - Press: Kont Release: Off",
+			["name"] = "Countermeasure Dispense - Press: Off Release: Int",
 		},
 		["d3800pnilu3800cd28vd1vpnilvu0"] = {
 			["added"] = {
@@ -266,7 +234,7 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Countermeasure Dispense - Press: Int Release: Off",
+			["name"] = "Countermeasure Dispense - Press: Kont Release: Int",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -299,14 +267,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
-		},
-		["dnilp3004u3005cd18vdnilvp1vu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "High-pressure Fuel Valve Off/Idle",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

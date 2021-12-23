@@ -310,6 +310,28 @@ local diff = {
 				},
 			},
 		},
+		["d3041pnilunilcd13vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "A",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Exterior Lights Switch - OFF",
+		},
+		["d3041pnilunilcd13vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "D",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
+			["name"] = "Exterior Lights Switch - ON",
+		},
 		["d438pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

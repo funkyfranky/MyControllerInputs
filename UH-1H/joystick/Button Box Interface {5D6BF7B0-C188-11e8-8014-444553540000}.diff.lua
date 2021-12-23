@@ -398,28 +398,6 @@ local diff = {
 			},
 			["name"] = "ADF Frequency Increase",
 		},
-		["dnilp3009unilcd22vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio Volume Decrease",
-		},
-		["dnilp3009unilcd22vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio Volume Increase",
-		},
 		["dnilp3011unilcd21vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {

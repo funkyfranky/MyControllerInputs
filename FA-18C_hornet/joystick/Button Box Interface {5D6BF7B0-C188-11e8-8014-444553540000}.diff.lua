@@ -193,22 +193,6 @@ local diff = {
 			},
 			["name"] = "ALR-67 BIT Pushbutton",
 		},
-		["d3012pnilunilcd11vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "Bleed Air Knob - CCW",
-		},
-		["d3012pnilunilcd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "Bleed Air Knob - CW",
-		},
 		["d3014pnilunilcd53vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -272,38 +256,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
-		},
-		["dnilp3013unilcd2vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "RUD TRIM Control - CCW/Left",
-		},
-		["dnilp3013unilcd2vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "RUD TRIM Control - CW/Right",
-		},
-		["dnilp3014unilcd34vdnilvp-0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Black Level Control Knob - CCW/Decrease",
-		},
-		["dnilp3014unilcd34vdnilvp0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Black Level Control Knob - CW/Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

@@ -52,14 +52,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd10vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "OBOGS Control Switch (special) - ON/OFF",
-		},
 		["d3002pnilu3002cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -76,14 +68,6 @@ local diff = {
 			},
 			["name"] = "SAI Cage Knob - PULL",
 		},
-		["d3003pnilu3003cd34vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "HUD Symbology Brightness Selector Knob DAY/NIGHT",
-		},
 		["d3004pnilu3004cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -92,30 +76,6 @@ local diff = {
 			},
 			["name"] = "FCS BIT Switch",
 		},
-		["d3004pnilu3004cd8vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "LDG/TAXI LIGHT Switch ON/OFF",
-		},
-		["d3005pnilu3005cd34vd0.2vpnilvu0.1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "HUD Video Control Switch - W/B /VID",
-		},
-		["d3005pnilu3005cd34vd0vpnilvu0.1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "HUD Video Control Switch - OFF/VID",
-		},
 		["d3008pnilu3008cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -123,14 +83,6 @@ local diff = {
 				},
 			},
 			["name"] = "AV COOL Switch - EMERG/NORM",
-		},
-		["d3008pnilu3008cd34vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Altitude Switch BARO/RDR",
 		},
 		["d3009pnilu3009cd11vd-1vpnilvu0"] = {
 			["added"] = {
@@ -166,22 +118,6 @@ local diff = {
 				},
 			},
 			["name"] = "Spin Recovery Switch (special) - RCVY/NORM",
-		},
-		["d3009pnilu3009cd34vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Attitude Selector Switch - STBY/AUTO",
-		},
-		["d3009pnilu3009cd34vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Attitude Selector Switch - INS/AUTO",
 		},
 		["d3010pnilu3010cd23vd1vpnilvu0"] = {
 			["added"] = {

@@ -82,6 +82,70 @@ local diff = {
 			},
 			["name"] = "Autopilot On",
 		},
+		["d3045pnilunilcd20vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Throttle Mode MAN",
+		},
+		["d3045pnilunilcd20vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Throttle Mode BOOST",
+		},
+		["d3045pnilunilcd20vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "Throttle Mode AUTO",
+		},
+		["d3047pnilunilcd20vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "Throttle Temp -1",
+		},
+		["d3047pnilunilcd20vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Throttle Temp 0",
+		},
+		["d3047pnilunilcd20vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Throttle Temp 1",
+		},
+		["d3050pnilunilcd20vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "Engine Airstart 0",
+		},
+		["d3050pnilunilcd20vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "Engine Airstart 1",
+		},
 		["d3051pnilunilcd20vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

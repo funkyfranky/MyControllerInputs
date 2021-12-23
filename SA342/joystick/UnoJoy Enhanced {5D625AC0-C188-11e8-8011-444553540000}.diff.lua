@@ -133,7 +133,7 @@ local diff = {
 	},
 	["keyDiffs"] = {
 		["d3003pnilu3004cd8vd1vpnilvu0"] = {
-			["name"] = "Trim: Nose Down",
+			["name"] = "Trim Hat - NOSE DOWN",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_U",
@@ -141,7 +141,7 @@ local diff = {
 			},
 		},
 		["d3005pnilu3006cd8vd1vpnilvu0"] = {
-			["name"] = "Trim: Nose Up",
+			["name"] = "Trim Hat - NOSE UP",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_D",
@@ -149,7 +149,7 @@ local diff = {
 			},
 		},
 		["d3009pnilu3010cd8vd1vpnilvu0"] = {
-			["name"] = "Trim: Left Wing Down",
+			["name"] = "Trim Hat - ROLL LEFT",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_L",
@@ -165,7 +165,7 @@ local diff = {
 			["name"] = "SA342 Yaw On",
 		},
 		["d3011pnilu3012cd8vd1vpnilvu0"] = {
-			["name"] = "Trim: Right Wing Down",
+			["name"] = "Trim Hat - ROLL RIGHT",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN_POV1_R",
@@ -187,6 +187,14 @@ local diff = {
 				},
 			},
 			["name"] = "SA342 Pitch On",
+		},
+		["d3021pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Battery On/Off",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Gun or Rockets",

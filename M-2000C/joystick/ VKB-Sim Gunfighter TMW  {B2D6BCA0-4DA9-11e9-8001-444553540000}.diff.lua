@@ -1,33 +1,5 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["changed"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-							[2] = 0.04,
-							[3] = 0.08,
-							[4] = 0.12,
-							[5] = 0.16,
-							[6] = 0.21,
-							[7] = 0.29,
-							[8] = 0.43,
-							[9] = 0.6,
-							[10] = 0.8,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Pitch",
-		},
 		["a2003cdnil"] = {
 			["name"] = "Rudder",
 			["removed"] = {
@@ -85,6 +57,14 @@ local diff = {
 				},
 			},
 			["name"] = "Autopilot Standby Mode",
+		},
+		["d564pnilu563cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Nosewheel Steering/IFF Interrogate",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -169,7 +149,7 @@ local diff = {
 		["dnilp95u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
 			["name"] = "Trim UP",
@@ -177,7 +157,7 @@ local diff = {
 		["dnilp96u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
 			["name"] = "Trim DOWN",

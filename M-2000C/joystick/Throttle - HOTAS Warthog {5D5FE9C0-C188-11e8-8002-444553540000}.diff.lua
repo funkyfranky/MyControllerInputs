@@ -66,14 +66,6 @@ local diff = {
 			},
 			["name"] = "Communication menu",
 		},
-		["d276pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Magic Slave/AG Designate/INS Position Update",
-		},
 		["d313pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -119,22 +111,6 @@ local diff = {
 				},
 			},
 			["name"] = "FBW Gain Cover CLOSED",
-		},
-		["d3462pnilu3462cd14vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Slats RETRACT, else AUTO",
-		},
-		["d3462pnilu3462cd14vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Slats EXTEND, else AUTO",
 		},
 		["d3463pnilu3463cd6vd1vpnilvu0"] = {
 			["added"] = {

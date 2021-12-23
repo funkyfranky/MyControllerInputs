@@ -1,61 +1,5 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["changed"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-							[2] = 0.04,
-							[3] = 0.08,
-							[4] = 0.12,
-							[5] = 0.16,
-							[6] = 0.21,
-							[7] = 0.28,
-							[8] = 0.42,
-							[9] = 0.6,
-							[10] = 0.8,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Pitch",
-		},
-		["a2002cdnil"] = {
-			["changed"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-							[2] = 0.04,
-							[3] = 0.08,
-							[4] = 0.12,
-							[5] = 0.16,
-							[6] = 0.21,
-							[7] = 0.28,
-							[8] = 0.42,
-							[9] = 0.6,
-							[10] = 0.8,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Roll",
-		},
 		["a2003cdnil"] = {
 			["name"] = "Rudder",
 			["removed"] = {
@@ -170,15 +114,7 @@ local diff = {
 			},
 			["name"] = "Rb05 stick pitch up",
 		},
-		["d3323pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Radar Range Increase",
-		},
-		["d3324pnilunilcd5vd1vpnilvunil"] = {
+		["d3323pnilu3323cd5vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
@@ -186,13 +122,21 @@ local diff = {
 			},
 			["name"] = "Radar Range Decrease",
 		},
+		["d3323pnilu3323cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Radar Range Increase",
+		},
 		["d3401pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "HUD shift to lower position",
+			["name"] = "HUD Position LOW/HIGH (toggle)",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["added"] = {

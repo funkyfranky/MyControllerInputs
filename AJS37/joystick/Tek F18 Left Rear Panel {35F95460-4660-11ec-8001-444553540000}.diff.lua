@@ -32,13 +32,21 @@ local diff = {
 				},
 			},
 		},
-		["a3006cd24"] = {
+		["a3007cd24"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Master Volume / Sidewinder Tone",
+		},
+		["a3113cd30"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "Master Volume / Sidewinder Tone",
+			["name"] = "Radio Volume",
 		},
 	},
 	["keyDiffs"] = {
@@ -90,14 +98,6 @@ local diff = {
 			},
 			["name"] = "Low Pressure Fuel Valve- ON",
 		},
-		["d3002pnilunilcd19vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN42",
-				},
-			},
-			["name"] = "Generator - OFF",
-		},
 		["d3002pnilunilcd19vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -130,6 +130,22 @@ local diff = {
 			},
 			["name"] = "TILS rotary clockwise",
 		},
+		["d3511pnilu3511cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "TILS Channel Layer Selection 1-10/11-20 (hold - 11-20)",
+		},
+		["d3740pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN58",
+				},
+			},
+			["name"] = "Autopilot Yaw Trim Cover (toggle)",
+		},
 		["d3925pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -145,6 +161,22 @@ local diff = {
 				},
 			},
 			["name"] = "Data Cartridge Insert",
+		},
+		["dnilp3712unilcd22vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "Autopilot yaw trim Left",
+		},
+		["dnilp3712unilcd22vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "Autopilot yaw trim Right",
 		},
 	},
 }
