@@ -26,30 +26,8 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3035pnilunilcd2vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Input.Generic.uc_0",
-		},
-		["d3035pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Input.Generic.uc_1",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.P47.trigger_b2",
+			["name"] = "Weapon release",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -57,7 +35,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.P47.trigger_a",
+			["name"] = "Fire Machineguns",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
@@ -102,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "Input.Generic.altimeter_minus",
+			["name"] = "Altimeter Set Pressure DECREASE",
 		},
 		["dnilp3011unilcd2vdnilvp1vunil"] = {
 			["added"] = {
@@ -110,7 +88,7 @@ local diff = {
 					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "Input.Generic.altimeter_plus",
+			["name"] = "Altimeter Set Pressure INCREASE",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

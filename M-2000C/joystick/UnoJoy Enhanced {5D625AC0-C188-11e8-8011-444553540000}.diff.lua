@@ -34,6 +34,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3279pnilu3279cd32vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "530D/Rockets/Guns TOT/PAR Firing Mode Toggle",
+		},
 		["d3520pnilu3520cd8vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

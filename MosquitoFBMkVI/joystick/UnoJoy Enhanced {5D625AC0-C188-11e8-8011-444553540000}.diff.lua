@@ -68,42 +68,6 @@ local diff = {
 			},
 			["name"] = "Emergency Lighting, intensity - axis",
 		},
-		["a3017cd4"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Left Instrument Light - axis",
-		},
-		["a3055cd4"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Right Instrument Light - axis",
-		},
 		["a3103cd4"] = {
 			["added"] = {
 				[1] = {
@@ -132,21 +96,13 @@ local diff = {
 			},
 			["name"] = "Electric Power Master Switch ON/OFF",
 		},
-		["d3046pnilunilcd3vd1vpnilvunil"] = {
+		["d3062pnilu3062cd4vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Magneto № 1 - on/off",
-		},
-		["d3048pnilunilcd3vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Magneto № 2 - on/off",
+			["name"] = "Radiator Flaps Switch Left ON/OFF",
 		},
 		["d3062pnilunilcd4vd0vpnilvunil"] = {
 			["added"] = {
@@ -163,6 +119,14 @@ local diff = {
 				},
 			},
 			["name"] = "Engine water cooling flaps, left - open",
+		},
+		["d3064pnilu3064cd4vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Radiator Flaps Switch Right ON/OFF",
 		},
 		["d3064pnilunilcd4vd0vpnilvunil"] = {
 			["added"] = {
@@ -243,6 +207,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
+		},
+		["dnilp484u490cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Cockpit Camera Move Up",
+		},
+		["dnilp485u490cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Cockpit Camera Move Down",
 		},
 	},
 }

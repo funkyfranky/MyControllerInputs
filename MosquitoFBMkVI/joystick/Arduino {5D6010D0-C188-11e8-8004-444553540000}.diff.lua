@@ -24,44 +24,40 @@ local diff = {
 				},
 			},
 		},
-		["a3014cd4"] = {
+		["a3005cd30"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "Compass flood light, intensity - axis",
+			["name"] = "A1271, beam approach volume - axis",
 		},
-		["a3035cd4"] = {
+		["a3019cd24"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RZ",
+					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "Windscreen wiper speed rheostat - axis",
+			["name"] = "SCR522, volume - axis",
+		},
+		["a3070cd25"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "R1155, volume - axis",
 		},
 	},
 	["keyDiffs"] = {
+		["d3002pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "T1154, low voltage - on/off",
+		},
 		["d3004pnilu3004cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -69,6 +65,14 @@ local diff = {
 				},
 			},
 			["name"] = "Gear Lever UP/NEUTRAL",
+		},
+		["d3004pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "T1154, high voltage - on/off",
 		},
 		["d3005pnilu3004cd17vd1vpnilvu0"] = {
 			["added"] = {

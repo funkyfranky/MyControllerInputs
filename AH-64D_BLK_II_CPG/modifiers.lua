@@ -1,19 +1,4 @@
 local modifiers = {
-	["JOY_BTN1"] = {
-		["device"] = "Arcaze {A3248170-9497-11e6-8001-444553540000}",
-		["key"] = "JOY_BTN1",
-		["switch"] = true,
-	},
-	["JOY_BTN2"] = {
-		["device"] = "Arcaze {A3248170-9497-11e6-8001-444553540000}",
-		["key"] = "JOY_BTN2",
-		["switch"] = true,
-	},
-	["JOY_BTN3"] = {
-		["device"] = "Arcaze {A3248170-9497-11e6-8001-444553540000}",
-		["key"] = "JOY_BTN3",
-		["switch"] = true,
-	},
 	["LAlt"] = {
 		["device"] = "Keyboard",
 		["key"] = "LAlt",
@@ -34,15 +19,15 @@ local modifiers = {
 		["key"] = "LWin",
 		["switch"] = false,
 	},
-	["Pinky Backward"] = {
-		["device"] = "Throttle - HOTAS Warthog {F1154630-8D67-11e6-8001-444553540000}",
-		["key"] = "JOY_BTN14",
-		["switch"] = false,
+	["Mail"] = {
+		["device"] = "Keyboard",
+		["key"] = "Mail",
+		["switch"] = true,
 	},
-	["Pnky Forward"] = {
-		["device"] = "Throttle - HOTAS Warthog {F1154630-8D67-11e6-8001-444553540000}",
-		["key"] = "JOY_BTN13",
-		["switch"] = false,
+	["MediaSelect"] = {
+		["device"] = "Keyboard",
+		["key"] = "MediaSelect",
+		["switch"] = true,
 	},
 	["RAlt"] = {
 		["device"] = "Keyboard",
@@ -63,6 +48,11 @@ local modifiers = {
 		["device"] = "Keyboard",
 		["key"] = "RWin",
 		["switch"] = false,
+	},
+	["WebHome"] = {
+		["device"] = "Keyboard",
+		["key"] = "WebHome",
+		["switch"] = true,
 	},
 }
 return modifiers

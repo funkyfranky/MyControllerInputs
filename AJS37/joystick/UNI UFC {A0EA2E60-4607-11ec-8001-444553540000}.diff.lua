@@ -242,14 +242,6 @@ local diff = {
 			},
 			["name"] = "Data panel RENSA cover OPEN/CLOSE",
 		},
-		["d3201pnilu3201cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN55",
-				},
-			},
-			["name"] = "Slav SI Switch F/T (hold- T)",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {

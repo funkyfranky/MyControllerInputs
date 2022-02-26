@@ -24,14 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd4"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "LH Dashboard Lamp Brightness (analog)",
-		},
 		["a3005cd2"] = {
 			["name"] = "Throttle (analog)",
 			["removed"] = {
@@ -39,48 +31,6 @@ local diff = {
 					["key"] = "JOY_Z",
 				},
 			},
-		},
-		["a3006cd4"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "RH Dashboard Lamp Brightness (analog)",
-		},
-		["a3009cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Gun Sight Range (analog)",
-		},
-		["a3012cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Gun Sight Base (analog)",
-		},
-		["a3019cd1"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Compass Course (analog)",
 		},
 	},
 	["keyDiffs"] = {
@@ -114,7 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Starter Button Cover (toggle)",
+			["name"] = "Starter, button cover - open/close",
 		},
 		["d3023pnilu3023cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -122,7 +72,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Starter",
+			["name"] = "Starter, button - press",
 		},
 		["d3026pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
@@ -130,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Booster Coil Button Cover (toggle)",
+			["name"] = "Booster coil, button cover - open/close",
 		},
 		["d3027pnilu3027cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -138,7 +88,7 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "Booster Coil",
+			["name"] = "Booster сoil, button - press",
 		},
 		["d3041pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {

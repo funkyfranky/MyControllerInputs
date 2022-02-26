@@ -226,6 +226,102 @@ local diff = {
 			},
 			["name"] = "UFC EMCON Toggle Button",
 		},
+		["d3424pnilunilcd16vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "DMT Switch OFF",
+		},
+		["d3424pnilunilcd16vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "DMT Switch ON",
+		},
+		["d3429pnilunilcd14vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "FLIR Power Switch OFF",
+		},
+		["d3429pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "FLIR Power Switch ON",
+		},
+		["dnilp1459unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN63",
+				},
+			},
+			["name"] = "UHF Radio 1 Volume Decrease",
+		},
+		["dnilp1460unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN62",
+				},
+			},
+			["name"] = "UHF Radio 1 Volume Increase",
+		},
+		["dnilp1481unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "UHF Radio 2 Volume Decrease",
+		},
+		["dnilp1482unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN64",
+				},
+			},
+			["name"] = "UHF Radio 2 Volume Increase",
+		},
+		["dnilp666u1004cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN66",
+				},
+			},
+			["name"] = "Left MPCD BRT Increase",
+		},
+		["dnilp667u1004cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN67",
+				},
+			},
+			["name"] = "Left MPCD BRT Decrease",
+		},
+		["dnilp696u1029cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN69",
+				},
+			},
+			["name"] = "Right MPCD BRT Increase",
+		},
+		["dnilp697u1029cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN68",
+				},
+			},
+			["name"] = "Right MPCD BRT Decrease",
+		},
 	},
 }
 return diff

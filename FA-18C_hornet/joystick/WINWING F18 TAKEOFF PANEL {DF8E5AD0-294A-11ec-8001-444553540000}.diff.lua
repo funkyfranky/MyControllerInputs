@@ -122,22 +122,6 @@ local diff = {
 			},
 			["name"] = "Emergency/Parking Brake Handle - CW",
 		},
-		["d3008pnilu3008cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Launch Bar Control Switch - EXTEND/RETRACT",
-		},
-		["d3009pnilu3009cd9vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "HOOK BYPASS Switch - FIELD/CARRIER",
-		},
 		["d3009pnilunilcd5vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -226,6 +210,22 @@ local diff = {
 			},
 			["name"] = "Wing Fold Control Handle - SPREAD",
 		},
+		["d3014pnilu3014cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Launch Bar Control Switch - EXTEND",
+		},
+		["d3014pnilunilcd5vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Launch Bar Control Switch - RETRACT",
+		},
 		["d3020pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -233,6 +233,22 @@ local diff = {
 				},
 			},
 			["name"] = "Wing Fold Control Handle - PULL/STOW",
+		},
+		["d3025pnilu3025cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "HOOK BYPASS Switch - FIELD",
+		},
+		["d3025pnilunilcd9vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "HOOK BYPASS Switch - CARRIER",
 		},
 		["d430pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

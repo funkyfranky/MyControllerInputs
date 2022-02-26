@@ -24,40 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a3008cd3"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Input.Generic.pitch_slider",
-		},
-		["a3012cd6"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "K-14 Target span",
-		},
-		["a3021cd6"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "K-14 Range to target",
-		},
 	},
 	["keyDiffs"] = {
 		["d3021pnilu3021cd3vd-1vpnilvu0"] = {
@@ -66,7 +32,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Input.P47.starter_kirk",
+			["name"] = "Starter ENERGIZE",
 		},
 		["d3021pnilu3021cd3vd1vpnilvu0"] = {
 			["added"] = {
@@ -74,15 +40,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Input.P47.starter_picard",
-		},
-		["d3033pnilu3032cd8vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Battery On/Off",
+			["name"] = "Starter ENGAGE",
 		},
 		["d3043pnilu3043cd3vd-1vpnilvu0"] = {
 			["added"] = {
@@ -90,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Input.P47.intrclr_minus",
+			["name"] = "Intercooler Shutter CLOSE",
 		},
 		["d3043pnilu3043cd3vd1vpnilvu0"] = {
 			["added"] = {
@@ -98,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Input.P47.intrclr_plus",
+			["name"] = "Intercooler Shutter OPEN",
 		},
 		["d3046pnilu3046cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -114,7 +72,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Input.P47.oilclr_minus",
+			["name"] = "Oil Cooler Shutter CLOSE",
 		},
 		["d3046pnilu3046cd3vd1vpnilvu0"] = {
 			["added"] = {
@@ -122,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "Input.P47.oilclr_plus",
+			["name"] = "Oil Cooler Shutter OPEN",
 		},
 		["d3049pnilu3049cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -133,7 +91,7 @@ local diff = {
 			["name"] = "Cockpit Ventilation On/Off",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.P47.trigger_b2",
+			["name"] = "Weapon release",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -141,7 +99,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.P47.trigger_a",
+			["name"] = "Fire Machineguns",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",

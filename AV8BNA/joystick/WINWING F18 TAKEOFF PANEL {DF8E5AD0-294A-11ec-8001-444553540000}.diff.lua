@@ -24,21 +24,21 @@ local diff = {
 				},
 			},
 		},
-		["a2012cdnil"] = {
+		["a2006cdnil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "Zoom View",
+			["name"] = "Nozzle STO Stop",
 		},
-		["a3289cd22"] = {
+		["a2012cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_SLIDER2",
+					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "HUD BRT CONTROL",
+			["name"] = "Zoom View",
 		},
 	},
 	["keyDiffs"] = {
@@ -141,7 +141,7 @@ local diff = {
 		["d3459pnilunilcd28vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "Anti-skid ON",
@@ -149,7 +149,7 @@ local diff = {
 		["d3459pnilunilcd28vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN21",
 				},
 			},
 			["name"] = "Anti-skid NWS",
@@ -165,7 +165,7 @@ local diff = {
 		["d3477pnilu3477cd28vd1vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "AFC Switch ON/OFF",
@@ -173,7 +173,7 @@ local diff = {
 		["d3489pnilunilcd28vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN29",
+					["key"] = "JOY_BTN31",
 				},
 			},
 			["name"] = "Parking Brake ON",
@@ -181,7 +181,7 @@ local diff = {
 		["d3489pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN31",
+					["key"] = "JOY_BTN29",
 				},
 			},
 			["name"] = "Parking Brake OFF",

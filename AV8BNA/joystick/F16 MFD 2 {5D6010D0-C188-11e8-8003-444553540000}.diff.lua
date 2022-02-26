@@ -1,5 +1,21 @@
 local diff = {
 	["keyDiffs"] = {
+		["d3011pnilu3011cd27vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Right MPCD SYM Increase",
+		},
+		["d3012pnilu3012cd27vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Right MPCD SYM Decrease",
+		},
 		["d3013pnilu3013cd27vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -207,22 +223,6 @@ local diff = {
 				},
 			},
 			["name"] = "Right MPCD OSB 20",
-		},
-		["dnilp696u1029cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Right MPCD BRT Increase",
-		},
-		["dnilp697u1029cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Right MPCD BRT Decrease",
 		},
 	},
 }

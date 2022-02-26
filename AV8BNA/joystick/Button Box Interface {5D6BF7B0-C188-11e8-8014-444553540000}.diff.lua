@@ -184,21 +184,10 @@ local diff = {
 			},
 			["name"] = "Test Lights ON/OFF",
 		},
-		["d438pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Helmet Visor/NVG Toggle",
-		},
 		["d58pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "RShift",
-					},
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Stability Augmentation - Yaw",
@@ -206,10 +195,7 @@ local diff = {
 		["d60pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
-					["reformers"] = {
-						[1] = "RShift",
-					},
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "Stability Augmentation - Pitch",
@@ -218,9 +204,6 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "RShift",
-					},
 				},
 			},
 			["name"] = "Stability Augmentation - Roll",
@@ -229,20 +212,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN9",
-					["reformers"] = {
-						[1] = "RShift",
-					},
 				},
 			},
 			["name"] = "Q Feel On/Off Toggle",
-		},
-		["d71pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Canopy Open/Close",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -307,38 +279,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-		},
-		["dnilp539u543cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "TDC Forward",
-		},
-		["dnilp540u543cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "TDC Aft",
-		},
-		["dnilp541u543cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "TDC Left",
-		},
-		["dnilp542u543cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "TDC Right",
 		},
 	},
 }

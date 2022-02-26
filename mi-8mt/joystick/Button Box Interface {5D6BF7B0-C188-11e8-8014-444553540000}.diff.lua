@@ -43,7 +43,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Start APU Button",
+			["name"] = "APU Start Button - HOLD",
 		},
 		["d3010pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -107,6 +107,14 @@ local diff = {
 				},
 			},
 			["name"] = "Group 4 CB switcher",
+		},
+		["d3025pnilu3025cd36vd1vpnilvu0"] = {
+			["name"] = "Radio trigger - RADIO",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
 		},
 		["d3025pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
@@ -194,7 +202,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Start-up Engine Button",
+			["name"] = "Engine Start Button - HOLD",
 		},
 		["d598pnilu804cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -206,7 +214,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Stop APU Button",
+			["name"] = "APU Stop Button",
 		},
 		["d605pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -217,7 +225,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Rotor Brake Handle - UP/DOWN",
+			["name"] = "Main Rotor Brake Lever - UP/DOWN",
 		},
 		["d743pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -226,6 +234,14 @@ local diff = {
 				},
 			},
 			["name"] = "Right Engine EEC Switch - ON/OFF",
+		},
+		["d84pnilu84cdnilvd1vpnilvu0"] = {
+			["name"] = "Release weapons",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
 		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
 			["name"] = "View Center",

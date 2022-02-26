@@ -160,7 +160,7 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Radar Scan 2-LINE",
+			["name"] = "Radar Scan Line 2",
 		},
 		["d3502pnilunilcd11vd0vpnilvunil"] = {
 			["added"] = {
@@ -168,7 +168,7 @@ local diff = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Radar Scan 4-LINE",
+			["name"] = "Radar Scan Line 4",
 		},
 		["d3502pnilunilcd11vd1vpnilvunil"] = {
 			["added"] = {
@@ -176,7 +176,7 @@ local diff = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Radar Scan 1-LINE",
+			["name"] = "Radar Scan Line 1",
 		},
 		["d3506pnilunilcd11vd0.5vpnilvunil"] = {
 			["added"] = {
@@ -184,7 +184,7 @@ local diff = {
 					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "Radar Azimuth MIDDLE",
+			["name"] = "Radar Azimuth 30",
 		},
 		["d3506pnilunilcd11vd0vpnilvunil"] = {
 			["added"] = {
@@ -192,7 +192,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Radar Azimuth WIDE",
+			["name"] = "Radar Azimuth 60",
 		},
 		["d3506pnilunilcd11vd1vpnilvunil"] = {
 			["added"] = {
@@ -200,7 +200,7 @@ local diff = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Radar Azimuth NARROW",
+			["name"] = "Radar Azimuth 15",
 		},
 	},
 }

@@ -42,6 +42,30 @@ local diff = {
 				},
 			},
 		},
+		["d3005pnilunilcd22vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "UHF Radio Freq. Mode MAN",
+		},
+		["d3005pnilunilcd22vd0.2vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "UHF Radio Freq. Mode GD XMIT",
+		},
+		["d3005pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "UHF Radio Freq. Mode PRESET",
+		},
 		["d3008pnilunilcd21vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -83,12 +107,20 @@ local diff = {
 			["name"] = "Intercom Mode PVT",
 		},
 		["d3009pnilu3009cd21vd1vpnilvu0"] = {
-			["name"] = "Pilot's radio trigger RADIO",
+			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["d3016pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "UHF Radio Mode Select(rotary)",
 		},
 		["d3028pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
@@ -96,7 +128,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "AutoPilot ATTITUDE HOLD",
+			["name"] = "Autopilot ATTITUDE HOLD",
 		},
 		["d3029pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
@@ -104,7 +136,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "AutoPilot LEVEL FLIGHT",
+			["name"] = "Autopilot LEVEL FLIGHT",
 		},
 		["d3030pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
@@ -112,7 +144,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "AutoPilot ORBIT",
+			["name"] = "Autopilot ORBIT",
 		},
 		["d84pnilu84cdnilvd1vpnilvu0"] = {
 			["name"] = "Pilot weapon release/Machinegun fire",

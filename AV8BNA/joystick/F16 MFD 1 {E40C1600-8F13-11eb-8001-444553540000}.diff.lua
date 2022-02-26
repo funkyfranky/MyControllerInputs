@@ -1,5 +1,21 @@
 local diff = {
 	["keyDiffs"] = {
+		["d3001pnilu3001cd26vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Left MPCD SYM Increase",
+		},
+		["d3002pnilu3002cd26vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Left MPCD SYM Decrease",
+		},
 		["d3003pnilu3003cd26vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -39,6 +55,14 @@ local diff = {
 				},
 			},
 			["name"] = "Left MPCD Day Mode",
+		},
+		["d3008pnilu3008cd26vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Left MPCD Night Mode",
 		},
 		["d3200pnilu3200cd26vd1vpnilvu0"] = {
 			["added"] = {
@@ -199,30 +223,6 @@ local diff = {
 				},
 			},
 			["name"] = "Left MPCD OSB 20",
-		},
-		["d3290pnilu3290cd22vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "HUD Mode Selector NIGHT/AUTO",
-		},
-		["dnilp666u1004cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Left MPCD BRT Increase",
-		},
-		["dnilp667u1004cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Left MPCD BRT Decrease",
 		},
 	},
 }

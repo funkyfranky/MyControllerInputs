@@ -42,6 +42,30 @@ local diff = {
 			},
 			["name"] = "TACAN CH XY Switch",
 		},
+		["d3266pnilu3266cd32vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "MIS PREP: Super 530D Standby Toggle",
+		},
+		["d3269pnilu3269cd32vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "AUTO/MAN Toggle",
+		},
+		["d3272pnilu3272cd32vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "MAG PREP: MAGIC II Standby Toggle",
+		},
 		["d3276pnilu3276cd6vd0vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {

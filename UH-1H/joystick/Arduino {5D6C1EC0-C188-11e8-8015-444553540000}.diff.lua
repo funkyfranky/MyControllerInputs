@@ -75,34 +75,12 @@ local diff = {
 			["name"] = "VOR/ILS Freq. kHz Increase",
 		},
 		["d3009pnilu3009cd21vd1vpnilvu0"] = {
-			["name"] = "Pilot's radio trigger RADIO",
+			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["d3011pnilunilcd22vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Preset Channel Decrease",
-		},
-		["d3011pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Preset Channel Increase",
 		},
 		["d84pnilu84cdnilvd1vpnilvu0"] = {
 			["name"] = "Pilot weapon release/Machinegun fire",

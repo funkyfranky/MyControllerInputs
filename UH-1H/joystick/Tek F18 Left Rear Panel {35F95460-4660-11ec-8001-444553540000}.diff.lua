@@ -82,6 +82,54 @@ local diff = {
 				},
 			},
 		},
+		["d3008pnilu3008cd9vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Armament Selector OFF/SAFE",
+		},
+		["d3008pnilu3008cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Armament Selector ARMED/SAFE",
+		},
+		["d3009pnilu3009cd21vd1vpnilvu0"] = {
+			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
+		["d3009pnilu3009cd9vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Gun Selector LEFT/ALL",
+		},
+		["d3009pnilu3009cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Gun Selector RIGHT/ALL",
+		},
+		["d3021pnilu3021cd9vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Armament Selector Up/Down",
+		},
 		["d3022pnilunilcd9vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -97,6 +145,14 @@ local diff = {
 				},
 			},
 			["name"] = "Rocket Pair Increase",
+		},
+		["d84pnilu84cdnilvd1vpnilvu0"] = {
+			["name"] = "Pilot weapon release/Machinegun fire",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
 		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
 			["name"] = "Center View",

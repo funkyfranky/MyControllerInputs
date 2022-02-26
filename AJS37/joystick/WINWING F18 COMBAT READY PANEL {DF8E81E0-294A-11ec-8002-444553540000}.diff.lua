@@ -1,12 +1,12 @@
 local diff = {
 	["keyDiffs"] = {
-		["d3000pnilu3000cd18vd1vpnilvu0"] = {
+		["d3001pnilunilcd26vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN37",
 				},
 			},
-			["name"] = "Missile Select Button (IR-RB FRAMSTEGN) Depress/Release",
+			["name"] = "Master caution reset",
 		},
 		["d3011pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
@@ -144,29 +144,13 @@ local diff = {
 			},
 			["name"] = "Mode select - LANDPO",
 		},
-		["d3301pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "SAS mode SPAK flight stabiliser",
-		},
 		["d3302pnilu3302cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN48",
+					["key"] = "JOY_BTN49",
 				},
 			},
 			["name"] = "Weapon Emergency Release Cover Open/Close",
-		},
-		["d3302pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Autopilot mode ATT (Attitude hold)",
 		},
 		["d3303pnilu3303cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -176,18 +160,10 @@ local diff = {
 			},
 			["name"] = "Weapon Emergency Release Button Depress/Release",
 		},
-		["d3303pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Autopilot mode HÖJD (Altitude Hold)",
-		},
 		["d3320pnilu3320cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN49",
+					["key"] = "JOY_BTN48",
 				},
 			},
 			["name"] = "Fuel Tank Jettison Button Depress/Release",
@@ -208,6 +184,22 @@ local diff = {
 				},
 			},
 		},
+		["d3711pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "Altimeter setting pull-out (toggle)",
+		},
+		["d3802pnilu3804cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Missile Select Button (IR-RB FRAMSTEGN) - Toggle",
+		},
 		["dnilp3305u3305cd22vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {
@@ -215,6 +207,22 @@ local diff = {
 				},
 			},
 			["name"] = "Roll centrering (Roll trim reset) ",
+		},
+		["dnilp3306unilcd22vdnilvp-0.05vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "Altimeter setting Medium - Down",
+		},
+		["dnilp3306unilcd22vdnilvp0.05vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "Altimeter setting Medium - Up",
 		},
 		["dnilp3404u3404cd22vdnilvp-1vu0"] = {
 			["added"] = {
@@ -235,7 +243,7 @@ local diff = {
 		["dnilp3721unilcd22vdnilvp-0.015vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN41",
+					["key"] = "JOY_BTN54",
 				},
 			},
 			["name"] = "Backup Altimeter Setting Down - Normal",
@@ -243,7 +251,7 @@ local diff = {
 		["dnilp3721unilcd22vdnilvp0.015vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN43",
+					["key"] = "JOY_BTN55",
 				},
 			},
 			["name"] = "Backup Altimeter Setting Up - Normal",

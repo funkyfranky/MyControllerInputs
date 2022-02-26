@@ -43,6 +43,16 @@ local diff = {
 		["a3113cd30"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_X",
 				},
 			},
@@ -98,13 +108,37 @@ local diff = {
 			},
 			["name"] = "Low Pressure Fuel Valve- ON",
 		},
+		["d3002pnilunilcd19vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "Generator - OFF",
+		},
 		["d3002pnilunilcd19vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN41",
+					["key"] = "JOY_BTN39",
 				},
 			},
 			["name"] = "Generator - ON",
+		},
+		["d3406pnilu3406cd22vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Canopy Open/Center",
+		},
+		["d3406pnilu3406cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "Canopy Close/Center",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -145,6 +179,30 @@ local diff = {
 				},
 			},
 			["name"] = "Autopilot Yaw Trim Cover (toggle)",
+		},
+		["d3800pnilu3804cd28vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "Countermeasure Dispense - Kont",
+		},
+		["d3800pnilu3804cd28vd0vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Countermeasure Dispense - Off",
+		},
+		["d3800pnilu3804cd28vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Countermeasure Dispense - Int",
 		},
 		["d3925pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {

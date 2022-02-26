@@ -42,13 +42,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd21vd0vpnilvu1"] = {
+		["d3001pnilunilcd7vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "Doppler Mode Land (hold)",
+			["name"] = "Reversal off",
+		},
+		["d3001pnilunilcd7vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Reversal on",
 		},
 		["d3005pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
@@ -117,18 +125,18 @@ local diff = {
 		["d3010pnilunilcd17vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Emergency lights switch - OFF",
 		},
-		["d3010pnilunilcd28vd1vpnilvunil"] = {
+		["d3010pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Countermeasure KB Stråk Mod 4",
+			["name"] = "Emergency lights switch - ON",
 		},
 		["d3028pnilu3028cd28vd0.2vpnilvu0.1"] = {
 			["added"] = {
@@ -146,22 +154,6 @@ local diff = {
 			},
 			["name"] = "Countermeasure Chaff/Flares Selector R/RF",
 		},
-		["d3209pnilu3209cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Radar Gain Log/Lin",
-		},
-		["d3214pnilunilcd5vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Passive radar mode",
-		},
 		["d3304pnilu3304cd18vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -170,13 +162,13 @@ local diff = {
 			},
 			["name"] = "Autopilot Autothrottle mode AFK (hold-On)",
 		},
-		["d3328pnilu3328cd5vd0vpnilvu1"] = {
+		["d3408pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN31",
 				},
 			},
-			["name"] = "Radar Pulse Normal/Short",
+			["name"] = "Parking brake",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",

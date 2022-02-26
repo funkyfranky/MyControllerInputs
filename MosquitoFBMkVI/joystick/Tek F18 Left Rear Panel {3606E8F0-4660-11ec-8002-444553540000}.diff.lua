@@ -24,6 +24,14 @@ local diff = {
 				},
 			},
 		},
+		["a3035cd4"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Windscreen wiper speed rheostat - axis",
+		},
 	},
 }
 return diff

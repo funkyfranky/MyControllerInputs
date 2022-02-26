@@ -66,6 +66,30 @@ local diff = {
 			},
 			["name"] = "Autopilot - Altitude Hold 1/0",
 		},
+		["d3039pnilunilcd22vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36",
+				},
+			},
+			["name"] = "Heading Hold GT",
+		},
+		["d3039pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "Heading Hold Off",
+		},
+		["d3039pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "Heading Hold On",
+		},
 		["d3040pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -201,14 +225,6 @@ local diff = {
 				},
 			},
 			["name"] = "Pilot Oxygen ON",
-		},
-		["d3744pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN38",
-				},
-			},
-			["name"] = "Autopilot Heading Toggle On",
 		},
 	},
 }

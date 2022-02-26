@@ -27,7 +27,7 @@ local diff = {
 	},
 	["keyDiffs"] = {
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.P47.trigger_b2",
+			["name"] = "Weapon release",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -35,7 +35,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.P47.trigger_a",
+			["name"] = "Fire Machineguns",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
@@ -80,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Input.Generic.di_minus",
+			["name"] = "Directional Gyro Course DECREASE",
 		},
 		["dnilp3054unilcd2vdnilvp1vunil"] = {
 			["added"] = {
@@ -88,7 +88,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Input.Generic.di_plus",
+			["name"] = "Directional Gyro Course INCREASE",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

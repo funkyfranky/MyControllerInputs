@@ -340,6 +340,14 @@ local diff = {
 			},
 			["name"] = "Police Light Toggle",
 		},
+		["d6041pnilunilcdnilvdnilvpnilvunil"] = {
+			["name"] = "STT/TWS Toggle",
+			["removed"] = {
+				[1] = {
+					["key"] = "Enter",
+				},
+			},
+		},
 		["dnilp193u194cdnilvdnilvpnilvunil"] = {
 			["name"] = "Aircraft Pitch DOWN",
 			["removed"] = {

@@ -16,6 +16,13 @@ local diff = {
 				[1] = {
 					["key"] = "Enter",
 				},
+				[2] = {
+					["key"] = "Enter",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
 			},
 			["name"] = "recenter VR Headset",
 		},

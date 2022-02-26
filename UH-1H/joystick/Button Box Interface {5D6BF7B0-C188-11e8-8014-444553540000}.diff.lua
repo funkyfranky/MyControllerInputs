@@ -89,34 +89,12 @@ local diff = {
 			["name"] = "Force Trim Switch",
 		},
 		["d3009pnilu3009cd21vd1vpnilvu0"] = {
-			["name"] = "Pilot's radio trigger RADIO",
+			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["d3009pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "VHF FM Radio 10MHz Decrease",
-		},
-		["d3009pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "VHF FM Radio 10MHz Increase",
 		},
 		["d3009pnilunilcd27vd1vpnilvunil"] = {
 			["added"] = {
@@ -126,28 +104,6 @@ local diff = {
 			},
 			["name"] = "ADF BFO Switch",
 		},
-		["d3010pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "VHF FM Radio 1MHz Decrease",
-		},
-		["d3010pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "VHF FM Radio 1MHz Increase",
-		},
 		["d3010pnilunilcd27vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -156,27 +112,21 @@ local diff = {
 			},
 			["name"] = "ADF Mode Select (rotary)",
 		},
-		["d3011pnilunilcd23vd-1vpnilvunil"] = {
+		["d3011pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN29",
 				},
 			},
-			["name"] = "VHF FM Radio 100kHz Decrease",
+			["name"] = "UHF Preset Channel Decrease",
 		},
-		["d3011pnilunilcd23vd1vpnilvunil"] = {
+		["d3011pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN30",
 				},
 			},
-			["name"] = "VHF FM Radio 100kHz Increase",
+			["name"] = "UHF Preset Channel Increase",
 		},
 		["d3011pnilunilcd27vd1vpnilvunil"] = {
 			["added"] = {
@@ -201,28 +151,6 @@ local diff = {
 				},
 			},
 			["name"] = "UHF Radio 10MHz Increase",
-		},
-		["d3012pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "VHF FM Radio 50kHz Decrease",
-		},
-		["d3012pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "VHF FM Radio 50kHz Increase",
 		},
 		["d3013pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {
@@ -264,6 +192,14 @@ local diff = {
 			},
 			["name"] = "Governor Auto/Emer On/Off",
 		},
+		["d3016pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "UHF Radio Mode Select(rotary)",
+		},
 		["d3017pnilunilcd3vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -271,14 +207,6 @@ local diff = {
 				},
 			},
 			["name"] = "De-Ice Switch",
-		},
-		["d3018pnilu3018cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Start-up engine",
 		},
 		["d3022pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -397,28 +325,6 @@ local diff = {
 				},
 			},
 			["name"] = "ADF Frequency Increase",
-		},
-		["dnilp3011unilcd21vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Intercom Volume Decrease",
-		},
-		["dnilp3011unilcd21vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Intercom Volume Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

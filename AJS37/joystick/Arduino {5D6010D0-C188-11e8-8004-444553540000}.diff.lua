@@ -42,6 +42,14 @@ local diff = {
 			},
 			["name"] = "IK (IFF) On/Off",
 		},
+		["d3002pnilu3002cd20vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Radar Altimeter Power On/Off (hold- on)",
+		},
 		["d3002pnilunilcd32vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -57,30 +65,6 @@ local diff = {
 				},
 			},
 			["name"] = "IK (IFF) Code Up",
-		},
-		["d3097pnilu3097cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "HÖJD CISI LD/RHM (hold- LD)",
-		},
-		["d3201pnilu3201cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Slav SI Switch F/T (hold- T)",
-		},
-		["d3301pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "SAS mode SPAK flight stabiliser",
 		},
 		["d3306pnilu3306cd2vd0vpnilvu1"] = {
 			["added"] = {
@@ -105,6 +89,22 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["d3720pnilu3720cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Backup ADI Cage Depress/Release",
+		},
+		["d3919pnilu3919cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "DME Selector On/Off",
 		},
 		["d3920pnilu3920cd18vd1vpnilvu0"] = {
 			["added"] = {

@@ -106,38 +106,6 @@ local diff = {
 			},
 			["name"] = "Air Refueling Probe Switch ON/OFF",
 		},
-		["d3511pnilu3511cd33vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Position Lights OFF/DIM",
-		},
-		["d3511pnilu3511cd33vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Position Lights BRT/DIM",
-		},
-		["d3512pnilu3512cd33vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Anti-Collision Lights ON/OFF",
-		},
-		["d3513pnilu3513cd33vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "External Auxiliary Lights Switch ON/OFF",
-		},
 		["d3515pnilu3515cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

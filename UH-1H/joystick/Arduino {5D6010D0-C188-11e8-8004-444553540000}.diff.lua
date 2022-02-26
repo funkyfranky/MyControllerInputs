@@ -32,38 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3005cd26"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Marker Beacon Volume Knob",
-		},
-		["a3012cd27"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "ADF Gain Knob",
-		},
-		["a3015cd23"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "VHF FM Radio Volume Knob",
-		},
-		["a3017cd22"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "UHF Radio Volume Knob",
-		},
 	},
 	["keyDiffs"] = {
 		["d1650pnilunilcdnilvdnilvpnilvunil"] = {
@@ -136,7 +104,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "VOR/ILS Mode Select (totary)",
+			["name"] = "VOR/ILS Mode Select (rotary)",
 		},
 		["d3009pnilu3009cd1vd1vpnilvu0"] = {
 			["added"] = {
@@ -147,7 +115,7 @@ local diff = {
 			["name"] = "Battery Switch On/Off",
 		},
 		["d3009pnilu3009cd21vd1vpnilvu0"] = {
-			["name"] = "Pilot's radio trigger RADIO",
+			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",

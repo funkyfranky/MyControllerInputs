@@ -325,6 +325,22 @@ local diff = {
 			},
 			["name"] = "INS Mode OFF",
 		},
+		["d3449pnilu3449cd9vd0vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "H2O Mode Switch LD/OFF",
+		},
+		["d3449pnilu3449cd9vd1vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "H2O Mode Switch TO/OFF",
+		},
 		["d3471pnilunilcd28vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -332,22 +348,6 @@ local diff = {
 				},
 			},
 			["name"] = "RPS/YAW Trim Switch ON",
-		},
-		["d3471pnilunilcd28vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "RPS/YAW Trim Switch OFF",
-		},
-		["d3471pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "RPS/YAW Shaker Switch TEST",
 		},
 		["dnilp764u769cdnilvdnilvpnilvunil"] = {
 			["added"] = {

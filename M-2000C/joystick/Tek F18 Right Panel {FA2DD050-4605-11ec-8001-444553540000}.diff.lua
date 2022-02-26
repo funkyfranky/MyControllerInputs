@@ -170,6 +170,22 @@ local diff = {
 			},
 			["name"] = "Fuel Emergency Cutoff Switch OFF",
 		},
+		["d3657pnilunilcd3vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Hydraulic Emergency Pump ON",
+		},
+		["d3657pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Hydraulic Emergency Pump OFF",
+		},
 		["d3658pnilu3658cd16vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {

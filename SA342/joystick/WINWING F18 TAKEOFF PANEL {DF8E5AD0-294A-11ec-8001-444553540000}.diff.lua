@@ -24,6 +24,14 @@ local diff = {
 				},
 			},
 		},
+		["a2087cdnil"] = {
+			["name"] = "Flight Control Collective",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
 	},
 	["keyDiffs"] = {
 		["d3002pnilu3003cd11vd1vpnilvu0"] = {

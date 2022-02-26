@@ -98,50 +98,6 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3306unilcd22vdnilvp-0.05vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Altimeter setting Medium - Down",
-		},
-		["dnilp3306unilcd22vdnilvp-0.33vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Altimeter setting Fast - Down",
-		},
-		["dnilp3306unilcd22vdnilvp0.05vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Altimeter setting Medium - Up",
-		},
-		["dnilp3306unilcd22vdnilvp0.33vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Altimeter setting Fast - Up",
-		},
 		["dnilp33u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Right slow",
 			["removed"] = {

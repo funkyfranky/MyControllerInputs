@@ -40,7 +40,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "ID Upward Lamp (next mode)",
+			["name"] = "ID Upward Lamp - next mode",
 		},
 		["d3010pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
@@ -48,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "ID Upward Lamp (prev. mode)",
+			["name"] = "ID Upward Lamp - prev. mode",
 		},
 		["d3012pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
@@ -56,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "ID Downward Lamp (next mode)",
+			["name"] = "ID Downward Lamp - next mode",
 		},
 		["d3014pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
@@ -64,7 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "ID Downward Lamp (prev. mode)",
+			["name"] = "ID Downward Lamp - prev. mode",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

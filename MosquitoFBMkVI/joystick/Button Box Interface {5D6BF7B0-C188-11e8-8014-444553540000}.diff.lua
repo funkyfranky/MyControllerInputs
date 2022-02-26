@@ -8,22 +8,6 @@ local diff = {
 			},
 			["name"] = "Gun Sight power - on/off",
 		},
-		["d3065pnilunilcd3vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Starter, button cover - open/close",
-		},
-		["d3066pnilu3066cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Starter, button - press",
-		},
 		["d3068pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

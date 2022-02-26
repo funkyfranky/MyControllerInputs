@@ -102,14 +102,6 @@ local diff = {
 			},
 			["name"] = "Start Button Safety Cover Open/Close",
 		},
-		["d516pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Police Light Toggle",
-		},
 		["d518pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -125,14 +117,6 @@ local diff = {
 				},
 			},
 			["name"] = "Formation Lights TOGGLE",
-		},
-		["d71pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Canopy Position CYCLE",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

@@ -32,6 +32,30 @@ local diff = {
 				},
 			},
 		},
+		["a3289cd22"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "HUD BRT CONTROL",
+		},
+		["a3291cd22"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "VIDEO BRT CONTROL",
+		},
+		["a3292cd22"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "VIDEO CONT CONTROL",
+		},
 	},
 	["keyDiffs"] = {
 		["d3288pnilunilcd22vd0.5vpnilvunil"] = {
@@ -45,7 +69,7 @@ local diff = {
 		["d3288pnilunilcd22vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "HUD Symbology Reject Switch NORM",
@@ -53,7 +77,7 @@ local diff = {
 		["d3288pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "HUD Symbology Reject Switch REJ 2",

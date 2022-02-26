@@ -24,6 +24,14 @@ local diff = {
 			},
 			["name"] = "TV Fix",
 		},
+		["d3090pnilu3090cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Reference button",
+		},
 		["d3300pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -39,6 +47,30 @@ local diff = {
 				},
 			},
 			["name"] = "Trigger safety bracket ARM",
+		},
+		["d3323pnilu3323cd5vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Radar Range Decrease",
+		},
+		["d3323pnilu3323cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Radar Range Increase",
+		},
+		["d3401pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "HUD Position LOW/HIGH (toggle)",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["added"] = {

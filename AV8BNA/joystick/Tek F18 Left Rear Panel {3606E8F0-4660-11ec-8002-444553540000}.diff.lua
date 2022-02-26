@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3510cd33"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Formation Lights Knob Axis",
+		},
 	},
 }
 return diff

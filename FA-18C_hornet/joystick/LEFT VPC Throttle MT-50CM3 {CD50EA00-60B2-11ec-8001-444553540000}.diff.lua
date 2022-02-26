@@ -79,6 +79,16 @@ local diff = {
 		["a3043cd13"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = -0.15,
+						},
+						["deadzone"] = 0.05,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Y",
 				},
 			},
@@ -87,6 +97,16 @@ local diff = {
 		["a3044cd13"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.15,
+						},
+						["deadzone"] = 0.05,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_X",
 				},
 			},
@@ -146,6 +166,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN22",
+				},
+				[2] = {
+					["key"] = "JOY_BTN26",
 				},
 			},
 			["name"] = "Dispense Switch - Forward(CHAFF)/Center(OFF)",

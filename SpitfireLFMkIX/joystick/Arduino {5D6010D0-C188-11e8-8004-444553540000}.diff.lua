@@ -32,50 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3031cd1"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Trim Elevator (analog)",
-		},
-		["a3039cd1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Altimeter Pressure Set (analog)",
-		},
-		["a3046cd1"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Trim Rudder (analog)",
-		},
 	},
 	["keyDiffs"] = {
 		["d3006pnilu3006cd15vd1vpnilvu0"] = {
@@ -124,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "ID Operate Morse Key",
+			["name"] = "ID Operate Morse Key - press",
 		},
 		["d3018pnilu3018cd15vd1vpnilvu0"] = {
 			["added"] = {

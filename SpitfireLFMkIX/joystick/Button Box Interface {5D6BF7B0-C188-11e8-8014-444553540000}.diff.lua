@@ -34,46 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3009pnilunilcd15vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Radio Power OFF",
-		},
-		["d3010pnilunilcd15vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Radio Channel A",
-		},
-		["d3011pnilunilcd15vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Radio Channel B",
-		},
-		["d3012pnilunilcd15vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Radio Channel C",
-		},
-		["d3013pnilunilcd15vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Radio Channel D",
-		},
 		["d3013pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -81,22 +41,6 @@ local diff = {
 				},
 			},
 			["name"] = "Jettison Drop Tank",
-		},
-		["d3015pnilunilcd1vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Clock Winding/Adjust WINDING",
-		},
-		["d3015pnilunilcd1vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Clock Winding/Adjust ADJUST",
 		},
 		["d3019pnilu3019cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -112,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Starter Button Cover (toggle)",
+			["name"] = "Starter, button cover - open/close",
 		},
 		["d3023pnilu3023cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -120,7 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Starter",
+			["name"] = "Starter, button - press",
 		},
 		["d3026pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
@@ -128,7 +72,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Booster Coil Button Cover (toggle)",
+			["name"] = "Booster coil, button cover - open/close",
 		},
 		["d3027pnilu3027cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -136,39 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Booster Coil",
-		},
-		["d3030pnilu3030cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Trim Elevator NOSE DOWN",
-		},
-		["d3032pnilu3032cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Trim Elevator NOSE UP",
-		},
-		["d3045pnilu3045cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Trim Rudder LEFT",
-		},
-		["d3047pnilu3047cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Trim Rudder RIGHT",
+			["name"] = "Booster сoil, button - press",
 		},
 		["d3052pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
@@ -258,29 +170,13 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3016unilcd1vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Clock Winding/Adjust DECREASE",
-		},
-		["dnilp3016unilcd1vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Clock Winding/Adjust INCREASE",
-		},
 		["dnilp3018unilcd1vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "Compass Course DECREASE",
+			["name"] = "Compass Course - decrease",
 		},
 		["dnilp3018unilcd1vdnilvp1vunil"] = {
 			["added"] = {
@@ -288,7 +184,7 @@ local diff = {
 					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "Compass Course INCREASE",
+			["name"] = "Compass Course - increase",
 		},
 		["dnilp3042unilcd1vdnilvp-1vunil"] = {
 			["added"] = {
@@ -296,7 +192,7 @@ local diff = {
 					["key"] = "JOY_BTN29",
 				},
 			},
-			["name"] = "Directional Gyro Course DECREASE",
+			["name"] = "Directional Gyro Course - decrease",
 		},
 		["dnilp3042unilcd1vdnilvp1vunil"] = {
 			["added"] = {
@@ -304,7 +200,7 @@ local diff = {
 					["key"] = "JOY_BTN30",
 				},
 			},
-			["name"] = "Directional Gyro Course INCREASE",
+			["name"] = "Directional Gyro Course - increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

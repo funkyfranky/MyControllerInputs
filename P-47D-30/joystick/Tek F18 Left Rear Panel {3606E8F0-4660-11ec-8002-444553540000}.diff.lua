@@ -24,6 +24,14 @@ local diff = {
 				},
 			},
 		},
+		["a3012cd8"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Fuel Booster Pump Rheostat (analog)",
+		},
 	},
 }
 return diff

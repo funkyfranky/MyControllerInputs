@@ -34,21 +34,13 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3002cd26vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Check indicator lights",
-		},
-		["d3003pnilunilcd19vd1vpnilvunil"] = {
+		["d3003pnilu3003cd19vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Backup Generator - ON",
+			["name"] = "Backup Generator On/Off",
 		},
 		["d3004pnilu3004cd26vd1vpnilvu0"] = {
 			["added"] = {
@@ -93,28 +85,6 @@ local diff = {
 			},
 			["name"] = "Manual fuel regulator switch (toggle)",
 		},
-		["d3208pnilunilcd5vd0.1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Radar AS1",
-		},
-		["d3208pnilunilcd5vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "Radar AS0",
-		},
 		["d3211pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -130,14 +100,6 @@ local diff = {
 				},
 			},
 			["name"] = "Aterstart (Restart) Switch On/Off",
-		},
-		["d3405pnilu3405cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Ejection Seat Arm/Disarm",
 		},
 		["d3407pnilu3407cd22vd1vpnilvu0"] = {
 			["added"] = {
@@ -162,22 +124,6 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["d3720pnilu3720cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "Backup ADI Cage Depress/Release",
-		},
-		["d3722pnilu3722cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Max G Reset Depress/Release",
 		},
 		["d3905pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {
@@ -380,14 +326,6 @@ local diff = {
 				},
 			},
 			["name"] = "Radarstick Right",
-		},
-		["dnilp3208u0cd5vdnilvp0.1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Anti Jamming Mode (AS) Selector Up (test)",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

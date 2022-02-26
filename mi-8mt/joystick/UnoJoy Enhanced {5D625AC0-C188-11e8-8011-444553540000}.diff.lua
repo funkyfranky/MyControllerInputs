@@ -379,7 +379,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Engine Start Mode Switch - Down",
+			["name"] = "Engine Start Mode Switch - DOWN",
 		},
 		["d838pnilunilcdnilvd1vpnilvunil"] = {
 			["added"] = {
@@ -390,7 +390,15 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Engine Start Mode Switch - Up",
+			["name"] = "Engine Start Mode Switch - UP",
+		},
+		["d84pnilu84cdnilvd1vpnilvu0"] = {
+			["name"] = "Release weapons",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
 		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
 			["name"] = "View Center",

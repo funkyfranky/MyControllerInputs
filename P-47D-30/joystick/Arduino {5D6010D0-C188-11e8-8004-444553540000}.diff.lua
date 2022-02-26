@@ -40,25 +40,7 @@ local diff = {
 					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "Input.P47.uv_rheostat_slider",
-		},
-		["a3003cd8"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "K-14 Brightness",
+			["name"] = "Instrument Light (analog)",
 		},
 		["a3006cd8"] = {
 			["added"] = {
@@ -76,7 +58,7 @@ local diff = {
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "Input.P47.compass_rheostat_slider",
+			["name"] = "Compass Light (analog)",
 		},
 		["a3012cd8"] = {
 			["added"] = {
@@ -94,7 +76,7 @@ local diff = {
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Input.P47.booster_rheostat_slider",
+			["name"] = "Fuel Booster Pump Rheostat (analog)",
 		},
 	},
 	["keyDiffs"] = {
@@ -107,7 +89,7 @@ local diff = {
 			["name"] = "Air Filter Control Lever Up/Down",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.P47.trigger_b2",
+			["name"] = "Weapon release",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -115,7 +97,7 @@ local diff = {
 			},
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Input.P47.trigger_a",
+			["name"] = "Fire Machineguns",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",

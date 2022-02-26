@@ -120,7 +120,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "TakeOff Position Indicator Light Test",
+			["name"] = "Take-Off Position Indicator Light Test",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
