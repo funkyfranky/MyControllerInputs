@@ -24,24 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a3035cd3"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_SLIDER2",
-				},
-			},
-			["name"] = "VCP SYM BRT Control Knob",
-		},
 	},
 	["keyDiffs"] = {
 		["d3002pnilu3002cd87vd1vpnilvu0"] = {

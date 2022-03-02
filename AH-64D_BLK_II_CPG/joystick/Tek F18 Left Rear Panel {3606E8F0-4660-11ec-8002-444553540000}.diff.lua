@@ -32,6 +32,32 @@ local diff = {
 				},
 			},
 		},
+		["a3045cd64"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "COMM ATA Volume Control Knob",
+		},
+		["a3052cd31"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "KU Scratchpad Brightness Knob",
+		},
 	},
 }
 return diff

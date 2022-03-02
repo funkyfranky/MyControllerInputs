@@ -33,5 +33,31 @@ local diff = {
 			},
 		},
 	},
+	["keyDiffs"] = {
+		["d3048pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "ENG 1 Fire Pushbutton Cover - OPEN/CLOSE",
+		},
+		["d3051pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "ENG 2 Fire Pushbutton Cover - OPEN/CLOSE",
+		},
+		["d3054pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "APU Fire Pushbutton Cover - OPEN/CLOSE",
+		},
+	},
 }
 return diff

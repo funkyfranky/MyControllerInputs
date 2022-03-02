@@ -38,6 +38,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilunilcd87vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Request Aircraft Control",
+		},
 		["d3002pnilu3002cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -158,10 +166,34 @@ local diff = {
 			},
 			["name"] = "CMDS Switch - Aft/Center",
 		},
-		["d3020pnilu3020cd25vd1vpnilvu0"] = {
+		["d3017pnilu3017cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "PTT/RTS Switch - RADIO/Left (call radio menu)",
+		},
+		["d3018pnilu3018cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "PTT/RTS Switch - ICS/Right (call radio menu)",
+		},
+		["d3019pnilu3019cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "PTT/RTS Switch - RTS/Depress",
+		},
+		["d3020pnilu3020cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
 				},
 			},
 			["name"] = "FMC Release Button - Depress",
@@ -205,6 +237,116 @@ local diff = {
 				},
 			},
 			["name"] = "Weapons Trigger Guard - OPEN/CLOSE",
+		},
+		["d3074pnilu3074cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "RHG C-Scope Button",
+		},
+		["d3075pnilu3075cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "RHG FLIR Polarity Button",
+		},
+		["d3076pnilu3076cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "RHG Sight Slave Button",
+		},
+		["d3077pnilu3077cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "RHG Display Zoom Button",
+		},
+		["d3078pnilu3078cd52vd0.5vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "RHG LRFD Trigger - FIRST DETENT",
+		},
+		["d3078pnilu3078cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "RHG LRFD Trigger - SECOND DETENT",
+		},
+		["d3079pnilu3079cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "RHG Spare Switch - Fwd/Center",
+		},
+		["d3080pnilu3080cd52vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "RHG Spare Switch - Aft/Center",
+		},
+		["d3081pnilu3081cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "RHG HDD/HOD Select Button",
+		},
+		["d3082pnilu3082cd52vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+					["reformers"] = {
+						[1] = "Mail",
+					},
+				},
+			},
+			["name"] = "RHG Enter Button",
 		},
 	},
 }

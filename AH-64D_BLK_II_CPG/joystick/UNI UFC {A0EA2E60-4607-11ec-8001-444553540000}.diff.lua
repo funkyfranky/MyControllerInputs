@@ -98,6 +98,38 @@ local diff = {
 			},
 			["name"] = "RTS Rocker Switch - Down",
 		},
+		["d3007pnilu3007cd50vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "Preset Button",
+		},
+		["d3008pnilu3008cd50vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "Enter Button",
+		},
+		["d3009pnilu3009cd50vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Stopwatch Button",
+		},
+		["d3010pnilu3010cd50vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Swap Button",
+		},
 		["d3018pnilu3018cd46vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

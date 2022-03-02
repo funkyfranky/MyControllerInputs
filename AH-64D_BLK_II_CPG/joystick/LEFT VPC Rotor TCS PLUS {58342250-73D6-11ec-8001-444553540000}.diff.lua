@@ -58,6 +58,38 @@ local diff = {
 			},
 			["name"] = "Sight Select Switch - TADS/Right",
 		},
+		["d3040pnilu3040cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Cursor Enter - Depress",
+		},
+		["d3047pnilu3047cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "CUED Search Switch - Depress",
+		},
+		["d3051pnilu3051cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "NVS Select Switch - TADS",
+		},
+		["d3052pnilu3052cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "NVS Select Switch - PNVS",
+		},
 		["d3055pnilu3055cd25vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -141,7 +173,7 @@ local diff = {
 		["d3066pnilu3066cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN1",
 				},
 			},
 			["name"] = "Tail Wheel Lock/Unlock Button - Depress",

@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3013cd50"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "EUFD Brightness Control Knob",
+		},
 	},
 }
 return diff
