@@ -24,6 +24,14 @@ local diff = {
 				},
 			},
 		},
+		["a3035cd3"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "VCP SYM BRT Control Knob",
+		},
 	},
 	["keyDiffs"] = {
 		["d3002pnilu3002cd87vd1vpnilvu0"] = {
