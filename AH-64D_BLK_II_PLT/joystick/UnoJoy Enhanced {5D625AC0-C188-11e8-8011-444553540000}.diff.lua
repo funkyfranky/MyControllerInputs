@@ -32,9 +32,19 @@ local diff = {
 				},
 			},
 		},
-		["a3012cd3"] = {
+		["a3012cd80"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Y",
 				},
 			},
@@ -48,9 +58,19 @@ local diff = {
 			},
 			["name"] = "EUFD Brightness Control Knob",
 		},
-		["a3014cd3"] = {
+		["a3014cd80"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_X",
 				},
 			},
