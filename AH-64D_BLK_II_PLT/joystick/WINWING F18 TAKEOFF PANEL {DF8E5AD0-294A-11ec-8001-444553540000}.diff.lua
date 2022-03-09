@@ -76,6 +76,22 @@ local diff = {
 			},
 			["name"] = "Parking Brake Handle - Pull",
 		},
+		["d3011pnilunilcd80vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "CMWS PWR Switch - OFF",
+		},
+		["d3011pnilunilcd80vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "CMWS PWR Switch - ON",
+		},
 		["d3012pnilunilcd9vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
