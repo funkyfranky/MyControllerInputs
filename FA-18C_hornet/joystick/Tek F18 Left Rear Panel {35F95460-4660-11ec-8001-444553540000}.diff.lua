@@ -432,7 +432,7 @@ local diff = {
 					["key"] = "JOY_BTN41",
 				},
 			},
-			["name"] = "APU Control Sw (special) - ON/OFF",
+			["name"] = "APU Control 2-pos Switch: ON<>OFF",
 		},
 		["d3040pnilunilcd40vd-1vpnilvunil"] = {
 			["added"] = {

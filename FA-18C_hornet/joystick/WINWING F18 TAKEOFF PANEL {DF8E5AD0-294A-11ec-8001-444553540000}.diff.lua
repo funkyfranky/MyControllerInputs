@@ -128,7 +128,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Arresting Hook Handle - Down",
+			["name"] = "Arresting Hook Handle - DOWN ",
 		},
 		["d3009pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
@@ -136,7 +136,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Arresting Hook Handle - Up",
+			["name"] = "Arresting Hook Handle - UP",
 		},
 		["d3010pnilu3010cd23vd1vpnilvu0"] = {
 			["added"] = {

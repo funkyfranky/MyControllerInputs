@@ -76,7 +76,7 @@ local diff = {
 					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "RDR ALT Switch (special) - OFF/STBY",
+			["name"] = "RDR ALT 3-pos Switch: OFF<>STBY",
 		},
 		["d3001pnilu3001cd15vd1vpnilvu0"] = {
 			["added"] = {
@@ -84,7 +84,7 @@ local diff = {
 					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "RDR ALT Switch (special) - RDR ALT/STBY",
+			["name"] = "RDR ALT 3-pos Switch: RDR ALT<>STBY",
 		},
 		["d3001pnilu3001cd31vd1vpnilvu0"] = {
 			["added"] = {
@@ -124,7 +124,7 @@ local diff = {
 					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "HUD Scales Switch (special) - OFF/VAH",
+			["name"] = "HUD Scales 3-pos Switch: OFF<>VAH",
 		},
 		["d3006pnilu3006cd19vd1vpnilvu0"] = {
 			["added"] = {
@@ -132,7 +132,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "HUD Scales Switch (special) - VV/VAH /VAH",
+			["name"] = "HUD Scales 3-pos Switch: VV/VAH<>VAH",
 		},
 		["d3007pnilu3007cd19vd-1vpnilvu0"] = {
 			["added"] = {
@@ -140,7 +140,7 @@ local diff = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "HUD Flightpath Marker Switch (special) - OFF/FPM",
+			["name"] = "HUD Flightpath Marker 3-pos Switch: OFF<>FPM",
 		},
 		["d3007pnilu3007cd19vd1vpnilvu0"] = {
 			["added"] = {
@@ -148,7 +148,7 @@ local diff = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "HUD Flightpath Marker Switch (special) - ATT/FPM /FPM",
+			["name"] = "HUD Flightpath Marker 3-pos Switch: ATT/FPM<>FPM",
 		},
 		["d3008pnilu3008cd19vd1vpnilvu0"] = {
 			["added"] = {
@@ -156,7 +156,7 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "HUD DED/PFLD Data Switch (special) - DED/PFL",
+			["name"] = "HUD DED/PFLD Data 3-pos Switch: DED<>PFL",
 		},
 		["d3008pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
@@ -172,7 +172,7 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "HUD Depressible Reticle Switch (special) - STBY/PRI",
+			["name"] = "HUD Depressible Reticle 3-pos Switch: STBY<>PRI",
 		},
 		["d3009pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {

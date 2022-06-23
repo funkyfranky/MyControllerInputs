@@ -163,6 +163,22 @@ local diff = {
 			},
 			["name"] = "Navigation panel Waypoint Bx",
 		},
+		["d3010pnilunilcd23vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = ",",
+				},
+			},
+			["name"] = "Select Data Cartridge - Down",
+		},
+		["d3010pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = ".",
+				},
+			},
+			["name"] = "Select Data Cartridge - Up",
+		},
 		["d3020pnilu3020cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

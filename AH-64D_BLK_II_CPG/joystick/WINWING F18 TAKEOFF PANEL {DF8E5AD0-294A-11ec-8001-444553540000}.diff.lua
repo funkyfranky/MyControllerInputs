@@ -26,14 +26,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3002cd87vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "George AI Helper Interface - Show/Hide",
-		},
 		["d3011pnilu3011cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

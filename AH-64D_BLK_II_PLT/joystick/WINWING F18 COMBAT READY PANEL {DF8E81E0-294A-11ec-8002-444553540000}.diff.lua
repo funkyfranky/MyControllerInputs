@@ -106,6 +106,38 @@ local diff = {
 			},
 			["name"] = "Reserve Fire Extinguisher Discharge Pushbutton",
 		},
+		["dnilp3037unilcd46vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "Left MPD Video Control Knob - CCW/Decrease",
+		},
+		["dnilp3037unilcd46vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "Left MPD Video Control Knob - CW/Increase",
+		},
+		["dnilp3037unilcd47vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "Right MPD Video Control Knob - CCW/Decrease",
+		},
+		["dnilp3037unilcd47vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "Right MPD Video Control Knob - CW/Increase",
+		},
 	},
 }
 return diff

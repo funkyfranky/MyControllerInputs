@@ -146,6 +146,22 @@ local diff = {
 			},
 			["name"] = "UFC Option Select Pushbutton 5",
 		},
+		["d3016pnilu3016cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN57",
+				},
+			},
+			["name"] = "UFC ADF Function Select 3-pos Switch: 2<>OFF",
+		},
+		["d3016pnilu3016cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "UFC ADF Function Select 3-pos Switch: 1<>OFF",
+		},
 		["d3018pnilu3018cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

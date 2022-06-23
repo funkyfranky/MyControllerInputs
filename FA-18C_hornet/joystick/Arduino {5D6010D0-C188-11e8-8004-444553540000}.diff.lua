@@ -90,7 +90,7 @@ local diff = {
 					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "Windshield Anti-Ice/Rain Switch - RAIN/OFF",
+			["name"] = "Windshield Anti-Ice/Rain 3-pos Switch: RAIN<>OFF",
 		},
 		["d3009pnilu3009cd11vd1vpnilvu0"] = {
 			["added"] = {
@@ -98,7 +98,7 @@ local diff = {
 					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Windshield Anti-Ice/Rain Switch - ANTI ICE/OFF",
+			["name"] = "Windshield Anti-Ice/Rain 3-pos Switch: ANTI ICE<>OFF",
 		},
 		["d3009pnilu3009cd25vd1vpnilvu0"] = {
 			["added"] = {
@@ -117,7 +117,7 @@ local diff = {
 					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "Spin Recovery Switch (special) - RCVY/NORM",
+			["name"] = "Spin Recovery Switch: RCVY<>NORM",
 		},
 		["d3010pnilu3010cd23vd1vpnilvu0"] = {
 			["added"] = {

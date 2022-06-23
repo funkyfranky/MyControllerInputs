@@ -92,7 +92,7 @@ local diff = {
 					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Throttle Designator Controller - Vertical Axis",
+			["name"] = "Throttle Designator Controller - VERTICAL AXIS",
 		},
 		["a3044cd13"] = {
 			["added"] = {
@@ -110,17 +110,81 @@ local diff = {
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "Throttle Designator Controller - Horizontal Axis",
+			["name"] = "Throttle Designator Controller - HORIZONTAL AXIS",
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilu3001cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "IFEI Mode Button",
+		},
+		["d3002pnilu3002cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "IFEI QTY Button",
+		},
+		["d3003pnilu3003cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "IFEI Up Arrow Button",
+		},
+		["d3004pnilu3004cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "IFEI Down Arrow Button",
+		},
+		["d3005pnilu3005cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "IFEI ZONE Button",
+		},
+		["d3006pnilu3006cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "IFEI ET Button",
+		},
+		["d3008pnilu3008cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "MASTER CAUTION Reset Button",
+		},
+		["d3017pnilunilcd12vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "APU Fire Warning/Extinguisher Light Switch - PRESS/RELEASE",
+		},
 		["d3023pnilu3023cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Throttle Designator Controller - Depress",
+			["name"] = "Throttle Designator Controller - DEPRESS",
 		},
 		["d3027pnilu3027cd13vd0.2vpnilvu0"] = {
 			["added"] = {
@@ -252,6 +316,22 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle (Right) - OFF/IDLE",
+		},
+		["dnilp3008unilcd33vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "IFEI Brightness Control Knob - CCW/Decrease",
+		},
+		["dnilp3008unilcd33vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "IFEI Brightness Control Knob - CW/Increase",
 		},
 	},
 }

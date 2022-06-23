@@ -130,13 +130,13 @@ local diff = {
 			},
 			["name"] = "L TIP Station Select Pushbutton - ARM/SAFE",
 		},
-		["d3006pnilu3006cd77vd1vpnilvu0"] = {
+		["d3010pnilunilcd40vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN43",
 				},
 			},
-			["name"] = "R TIP Station Select Pushbutton - ARM/SAFE",
+			["name"] = "IHADSS show",
 		},
 		["d3018pnilu3018cd11vd1vpnilvu0"] = {
 			["added"] = {

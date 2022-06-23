@@ -44,13 +44,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3002cd87vd1vpnilvu0"] = {
+		["d3002pnilunilcd7vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN29",
 				},
 			},
-			["name"] = "George AI Helper Interface - Show/Hide",
+			["name"] = "Parking Brake Handle - Stow",
+		},
+		["d3002pnilunilcd7vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Parking Brake Handle - Pull",
 		},
 		["d3011pnilu3011cd9vd1vpnilvu0"] = {
 			["added"] = {
@@ -59,22 +67,6 @@ local diff = {
 				},
 			},
 			["name"] = "Defog Button",
-		},
-		["d3011pnilunilcd7vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Parking Brake Handle - Stow",
-		},
-		["d3011pnilunilcd7vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "Parking Brake Handle - Pull",
 		},
 		["d3011pnilunilcd80vd-1vpnilvunil"] = {
 			["added"] = {
@@ -139,14 +131,6 @@ local diff = {
 				},
 			},
 			["name"] = "CMWS Flare Squibs Switch - ARM",
-		},
-		["d3016pnilunilcd9vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "Door, Cockpit - OPEN/CLOSE",
 		},
 		["d3018pnilunilcd80vd0vpnilvunil"] = {
 			["added"] = {

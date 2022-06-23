@@ -239,7 +239,7 @@ local diff = {
 			["name"] = "UFC Keyboard Pushbutton - 4",
 		},
 		["d3023pnilu3023cd13vd1vpnilvu0"] = {
-			["name"] = "Throttle Designator Controller - Depress",
+			["name"] = "Throttle Designator Controller - DEPRESS",
 			["removed"] = {
 				[1] = {
 					["key"] = "Enter",
