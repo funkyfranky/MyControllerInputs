@@ -100,17 +100,6 @@ local diff = {
 			},
 			["name"] = "Windshield Anti-Ice/Rain 3-pos Switch: ANTI ICE<>OFF",
 		},
-		["d3009pnilu3009cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UFC COMM 2 Channel Selector Knob - PULL",
-		},
 		["d3009pnilu3009cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

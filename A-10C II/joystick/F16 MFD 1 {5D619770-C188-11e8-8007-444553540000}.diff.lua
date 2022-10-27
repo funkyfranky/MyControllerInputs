@@ -1,21 +1,5 @@
 local diff = {
 	["keyDiffs"] = {
-		["d1527pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Left MFCD Disable power",
-		},
-		["d1529pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Left MFCD Day illumination",
-		},
 		["d662pnilu1002cdnilvdnilvpnilvunil"] = {
 			["name"] = "Left MFCD ADJ Increase",
 			["removed"] = {
@@ -79,38 +63,6 @@ local diff = {
 					["key"] = "JOY_BTN22",
 				},
 			},
-		},
-		["dnilp764unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "HSI Course rotate left",
-		},
-		["dnilp765unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "HSI Course rotate right",
-		},
-		["dnilp934unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "SAI Pitch Trim Left",
-		},
-		["dnilp935unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "SAI Pitch Trim Right",
 		},
 	},
 }

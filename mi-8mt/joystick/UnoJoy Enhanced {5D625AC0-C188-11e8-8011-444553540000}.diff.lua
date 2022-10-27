@@ -341,7 +341,7 @@ local diff = {
 			["name"] = "Generator 2 Switch - ON",
 		},
 		["d3025pnilu3025cd36vd1vpnilvu0"] = {
-			["name"] = "Radio trigger - RADIO",
+			["name"] = "Radio trigger - 2nd STAGE (RADIO)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",

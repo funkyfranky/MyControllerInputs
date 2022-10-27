@@ -329,17 +329,6 @@ local diff = {
 			},
 			["name"] = "Main Battery ON",
 		},
-		["d516pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "P",
-					["reformers"] = {
-						[1] = "LCtrl",
-					},
-				},
-			},
-			["name"] = "Police Light Toggle",
-		},
 		["d6041pnilunilcdnilvdnilvpnilvunil"] = {
 			["name"] = "STT/TWS Toggle",
 			["removed"] = {
@@ -347,6 +336,18 @@ local diff = {
 					["key"] = "Enter",
 				},
 			},
+		},
+		["d816pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "P",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "Active Pause",
 		},
 		["dnilp193u194cdnilvdnilvpnilvunil"] = {
 			["name"] = "Aircraft Pitch DOWN",

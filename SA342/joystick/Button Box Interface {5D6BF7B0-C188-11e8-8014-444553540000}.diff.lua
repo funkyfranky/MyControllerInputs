@@ -50,36 +50,6 @@ local diff = {
 			},
 			["name"] = "Pilot Sight Deploy/Retract",
 		},
-		["d3005pnilu3005cd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "TV On/Off Switch",
-		},
-		["d3006pnilu3006cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "VHF Radio Mode Selector Clockwise",
-		},
-		["d3007pnilu3007cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "VHF Radio Mode Selector Counter Clockwise",
-		},
 		["d3008pnilu3009cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -134,17 +104,6 @@ local diff = {
 			},
 			["name"] = "Source -",
 		},
-		["d3016pnilu3016cd21vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "ADF Radio Mode Clockwise",
-		},
 		["d3016pnilu3016cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -153,77 +112,6 @@ local diff = {
 			},
 			["name"] = "Convoy Tank On/Off",
 		},
-		["d3017pnilu3017cd21vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "ADF Radio Mode Counter Clockwise",
-		},
-		["d3017pnilunilcd16vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "MODE +",
-		},
-		["d3018pnilu3018cd28vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "FM Radio Mode Clockwise",
-		},
-		["d3018pnilunilcd16vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "MODE -",
-		},
-		["d3019pnilu3019cd28vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "FM Radio Mode Counter Clockwise",
-		},
-		["d3020pnilu3020cd28vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "FM Radio Channel Clockwise",
-		},
-		["d3021pnilu3021cd28vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "FM Radio Channel Counter Clockwise",
-		},
 		["d3024pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -231,28 +119,6 @@ local diff = {
 				},
 			},
 			["name"] = "Pitot On/Off Toggle",
-		},
-		["d3027pnilu3027cd31vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "UHF Mode Clockwise",
-		},
-		["d3028pnilu3028cd31vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "UHF Mode Counter Clockwise",
 		},
 		["d3033pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
@@ -276,46 +142,6 @@ local diff = {
 			},
 			["name"] = "Gyro Knob -",
 		},
-		["d3037pnilu3038cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Test HYD",
-		},
-		["d3037pnilunilcd16vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "CTH +",
-		},
-		["d3038pnilunilcd16vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "CTH -",
-		},
-		["d3039pnilu3039cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "VCB Power Selector, OFF/ON",
-		},
-		["d3041pnilu3041cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Missile Launch Button",
-		},
 		["d3041pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -323,14 +149,6 @@ local diff = {
 				},
 			},
 			["name"] = "Auxiliary Fuel Tank On/Off Toggle",
-		},
-		["d3042pnilu3042cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Lasing Button",
 		},
 		["d3045pnilu3045cd23vd1vpnilvu0"] = {
 			["added"] = {

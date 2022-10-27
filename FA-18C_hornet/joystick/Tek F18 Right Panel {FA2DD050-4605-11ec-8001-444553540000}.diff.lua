@@ -86,6 +86,14 @@ local diff = {
 			},
 			["name"] = "FLOOD Light Dimmer Control",
 		},
+		["a3018cd11"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Cabin Temperature Knob",
+		},
 		["a3018cd9"] = {
 			["added"] = {
 				[1] = {

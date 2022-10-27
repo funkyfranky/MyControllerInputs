@@ -22,7 +22,7 @@ local diff = {
 					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "Repeater Compass Course DECREASE",
+			["name"] = "Repeater Compass Course - decrease",
 		},
 		["dnilp3002unilcd10vdnilvp1vunil"] = {
 			["added"] = {
@@ -30,7 +30,7 @@ local diff = {
 					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "Repeater Compass Course INCREASE",
+			["name"] = "Repeater Compass Course - increase",
 		},
 	},
 }

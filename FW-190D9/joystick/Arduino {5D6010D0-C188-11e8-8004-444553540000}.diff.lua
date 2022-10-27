@@ -94,22 +94,6 @@ local diff = {
 			},
 			["name"] = "Fuel Gauge Selector AFT/CENTER",
 		},
-		["d3002pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Clock Stop",
-		},
-		["d3003pnilu3003cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Stopwatch",
-		},
 		["d3007pnilunilcd15vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

@@ -126,14 +126,6 @@ local diff = {
 			},
 			["name"] = "Take off trim",
 		},
-		["d1201pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "UHF 100Mhz selector switch 1",
-		},
 		["d1202pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

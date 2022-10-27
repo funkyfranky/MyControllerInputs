@@ -96,7 +96,7 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "Autobalance Switch - LEFT/NEUT",
+			["name"] = "Autobalance Switch - LEFT (hold) <>NEUT",
 		},
 		["d3007pnilu3007cd3vd1vpnilvu0"] = {
 			["added"] = {
@@ -115,7 +115,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Autobalance Switch - RIGHT/NEUT",
+			["name"] = "Autobalance Switch - RIGHT (hold)<>NEUT",
 		},
 		["d3008pnilu3008cd12vd1vpnilvu0"] = {
 			["added"] = {

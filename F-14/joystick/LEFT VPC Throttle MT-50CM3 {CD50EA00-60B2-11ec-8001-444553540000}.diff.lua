@@ -78,6 +78,54 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3024pnilu3024cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Wing Sweep Auto Mode",
+		},
+		["d3025pnilu3025cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Wing Sweep Forward",
+		},
+		["d3026pnilu3026cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Wing Sweep Aft",
+		},
+		["d3027pnilu3027cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Wing Sweep Bomb Mode",
+		},
+		["d3126pnilu3126cd57vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "CAGE-SEAM button",
+		},
+		["d3127pnilu3127cd57vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "PLM button",
+		},
 		["d3128pnilu3128cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

@@ -112,6 +112,17 @@ local diff = {
 				},
 			},
 		},
+		["d238pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "U",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Pilot Salute",
+		},
 		["d3002pnilu3002cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -340,6 +351,27 @@ local diff = {
 			},
 			["name"] = "Toggle goggles",
 		},
+		["d816pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "P",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "Active Pause",
+			["removed"] = {
+				[1] = {
+					["key"] = "Pause",
+					["reformers"] = {
+						[1] = "LShift",
+						[2] = "LWin",
+					},
+				},
+			},
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
@@ -491,10 +523,23 @@ local diff = {
 		["dnilp841unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "B",
+					["key"] = "H",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RAlt",
+					},
 				},
 			},
 			["name"] = "Gain goggles down",
+			["removed"] = {
+				[1] = {
+					["key"] = "H",
+					["reformers"] = {
+						[1] = "RShift",
+						[2] = "RAlt",
+					},
+				},
+			},
 		},
 	},
 }

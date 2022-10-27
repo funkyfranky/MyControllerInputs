@@ -106,6 +106,22 @@ local diff = {
 				},
 			},
 		},
+		["d562pnilu606cdnilvdnilvpnilvunil"] = {
+			["name"] = "Nosewheel Steering Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Trigger - SECOND DETENT(Gun Fire)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
 		["dnilp3038unilcd5vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {

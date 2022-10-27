@@ -162,14 +162,6 @@ local diff = {
 			},
 			["name"] = "Autopilot Autothrottle mode AFK (hold-On)",
 		},
-		["d3408pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "Parking brake",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {

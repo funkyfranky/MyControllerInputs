@@ -39,11 +39,11 @@ local diff = {
 						["curvature"] = {
 							[1] = 0,
 						},
-						["deadzone"] = 0,
+						["deadzone"] = 0.04,
 						["invert"] = true,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
-						["slider"] = false,
+						["slider"] = true,
 					},
 					["key"] = "JOY_RX",
 				},
@@ -307,7 +307,7 @@ local diff = {
 					["key"] = "JOY_BTN80",
 				},
 			},
-			["name"] = "Throttle (Left) - OFF/IDLE",
+			["name"] = "Throttle (Left) - OFF(hold)<>IDLE",
 		},
 		["d314pnilu312cdnilvd1vpnilvu1"] = {
 			["added"] = {
@@ -315,7 +315,7 @@ local diff = {
 					["key"] = "JOY_BTN81",
 				},
 			},
-			["name"] = "Throttle (Right) - OFF/IDLE",
+			["name"] = "Throttle (Right) - OFF(hold)<>IDLE",
 		},
 		["dnilp3008unilcd33vdnilvp-0.5vunil"] = {
 			["added"] = {

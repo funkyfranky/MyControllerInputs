@@ -24,6 +24,14 @@ local diff = {
 				},
 			},
 		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
 		["a2006cdnil"] = {
 			["added"] = {
 				[1] = {

@@ -61,14 +61,6 @@ local diff = {
 			},
 			["name"] = "IFEI Mode Button",
 		},
-		["d3001pnilu3001cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Canopy Control Switch - OPEN",
-		},
 		["d3002pnilu3002cd33vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -92,14 +84,6 @@ local diff = {
 				},
 			},
 			["name"] = "Dispense Button",
-		},
-		["d3002pnilu3002cd7vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Canopy Control Switch - CLOSE",
 		},
 		["d3002pnilunilcd44vd-1vpnilvunil"] = {
 			["added"] = {
@@ -256,6 +240,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3013unilcd2vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "RUD TRIM Control - CCW/Left",
+		},
+		["dnilp3013unilcd2vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "RUD TRIM Control - CW/Right",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

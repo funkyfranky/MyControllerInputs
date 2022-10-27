@@ -106,6 +106,14 @@ local diff = {
 				},
 			},
 		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Trigger - SECOND DETENT(Gun Fire)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
 	},
 }
 return diff

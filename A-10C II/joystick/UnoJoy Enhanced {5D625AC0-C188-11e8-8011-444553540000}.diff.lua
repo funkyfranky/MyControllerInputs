@@ -296,7 +296,7 @@ local diff = {
 					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "HOTAS MIC Switch Down",
+			["name"] = "HOTAS MIC Switch Down (call radio menu)",
 		},
 		["d910pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

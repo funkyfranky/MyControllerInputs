@@ -32,6 +32,24 @@ local diff = {
 			},
 			["name"] = "Zoom View",
 		},
+		["a3031cd17"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Emergency Wing Sweep Handle",
+		},
 	},
 	["keyDiffs"] = {
 		["d3016pnilunilcd18vd0vpnilvunil"] = {
@@ -91,7 +109,7 @@ local diff = {
 					["key"] = "JOY_BTN29",
 				},
 			},
-			["name"] = "Emergency Wing Sweep Handle Pop Out 0",
+			["name"] = "Emergency Wing Sweep Handle Push",
 		},
 		["d3030pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {
@@ -99,7 +117,7 @@ local diff = {
 					["key"] = "JOY_BTN31",
 				},
 			},
-			["name"] = "Emergency Wing Sweep Handle Pop Out 1",
+			["name"] = "Emergency Wing Sweep Handle Pull",
 		},
 		["d3076pnilunilcd11vd0.090909090909091vpnilvunil"] = {
 			["added"] = {
@@ -107,7 +125,7 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Master Test Selector 01/11",
+			["name"] = "Master Test Selector: LTS",
 		},
 		["d3076pnilunilcd11vd0.18181818181818vpnilvunil"] = {
 			["added"] = {
@@ -115,7 +133,7 @@ local diff = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Master Test Selector 02/11",
+			["name"] = "Master Test Selector: FIRE DET/EXT",
 		},
 		["d3076pnilunilcd11vd0.27272727272727vpnilvunil"] = {
 			["added"] = {
@@ -123,7 +141,7 @@ local diff = {
 					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Master Test Selector 03/11",
+			["name"] = "Master Test Selector: INST",
 		},
 		["d3076pnilunilcd11vd0.36363636363636vpnilvunil"] = {
 			["added"] = {
@@ -131,7 +149,7 @@ local diff = {
 					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "Master Test Selector 04/11",
+			["name"] = "Master Test Selector: OBC",
 		},
 		["d3076pnilunilcd11vd0vpnilvunil"] = {
 			["added"] = {
@@ -139,7 +157,7 @@ local diff = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Master Test Selector 00/11",
+			["name"] = "Master Test Selector: OFF",
 		},
 		["d3077pnilu3077cd11vd1vpnilvu0"] = {
 			["added"] = {
@@ -147,7 +165,7 @@ local diff = {
 					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "Master Test Selector Push 1/0",
+			["name"] = "Master Test Selector PULLED else PUSHED",
 		},
 		["d3171pnilunilcd12vd0vpnilvunil"] = {
 			["added"] = {

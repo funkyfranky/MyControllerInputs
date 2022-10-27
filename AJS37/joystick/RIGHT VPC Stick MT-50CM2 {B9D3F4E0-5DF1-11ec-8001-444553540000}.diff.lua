@@ -51,7 +51,7 @@ local diff = {
 		["d3323pnilu3323cd5vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN25",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Radar Range Decrease",

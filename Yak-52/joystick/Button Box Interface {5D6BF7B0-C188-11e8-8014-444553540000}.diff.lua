@@ -32,7 +32,7 @@ local diff = {
 					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "Magnetos (prev. selection)",
+			["name"] = "Magneto Switch, previous selection",
 		},
 		["d3009pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -40,7 +40,7 @@ local diff = {
 					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "Magnetos (next selection)",
+			["name"] = "Magneto Switch, next selection",
 		},
 		["d3010pnilunilcd5vd-1vpnilvunil"] = {
 			["added"] = {
@@ -48,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "Radio-compass Channel (prev. selection)",
+			["name"] = "ARK-15M ADF Channel Selector Knob (prev. selection)",
 		},
 		["d3010pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
@@ -56,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "Radio-compass Channel (next selection)",
+			["name"] = "ARK-15M ADF Channel Selector Knob (next selection)",
 		},
 		["d3015pnilu3014cd4vd1vpnilvu0"] = {
 			["added"] = {
@@ -72,7 +72,7 @@ local diff = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Oil Dilution",
+			["name"] = "Oil Dilution Switch",
 		},
 		["d3025pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
@@ -80,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "VHF Radio (toggle)",
+			["name"] = "VHF Radio Circuit Breaker, toggle",
 		},
 		["d3028pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
@@ -88,7 +88,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Intercom (toggle)",
+			["name"] = "Intercom Circuit Breaker, toggle",
 		},
 		["d3031pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
@@ -96,7 +96,7 @@ local diff = {
 					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "PAG-1F Converter (toggle)",
+			["name"] = "PAG-1FP Inverter Circuit Breaker, toggle",
 		},
 		["d3034pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
@@ -104,7 +104,7 @@ local diff = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Landing Gear Warning (toggle)",
+			["name"] = "Landing Gear Indicator Lights Circuit Breaker, toggle",
 		},
 		["d3037pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
@@ -112,7 +112,7 @@ local diff = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "PT-200 Converter (toggle)",
+			["name"] = "PT-200 Inverter Circuit Breaker, toggle",
 		},
 		["d3043pnilunilcd3vd-1vpnilvunil"] = {
 			["added"] = {
@@ -120,7 +120,7 @@ local diff = {
 					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "Primer Selector (prev. selection)",
+			["name"] = "Fuel Priming Pump Handle (prev. selection)",
 		},
 		["d3043pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -128,7 +128,7 @@ local diff = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "Primer Selector (next selection)",
+			["name"] = "Fuel Priming Pump Handle (next selection)",
 		},
 	},
 }

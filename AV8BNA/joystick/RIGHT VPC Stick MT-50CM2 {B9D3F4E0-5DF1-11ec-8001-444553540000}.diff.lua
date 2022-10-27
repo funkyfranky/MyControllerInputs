@@ -96,6 +96,14 @@ local diff = {
 			},
 			["name"] = "WP Increment",
 		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Trigger: Fire Gun/Launch Sidewinder, Sidearm",
+		},
 		["dnilp93u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

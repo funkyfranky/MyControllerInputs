@@ -48,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "ARK Sector I-2 free",
+			["name"] = "ARK Sector I-2",
 		},
 		["d3051pnilunilcd24vd0.28vpnilvunil"] = {
 			["added"] = {
@@ -56,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "ARK Sector II-1 Russia",
+			["name"] = "ARK Sector II-1",
 		},
 		["d3051pnilunilcd24vd0.42vpnilvunil"] = {
 			["added"] = {
@@ -64,7 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "ARK Sector II-2 Russia",
+			["name"] = "ARK Sector II-2",
 		},
 		["d3051pnilunilcd24vd0.56vpnilvunil"] = {
 			["added"] = {
@@ -72,7 +72,7 @@ local diff = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "ARK Sector III-1 Georgia",
+			["name"] = "ARK Sector III-1",
 		},
 		["d3051pnilunilcd24vd0vpnilvunil"] = {
 			["added"] = {
@@ -80,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "ARK Sector I-1 Ukraine",
+			["name"] = "ARK Sector I-1",
 		},
 		["d3066pnilu3066cd8vd1vpnilvu0"] = {
 			["added"] = {

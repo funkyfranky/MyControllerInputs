@@ -32,62 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3291cd22"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "VIDEO BRT CONTROL",
-		},
-		["a3292cd22"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.5,
-							[2] = 0.55,
-							[3] = 0.6,
-							[4] = 0.65,
-							[5] = 0.7,
-							[6] = 0.75,
-							[7] = 0.8,
-							[8] = 0.85,
-							[9] = 0.9,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "VIDEO CONT CONTROL",
-		},
 	},
 	["keyDiffs"] = {
 		["d3504pnilu3504cd9vd1vpnilvu0"] = {
@@ -121,30 +65,6 @@ local diff = {
 				},
 			},
 			["name"] = "EFC Switch POS1/POS2",
-		},
-		["d590pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Master Mode NAV",
-		},
-		["d591pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Master Mode VSTOL",
-		},
-		["d592pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Master Mode AG",
 		},
 		["d69pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

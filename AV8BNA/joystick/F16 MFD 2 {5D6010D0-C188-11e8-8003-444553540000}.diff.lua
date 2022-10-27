@@ -48,22 +48,6 @@ local diff = {
 			},
 			["name"] = "Right MPCD CON Decrease",
 		},
-		["d3017pnilu3017cd27vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Right MPCD Day Mode",
-		},
-		["d3018pnilu3018cd27vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Right MPCD Night Mode",
-		},
 		["d3224pnilu3224cd27vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

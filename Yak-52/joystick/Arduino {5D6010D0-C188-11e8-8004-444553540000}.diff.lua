@@ -24,30 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a3011cd6"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Altimeter Set Pressure (analog)",
-		},
-		["a3019cd6"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Horizon Zeroing (analog)",
-		},
-		["a3043cd6"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Pneumatics Master Valve (analog)",
-		},
 	},
 	["keyDiffs"] = {
 		["d3002pnilu3002cd5vd0vpnilvu1"] = {
@@ -113,14 +89,6 @@ local diff = {
 				},
 			},
 			["name"] = "Marker Beacon INNER/OUTER",
-		},
-		["d3021pnilunilcd24vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "VHF Radio Squelch (toggle)",
 		},
 	},
 }

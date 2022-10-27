@@ -65,6 +65,14 @@ local diff = {
 			},
 			["name"] = "FR24 VoIP Push-to-talk",
 		},
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Communication menu",
+		},
 		["d3001pnilu3001cd21vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -128,22 +136,6 @@ local diff = {
 				},
 			},
 			["name"] = "Datapanel Rotary Clockwise",
-		},
-		["d3011pnilunilcd30vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "FR22 Push-to-talk",
-		},
-		["d3011pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "FR24 Push-to-talk",
 		},
 		["d3209pnilu3209cd5vd1vpnilvu0"] = {
 			["added"] = {

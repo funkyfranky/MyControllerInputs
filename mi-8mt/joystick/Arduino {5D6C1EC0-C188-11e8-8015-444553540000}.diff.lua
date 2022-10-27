@@ -127,7 +127,7 @@ local diff = {
 			["name"] = "Radio R-863 Frequency Dial 25kHz Knob - Increase",
 		},
 		["d3025pnilu3025cd36vd1vpnilvu0"] = {
-			["name"] = "Radio trigger - RADIO",
+			["name"] = "Radio trigger - 2nd STAGE (RADIO)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",

@@ -32,24 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3011cd21"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Gain Button",
-		},
 		["a3017cd14"] = {
 			["added"] = {
 				[1] = {
@@ -68,24 +50,6 @@ local diff = {
 			},
 			["name"] = "Roof Lamp",
 		},
-		["a3018cd13"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "TV Contrast Rotator",
-		},
 		["a3018cd14"] = {
 			["added"] = {
 				[1] = {
@@ -103,24 +67,6 @@ local diff = {
 				},
 			},
 			["name"] = "UV Light",
-		},
-		["a3019cd13"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "SA342 TV Brightness",
 		},
 		["a3024cd23"] = {
 			["added"] = {
@@ -187,14 +133,6 @@ local diff = {
 				},
 			},
 			["name"] = "SA342 Pitch On",
-		},
-		["d3021pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Battery On/Off",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Gun or Rockets",

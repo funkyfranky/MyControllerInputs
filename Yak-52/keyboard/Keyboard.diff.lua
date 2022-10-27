@@ -6,7 +6,7 @@ local diff = {
 					["key"] = "A",
 				},
 			},
-			["name"] = "Ignition Control Switch (toggle)",
+			["name"] = "Ignition Control Switch, toggle",
 		},
 	},
 }

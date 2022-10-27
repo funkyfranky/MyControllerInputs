@@ -48,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Nav. Lights (toggle)",
+			["name"] = "CB C100 - Nav. Lights (toggle)",
 		},
 		["d3008pnilu3008cd4vd1vpnilvu0"] = {
 			["added"] = {
@@ -80,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Dashboard UV Lights (toggle)",
+			["name"] = "CB C101 - Dashboard UV Lights (toggle)",
 		},
 		["d3011pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -104,7 +104,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Pitot / Windscreen Heating (toggle)",
+			["name"] = "CB D100 - Pitot / Windscreen Heating (toggle)",
 		},
 		["d3014pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -120,7 +120,7 @@ local diff = {
 					["key"] = "JOY_BTN22",
 				},
 			},
-			["name"] = "Fuel Pumps (toggle)",
+			["name"] = "CB E101 - Fuel Pumps (toggle)",
 		},
 		["d3016pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -144,7 +144,7 @@ local diff = {
 					["key"] = "JOY_BTN20",
 				},
 			},
-			["name"] = "Radio Transceiver (toggle)",
+			["name"] = "CB F135 - Radio Transceiver (toggle)",
 		},
 		["d3022pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
@@ -152,7 +152,7 @@ local diff = {
 					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "I.F.F. Transceiver (toggle)",
+			["name"] = "CB F211 - I.F.F. Transceiver (toggle)",
 		},
 		["d3022pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
@@ -168,7 +168,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Wing / Drop Ordnance (toggle)",
+			["name"] = "CB V101 - Wing / Drop Ordnance (toggle)",
 		},
 		["d3029pnilunilcd4vd1vpnilvunil"] = {
 			["added"] = {
@@ -192,7 +192,7 @@ local diff = {
 					["key"] = "JOY_BTN18",
 				},
 			},
-			["name"] = "Generator (toggle)",
+			["name"] = "CB A100 - Generator (toggle)",
 		},
 		["d3079pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
@@ -200,15 +200,7 @@ local diff = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "Battery (toggle)",
-		},
-		["d3095pnilu3095cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Drop Signal Flare",
+			["name"] = "CB A101 - Battery (toggle)",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
@@ -264,7 +256,7 @@ local diff = {
 					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "Repeater Compass Course DECREASE",
+			["name"] = "Repeater Compass Course - decrease",
 		},
 		["dnilp3002unilcd10vdnilvp1vunil"] = {
 			["added"] = {
@@ -272,7 +264,7 @@ local diff = {
 					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "Repeater Compass Course INCREASE",
+			["name"] = "Repeater Compass Course - increase",
 		},
 		["dnilp3002unilcd3vdnilvp-1vunil"] = {
 			["added"] = {

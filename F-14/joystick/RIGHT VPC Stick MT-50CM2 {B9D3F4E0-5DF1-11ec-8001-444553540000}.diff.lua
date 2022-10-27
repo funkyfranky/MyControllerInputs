@@ -8,14 +8,6 @@ local diff = {
 			},
 			["name"] = "Store Release",
 		},
-		["d3079pnilunilcd55vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Weapon Selector Sparrow or Phoenix Missiles",
-		},
 		["d3080pnilu3080cd57vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -79,6 +71,38 @@ local diff = {
 				},
 			},
 			["name"] = "Trigger First Detent",
+		},
+		["dnilp2019u2019cdnilvdnilvp-1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Trim Pitch Down",
+		},
+		["dnilp2019u2019cdnilvdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Trim Pitch Up",
+		},
+		["dnilp2020u2020cdnilvdnilvp-1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Trim Roll Left Wing Down",
+		},
+		["dnilp2020u2020cdnilvdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Trim Roll Right Wing Down",
 		},
 		["dnilp3083u3083cd57vdnilvp-1vu0"] = {
 			["added"] = {

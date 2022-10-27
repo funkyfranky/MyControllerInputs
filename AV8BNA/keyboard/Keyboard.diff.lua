@@ -24,22 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["d3001pnilunilcd100vd1vpnilvunil"] = {
-			["name"] = "Kneeboard Next Page",
-			["removed"] = {
-				[1] = {
-					["key"] = "]",
-				},
-			},
-		},
-		["d3002pnilunilcd100vd1vpnilvunil"] = {
-			["name"] = "Kneeboard Previous Page",
-			["removed"] = {
-				[1] = {
-					["key"] = "[",
-				},
-			},
-		},
 		["d3003pnilunilcd100vd1vpnilvunil"] = {
 			["name"] = "Kneeboard current position mark point",
 			["removed"] = {
@@ -178,6 +162,18 @@ local diff = {
 				},
 			},
 			["name"] = "UFC ON/OFF Toggle Button",
+		},
+		["d816pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "P",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "Active Pause",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Trigger: Fire Gun/Launch Sidewinder, Sidearm",

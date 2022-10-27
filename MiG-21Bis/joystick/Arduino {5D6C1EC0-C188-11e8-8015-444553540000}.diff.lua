@@ -50,38 +50,6 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3359unilcd25vdnilvp-0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "RSBN nav chnl -",
-		},
-		["dnilp3359unilcd25vdnilvp0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "RSBN nav chnl +",
-		},
-		["dnilp3360unilcd25vdnilvp-0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "RSBN land chnl -",
-		},
-		["dnilp3360unilcd25vdnilvp0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "RSBN land chnl +",
-		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
 			["name"] = "View Center",
 			["removed"] = {

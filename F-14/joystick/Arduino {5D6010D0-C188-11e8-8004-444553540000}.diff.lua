@@ -69,6 +69,14 @@ local diff = {
 			},
 			["name"] = "TACAN MODE X/Y Toggle",
 		},
+		["d3485pnilu3485cd30vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Radar Altimeter Test",
+		},
 	},
 }
 return diff

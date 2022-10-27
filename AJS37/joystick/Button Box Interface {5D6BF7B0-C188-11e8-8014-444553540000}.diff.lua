@@ -93,6 +93,38 @@ local diff = {
 			},
 			["name"] = "Pitch gearing Automatic/Landing (toggle)",
 		},
+		["d3321pnilu3321cd2vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Rb05 stick yaw left",
+		},
+		["d3321pnilu3321cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Rb05 stick yaw right",
+		},
+		["d3322pnilu3322cd2vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Rb05 stick pitch down",
+		},
+		["d3322pnilu3322cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Rb05 stick pitch up",
+		},
 		["d3401pnilu3401cd18vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -108,14 +140,6 @@ local diff = {
 				},
 			},
 			["name"] = "Canopy Jettison",
-		},
-		["d3408pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Parking brake",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -294,38 +318,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
-		},
-		["dnilp3101u3100cd5vdnilvp1vu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Radarstick Aft",
-		},
-		["dnilp3102u3100cd5vdnilvp1vu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Radarstick Forward",
-		},
-		["dnilp3103u3100cd5vdnilvp1vu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Radarstick Left",
-		},
-		["dnilp3104u3100cd5vdnilvp1vu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Radarstick Right",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

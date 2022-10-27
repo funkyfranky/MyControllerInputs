@@ -240,7 +240,7 @@ local diff = {
 					["key"] = "JOY_BTN36",
 				},
 			},
-			["name"] = "Data panel RENSA cover OPEN/CLOSE",
+			["name"] = "Data panel RENSA cover",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",

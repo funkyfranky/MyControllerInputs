@@ -79,17 +79,6 @@ local diff = {
 			},
 			["name"] = "Landing Light ON",
 		},
-		["d3018pnilu3019cd21vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "J",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "ADF Radio Gain Increase",
-		},
 		["d3019pnilu3020cd7vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -112,17 +101,6 @@ local diff = {
 				},
 			},
 			["name"] = "Left Pylon Arming Toggle ARMED/SAFE",
-		},
-		["d3021pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "B",
-					["reformers"] = {
-						[1] = "RWin",
-					},
-				},
-			},
-			["name"] = "Battery On/Off",
 		},
 		["d3021pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
@@ -147,17 +125,6 @@ local diff = {
 			},
 			["name"] = "Left Pylon Arming Switch Cover",
 		},
-		["d3022pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "A",
-					["reformers"] = {
-						[1] = "RWin",
-					},
-				},
-			},
-			["name"] = "Alternator On/Off",
-		},
 		["d3022pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -180,18 +147,6 @@ local diff = {
 				},
 			},
 			["name"] = "Righ Pylon Arming Toggle ARMED/SAFE",
-		},
-		["d3023pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "G",
-					["reformers"] = {
-						[1] = "RShift",
-						[2] = "RWin",
-					},
-				},
-			},
-			["name"] = "Generator On/Off",
 		},
 		["d3024pnilunilcd26vd1vpnilvunil"] = {
 			["added"] = {
@@ -238,28 +193,6 @@ local diff = {
 			},
 			["name"] = "NADIR 0 Button",
 		},
-		["d3030pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "W",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Copilot Wiper Up",
-		},
-		["d3031pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "W",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Copilot Wiper Down",
-		},
 		["d3034pnilu3035cd15vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -284,14 +217,6 @@ local diff = {
 			},
 			["name"] = "Strobe Lights Attenuated",
 		},
-		["d3041pnilu3041cd16vd1vpnilvu0"] = {
-			["name"] = "Missile Launch Button",
-			["removed"] = {
-				[1] = {
-					["key"] = "Space",
-				},
-			},
-		},
 		["d3043pnilunilcd15vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -303,16 +228,17 @@ local diff = {
 			},
 			["name"] = "Panels Lighting On/Off",
 		},
-		["d3052pnilunilcd2vd1vpnilvunil"] = {
+		["d816pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "P",
 					["reformers"] = {
-						[1] = "RWin",
+						[1] = "LCtrl",
+						[2] = "RCtrl",
 					},
 				},
 			},
-			["name"] = "Fuel Pump On/Off",
+			["name"] = "Active Pause",
 		},
 	},
 }

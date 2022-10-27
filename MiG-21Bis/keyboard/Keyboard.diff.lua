@@ -1,17 +1,5 @@
 local diff = {
 	["keyDiffs"] = {
-		["d3014pnilunilcd3vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "/",
-					["reformers"] = {
-						[1] = "RCtrl",
-						[2] = "RShift",
-					},
-				},
-			},
-			["name"] = "APU Off",
-		},
 		["d3124pnilunilcd15vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -115,6 +103,18 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency Afterburner On",
+		},
+		["d816pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "P",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "Active Pause",
 		},
 	},
 }

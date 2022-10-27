@@ -108,7 +108,7 @@ local diff = {
 					["key"] = "JOY_BTN80",
 				},
 			},
-			["name"] = "Throttle (Left) - OFF/IDLE",
+			["name"] = "Throttle (Left) - OFF(hold)<>IDLE",
 		},
 		["d314pnilu312cdnilvd1vpnilvu1"] = {
 			["added"] = {
@@ -116,7 +116,7 @@ local diff = {
 					["key"] = "JOY_BTN81",
 				},
 			},
-			["name"] = "Throttle (Right) - OFF/IDLE",
+			["name"] = "Throttle (Right) - OFF(hold)<>IDLE",
 		},
 	},
 }

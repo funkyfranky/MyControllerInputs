@@ -66,28 +66,6 @@ local diff = {
 			},
 			["name"] = "Alternator 2 ON",
 		},
-		["d3608pnilu3608cd28vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "D2M ON",
-		},
-		["d3608pnilu3608cd28vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "D2M OFF",
-		},
 		["dnilp1665u1667cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

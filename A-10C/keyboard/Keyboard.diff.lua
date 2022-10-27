@@ -92,7 +92,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Left Engine Oper Ign / Norm",
+			["name"] = "Left Engine Oper Ign",
 		},
 		["d1058pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -127,7 +127,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Right Engine Oper Ign / Norm",
+			["name"] = "Right Engine Oper Ign",
 		},
 		["d1061pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -1463,6 +1463,18 @@ local diff = {
 				},
 			},
 			["name"] = "AC generator power right",
+		},
+		["d816pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "P",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "Active Pause",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

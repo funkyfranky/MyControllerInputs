@@ -82,14 +82,6 @@ local diff = {
 			},
 			["name"] = "RWR Indicator Control HANDOFF Button",
 		},
-		["d3004pnilu3004cd19vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "RWR Indicator Control ALTITUDE Button",
-		},
 		["d3005pnilu3005cd19vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -113,14 +105,6 @@ local diff = {
 				},
 			},
 			["name"] = "RWR Indicator Control UNKNOWN SHIP Button",
-		},
-		["d3008pnilu3008cd19vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "RWR Indicator Control POWER Button",
 		},
 		["d3009pnilu3009cd19vd1vpnilvu0"] = {
 			["added"] = {

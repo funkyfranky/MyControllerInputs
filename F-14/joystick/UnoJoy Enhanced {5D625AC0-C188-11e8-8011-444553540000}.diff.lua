@@ -32,56 +32,8 @@ local diff = {
 				},
 			},
 		},
-		["a3178cd12"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "ACM Panel Light BRT Wheel",
-		},
-		["a3212cd26"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "AOA Indexer Light BRT Wheel",
-		},
 	},
 	["keyDiffs"] = {
-		["d3224pnilunilcd42vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "VDI Mode Norm",
-		},
-		["d3224pnilunilcd42vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "VDI Mode TV",
-		},
-		["d3225pnilunilcd42vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "VDI AWL ACL",
-		},
-		["d3225pnilunilcd42vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "VDI AWL ILS",
-		},
 		["d3226pnilu3226cd40vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -121,6 +73,22 @@ local diff = {
 				},
 			},
 			["name"] = "HSD ECM Override On, else Off",
+		},
+		["dnilp3484u3484cd30vdnilvp-0.01vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Radar Alt Control Knob CCW",
+		},
+		["dnilp3484u3484cd30vdnilvp0.01vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Radar Alt Control Knob CW",
 		},
 	},
 }

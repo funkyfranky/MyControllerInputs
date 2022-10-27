@@ -194,21 +194,69 @@ local diff = {
 			},
 			["name"] = "Right MFD OSB 20",
 		},
-		["d3025pnilunilcd19vd-1vpnilvunil"] = {
+		["d3021pnilu3021cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "HUD Brightness Control Switch - Down",
+			["name"] = "Right MFD GAIN Rocker Switch - Up/Increase",
 		},
-		["d3025pnilunilcd19vd1vpnilvunil"] = {
+		["d3022pnilu3022cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Right MFD GAIN Rocker Switch - Down/Decrease",
+		},
+		["d3023pnilu3023cd24vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Left MFD SYM Rocker Switch - Up/Increase",
+		},
+		["d3024pnilu3024cd24vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Left MFD SYM Rocker Switch - Down/Decrease",
+		},
+		["d3025pnilu3025cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "HUD Brightness Control Switch - Up",
+			["name"] = "Right MFD CON Rocker Switch - Up/Increase",
+		},
+		["d3026pnilu3026cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Right MFD CON Rocker Switch - Down/Decrease",
+		},
+		["d3027pnilu3027cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Right MFD BRT Rocker Switch - Up/Increase",
+		},
+		["d3028pnilu3028cd25vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Right MFD BRT Rocker Switch - Down/Decrease",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

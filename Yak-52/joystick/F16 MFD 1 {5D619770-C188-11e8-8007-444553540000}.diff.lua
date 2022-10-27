@@ -32,7 +32,7 @@ local diff = {
 					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Horizon Arretir",
+			["name"] = "AGI-1 Artificial Horizon Cage Button",
 		},
 		["dnilp3008unilcd5vdnilvp-0.1vunil"] = {
 			["added"] = {
@@ -40,7 +40,7 @@ local diff = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "Heading Indicator - Course Selector DECREASE",
+			["name"] = "HSI Course Set Knob, Decrease",
 		},
 		["dnilp3008unilcd5vdnilvp0.1vunil"] = {
 			["added"] = {
@@ -48,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "Heading Indicator - Course Selector INCREASE",
+			["name"] = "HSI Course Set Knob, Increase",
 		},
 	},
 }

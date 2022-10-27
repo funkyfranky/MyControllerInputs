@@ -81,7 +81,7 @@ local diff = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Start Engine",
+			["name"] = "START ENGINE",
 		},
 		["d3017pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -485,38 +485,6 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-		},
-		["dnilp3359unilcd25vdnilvp-0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "RSBN nav chnl -",
-		},
-		["dnilp3359unilcd25vdnilvp0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "RSBN nav chnl +",
-		},
-		["dnilp3360unilcd25vdnilvp-0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "RSBN land chnl -",
-		},
-		["dnilp3360unilcd25vdnilvp0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "RSBN land chnl +",
 		},
 		["dnilp33u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Right slow",

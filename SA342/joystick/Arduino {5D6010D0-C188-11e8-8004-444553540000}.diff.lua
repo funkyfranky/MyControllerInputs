@@ -114,22 +114,6 @@ local diff = {
 			},
 			["name"] = "Roof Lamp Low/Normal Button",
 		},
-		["d3005pnilu3005cd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "TV On/Off Switch",
-		},
-		["d3005pnilu3005cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "VHF Radio 250/500 kHz Toggle",
-		},
 		["d3005pnilu3006cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -145,14 +129,6 @@ local diff = {
 				},
 			},
 			["name"] = "Clock reset",
-		},
-		["d3008pnilu3009cd24vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "RWR OFF/ON",
 		},
 		["d3011pnilu3011cd15vd1vpnilvu0"] = {
 			["added"] = {
@@ -224,22 +200,6 @@ local diff = {
 				},
 			},
 			["name"] = "Strobe Lights Attenuated",
-		},
-		["d3049pnilu3050cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Starter ON",
-		},
-		["d3051pnilu3050cd2vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Starter Ventilation",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Gun or Rockets",
