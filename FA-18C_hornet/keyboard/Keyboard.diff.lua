@@ -351,27 +351,6 @@ local diff = {
 			},
 			["name"] = "Toggle goggles",
 		},
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "P",
-					["reformers"] = {
-						[1] = "LCtrl",
-						[2] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Active Pause",
-			["removed"] = {
-				[1] = {
-					["key"] = "Pause",
-					["reformers"] = {
-						[1] = "LShift",
-						[2] = "LWin",
-					},
-				},
-			},
-		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
