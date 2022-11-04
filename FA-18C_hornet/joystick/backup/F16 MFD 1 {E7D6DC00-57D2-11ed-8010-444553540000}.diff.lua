@@ -160,22 +160,6 @@ local diff = {
 			},
 			["name"] = "Left MDI PB 20",
 		},
-		["d3035pnilunilcd25vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "UFC ADF Function Select Switch - Down",
-		},
-		["d3035pnilunilcd25vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "UFC ADF Function Select Switch - Up",
-		},
 		["d3041pnilunilcd35vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -191,60 +175,6 @@ local diff = {
 				},
 			},
 			["name"] = "Left MDI Brightness Selector Knob - CW/Right",
-		},
-		["dnilp210u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_UR",
-				},
-			},
-		},
-		["dnilp211u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_DR",
-				},
-			},
-		},
-		["dnilp212u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_DL",
-				},
-			},
-		},
-		["dnilp213u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_UL",
-				},
-			},
-		},
-		["dnilp3040unilcd25vdnilvp-0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "UFC Brightness Control Knob - CCW/Decrease",
-		},
-		["dnilp3040unilcd25vdnilvp0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-					["reformers"] = {
-						[1] = "Mail",
-					},
-				},
-			},
-			["name"] = "UFC Brightness Control Knob - CW/Increase",
 		},
 		["dnilp3042unilcd35vdnilvp-0.5vunil"] = {
 			["added"] = {
@@ -262,37 +192,21 @@ local diff = {
 			},
 			["name"] = "Left MDI Brightness Control Knob - CW/Increase",
 		},
-		["dnilp32u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Left slow",
-			["removed"] = {
+		["dnilp3044unilcd35vdnilvp-0.5vunil"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN24",
 				},
 			},
+			["name"] = "Left MDI Contrast Control Knob - CCW/Decrease",
 		},
-		["dnilp33u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Right slow",
-			["removed"] = {
+		["dnilp3044unilcd35vdnilvp0.5vunil"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
+					["key"] = "JOY_BTN23",
 				},
 			},
-		},
-		["dnilp34u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
-				},
-			},
-		},
-		["dnilp35u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
-				},
-			},
+			["name"] = "Left MDI Contrast Control Knob - CW/Increase",
 		},
 	},
 }

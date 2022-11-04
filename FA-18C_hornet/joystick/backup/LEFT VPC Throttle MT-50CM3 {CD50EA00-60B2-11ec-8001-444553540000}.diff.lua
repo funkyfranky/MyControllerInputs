@@ -35,20 +35,22 @@ local diff = {
 		["a2005cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RZ",
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0.04,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = true,
+					},
+					["key"] = "JOY_RX",
 				},
 			},
 			["name"] = "Thrust Left",
 		},
 		["a2006cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Thrust Right",
-		},
-		["a3016cd11"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -61,19 +63,27 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
-					["key"] = "JOY_SLIDER1",
+					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "Defog Handle",
+			["name"] = "Thrust Right",
+		},
+		["a3026cd13"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "Radar Elevation Control",
 		},
 		["a3043cd13"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.3,
+							[1] = -0.15,
 						},
-						["deadzone"] = 0.1,
+						["deadzone"] = 0.05,
 						["invert"] = true,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
@@ -82,16 +92,16 @@ local diff = {
 					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Throttle Designator Controller - Vertical Axis",
+			["name"] = "Throttle Designator Controller - VERTICAL AXIS",
 		},
 		["a3044cd13"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.3,
+							[1] = 0.15,
 						},
-						["deadzone"] = 0.1,
+						["deadzone"] = 0.05,
 						["invert"] = false,
 						["saturationX"] = 1,
 						["saturationY"] = 1,
@@ -100,38 +110,54 @@ local diff = {
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "Throttle Designator Controller - Horizontal Axis",
+			["name"] = "Throttle Designator Controller - HORIZONTAL AXIS",
 		},
 	},
 	["keyDiffs"] = {
-		["d1587pnilunilcdnilvdnilvpnilvunil"] = {
+		["d3001pnilu3001cd33vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN38",
 				},
 			},
-			["name"] = "Kneeboard ON/OFF",
+			["name"] = "IFEI Mode Button",
 		},
-		["d3003pnilu3003cd8vd-1vpnilvu0"] = {
+		["d3002pnilu3002cd33vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN39",
 				},
 			},
-			["name"] = "STROBE Lights Switch - DIM/OFF",
+			["name"] = "IFEI QTY Button",
 		},
-		["d3003pnilu3003cd8vd1vpnilvu0"] = {
+		["d3003pnilu3003cd33vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN40",
 				},
 			},
-			["name"] = "STROBE Lights Switch - BRT/OFF",
+			["name"] = "IFEI Up Arrow Button",
+		},
+		["d3004pnilu3004cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "IFEI Down Arrow Button",
+		},
+		["d3005pnilu3005cd33vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "IFEI ZONE Button",
 		},
 		["d3006pnilu3006cd33vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN26",
+					["key"] = "JOY_BTN42",
 				},
 			},
 			["name"] = "IFEI ET Button",
@@ -139,31 +165,31 @@ local diff = {
 		["d3008pnilu3008cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN21",
+					["key"] = "JOY_BTN50",
 				},
 			},
 			["name"] = "MASTER CAUTION Reset Button",
 		},
-		["d3024pnilu3024cd13vd1vpnilvu0"] = {
+		["d3017pnilunilcd12vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN53",
 				},
 			},
-			["name"] = "Radar Elevation Control - Up",
+			["name"] = "APU Fire Warning/Extinguisher Light Switch - PRESS/RELEASE",
 		},
-		["d3025pnilu3025cd13vd1vpnilvu0"] = {
+		["d3023pnilu3023cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Radar Elevation Control - Down",
+			["name"] = "Throttle Designator Controller - DEPRESS",
 		},
 		["d3027pnilu3027cd13vd0.2vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "COMM Switch - COMM 1 (call radio menu)",
@@ -171,7 +197,7 @@ local diff = {
 		["d3028pnilu3028cd13vd0.4vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN19",
 				},
 			},
 			["name"] = "COMM Switch - COMM 2 (call radio menu)",
@@ -179,7 +205,7 @@ local diff = {
 		["d3029pnilu3029cd13vd0.6vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "COMM Switch - MIDS A",
@@ -187,15 +213,26 @@ local diff = {
 		["d3030pnilu3030cd13vd0.8vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "COMM Switch - MIDS B",
 		},
+		["d3031pnilu3031cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Cage/Uncage Button",
+		},
 		["d3032pnilu3032cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN22",
+				},
+				[2] = {
+					["key"] = "JOY_BTN26",
 				},
 			},
 			["name"] = "Dispense Switch - Forward(CHAFF)/Center(OFF)",
@@ -203,39 +240,47 @@ local diff = {
 		["d3033pnilu3033cd13vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "Dispense Switch - Aft(FLARE)/Center(OFF)",
 		},
+		["d3034pnilu3034cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "RAID/FLIR FOV Select Button",
+		},
 		["d3035pnilu3035cd13vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN31",
 				},
 			},
 			["name"] = "Speed Brake Switch - EXTEND",
 		},
-		["d3035pnilu3035cd13vd1vpnilvu0"] = {
+		["d3035pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN29",
 				},
 			},
-			["name"] = "Speed Brake Switch - RETRACT/OFF",
+			["name"] = "Speed Brake Switch - RETRACT",
 		},
-		["d3040pnilu3040cd13vd1vpnilvu0"] = {
+		["d3037pnilu3037cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "Throttle Finger Lift (Both) - UP/DOWN",
+			["name"] = "ATC Engage/Disengage Switch",
 		},
 		["d3041pnilunilcd13vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "Exterior Lights Switch - OFF",
@@ -243,90 +288,50 @@ local diff = {
 		["d3041pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "Exterior Lights Switch - ON",
 		},
+		["d3042pnilunilcd13vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Exterior Lights Switch - ON/OFF",
+		},
 		["d313pnilu311cdnilvd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN30",
+					["key"] = "JOY_BTN80",
 				},
 			},
-			["name"] = "Throttle (Left) - OFF/IDLE",
+			["name"] = "Throttle (Left) - OFF(hold)<>IDLE",
 		},
 		["d314pnilu312cdnilvd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN29",
+					["key"] = "JOY_BTN81",
 				},
 			},
-			["name"] = "Throttle (Right) - OFF/IDLE",
+			["name"] = "Throttle (Right) - OFF(hold)<>IDLE",
 		},
-		["dnilp210u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up Right slow",
-			["removed"] = {
+		["dnilp3008unilcd33vdnilvp-0.5vunil"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_UR",
+					["key"] = "JOY_BTN51",
 				},
 			},
+			["name"] = "IFEI Brightness Control Knob - CCW/Decrease",
 		},
-		["dnilp211u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down Right slow",
-			["removed"] = {
+		["dnilp3008unilcd33vdnilvp0.5vunil"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_DR",
+					["key"] = "JOY_BTN52",
 				},
 			},
-		},
-		["dnilp212u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_DL",
-				},
-			},
-		},
-		["dnilp213u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_UL",
-				},
-			},
-		},
-		["dnilp32u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
-				},
-			},
-		},
-		["dnilp33u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
-				},
-			},
-		},
-		["dnilp34u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
-				},
-			},
-		},
-		["dnilp35u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
-				},
-			},
+			["name"] = "IFEI Brightness Control Knob - CW/Increase",
 		},
 	},
 }

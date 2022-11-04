@@ -17,22 +17,12 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
-			["changed"] = {
+			["name"] = "Rudder",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0.05,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Rudder",
 		},
 		["a2004cdnil"] = {
 			["name"] = "Thrust",
@@ -42,44 +32,64 @@ local diff = {
 				},
 			},
 		},
-		["a2112cdnil"] = {
+		["a3006cd8"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "Wheel Brake Left",
+			["name"] = "POSITION Lights Dimmer Control",
 		},
-		["a2113cdnil"] = {
+		["a3008cd8"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Wheel Brake Right",
+			["name"] = "FORMATION Lights Dimmer Control",
 		},
 	},
 	["keyDiffs"] = {
+		["d3002pnilu3002cd12vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Engine Crank Switch - Cycle Left",
+		},
+		["d3003pnilu3003cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Engine Crank Switch - Cycle Right",
+		},
+		["d3006pnilu3006cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Fire and Bleed Air Test Switch - TEST A",
+		},
+		["d3007pnilu3007cd12vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Fire and Bleed Air Test Switch - TEST B",
+		},
+		["d83pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Eject (3 times)",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
@@ -111,6 +121,22 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3002unilcd30vdnilvp-0.02vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Push to Test Switch - CCW/Decrease",
+		},
+		["dnilp3002unilcd30vdnilvp0.02vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Push to Test Switch - CW/Increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

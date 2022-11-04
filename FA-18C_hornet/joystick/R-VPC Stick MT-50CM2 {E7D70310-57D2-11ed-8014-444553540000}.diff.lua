@@ -4,14 +4,6 @@ local diff = {
 			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-		},
-		["a2004cdnil"] = {
-			["name"] = "Thrust",
-			["removed"] = {
-				[1] = {
 					["key"] = "JOY_Z",
 				},
 			},
@@ -21,7 +13,7 @@ local diff = {
 		["d3002pnilu3002cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "Gun Trigger - SECOND DETENT (Press to shoot)",
@@ -29,7 +21,7 @@ local diff = {
 		["d3003pnilu3003cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN12",
 				},
 			},
 			["name"] = "Weapon Release Button",
@@ -37,7 +29,7 @@ local diff = {
 		["d3004pnilu3004cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "RECCE Event Mark Switch",
@@ -45,7 +37,7 @@ local diff = {
 		["d3005pnilu3005cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Sensor Control Switch - Fwd",
@@ -53,7 +45,7 @@ local diff = {
 		["d3006pnilu3006cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "Sensor Control Switch - Aft",
@@ -61,7 +53,7 @@ local diff = {
 		["d3007pnilu3007cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN11",
 				},
 			},
 			["name"] = "Sensor Control Switch - Left",
@@ -69,7 +61,7 @@ local diff = {
 		["d3008pnilu3008cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "Sensor Control Switch - Right",
@@ -77,7 +69,7 @@ local diff = {
 		["d3009pnilu3009cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN29",
 				},
 			},
 			["name"] = "Select Sparrow",
@@ -85,7 +77,7 @@ local diff = {
 		["d3010pnilu3010cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
+					["key"] = "JOY_BTN26",
 				},
 			},
 			["name"] = "Select Gun",
@@ -93,7 +85,7 @@ local diff = {
 		["d3011pnilu3011cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Select AMRAAM",
@@ -101,7 +93,7 @@ local diff = {
 		["d3012pnilu3012cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Select Sidewinder",
@@ -109,7 +101,7 @@ local diff = {
 		["d3013pnilu3013cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN30",
 				},
 			},
 			["name"] = "Undesignate/Nose Wheel Steer Switch",
@@ -117,87 +109,23 @@ local diff = {
 		["d3018pnilu3018cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN31",
 				},
 			},
 			["name"] = "Autopilot/Nosewheel Steering Disengage (Paddle) Switch",
 		},
-		["d3023pnilu3023cd13vd1vpnilvu0"] = {
+		["d3045pnilu3045cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Throttle Designator Controller - Depress",
-		},
-		["d3031pnilu3031cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Cage/Uncage Button",
-		},
-		["d3034pnilu3034cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "RAID/FLIR FOV Select Button",
-		},
-		["d3037pnilu3037cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "ATC Engage/Disengage Switch",
-		},
-		["d3045pnilu3045cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
 			["name"] = "Sensor Control Switch - Depress",
-		},
-		["dnilp210u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_UR",
-				},
-			},
-		},
-		["dnilp211u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_DR",
-				},
-			},
-		},
-		["dnilp212u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_DL",
-				},
-			},
-		},
-		["dnilp213u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_UL",
-				},
-			},
 		},
 		["dnilp3014u3014cd13vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Trimmer Switch - PULL(CLIMB)",
@@ -205,7 +133,7 @@ local diff = {
 		["dnilp3015u3015cd13vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
+					["key"] = "JOY_BTN14",
 				},
 			},
 			["name"] = "Trimmer Switch - PUSH(DESCEND)",
@@ -213,7 +141,7 @@ local diff = {
 		["dnilp3016u3016cd13vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "Trimmer Switch - LEFT WING DOWN",
@@ -221,42 +149,10 @@ local diff = {
 		["dnilp3017u3017cd13vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
+					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "Trimmer Switch - RIGHT WING DOWN",
-		},
-		["dnilp32u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_L",
-				},
-			},
-		},
-		["dnilp33u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_R",
-				},
-			},
-		},
-		["dnilp34u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_U",
-				},
-			},
-		},
-		["dnilp35u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN_POV1_D",
-				},
-			},
 		},
 	},
 }

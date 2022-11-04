@@ -17,22 +17,12 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
-			["changed"] = {
+			["name"] = "Rudder",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0.05,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Rudder",
 		},
 		["a2004cdnil"] = {
 			["name"] = "Thrust",
@@ -42,7 +32,7 @@ local diff = {
 				},
 			},
 		},
-		["a2112cdnil"] = {
+		["a3042cd37"] = {
 			["added"] = {
 				[1] = {
 					["filter"] = {
@@ -55,31 +45,96 @@ local diff = {
 						["saturationY"] = 1,
 						["slider"] = false,
 					},
-					["key"] = "JOY_X",
+					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "Wheel Brake Left",
-		},
-		["a2113cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Wheel Brake Right",
+			["name"] = "AMPCD Off/Brightness Control Knob",
 		},
 	},
 	["keyDiffs"] = {
+		["d3002pnilu3002cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "T/O TRIM Button",
+		},
+		["d3002pnilu3002cd32vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "SAI Cage Knob - PULL",
+		},
+		["d3004pnilu3004cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "FCS BIT Switch",
+		},
+		["d3008pnilu3008cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "AV COOL Switch - EMERG/NORM",
+		},
+		["d3009pnilu3009cd11vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Windshield Anti-Ice/Rain 3-pos Switch: RAIN<>OFF",
+		},
+		["d3009pnilu3009cd11vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Windshield Anti-Ice/Rain 3-pos Switch: ANTI ICE<>OFF",
+		},
+		["d3009pnilu3009cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Spin Recovery Switch: RCVY<>NORM",
+		},
+		["d3010pnilu3010cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+					["reformers"] = {
+						[1] = "MediaSelect",
+					},
+				},
+			},
+			["name"] = "Selective Jettison Pushbutton",
+		},
+		["d3013pnilu3013cd23vd0vpnilvu0.1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "IR Cooling Switch OFF/NORM",
+		},
+		["d3018pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Spin Recovery Switch Cover - OPEN/CLOSE",
+		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
