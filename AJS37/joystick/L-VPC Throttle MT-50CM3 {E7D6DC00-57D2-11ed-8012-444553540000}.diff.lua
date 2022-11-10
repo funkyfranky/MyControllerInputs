@@ -1,29 +1,5 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["name"] = "Pitch",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-		},
-		["a2002cdnil"] = {
-			["name"] = "Roll",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-		},
-		["a2003cdnil"] = {
-			["name"] = "Rudder",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-		},
 		["a2004cdnil"] = {
 			["added"] = {
 				[1] = {
@@ -41,11 +17,6 @@ local diff = {
 				},
 			},
 			["name"] = "Thrust",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
 		},
 		["a3641cd5"] = {
 			["added"] = {
@@ -116,7 +87,7 @@ local diff = {
 		["d3004pnilu3004cd18vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN81",
+					["key"] = "JOY_BTN87",
 				},
 			},
 			["name"] = "High-pressure Fuel Valve (hold- cut off)",
@@ -230,6 +201,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN91",
 				},
+				[2] = {
+					["key"] = "JOY_BTN80",
+				},
 			},
 			["name"] = "Canopy Open/Center",
 		},
@@ -237,6 +211,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN95",
+				},
+				[2] = {
+					["key"] = "JOY_BTN81",
 				},
 			},
 			["name"] = "Canopy Close/Center",

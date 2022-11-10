@@ -11,6 +11,18 @@ local diff = {
 			},
 			["name"] = "Frame rate counter - Service info",
 		},
+		["d1686pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "B",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "BDA show/hide",
+		},
 		["d216pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -25,6 +37,18 @@ local diff = {
 				},
 			},
 			["name"] = "recenter VR Headset",
+		},
+		["d257pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "S",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "Make Screenshot",
 		},
 		["d52pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -42,6 +66,25 @@ local diff = {
 					["key"] = "Pause",
 				},
 			},
+		},
+		["d816pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "P",
+					["reformers"] = {
+						[1] = "LWin",
+						[2] = "RWin",
+					},
+				},
+				[2] = {
+					["key"] = "P",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "Active Pause",
 		},
 	},
 }

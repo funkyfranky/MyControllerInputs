@@ -267,18 +267,6 @@ local diff = {
 			},
 			["name"] = "Data panel RENSA cover",
 		},
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "P",
-					["reformers"] = {
-						[1] = "LCtrl",
-						[2] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Active Pause",
-		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

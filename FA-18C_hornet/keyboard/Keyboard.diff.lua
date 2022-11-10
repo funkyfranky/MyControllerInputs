@@ -112,17 +112,6 @@ local diff = {
 				},
 			},
 		},
-		["d238pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "U",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Pilot Salute",
-		},
 		["d3002pnilu3002cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
