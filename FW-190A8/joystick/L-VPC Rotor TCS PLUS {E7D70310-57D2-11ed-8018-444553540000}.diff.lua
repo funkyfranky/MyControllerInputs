@@ -16,15 +16,21 @@ local diff = {
 				},
 			},
 		},
-	},
-	["keyDiffs"] = {
-		["d3027pnilu3027cd13vd0.2vpnilvu0"] = {
-			["added"] = {
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "COMM Switch - COMM 1 (call radio menu)",
+		},
+		["a3003cd2"] = {
+			["name"] = "Throttle",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
 		},
 	},
 }

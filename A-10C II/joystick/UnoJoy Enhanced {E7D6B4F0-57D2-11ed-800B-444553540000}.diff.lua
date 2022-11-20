@@ -290,14 +290,6 @@ local diff = {
 				},
 			},
 		},
-		["d573pnilu576cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "HOTAS MIC Switch Down (call radio menu)",
-		},
 		["d910pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

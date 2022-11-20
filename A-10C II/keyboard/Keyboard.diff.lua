@@ -1464,18 +1464,6 @@ local diff = {
 			},
 			["name"] = "AC generator power right",
 		},
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "P",
-					["reformers"] = {
-						[1] = "LCtrl",
-						[2] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Active Pause",
-		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
