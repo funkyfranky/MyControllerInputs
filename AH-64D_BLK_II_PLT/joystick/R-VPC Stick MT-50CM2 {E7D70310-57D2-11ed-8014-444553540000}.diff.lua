@@ -1,5 +1,13 @@
 local diff = {
 	["axisDiffs"] = {
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
 		["a3042cd25"] = {
 			["added"] = {
 				[1] = {
@@ -134,7 +142,7 @@ local diff = {
 			},
 			["name"] = "Weapons Action Switch - M/Right",
 		},
-		["d3012pnilunilcd25vd1vpnilvunil"] = {
+		["d3012pnilu3012cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN19",
@@ -142,7 +150,7 @@ local diff = {
 			},
 			["name"] = "Symbology Select Switch - Up",
 		},
-		["d3013pnilunilcd25vd-1vpnilvunil"] = {
+		["d3013pnilu3013cd25vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",

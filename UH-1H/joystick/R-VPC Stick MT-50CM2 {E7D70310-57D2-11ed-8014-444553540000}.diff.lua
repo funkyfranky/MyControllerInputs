@@ -1,4 +1,14 @@
 local diff = {
+	["axisDiffs"] = {
+		["a2003cdnil"] = {
+			["name"] = "Flight Control Yaw (pedals)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
+	},
 	["keyDiffs"] = {
 		["d3003pnilunilcd41vd1vpnilvunil"] = {
 			["added"] = {

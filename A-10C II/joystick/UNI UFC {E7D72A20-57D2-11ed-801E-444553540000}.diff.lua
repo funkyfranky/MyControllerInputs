@@ -114,6 +114,38 @@ local diff = {
 			},
 			["name"] = "UFC 0 Key",
 		},
+		["d1305pnilu1305cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "UFC SPC Key",
+		},
+		["d1306pnilu1306cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "UFC HACK Key",
+		},
+		["d1307pnilu1307cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "UFC FUNC Key",
+		},
+		["d1308pnilu1308cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "UFC LTR Key",
+		},
 		["d1309pnilu1309cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -130,6 +162,22 @@ local diff = {
 			},
 			["name"] = "UFC ENT Key",
 		},
+		["d1311pnilu1311cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "UFC MK Key",
+		},
+		["d1312pnilu1312cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "UFC ALT Key",
+		},
 		["d1314pnilu1314cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -145,6 +193,78 @@ local diff = {
 				},
 			},
 			["name"] = "UFC STEER DOWN Rocker switch",
+		},
+		["d1316pnilu1316cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "UFC DATA UP Rocker switch",
+		},
+		["d1317pnilu1317cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "UFC DATA DOWN Rocker switch",
+		},
+		["d1399pnilu1399cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "NMSP HARS button",
+		},
+		["d1400pnilu1400cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "NMSP EGI button",
+		},
+		["d1401pnilu1401cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "NMSP TISL button",
+		},
+		["d1402pnilu1402cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "NMSP STR PT button",
+		},
+		["d1403pnilu1403cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "NMSP ANCHR button",
+		},
+		["d1404pnilu1404cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "NMSP TCN button",
+		},
+		["d1405pnilu1405cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "NMSP ILS button",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",
@@ -167,6 +287,14 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
+				},
+			},
+		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "View Center",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
 				},
 			},
 		},

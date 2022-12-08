@@ -24,8 +24,64 @@ local diff = {
 				},
 			},
 		},
+		["a2012cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Zoom View",
+		},
 	},
 	["keyDiffs"] = {
+		["d1394pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Anti-Skid ON/OFF",
+		},
+		["d1396pnilu1397cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Lights Landing/Off",
+		},
+		["d1398pnilu1397cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Lights Taxi/Off",
+		},
+		["d3004pnilu3004cd7vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "TGP On/Off",
+		},
+		["d3008pnilu3008cd7vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "CICU On/Off",
+		},
+		["d3009pnilu3009cd7vd1vpnilvu-1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "JTRS Datalink On/Off",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",
 			["removed"] = {

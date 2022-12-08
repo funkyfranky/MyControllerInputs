@@ -17,7 +17,7 @@ local diff = {
 			},
 		},
 		["a2003cdnil"] = {
-			["name"] = "Flight Control Rudder",
+			["name"] = "Flight Control Yaw (pedals)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
@@ -158,7 +158,7 @@ local diff = {
 					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "UHF Radio 1MHz Decrease",
+			["name"] = "UHF Radio 1MHz Increase",
 		},
 		["d3013pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
@@ -166,7 +166,7 @@ local diff = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "UHF Radio 1MHz Increase",
+			["name"] = "UHF Radio 1MHz Decrease",
 		},
 		["d3014pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {
@@ -174,7 +174,7 @@ local diff = {
 					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "UHF Radio 50kHz Decrease",
+			["name"] = "UHF Radio 50kHz Increase",
 		},
 		["d3014pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
@@ -182,7 +182,7 @@ local diff = {
 					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "UHF Radio 50kHz Increase",
+			["name"] = "UHF Radio 50kHz Decrease",
 		},
 		["d3016pnilu3016cd3vd0vpnilvu1"] = {
 			["added"] = {

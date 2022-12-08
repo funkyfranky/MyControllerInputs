@@ -10,6 +10,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1313pnilu1313cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "UFC Master Caution Key",
+		},
 		["d1374pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -33,6 +41,30 @@ local diff = {
 				},
 			},
 			["name"] = "Master switch TRAIN",
+		},
+		["d1377pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "GUN/PAC switch ARM",
+		},
+		["d1378pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "GUN/PAC switch SAFE",
+		},
+		["d1379pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "GUN/PAC switch GUNARM",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",

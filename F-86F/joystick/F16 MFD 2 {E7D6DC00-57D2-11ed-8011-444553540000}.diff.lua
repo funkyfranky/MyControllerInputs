@@ -74,14 +74,6 @@ local diff = {
 				},
 			},
 		},
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Active Pause",
-		},
 		["d835pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

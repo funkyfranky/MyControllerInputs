@@ -22,5 +22,31 @@ local diff = {
 			["name"] = "Throttle",
 		},
 	},
+	["keyDiffs"] = {
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "COMM Communication menu",
+		},
+		["d3014pnilu3014cd20vd1vpnilvu0"] = {
+			["name"] = "Bomb Release (B2)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["name"] = "Fire Cannons - Outer Wing (B)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+	},
 }
 return diff

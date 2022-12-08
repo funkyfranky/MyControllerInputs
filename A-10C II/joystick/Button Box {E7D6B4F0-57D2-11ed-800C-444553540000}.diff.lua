@@ -106,13 +106,53 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1374pnilu1375cdnilvdnilvpnilvunil"] = {
+		["d1057pnilu1566cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Master switch ARM/SAFE",
+			["name"] = "Left Engine Oper 3-pos Switch : IGN<>NORM",
+		},
+		["d1059pnilu1564cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Left Engine Oper 3-pos Switch : MOTOR<>NORM",
+		},
+		["d1060pnilu1567cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Right Engine Oper 3-pos Switch : IGN<>NORM",
+		},
+		["d1062pnilu1565cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Right Engine Oper 3-pos Switch : MOTOR<>NORM",
+		},
+		["d1074pnilu1075cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Inverter STBY/OFF",
+		},
+		["d1076pnilu1075cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Inverter TEST/OFF",
 		},
 		["d1376pnilu1375cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -122,38 +162,6 @@ local diff = {
 			},
 			["name"] = "Master switch TRAIN/SAFE",
 		},
-		["d1377pnilu1378cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "GUN/PAC switch ARM/SAFE",
-		},
-		["d1379pnilu1378cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "GUN/PAC switch GUNARM/SAFE",
-		},
-		["d1380pnilu1381cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "LASER switch ARM/SAFE",
-		},
-		["d1382pnilu1381cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "LASER switch TRAIN/SAFE",
-		},
 		["d1384pnilu1386cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -161,14 +169,6 @@ local diff = {
 				},
 			},
 			["name"] = "ALT SCE switch BARO/RADAR",
-		},
-		["d1391pnilu1392cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "IFFCC switch ON/TEST",
 		},
 		["d1393pnilu1392cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -178,40 +178,37 @@ local diff = {
 			},
 			["name"] = "IFFCC switch OFF/TEST",
 		},
-		["d1396pnilu1397cdnilvdnilvpnilvunil"] = {
+		["d3001pnilu3001cd1vd1vpnilvu-1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
+					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Lights Landing/Off",
+			["name"] = "APU Generator On/Off",
 		},
-		["d1398pnilunilcdnilvdnilvpnilvunil"] = {
+		["d3004pnilu3004cd1vd1vpnilvu-1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Taxi Lights On",
+			["name"] = "AC Generator Left Power/Off",
 		},
-		["d1436pnilunilcdnilvdnilvpnilvunil"] = {
+		["d3005pnilu3005cd1vd1vpnilvu-1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "RWin",
-					},
+					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "TACAN Mode X/Y Switch",
+			["name"] = "AC Generator Right Power/Off",
 		},
-		["d3004pnilu3004cd7vd1vpnilvu-1"] = {
+		["d3006pnilu3006cd1vd1vpnilvu-1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN20",
 				},
 			},
-			["name"] = "TGP On/Off",
+			["name"] = "Battery On/Off",
 		},
 		["d3006pnilu3006cd7vd1vpnilvu-1"] = {
 			["added"] = {
@@ -221,21 +218,13 @@ local diff = {
 			},
 			["name"] = "HUD Mode Day/Night",
 		},
-		["d3008pnilu3008cd7vd1vpnilvu-1"] = {
+		["d3007pnilu3007cd49vd1vpnilvu-1"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "CICU On/Off",
-		},
-		["d3009pnilu3009cd7vd1vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "JTRS Datalink On/Off",
+			["name"] = "Emergency Foodlight On/Off",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",

@@ -169,6 +169,14 @@ local diff = {
 			},
 			["name"] = "Emergency Disconnect Lever",
 		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "View Center",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+		},
 		["dnilp93u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

@@ -48,14 +48,6 @@ local diff = {
 			},
 			["name"] = "Door, Cockpit - OPEN/CLOSE",
 		},
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Active Pause",
-		},
 	},
 }
 return diff

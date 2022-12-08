@@ -34,50 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1083pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Left wing tank boost pump",
-		},
-		["d1084pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Right wing tank boost pump",
-		},
-		["d1087pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Left main tank boost pump",
-		},
-		["d1088pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Right main tank boost pump",
-		},
 		["d1097pnilu1097cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -260,14 +216,6 @@ local diff = {
 				},
 			},
 			["name"] = "CMSP DISP ON/OFF",
-		},
-		["d1394pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Anti-Skid ON/OFF",
 		},
 		["d1425pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

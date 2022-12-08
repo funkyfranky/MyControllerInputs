@@ -44,18 +44,6 @@ local diff = {
 			},
 			["name"] = "SAFE/ARMED Switcher",
 		},
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "P",
-					["reformers"] = {
-						[1] = "LCtrl",
-						[2] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Active Pause",
-		},
 		["d84pnilu84cdnilvd1vpnilvu0"] = {
 			["name"] = "Pilot weapon release/Machinegun fire",
 			["removed"] = {

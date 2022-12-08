@@ -34,6 +34,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1055pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "APU Start",
+		},
+		["d1056pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "APU Off",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",
 			["removed"] = {
@@ -55,6 +71,22 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
+				},
+			},
+		},
+		["d62pnilu62cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN57",
+				},
+			},
+			["name"] = "LAAP Engage/Disengage",
+		},
+		["dnilp36unilcdnilvdnilvpnilvunil"] = {
+			["name"] = "View Center",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
 				},
 			},
 		},

@@ -1,4 +1,14 @@
 local diff = {
+	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["name"] = "Flight Control Cyclic Pitch",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+		},
+	},
 	["keyDiffs"] = {
 		["d3002pnilu3002cd20vd1vpnilvu0"] = {
 			["added"] = {
