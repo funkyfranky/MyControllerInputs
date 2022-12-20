@@ -16,7 +16,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Radio trigger - ICS",
+			["name"] = "Radio trigger - 1st STAGE (ICS)",
 		},
 		["d3025pnilu3025cd36vd1vpnilvu0"] = {
 			["added"] = {
@@ -24,7 +24,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Radio trigger - RADIO",
+			["name"] = "Radio trigger - 2nd STAGE (RADIO)",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN1",

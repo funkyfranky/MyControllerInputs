@@ -1,29 +1,5 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["name"] = "Pitch",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-		},
-		["a2002cdnil"] = {
-			["name"] = "Roll",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-		},
-		["a2003cdnil"] = {
-			["name"] = "Rudder",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-		},
 		["a2004cdnil"] = {
 			["added"] = {
 				[1] = {
@@ -41,11 +17,6 @@ local diff = {
 				},
 			},
 			["name"] = "Thrust",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
 		},
 		["a3032cd16"] = {
 			["added"] = {
@@ -207,7 +178,7 @@ local diff = {
 					["key"] = "JOY_BTN81",
 				},
 			},
-			["name"] = "Throttle - OFF/IDLE",
+			["name"] = "Throttle - OFF(hold)<>IDLE",
 		},
 		["dnilp3006unilcd66vdnilvp1vunil"] = {
 			["added"] = {

@@ -28,6 +28,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN93",
 				},
+				[2] = {
+					["key"] = "JOY_BTN86",
+				},
 			},
 			["name"] = "Flaps Stop",
 		},
@@ -44,6 +47,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN91",
 				},
+				[2] = {
+					["key"] = "JOY_BTN80",
+				},
 			},
 			["name"] = "Flaps Down",
 		},
@@ -51,6 +57,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN95",
+				},
+				[2] = {
+					["key"] = "JOY_BTN81",
 				},
 			},
 			["name"] = "Flaps Up",

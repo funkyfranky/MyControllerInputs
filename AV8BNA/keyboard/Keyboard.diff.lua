@@ -163,17 +163,40 @@ local diff = {
 			},
 			["name"] = "UFC ON/OFF Toggle Button",
 		},
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
+		["d438pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "P",
+					["key"] = "H",
 					["reformers"] = {
-						[1] = "LCtrl",
-						[2] = "RCtrl",
+						[1] = "RShift",
 					},
 				},
 			},
-			["name"] = "Active Pause",
+			["name"] = "Helmet Visor/NVG Toggle",
+		},
+		["d840pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "H",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RShift",
+					},
+				},
+			},
+			["name"] = "NVG Brightness Up",
+		},
+		["d841pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "H",
+					["reformers"] = {
+						[1] = "RShift",
+						[2] = "RWin",
+					},
+				},
+			},
+			["name"] = "NVG Brightness Down",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Trigger: Fire Gun/Launch Sidewinder, Sidearm",

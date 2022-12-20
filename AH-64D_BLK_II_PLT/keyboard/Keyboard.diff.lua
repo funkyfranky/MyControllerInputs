@@ -10,7 +10,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Night Vision Goggles Gain - DEC",
+			["name"] = "Gain goggles down",
 		},
 	},
 }

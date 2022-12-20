@@ -73,7 +73,7 @@ local diff = {
 		["d3004pnilu3004cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Force Trim/Hold Mode Switch - R/Up",
@@ -81,7 +81,7 @@ local diff = {
 		["d3005pnilu3005cd25vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN14",
 				},
 			},
 			["name"] = "Force Trim/Hold Mode Switch - D/Down",

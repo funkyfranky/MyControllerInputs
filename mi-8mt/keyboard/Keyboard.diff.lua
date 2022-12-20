@@ -1,16 +1,16 @@
 local diff = {
 	["keyDiffs"] = {
-		["d816pnilunilcdnilvdnilvpnilvunil"] = {
+		["dnilp841unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "P",
+					["key"] = "H",
 					["reformers"] = {
-						[1] = "LCtrl",
-						[2] = "RCtrl",
+						[1] = "RShift",
+						[2] = "RWin",
 					},
 				},
 			},
-			["name"] = "Active Pause",
+			["name"] = "Night Vision Goggles Gain - DEC",
 		},
 	},
 }

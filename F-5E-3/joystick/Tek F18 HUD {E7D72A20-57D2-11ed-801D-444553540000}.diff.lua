@@ -1,31 +1,31 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2013cdnil"] = {
-			["name"] = "Flight Control Cyclic Pitch",
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Y",
 				},
 			},
 		},
-		["a2014cdnil"] = {
-			["name"] = "Flight Control Cyclic Roll",
+		["a2002cdnil"] = {
+			["name"] = "Roll",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_X",
 				},
 			},
 		},
-		["a2015cdnil"] = {
-			["name"] = "Flight Control Rudder",
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_RZ",
 				},
 			},
 		},
-		["a2087cdnil"] = {
-			["name"] = "Flight Control Collective",
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",

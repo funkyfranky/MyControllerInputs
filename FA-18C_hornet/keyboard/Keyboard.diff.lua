@@ -332,14 +332,6 @@ local diff = {
 			},
 			["name"] = "Exterior Lights Switch - ON",
 		},
-		["d438pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "N",
-				},
-			},
-			["name"] = "Toggle goggles",
-		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",
 			["removed"] = {
@@ -480,34 +472,17 @@ local diff = {
 				},
 			},
 		},
-		["dnilp840unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "M",
-				},
-			},
-			["name"] = "Gain goggles up",
-		},
 		["dnilp841unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "H",
 					["reformers"] = {
-						[1] = "LCtrl",
-						[2] = "RAlt",
+						[1] = "RShift",
+						[2] = "RWin",
 					},
 				},
 			},
 			["name"] = "Gain goggles down",
-			["removed"] = {
-				[1] = {
-					["key"] = "H",
-					["reformers"] = {
-						[1] = "RShift",
-						[2] = "RAlt",
-					},
-				},
-			},
 		},
 	},
 }
