@@ -146,6 +146,38 @@ local diff = {
 			},
 			["name"] = "APU Fire Warning/Extinguisher Light Switch - PRESS/RELEASE",
 		},
+		["d3019pnilu3019cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Up",
+		},
+		["d3020pnilu3020cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Throttle Designator Controller - Down",
+		},
+		["d3021pnilu3021cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Throttle Designator Controller - LEFT",
+		},
+		["d3022pnilu3022cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Throttle Designator Controller - RIGHT",
+		},
 		["d3023pnilu3023cd13vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -199,19 +231,8 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN22",
 				},
-				[2] = {
-					["key"] = "JOY_BTN26",
-				},
 			},
 			["name"] = "Dispense Switch - Forward(CHAFF)/Center(OFF)",
-		},
-		["d3033pnilu3033cd13vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Dispense Switch - Aft(FLARE)/Center(OFF)",
 		},
 		["d3034pnilu3034cd13vd1vpnilvu0"] = {
 			["added"] = {
