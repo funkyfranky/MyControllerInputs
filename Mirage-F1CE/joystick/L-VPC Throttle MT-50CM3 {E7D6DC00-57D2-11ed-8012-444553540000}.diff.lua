@@ -19,5 +19,15 @@ local diff = {
 			["name"] = "Thrust",
 		},
 	},
+	["keyDiffs"] = {
+		["d3051pnilu3051cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN87",
+				},
+			},
+			["name"] = "Throttle cut/idle switch",
+		},
+	},
 }
 return diff

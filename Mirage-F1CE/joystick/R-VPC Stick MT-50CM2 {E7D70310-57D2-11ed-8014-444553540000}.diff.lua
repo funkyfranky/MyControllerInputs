@@ -26,6 +26,14 @@ local diff = {
 			},
 			["name"] = "Autopilot disengage lever",
 		},
+		["d3632pnilu3632cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "PTT button",
+		},
 		["d3633pnilu3633cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -33,6 +41,14 @@ local diff = {
 				},
 			},
 			["name"] = "Search light button",
+		},
+		["d3634pnilu3634cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Bombs, rockets, missiles and sight recorder button",
 		},
 		["d3635pnilunilcd1vd0vpnilvunil"] = {
 			["added"] = {
