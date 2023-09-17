@@ -10,6 +10,30 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3005pnilunilcd21vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Gun Sight Smoked Screen (toggle)",
+		},
+		["d3012pnilu3012cd8vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Trim Elevator Up",
+		},
+		["d3012pnilu3012cd8vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Trim Elevator Down",
+		},
 		["d3014pnilu3014cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -22,6 +46,14 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
+		},
+		["d3015pnilu3015cd20vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "Gun Camera (T)",
 		},
 		["d3019pnilunilcd20vd1vpnilvunil"] = {
 			["added"] = {

@@ -263,25 +263,6 @@ local diff = {
 			},
 			["name"] = "VHF FM Frequency Mode TK",
 		},
-		["d1487pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "VHF AM Frequency Mode OFF",
-		},
-		["d1488pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "VHF AM Frequency Mode TK",
-		},
 		["d1508pnilu1508cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

@@ -18,6 +18,48 @@ local diff = {
 			},
 			["name"] = "Thrust",
 		},
+		["a3321cd5"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.2,
+						},
+						["deadzone"] = 0.06,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Radar stick horizontal",
+		},
+		["a3322cd5"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.2,
+						},
+						["deadzone"] = 0.05,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Radar stick vertical",
+		},
 		["a3641cd5"] = {
 			["added"] = {
 				[1] = {
@@ -64,6 +106,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN32",
+				},
+				[2] = {
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "A2 Mode",
@@ -218,6 +263,14 @@ local diff = {
 			},
 			["name"] = "Canopy Close/Center",
 		},
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon Release",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
 		["d3601pnilu3601cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -249,6 +302,54 @@ local diff = {
 				},
 			},
 			["name"] = "Anti Jamming Mode (AS) Selector Up (test)",
+		},
+		["dnilp3306unilcd22vdnilvp-0.003vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN45",
+				},
+			},
+			["name"] = "Altimeter setting Finest - Down",
+		},
+		["dnilp3306unilcd22vdnilvp0.003vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN44",
+				},
+			},
+			["name"] = "Altimeter setting Finest - Up",
+		},
+		["dnilp3404u3404cd22vdnilvp-1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Seat Adjustment - Up",
+		},
+		["dnilp3404u3404cd22vdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Seat Adjustment - Down",
+		},
+		["dnilp3721unilcd22vdnilvp-0.005vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Backup Altimeter Setting Down - Slow",
+		},
+		["dnilp3721unilcd22vdnilvp0.005vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "Backup Altimeter Setting Up - Slow",
 		},
 	},
 }

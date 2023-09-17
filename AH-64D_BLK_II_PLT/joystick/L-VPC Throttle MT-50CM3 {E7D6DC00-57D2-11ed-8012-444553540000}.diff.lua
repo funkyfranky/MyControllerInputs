@@ -98,13 +98,13 @@ local diff = {
 			},
 			["name"] = "L TIP Station Select Pushbutton - ARM/SAFE",
 		},
-		["d3010pnilunilcd40vd1vpnilvunil"] = {
+		["d3006pnilu3006cd77vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN43",
 				},
 			},
-			["name"] = "IHADSS show",
+			["name"] = "R TIP Station Select Pushbutton - ARM/SAFE",
 		},
 		["d3018pnilu3018cd11vd1vpnilvu0"] = {
 			["added"] = {
@@ -197,7 +197,7 @@ local diff = {
 		["d313pnilu311cdnilvd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN80",
+					["key"] = "JOY_BTN88",
 				},
 			},
 			["name"] = "Power Lever (Left) - OFF(hold)<>IDLE",
@@ -205,7 +205,7 @@ local diff = {
 		["d314pnilu312cdnilvd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN81",
+					["key"] = "JOY_BTN87",
 				},
 			},
 			["name"] = "Power Lever (Right) - OFF(hold)<>IDLE",

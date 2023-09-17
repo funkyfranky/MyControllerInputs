@@ -32,48 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd21"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "A-4 Sight Radar Range Sweep Rheostat",
-		},
-		["a3049cd5"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "A-4 Sight Bombing Altimeter Index Altitude Handle",
-		},
-		["a3050cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "A-4 Sight Bombing Altimeter Target Altitude Knob",
-		},
-		["a3052cd5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Manual Pip Control Knob",
-		},
 	},
 	["keyDiffs"] = {
 		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
@@ -84,117 +42,104 @@ local diff = {
 				},
 			},
 		},
-		["d3002pnilu3002cd1vd1vpnilvu-1"] = {
+		["d3001pnilunilcd1vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN17_OFF",
 				},
 			},
-			["name"] = "Instrument Power Switch Alternate/Normal",
+			["name"] = "Battery-Starter Switch - OFF",
 		},
-		["d3003pnilu3003cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Pitot Heater Switch On/Off",
-		},
-		["d3003pnilu3003cd2vd1vpnilvu0"] = {
+		["d3001pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "Flight Control Switch Alternate/Normal",
+			["name"] = "Battery-Starter Switch - BATTERY",
 		},
-		["d3003pnilu3003cd5vd1vpnilvu-1"] = {
+		["d3001pnilunilcd4vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN11_OFF",
 				},
 			},
-			["name"] = "Gun Heater Switch Toggle",
+			["name"] = "Emergency (In-air) Ignition Switch - OFF",
 		},
-		["d3004pnilu3004cd2vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "Hydraulic Pressure Gage Alternate/Normal",
-		},
-		["d3004pnilu3004cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Hydraulic Pressure Gage Utility/Normal",
-		},
-		["d3009pnilu3009cd5vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Rocket Release Selector Auto/Off",
-		},
-		["d3009pnilu3009cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Rocket Release Selector Single/Off",
-		},
-		["d3011pnilu3011cd5vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Rocket Fuze (Arming) Instant/Off",
-		},
-		["d3011pnilu3011cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Rocket Fuze (Arming) Delay/Off",
-		},
-		["d3012pnilu3012cd5vd1vpnilvu-1"] = {
+		["d3001pnilunilcd4vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Rocket Jettison Switch Toggle",
+			["name"] = "Emergency (In-air) Ignition Switch - ON",
 		},
-		["d3015pnilu3015cd22vd1vpnilvu-1"] = {
+		["d3002pnilunilcd3vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN20",
+					["key"] = "JOY_BTN13_OFF",
 				},
 			},
-			["name"] = "A-4 Sight Filament Selector Switch Secondary/Primary",
+			["name"] = "Fuel Densitometer Selection Switch Cover - CLOSE",
 		},
-		["d3017pnilu3017cd2vd-1vpnilvu0"] = {
+		["d3002pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Flight Control Switch - RESET",
+			["name"] = "Fuel Densitometer Selection Switch Cover - OPEN",
 		},
-		["d3020pnilu3020cd5vd1vpnilvu0"] = {
+		["d3004pnilunilcd1vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
+					["key"] = "JOY_BTN19_OFF",
 				},
 			},
-			["name"] = "Missile Safe Launch Button",
+			["name"] = "Engine Master Switch - OFF",
+		},
+		["d3004pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Engine Master Switch - ON",
+		},
+		["d3005pnilunilcd1vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15_OFF",
+				},
+				[2] = {
+					["key"] = "JOY_BTN16_OFF",
+				},
+			},
+			["name"] = "Generator Switch - OFF",
+		},
+		["d3005pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Generator Switch - ON",
+		},
+		["d3005pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Emergency (In-air) Ignition Switch Cover - OPEN/CLOSE",
+		},
+		["d3007pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Fuel Densitometer Selection Switch Cover - OPEN/CLOSE",
 		},
 		["d3028pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
@@ -203,6 +148,30 @@ local diff = {
 				},
 			},
 			["name"] = "Rocket Release Selector Switch Cover - OPEN/CLOSE",
+		},
+		["d3049pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Generator Switch Cover - OPEN/CLOSE",
+		},
+		["d3050pnilu3050cd1vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Generator Switch - RESET",
+		},
+		["d3052pnilu3052cd1vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Battery-Starter Switch - STARTER",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",

@@ -32,24 +32,40 @@ local diff = {
 				},
 			},
 		},
+		["a3273cd18"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "RWR VOL CONTROL",
+		},
+		["a3298cd23"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "Comm 1 Volume Control",
+		},
+		["a3299cd23"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Comm 2 Volume Control",
+		},
+		["a3629cd4"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "ICS Aux Volume Knob",
+		},
 	},
 	["keyDiffs"] = {
-		["d3503pnilu3503cd33vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN48",
-				},
-			},
-			["name"] = "External Lights OFF/NVG",
-		},
-		["d3503pnilu3503cd33vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN46",
-				},
-			},
-			["name"] = "External Lights NVG/NORM",
-		},
 		["d3504pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -71,13 +87,16 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN34",
 				},
+				[2] = {
+					["key"] = "JOY_BTN47",
+				},
 			},
 			["name"] = "Fuel Pump Left Switch OFF",
 		},
 		["d3505pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN35",
+					["key"] = "JOY_BTN48",
 				},
 			},
 			["name"] = "Fuel Pump Left Switch DC OPR",
@@ -85,7 +104,7 @@ local diff = {
 		["d3505pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN33",
+					["key"] = "JOY_BTN46",
 				},
 			},
 			["name"] = "Fuel Pump Left Switch ON",
@@ -95,13 +114,16 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN37",
 				},
+				[2] = {
+					["key"] = "JOY_BTN50",
+				},
 			},
 			["name"] = "Fuel Pump Right Switch OFF",
 		},
 		["d3506pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN36",
+					["key"] = "JOY_BTN51",
 				},
 			},
 			["name"] = "Fuel Pump Right Switch DC OPR",
@@ -109,7 +131,7 @@ local diff = {
 		["d3506pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN38",
+					["key"] = "JOY_BTN49",
 				},
 			},
 			["name"] = "Fuel Pump Right Switch ON",
@@ -117,7 +139,7 @@ local diff = {
 		["d3507pnilunilcd9vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN50",
+					["key"] = "JOY_BTN31",
 				},
 			},
 			["name"] = "Air Refueling Probe Switch OUT",
@@ -125,7 +147,7 @@ local diff = {
 		["d3507pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN51",
+					["key"] = "JOY_BTN30",
 				},
 			},
 			["name"] = "Air Refueling Probe Switch IN",
@@ -133,7 +155,7 @@ local diff = {
 		["d3507pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN49",
+					["key"] = "JOY_BTN32",
 				},
 			},
 			["name"] = "Air Refueling Probe Switch PRESS",
@@ -141,7 +163,7 @@ local diff = {
 		["d3508pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN30",
+					["key"] = "JOY_BTN35",
 				},
 			},
 			["name"] = "Fuel Dump L Switch OFF",
@@ -149,7 +171,7 @@ local diff = {
 		["d3508pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN32",
+					["key"] = "JOY_BTN33",
 				},
 			},
 			["name"] = "Fuel Dump L Switch ON",
@@ -157,7 +179,7 @@ local diff = {
 		["d3509pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN40",
+					["key"] = "JOY_BTN36",
 				},
 			},
 			["name"] = "Fuel Dump R Switch OFF",
@@ -165,7 +187,7 @@ local diff = {
 		["d3509pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN39",
+					["key"] = "JOY_BTN38",
 				},
 			},
 			["name"] = "Fuel Dump R Switch ON",
@@ -173,7 +195,7 @@ local diff = {
 		["d3514pnilunilcd36vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN29",
 				},
 			},
 			["name"] = "Oxygen Switch OFF",
@@ -181,10 +203,26 @@ local diff = {
 		["d3514pnilunilcd36vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Oxygen Switch ON",
+		},
+		["d3515pnilunilcd9vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "H2O Dump Switch OFF",
+		},
+		["d3515pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "H2O Dump Switch ON",
 		},
 		["d3516pnilunilcd13vd0vpnilvunil"] = {
 			["added"] = {
@@ -237,7 +275,7 @@ local diff = {
 		["d3520pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN29",
+					["key"] = "JOY_BTN25",
 				},
 			},
 			["name"] = "DECS Switch OFF",
@@ -245,7 +283,7 @@ local diff = {
 		["d3520pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "DECS Switch ON",

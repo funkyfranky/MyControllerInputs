@@ -48,14 +48,6 @@ local diff = {
 			},
 			["name"] = "Rudder Trim Knob",
 		},
-		["a3023cd12"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Armament Panel Lights Knob",
-		},
 		["a3032cd15"] = {
 			["added"] = {
 				[1] = {
@@ -76,62 +68,13 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1225pnilu1225cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio T-Tone Button",
-		},
-		["d1226pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "UHF Radio Squelch Switch - ON/OFF",
-		},
 		["d1436pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
 				},
 			},
 			["name"] = "TACAN Mode X/Y Switch",
-		},
-		["d3001pnilu3001cd15vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Armament Position Selector Switch (Left WINGTIP) On/Off",
-		},
-		["d3001pnilu3001cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Left Fuel Shutoff Switch Left/Closed",
-		},
-		["d3002pnilu3002cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Right Fuel Shutoff Switch Right/Closed",
 		},
 		["d3002pnilu3002cd7vd1vpnilvu0"] = {
 			["added"] = {
@@ -141,6 +84,22 @@ local diff = {
 			},
 			["name"] = "Landing Gear Alternate Release Handle",
 		},
+		["d3002pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11_OFF",
+				},
+			},
+			["name"] = "Left Generator Switch - OFF",
+		},
+		["d3002pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Left Generator Switch - L GEN",
+		},
 		["d3004pnilu3004cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -149,6 +108,22 @@ local diff = {
 			},
 			["name"] = "Landing & Taxi Light Switch Toggle",
 		},
+		["d3004pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13_OFF",
+				},
+			},
+			["name"] = "Right Generator Switch - OFF",
+		},
+		["d3004pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Right Generator Switch - R GEN",
+		},
 		["d3006pnilu3006cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -156,14 +131,6 @@ local diff = {
 				},
 			},
 			["name"] = "Nose Strut Switch Extend/Retract",
-		},
-		["d3007pnilu3007cd15vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Armament Position Selector Switch (Right WINGTIP) On/Off",
 		},
 		["d3008pnilu3008cd15vd-1vpnilvu0"] = {
 			["added"] = {
@@ -205,6 +172,22 @@ local diff = {
 			},
 			["name"] = "Guns, Missile, Cam Switch Gun/Off",
 		},
+		["d3011pnilu3011cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Left Generator Switch - RESET",
+		},
+		["d3013pnilu3013cd3vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Right Generator Switch - RESET",
+		},
 		["d3014pnilu3014cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -212,22 +195,6 @@ local diff = {
 				},
 			},
 			["name"] = "Arresting Hook Button",
-		},
-		["d3020pnilunilcd4vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Left Fuel Shutoff Switch Cover - OPEN/CLOSE",
-		},
-		["d3021pnilunilcd4vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Right Fuel Shutoff Switch Cover - OPEN/CLOSE",
 		},
 		["d3028pnilunilcd15vd1vpnilvunil"] = {
 			["added"] = {

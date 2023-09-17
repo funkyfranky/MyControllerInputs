@@ -1,5 +1,16 @@
 local diff = {
 	["keyDiffs"] = {
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "NumEnter",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Zoom normal",
+		},
 		["dnilp841unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

@@ -66,6 +66,14 @@ local diff = {
 			},
 			["name"] = "EFC Switch POS1/POS2",
 		},
+		["d3558pnilunilcd12vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Seat Ground Safety Lever",
+		},
 		["d69pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

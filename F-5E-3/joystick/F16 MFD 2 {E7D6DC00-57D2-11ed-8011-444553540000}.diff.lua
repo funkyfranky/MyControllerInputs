@@ -114,22 +114,6 @@ local diff = {
 			},
 			["name"] = "RWR Indicator INT Knob - CW/Increase",
 		},
-		["dnilp3011unilcd18vdnilvp-0.2vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "AN/ASG-31 Sight Reticle Intensity Knob - CCW/Decrease",
-		},
-		["dnilp3011unilcd18vdnilvp0.2vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "AN/ASG-31 Sight Reticle Intensity Knob - CW/Increase",
-		},
 		["dnilp3015unilcd19vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {

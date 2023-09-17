@@ -17,6 +17,14 @@ local diff = {
 			},
 		},
 		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "NumEnter",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
 			["name"] = "Zoom normal",
 			["removed"] = {
 				[1] = {
@@ -239,6 +247,14 @@ local diff = {
 			["name"] = "UFC Keyboard Pushbutton - 4",
 		},
 		["d3023pnilu3023cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "Space",
+					["reformers"] = {
+						[1] = "LCtrl",
+					},
+				},
+			},
 			["name"] = "Throttle Designator Controller - DEPRESS",
 			["removed"] = {
 				[1] = {

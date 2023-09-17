@@ -310,6 +310,18 @@ local diff = {
 			},
 			["name"] = "Left Boost Pump Switch - ON",
 		},
+		["d3009pnilunilcd3vd1vpnilvunil"] = {
+			["name"] = "Battery Switch - BATT/OFF",
+			["removed"] = {
+				[1] = {
+					["key"] = "B",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RShift",
+					},
+				},
+			},
+		},
 		["d3009pnilunilcd4vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -382,6 +394,18 @@ local diff = {
 			},
 			["name"] = "Right Generator Switch - RESET",
 		},
+		["d3014pnilunilcd3vd1vpnilvunil"] = {
+			["name"] = "Pitot Anti-Ice Switch - PITOT/OFF",
+			["removed"] = {
+				[1] = {
+					["key"] = "F",
+					["reformers"] = {
+						[1] = "RCtrl",
+						[2] = "RShift",
+					},
+				},
+			},
+		},
 		["d3018pnilunilcd4vd1vpnilvunil"] = {
 			["name"] = "Left Boost Pump Switch - ON/OFF",
 			["removed"] = {
@@ -403,6 +427,14 @@ local diff = {
 						[1] = "RCtrl",
 						[2] = "RShift",
 					},
+				},
+			},
+		},
+		["d509pnilu510cdnilvdnilvpnilvunil"] = {
+			["name"] = "AN/APQ-159 Radar ACQ Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "Enter",
 				},
 			},
 		},

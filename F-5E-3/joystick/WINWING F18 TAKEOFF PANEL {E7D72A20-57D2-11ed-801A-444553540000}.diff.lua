@@ -32,8 +32,104 @@ local diff = {
 				},
 			},
 		},
+		["a3023cd12"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "Armament Panel Lights Knob",
+		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Armament Position Selector Switch (LEFT WINGTIP) - OFF",
+		},
+		["d3001pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Armament Position Selector Switch (LEFT WINGTIP) - ON",
+		},
+		["d3005pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Flap Lever - FULL",
+		},
+		["d3005pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Flap Lever - THUMB SW",
+		},
+		["d3005pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Flap Lever - EMER UP",
+		},
+		["d3007pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Armament Position Selector Switch (RIGHT WINGTIP) - OFF",
+		},
+		["d3007pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Armament Position Selector Switch (RIGHT WINGTIP) - ON",
+		},
+		["d3009pnilunilcd15vd0.2vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Bombs Arm Switch - SAFE",
+		},
+		["d3009pnilunilcd15vd0.4vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "Bombs Arm Switch - NOSE",
+		},
+		["d3009pnilunilcd15vd0.6vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Bombs Arm Switch - NOSE & TAIL",
+		},
+		["d3009pnilunilcd15vd0.8vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Bombs Arm Switch - TAIL",
+		},
 		["d3010pnilu3010cd15vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -41,30 +137,6 @@ local diff = {
 				},
 			},
 			["name"] = "Guns, Missile and Camera Switch Cover Toggle",
-		},
-		["d3011pnilunilcd15vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Guns, Missile and Camera Switch - CAMR ONLY",
-		},
-		["d3011pnilunilcd15vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Guns, Missile and Camera Switch - OFF",
-		},
-		["d3011pnilunilcd15vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Guns, Missile and Camera Switch - GUNS MSL & CAMR",
 		},
 		["d3012pnilunilcd15vd0.1vpnilvunil"] = {
 			["added"] = {

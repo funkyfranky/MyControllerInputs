@@ -32,50 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3017cd14"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Roof Lamp",
-		},
-		["a3018cd14"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "UV Light",
-		},
-		["a3024cd23"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Off/Brightness",
-		},
 	},
 	["keyDiffs"] = {
 		["d3003pnilu3004cd8vd1vpnilvu0"] = {
@@ -108,7 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "SA342 Yaw On",
+			["name"] = "Yaw On/Off",
 		},
 		["d3011pnilu3012cd8vd1vpnilvu0"] = {
 			["name"] = "Trim Hat - ROLL RIGHT",
@@ -124,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "SA342 Roll On",
+			["name"] = "Roll On/Off",
 		},
 		["d3013pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
@@ -132,7 +88,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "SA342 Pitch On",
+			["name"] = "Pitch On/Off",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Gun or Rockets",

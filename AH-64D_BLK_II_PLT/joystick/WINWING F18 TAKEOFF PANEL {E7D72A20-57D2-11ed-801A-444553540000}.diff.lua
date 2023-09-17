@@ -95,7 +95,7 @@ local diff = {
 		["d3012pnilunilcd9vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN25",
 				},
 			},
 			["name"] = "Wiper Control Switch - OFF",
@@ -103,7 +103,7 @@ local diff = {
 		["d3012pnilunilcd9vd0.2vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN26",
 				},
 			},
 			["name"] = "Wiper Control Switch - LO",
@@ -111,7 +111,7 @@ local diff = {
 		["d3012pnilunilcd9vd0.3vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
+					["key"] = "JOY_BTN27",
 				},
 			},
 			["name"] = "Wiper Control Switch - HI",
@@ -119,7 +119,7 @@ local diff = {
 		["d3012pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN12",
+					["key"] = "JOY_BTN28",
 				},
 			},
 			["name"] = "Wiper Control Switch - PARK",
@@ -155,6 +155,30 @@ local diff = {
 				},
 			},
 			["name"] = "CMWS Mode Switch - CMWS",
+		},
+		["d3019pnilunilcd3vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Master Ignition Switch - BATT",
+		},
+		["d3019pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Master Ignition Switch - OFF",
+		},
+		["d3019pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Master Ignition Switch - EXT PWR",
 		},
 		["d3020pnilunilcd80vd0vpnilvunil"] = {
 			["added"] = {

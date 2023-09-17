@@ -34,22 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3003cd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Rotor Brake Release (lever Forward)",
-		},
-		["d3004pnilu3005cd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Rotor Brake On (lever Backward)",
-		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Gun or Rockets",
 			["removed"] = {

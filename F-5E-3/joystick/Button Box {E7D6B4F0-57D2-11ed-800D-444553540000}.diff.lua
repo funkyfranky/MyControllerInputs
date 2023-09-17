@@ -34,133 +34,10 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1199pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "UHF Radio Preset Chanel Selector - Increase",
-		},
-		["d1200pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "UHF Radio Preset Chanel Selector - Decrease",
-		},
-		["d1205pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio 10Mhz Selector - Increase",
-		},
-		["d1206pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio 10Mhz Selector - Decrease",
-		},
-		["d1207pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio 1Mhz Selector - Increase",
-		},
-		["d1208pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio 1Mhz Selector - Decrease",
-		},
-		["d1209pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "UHF Radio 0.1Mhz Selector - Increase",
-		},
-		["d1210pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "UHF Radio 0.1Mhz Selector - Decrease",
-		},
-		["d1211pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "UHF Radio 0.025Mhz Selector - Increase",
-		},
-		["d1212pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "UHF Radio 0.025Mhz Selector - Decrease",
-		},
-		["d3020pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "UHF Radio 100Mhz Selector Switch - CW/Increase",
-		},
-		["d3020pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "UHF Radio 100Mhz Selector Switch - CCW/Decrease",
-		},
 		["dnilp1432unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
+					["key"] = "JOY_BTN4",
 				},
 			},
 			["name"] = "TACAN Channel Selector (Ones) - Decrease",
@@ -168,10 +45,7 @@ local diff = {
 		["dnilp1433unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "TACAN Channel Selector (Ones) - Increase",
@@ -179,10 +53,7 @@ local diff = {
 		["dnilp1434unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "TACAN Channel Selector (Tens) - Decrease",
@@ -190,10 +61,7 @@ local diff = {
 		["dnilp1435unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN3",
-					["reformers"] = {
-						[1] = "RAlt",
-					},
+					["key"] = "JOY_BTN1",
 				},
 			},
 			["name"] = "TACAN Channel Selector (Tens) - Increase",

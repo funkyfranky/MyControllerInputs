@@ -34,37 +34,37 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3024pnilunilcd8vd0vpnilvunil"] = {
+		["d3003pnilunilcd22vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN19",
+					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "Generator OFF",
+			["name"] = "Rockets Release SINGLE",
 		},
-		["d3024pnilunilcd8vd1vpnilvunil"] = {
+		["d3003pnilunilcd22vd0.2vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN27",
 				},
 			},
-			["name"] = "Generator ON",
+			["name"] = "Rockets Release AUTO",
 		},
-		["d3026pnilunilcd8vd0vpnilvunil"] = {
+		["d3003pnilunilcd22vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN23",
+					["key"] = "JOY_BTN25",
 				},
 			},
-			["name"] = "Pitot Heater OFF",
+			["name"] = "Rockets Release OFF",
 		},
-		["d3026pnilunilcd8vd1vpnilvunil"] = {
+		["d3008pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN28",
 				},
 			},
-			["name"] = "Pitot Heater ON",
+			["name"] = "Rockets Salvo Mode (toggle)",
 		},
 		["d3028pnilunilcd3vd0.1vpnilvunil"] = {
 			["added"] = {
@@ -97,62 +97,6 @@ local diff = {
 				},
 			},
 			["name"] = "Magneto Switch OFF",
-		},
-		["d3028pnilunilcd8vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Oil Dilution OFF",
-		},
-		["d3028pnilunilcd8vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Oil Dilution ON",
-		},
-		["d3031pnilunilcd2vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Landing Flaps NEUTRAL",
-		},
-		["d3031pnilunilcd2vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Landing Flaps RETRACT",
-		},
-		["d3031pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Landing Flaps EXTEND",
-		},
-		["d3032pnilunilcd8vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Battery OFF",
-		},
-		["d3032pnilunilcd8vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Battery ON",
 		},
 		["d3035pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {

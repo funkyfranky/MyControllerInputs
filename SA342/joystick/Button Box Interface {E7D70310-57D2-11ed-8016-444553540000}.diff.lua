@@ -42,45 +42,37 @@ local diff = {
 			},
 			["name"] = "Cycle Station",
 		},
-		["d3003pnilu3003cd26vd1vpnilvunil"] = {
-			["added"] = {
+		["d3003pnilu3004cd8vd1vpnilvu0"] = {
+			["name"] = "Trim Hat - NOSE DOWN",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN_POV1_U",
 				},
 			},
-			["name"] = "Pilot Sight Deploy/Retract",
 		},
-		["d3008pnilu3009cd16vd1vpnilvu0"] = {
-			["added"] = {
+		["d3005pnilu3006cd8vd1vpnilvu0"] = {
+			["name"] = "Trim Hat - NOSE UP",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN_POV1_D",
 				},
 			},
-			["name"] = "Slew up",
 		},
-		["d3010pnilu3011cd16vd1vpnilvu0"] = {
-			["added"] = {
+		["d3009pnilu3010cd8vd1vpnilvu0"] = {
+			["name"] = "Trim Hat - ROLL LEFT",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
+					["key"] = "JOY_BTN_POV1_L",
 				},
 			},
-			["name"] = "Slew down",
 		},
-		["d3012pnilu3013cd16vd1vpnilvu0"] = {
-			["added"] = {
+		["d3011pnilu3012cd8vd1vpnilvu0"] = {
+			["name"] = "Trim Hat - ROLL RIGHT",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN_POV1_R",
 				},
 			},
-			["name"] = "Slew left",
-		},
-		["d3014pnilu3015cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Slew right",
 		},
 		["d3014pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
@@ -104,22 +96,6 @@ local diff = {
 			},
 			["name"] = "Source -",
 		},
-		["d3016pnilu3016cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Convoy Tank On/Off",
-		},
-		["d3024pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Pitot On/Off Toggle",
-		},
 		["d3033pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -141,58 +117,6 @@ local diff = {
 				},
 			},
 			["name"] = "Gyro Knob -",
-		},
-		["d3041pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Auxiliary Fuel Tank On/Off Toggle",
-		},
-		["d3045pnilu3045cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "NADIR Mode Clockwise",
-		},
-		["d3046pnilu3046cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "NADIR Mode Counter Clockwise",
-		},
-		["d3047pnilu3047cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "NADIR Parameter Clockwise",
-		},
-		["d3048pnilu3048cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "NADIR Parameter Counter Clockwise",
 		},
 		["d71pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

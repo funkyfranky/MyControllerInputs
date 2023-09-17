@@ -170,22 +170,6 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3018unilcd1vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Compass Course - decrease",
-		},
-		["dnilp3018unilcd1vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Compass Course - increase",
-		},
 		["dnilp3042unilcd1vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {

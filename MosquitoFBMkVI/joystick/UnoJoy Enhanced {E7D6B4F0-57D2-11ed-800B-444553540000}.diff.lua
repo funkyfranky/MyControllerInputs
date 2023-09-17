@@ -88,22 +88,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3009pnilu3009cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Electric Power Master Switch ON/OFF",
-		},
-		["d3062pnilu3062cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Radiator Flaps Switch Left ON/OFF",
-		},
 		["d3062pnilunilcd4vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -119,14 +103,6 @@ local diff = {
 				},
 			},
 			["name"] = "Engine water cooling flaps, left - open",
-		},
-		["d3064pnilu3064cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Radiator Flaps Switch Right ON/OFF",
 		},
 		["d3064pnilunilcd4vd0vpnilvunil"] = {
 			["added"] = {

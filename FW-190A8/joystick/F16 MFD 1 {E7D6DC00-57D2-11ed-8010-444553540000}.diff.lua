@@ -74,38 +74,6 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3001unilcd10vdnilvp-0.04vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Altimeter Pressure Decrease",
-		},
-		["dnilp3001unilcd10vdnilvp0.04vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Altimeter Pressure Increase",
-		},
-		["dnilp3001unilcd7vdnilvp-0.007vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Instrument Brightness Decrease",
-		},
-		["dnilp3001unilcd7vdnilvp0.007vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Instrument Brightness Increase",
-		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {

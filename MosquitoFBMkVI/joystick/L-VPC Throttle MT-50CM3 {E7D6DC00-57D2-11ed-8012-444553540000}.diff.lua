@@ -36,6 +36,27 @@ local diff = {
 			},
 			["name"] = "Throttle, right engine - axis",
 		},
+		["a3044cd3"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "Engine (selected) RPM / Propeller Pitch - axis",
+		},
 	},
 	["keyDiffs"] = {
 		["d1591pnilu1592cdnilvdnilvpnilvunil"] = {
@@ -49,7 +70,7 @@ local diff = {
 		["d3001pnilunilcd32vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN88",
+					["key"] = "JOY_BTN84",
 				},
 			},
 			["name"] = "Rockets, Master Switch - off",
@@ -123,6 +144,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN89",
 				},
+				[2] = {
+					["key"] = "JOY_BTN83",
+				},
 			},
 			["name"] = "Supercharger, set mode - MOD",
 		},
@@ -162,6 +186,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN90",
+				},
+				[2] = {
+					["key"] = "JOY_BTN82",
 				},
 			},
 			["name"] = "Mixture - rich",

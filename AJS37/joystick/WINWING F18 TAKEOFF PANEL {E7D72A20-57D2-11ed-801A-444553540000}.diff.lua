@@ -24,18 +24,10 @@ local diff = {
 				},
 			},
 		},
-		["a2012cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Zoom View",
-		},
 		["a3327cd5"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RY",
+					["key"] = "JOY_RX",
 				},
 			},
 			["name"] = "Radar MKR Gain",
@@ -93,7 +85,7 @@ local diff = {
 		["d3009pnilunilcd17vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN10",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "Taxi/landing lights switch - ON",
@@ -101,7 +93,7 @@ local diff = {
 		["d3009pnilunilcd17vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN11",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "Taxi/landing lights switch - OFF",
@@ -109,7 +101,7 @@ local diff = {
 		["d3009pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN11",
 				},
 			},
 			["name"] = "Taxi/landing lights switch - TAXI",
@@ -128,7 +120,7 @@ local diff = {
 					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "Emergency lights switch - OFF",
+			["name"] = "Emergency lights switch - OFF)",
 		},
 		["d3010pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {

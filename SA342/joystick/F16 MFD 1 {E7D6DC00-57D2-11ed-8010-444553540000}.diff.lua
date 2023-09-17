@@ -34,22 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3007pnilu3008cd14vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Roof Lamp Increase",
-		},
-		["d3009pnilu3010cd14vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Roof Lamp Decrease",
-		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Gun or Rockets",
 			["removed"] = {

@@ -99,7 +99,7 @@ local diff = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Rb05 stick yaw left",
+			["name"] = "RB-05 stick yaw left",
 		},
 		["d3321pnilu3321cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -107,7 +107,7 @@ local diff = {
 					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Rb05 stick yaw right",
+			["name"] = "RB-05 stick yaw right",
 		},
 		["d3322pnilu3322cd2vd-1vpnilvu0"] = {
 			["added"] = {
@@ -115,7 +115,7 @@ local diff = {
 					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "Rb05 stick pitch down",
+			["name"] = "RB-05 stick pitch down",
 		},
 		["d3322pnilu3322cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -123,7 +123,7 @@ local diff = {
 					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "Rb05 stick pitch up",
+			["name"] = "RB-05 stick pitch up",
 		},
 		["d3401pnilu3401cd18vd1vpnilvu0"] = {
 			["added"] = {

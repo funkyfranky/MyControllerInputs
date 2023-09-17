@@ -124,6 +124,102 @@ local diff = {
 			},
 			["name"] = "Display Management Switch - Right",
 		},
+		["d3012pnilu3012cd2vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN45",
+				},
+			},
+			["name"] = "Autopilot PITCH Switch - Down",
+		},
+		["d3012pnilunilcd66vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN84",
+				},
+			},
+			["name"] = "ECM FRM Button - Released",
+		},
+		["d3012pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "ECM FRM Button - Depressed",
+		},
+		["d3013pnilu3013cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN44",
+				},
+			},
+			["name"] = "Autopilot PITCH Switch - Up",
+		},
+		["d3013pnilunilcd66vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN85",
+				},
+			},
+			["name"] = "ECM SPL Button - Released",
+		},
+		["d3013pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "ECM SPL Button - Depressed",
+		},
+		["d3018pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "ECM 1 Button - Depressed/Released",
+		},
+		["d3019pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "ECM 2 Button - Depressed/Released",
+		},
+		["d3020pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "ECM 3 Button - Depressed/Released",
+		},
+		["d3021pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "ECM 4 Button - Depressed/Released",
+		},
+		["d3022pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "ECM 5 Button - Depressed/Released",
+		},
+		["d3023pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "ECM 6 Button - Depressed/Released",
+		},
 		["d3024pnilu3024cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -172,21 +268,32 @@ local diff = {
 			},
 			["name"] = "SPD BRK Switch - Fwd/RETRACT",
 		},
+		["d3033pnilunilcd2vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Autopilot ROLL Switch - Down",
+		},
+		["d3033pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "Autopilot ROLL Switch - Up",
+		},
 		["d313pnilu311cdnilvd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN81",
 				},
-			},
-			["name"] = "Throttle - OFF(hold)<>IDLE",
-		},
-		["dnilp3006unilcd66vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN38",
+				[2] = {
+					["key"] = "JOY_BTN87",
 				},
 			},
-			["name"] = "ECM 1 Button",
+			["name"] = "Throttle - OFF(hold)<>IDLE",
 		},
 		["dnilp3040unilcd16vdnilvp1vunil"] = {
 			["added"] = {

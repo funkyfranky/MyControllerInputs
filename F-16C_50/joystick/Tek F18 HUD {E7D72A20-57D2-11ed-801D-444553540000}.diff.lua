@@ -32,6 +32,38 @@ local diff = {
 				},
 			},
 		},
+		["a3041cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "HUD Symbology Intensity Knob",
+		},
+		["a3043cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "Reticle Depression Control Knob",
+		},
+		["a3045cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Raster Intensity Knob",
+		},
+		["a3047cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Raster Contrast Knob",
+		},
 	},
 }
 return diff

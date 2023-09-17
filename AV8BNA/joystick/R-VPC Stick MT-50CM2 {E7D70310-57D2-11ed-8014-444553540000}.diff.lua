@@ -1,4 +1,14 @@
 local diff = {
+	["axisDiffs"] = {
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
+	},
 	["keyDiffs"] = {
 		["d3080pnilu3080cd12vd1vpnilvu0"] = {
 			["added"] = {
@@ -107,7 +117,7 @@ local diff = {
 		["dnilp93u215cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN17",
 				},
 			},
 			["name"] = "Trim Bank LEFT",

@@ -124,6 +124,22 @@ local diff = {
 			},
 			["name"] = "Generator - ON",
 		},
+		["d3003pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "Ignition System - OFF",
+		},
+		["d3003pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "Ignition System - ON",
+		},
 		["d3406pnilu3406cd22vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -227,14 +243,6 @@ local diff = {
 				},
 			},
 			["name"] = "Autopilot yaw trim Left",
-		},
-		["dnilp3712unilcd22vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN42",
-				},
-			},
-			["name"] = "Autopilot yaw trim Right",
 		},
 	},
 }

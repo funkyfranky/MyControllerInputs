@@ -272,10 +272,18 @@ local diff = {
 			},
 			["name"] = "PLT NVS MODE Switch - FIXED",
 		},
+		["d3057pnilu3057cd6vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "Fire Detection Circuit Test Switch - 1",
+		},
 		["d3058pnilu3058cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN53",
+					["key"] = "JOY_BTN54",
 				},
 			},
 			["name"] = "Fire Detection Circuit Test Switch - 2",

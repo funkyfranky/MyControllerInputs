@@ -34,21 +34,61 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3004pnilunilcd5vd-1vpnilvunil"] = {
+		["d3001pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "Engine Fire Warning Light Test Switch - OFF",
+		},
+		["d3001pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "Engine Fire Warning Light Test Switch - ON",
+		},
+		["d3003pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "Emergency Fuel Switch - OFF",
+		},
+		["d3003pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "Emergency Fuel Switch - ON",
+		},
+		["d3004pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN57",
 				},
 			},
-			["name"] = "Manual Pip Control Switch - NORMAL",
+			["name"] = "Hydraulic Pressure Gauge Selector Switch - ALTERNATE",
 		},
-		["d3004pnilunilcd5vd1vpnilvunil"] = {
+		["d3004pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN56",
+				},
+			},
+			["name"] = "Hydraulic Pressure Gauge Selector Switch - NORMAL",
+		},
+		["d3004pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN55",
 				},
 			},
-			["name"] = "Manual Pip Control Switch - BOMB",
+			["name"] = "Hydraulic Pressure Gauge Selector Switch - UTILITY",
 		},
 		["d3018pnilunilcd5vd-1vpnilvunil"] = {
 			["added"] = {
@@ -103,6 +143,14 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+		["d439pnilu440cdnilvdnilvpnilvunil"] = {
+			["name"] = "A-4 Sight Electrical Caging Button (On Throttle)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
 				},
 			},
 		},

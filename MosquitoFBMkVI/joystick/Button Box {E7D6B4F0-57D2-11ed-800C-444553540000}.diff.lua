@@ -58,14 +58,6 @@ local diff = {
 			},
 			["name"] = "T1154, low voltage - on/off",
 		},
-		["d3004pnilu3004cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Gear Lever UP/NEUTRAL",
-		},
 		["d3004pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -73,14 +65,6 @@ local diff = {
 				},
 			},
 			["name"] = "T1154, high voltage - on/off",
-		},
-		["d3005pnilu3004cd17vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Gear Lever DOWN/NEUTRAL",
 		},
 	},
 }

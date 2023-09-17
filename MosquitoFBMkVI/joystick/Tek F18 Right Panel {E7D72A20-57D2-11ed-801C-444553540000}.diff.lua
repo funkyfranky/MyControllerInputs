@@ -66,6 +66,57 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3009pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+				[2] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Electric power master switch - off",
+		},
+		["d3009pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Electric power master switch - on",
+		},
+		["d3045pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Magneto № 1 - off",
+		},
+		["d3045pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Magneto № 1 - on",
+		},
+		["d3047pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Magneto № 2 - off",
+		},
+		["d3047pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Magneto № 2 - on",
+		},
 		["d3084pnilunilcd4vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

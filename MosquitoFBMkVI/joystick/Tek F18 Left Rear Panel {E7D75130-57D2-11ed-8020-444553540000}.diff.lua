@@ -34,22 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN46",
-				},
-			},
-			["name"] = "Compass Switch 1 ON/OFF",
-		},
-		["d3002pnilu3002cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN49",
-				},
-			},
-			["name"] = "Compass Switch 2 ON/OFF",
-		},
 		["d3003pnilunilcd15vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

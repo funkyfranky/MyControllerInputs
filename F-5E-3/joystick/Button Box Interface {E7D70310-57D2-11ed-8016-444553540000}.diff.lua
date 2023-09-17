@@ -34,6 +34,70 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1205pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "UHF Radio 10Mhz Selector - Increase",
+		},
+		["d1206pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "UHF Radio 10Mhz Selector - Decrease",
+		},
+		["d1207pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "UHF Radio 1Mhz Selector - Increase",
+		},
+		["d1208pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "UHF Radio 1Mhz Selector - Decrease",
+		},
+		["d1209pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "UHF Radio 0.1Mhz Selector - Increase",
+		},
+		["d1210pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "UHF Radio 0.1Mhz Selector - Decrease",
+		},
+		["d1211pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "UHF Radio 0.025Mhz Selector - Increase",
+		},
+		["d1212pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "UHF Radio 0.025Mhz Selector - Decrease",
+		},
 		["d139pnilu139cdnilvd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -144,122 +208,6 @@ local diff = {
 			},
 			["name"] = "TACAN Mode Selector Switch - CW",
 		},
-		["d3008pnilunilcd13vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Chaff Mode Selector - CCW/Left",
-		},
-		["d3008pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "Chaff Mode Selector - CW/Right",
-		},
-		["d3008pnilunilcd18vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "AN/ASG-31 Sight Mode Selector - CCW/Left",
-		},
-		["d3008pnilunilcd18vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "AN/ASG-31 Sight Mode Selector - CW/Right",
-		},
-		["d3009pnilunilcd13vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "Flare Mode Selector - CCW/Left",
-		},
-		["d3009pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "Flare Mode Selector - CW/Right",
-		},
-		["d3014pnilunilcd17vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "AN/APQ-159 Radar Mode Selector - CCW",
-		},
-		["d3014pnilunilcd17vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "AN/APQ-159 Radar Mode Selector - CW",
-		},
-		["d3014pnilunilcd3vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Pitot Anti-Ice Switch - PITOT/OFF",
-		},
-		["d3018pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio Function Selector Switch - CCW",
-		},
-		["d3018pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio Function Selector Switch - CW",
-		},
-		["d3019pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio Frequency Mode Selector Switch - CCW",
-		},
-		["d3019pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio Frequency Mode Selector Switch - CW",
-		},
 		["d3020pnilunilcd15vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -267,6 +215,22 @@ local diff = {
 				},
 			},
 			["name"] = "Armament Position Selector Switch (LEFT OUTBD) - ON/OFF",
+		},
+		["d3020pnilunilcd23vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "UHF Radio 100Mhz Selector Switch - CW/Increase",
+		},
+		["d3020pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "UHF Radio 100Mhz Selector Switch - CCW/Decrease",
 		},
 		["d3021pnilunilcd15vd1vpnilvunil"] = {
 			["added"] = {
@@ -335,28 +299,6 @@ local diff = {
 			},
 			["name"] = "Eject (3 times)",
 		},
-		["dnilp1216unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio Volume Knob - CCW/Decrease",
-		},
-		["dnilp1217unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "UHF Radio Volume Knob - CW/Increase",
-		},
 		["dnilp1430unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -400,28 +342,6 @@ local diff = {
 				},
 			},
 			["name"] = "HSI Course Set Knob - CW/Increase",
-		},
-		["dnilp766unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "HSI Heading Set Knob - CCW/Decrease",
-		},
-		["dnilp767unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "HSI Heading Set Knob - CW/Increase",
 		},
 		["dnilp934unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

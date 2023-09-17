@@ -32,22 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3008cd26"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "AN/ARC-27 UHF Audio Volume Knob",
-		},
-		["a3016cd27"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "AN/ARN-6 Audio Volume Control",
-		},
 	},
 	["keyDiffs"] = {
 		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
@@ -57,30 +41,6 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-		},
-		["d3003pnilu3003cd18vd1vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Exterior Lighting Dimmer Bright/Dim",
-		},
-		["d3004pnilu3004cd17vd1vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Compass Light Switch On/Off",
-		},
-		["d3004pnilu3004cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Engine Master Switch On/Off",
 		},
 		["d3005pnilunilcd18vd-1vpnilvunil"] = {
 			["added"] = {
@@ -113,6 +73,22 @@ local diff = {
 				},
 			},
 			["name"] = "Position and Fuselage Light Selector Switch - Up",
+		},
+		["d3008pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Alternate Hydraulic Emergency Override Handle - PULL",
+		},
+		["d3008pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1_OFF",
+				},
+			},
+			["name"] = "Alternate Hydraulic Emergency Override Handle - PUSH",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",

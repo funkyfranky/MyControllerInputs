@@ -67,18 +67,10 @@ local diff = {
 		["d179pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN17",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "Communication menu",
-		},
-		["d3481pnilunilcd9vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN87",
-				},
-			},
-			["name"] = "JPTL Switch OFF",
 		},
 		["d3481pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
@@ -107,10 +99,18 @@ local diff = {
 		["d3490pnilu3490cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN81",
+					["key"] = "JOY_BTN87",
 				},
 			},
 			["name"] = "Throttle Cutoff",
+		},
+		["d3803pnilu3803cd28vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "Canopy Locking Lever toggle",
 		},
 		["d503pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -128,10 +128,26 @@ local diff = {
 			},
 			["name"] = "Engine Air Start",
 		},
+		["d572pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "COMM FWD: Select COMM 1",
+		},
+		["d573pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "COMM AFT: Select COMM 2",
+		},
 		["d590pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN56",
+					["key"] = "JOY_BTN39",
 				},
 			},
 			["name"] = "Master Mode NAV",
@@ -139,7 +155,7 @@ local diff = {
 		["d591pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN57",
+					["key"] = "JOY_BTN40",
 				},
 			},
 			["name"] = "Master Mode VSTOL",
@@ -147,7 +163,7 @@ local diff = {
 		["d592pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN58",
+					["key"] = "JOY_BTN38",
 				},
 			},
 			["name"] = "Master Mode AG",
@@ -159,6 +175,14 @@ local diff = {
 				},
 			},
 			["name"] = "TDC Down (Action Position)",
+		},
+		["d71pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Canopy Open/Close",
 		},
 		["dnilp147u301cdnilvdnilvpnilvunil"] = {
 			["added"] = {

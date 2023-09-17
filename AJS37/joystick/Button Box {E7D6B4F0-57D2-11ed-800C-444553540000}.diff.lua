@@ -66,6 +66,14 @@ local diff = {
 			},
 			["name"] = "IK (IFF) Code Up",
 		},
+		["d3008pnilu3008cd23vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Datapanel Switch In/out",
+		},
 		["d3306pnilu3306cd2vd0vpnilvu1"] = {
 			["added"] = {
 				[1] = {

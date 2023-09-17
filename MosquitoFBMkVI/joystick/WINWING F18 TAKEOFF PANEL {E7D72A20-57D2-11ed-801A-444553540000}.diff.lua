@@ -24,14 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a3044cd3"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Engine (selected) RPM / Propeller Pitch - axis",
-		},
 	},
 	["keyDiffs"] = {
 		["d1602pnilunilcdnilvd1vpnilvunil"] = {

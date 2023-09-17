@@ -1,5 +1,13 @@
 local diff = {
 	["keyDiffs"] = {
+		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
+			["name"] = "A-4 Sight Radar Target Selector Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "Enter",
+				},
+			},
+		},
 		["d150pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -31,6 +39,17 @@ local diff = {
 					["key"] = "F11",
 				},
 			},
+		},
+		["d177pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "NumEnter",
+					["reformers"] = {
+						[1] = "LShift",
+					},
+				},
+			},
+			["name"] = "Zoom normal",
 		},
 		["d17pnilu18cdnilvdnilvpnilvunil"] = {
 			["name"] = "Cockpit panel view in",

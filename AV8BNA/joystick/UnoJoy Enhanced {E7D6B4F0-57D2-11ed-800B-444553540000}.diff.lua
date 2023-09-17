@@ -32,6 +32,22 @@ local diff = {
 				},
 			},
 		},
+		["a3194cd26"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "MPCD Left Off/Brightness Control",
+		},
+		["a3195cd27"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "MPCD Right Off/Brightness Control",
+		},
 	},
 	["keyDiffs"] = {
 		["d3396pnilu3396cd29vd-1vpnilvu0"] = {

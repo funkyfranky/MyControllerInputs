@@ -19,7 +19,7 @@ local diff = {
 		["d177pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "Num5",
+					["key"] = "NumEnter",
 					["reformers"] = {
 						[1] = "LShift",
 					},

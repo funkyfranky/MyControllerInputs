@@ -90,6 +90,78 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilunilcd3vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "MAIN PWR Switch - OFF",
+		},
+		["d3001pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "MAIN PWR Switch - BATT",
+		},
+		["d3001pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "MAIN PWR Switch - MAIN PWR",
+		},
+		["d3001pnilunilcd66vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "ECM Power Switch - OFF",
+		},
+		["d3001pnilunilcd66vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "ECM Power Switch - STBY",
+		},
+		["d3001pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "ECM Power Switch - OPR",
+		},
+		["d3002pnilunilcd66vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36",
+				},
+			},
+			["name"] = "ECM XMIT Switch - 3",
+		},
+		["d3002pnilunilcd66vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "ECM XMIT Switch - 2",
+		},
+		["d3002pnilunilcd66vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "ECM XMIT Switch - 1",
+		},
 		["d3003pnilunilcd11vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

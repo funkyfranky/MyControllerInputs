@@ -34,6 +34,30 @@ local diff = {
 			},
 			["name"] = "UHF Access Door - OPEN/CLOSE",
 		},
+		["d3001pnilu3001cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "Master Caution Button",
+		},
+		["d3001pnilunilcd32vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "RWR Source Switch - OFF",
+		},
+		["d3001pnilunilcd32vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "RWR Source Switch - ON",
+		},
 		["d3002pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -57,6 +81,22 @@ local diff = {
 				},
 			},
 			["name"] = "MASTER ARM Switch - MASTER ARM",
+		},
+		["d3002pnilunilcd32vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "JMR Source Switch - OFF",
+		},
+		["d3002pnilunilcd32vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "JMR Source Switch - ON",
 		},
 		["d3003pnilu3003cd19vd1vpnilvu0"] = {
 			["added"] = {
@@ -82,27 +122,21 @@ local diff = {
 			},
 			["name"] = "LASER ARM Switch - ARM",
 		},
-		["d3005pnilu3005cd6vd1vpnilvu0"] = {
+		["d3004pnilunilcd32vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN40",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "JFS Switch - START 1 / OFF",
+			["name"] = "JETT Switch - OFF",
 		},
-		["d3006pnilu3006cd6vd-1vpnilvu0"] = {
+		["d3004pnilunilcd32vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN38",
-					["reformers"] = {
-						[1] = "Mail",
-					},
+					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "JFS Switch - START 2 / OFF",
+			["name"] = "JETT Switch - JETT",
 		},
 		["d3006pnilunilcd11vd0.1vpnilvunil"] = {
 			["added"] = {
@@ -143,22 +177,6 @@ local diff = {
 				},
 			},
 			["name"] = "MASTER Switch - OFF",
-		},
-		["d3008pnilu3008cd11vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "LANDING TAXI LIGHTS Switch TAXI/OFF",
-		},
-		["d3008pnilu3008cd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "LANDING TAXI LIGHTS Switch LANDING/OFF",
 		},
 		["d3009pnilu3009cd33vd1vpnilvu0"] = {
 			["added"] = {
@@ -272,30 +290,6 @@ local diff = {
 			},
 			["name"] = "RWR Indicator Control ALTITUDE Button",
 		},
-		["d3014pnilunilcd2vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Autopilot ROLL Switch - STRG SEL",
-		},
-		["d3014pnilunilcd2vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Autopilot ROLL Switch - ATT HOLD",
-		},
-		["d3014pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Autopilot ROLL Switch - HDG SEL",
-		},
 		["d3017pnilunilcd33vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -336,30 +330,6 @@ local diff = {
 			},
 			["name"] = "UHF Mode Knob - CW",
 		},
-		["d3031pnilu3031cd2vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Autopilot PITCH Switch - ATT HOLD",
-		},
-		["d3032pnilu3032cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Autopilot PITCH Switch - ALT HOLD",
-		},
-		["d3032pnilunilcd2vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Autopilot PITCH Switch - A/P OFF",
-		},
 		["d3036pnilu3036cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -379,7 +349,7 @@ local diff = {
 		["d3038pnilunilcd17vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN31",
 				},
 			},
 			["name"] = "RF Switch - SILENT",
@@ -387,7 +357,7 @@ local diff = {
 		["d3038pnilunilcd17vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN8",
+					["key"] = "JOY_BTN30",
 				},
 			},
 			["name"] = "RF Switch - QUIET",
@@ -395,7 +365,7 @@ local diff = {
 		["d3038pnilunilcd17vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN29",
 				},
 			},
 			["name"] = "RF Switch - NORM",

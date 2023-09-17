@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3008cd26"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "AN/ARC-27 UHF Audio Volume Knob",
+		},
 		["a3010cd17"] = {
 			["added"] = {
 				[1] = {
@@ -56,8 +64,24 @@ local diff = {
 			},
 			["name"] = "Console and Panel Light Rheostat",
 		},
+		["a3016cd27"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "AN/ARN-6 Audio Volume Control",
+		},
 	},
 	["keyDiffs"] = {
+		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
+			["name"] = "A-4 Sight Radar Target Selector Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
 		["d3001pnilunilcd1vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

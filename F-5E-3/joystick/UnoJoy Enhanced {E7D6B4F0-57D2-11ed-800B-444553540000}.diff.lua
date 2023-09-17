@@ -34,6 +34,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1_OFF",
+				},
+			},
+			["name"] = "Battery Switch - OFF",
+		},
+		["d3001pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Battery Switch - BATT",
+		},
 		["d3003pnilu3003cd10vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -41,14 +57,6 @@ local diff = {
 				},
 			},
 			["name"] = "Seat Adjust Switch - UP",
-		},
-		["d3003pnilu3003cd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Exterior Lights Beacon Switch Toggle",
 		},
 		["d3003pnilu3003cd4vd1vpnilvu0"] = {
 			["added"] = {

@@ -154,22 +154,6 @@ local diff = {
 			},
 			["name"] = "HSI Course Set Knob - CW/Increase",
 		},
-		["dnilp766unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "HSI Heading Set Knob - CCW/Decrease",
-		},
-		["dnilp767unilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "HSI Heading Set Knob - CW/Increase",
-		},
 		["dnilp934unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

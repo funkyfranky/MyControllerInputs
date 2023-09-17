@@ -26,37 +26,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3021pnilu3021cd3vd-1vpnilvu0"] = {
+		["d3032pnilu3032cd3vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Starter ENERGIZE",
+			["name"] = "Cowl Flaps CLOSE",
 		},
-		["d3021pnilu3021cd3vd1vpnilvu0"] = {
+		["d3032pnilu3032cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Starter ENGAGE",
-		},
-		["d3043pnilu3043cd3vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Intercooler Shutter CLOSE",
-		},
-		["d3043pnilu3043cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Intercooler Shutter OPEN",
+			["name"] = "Cowl Flaps OPEN",
 		},
 		["d3046pnilu3046cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -65,22 +49,6 @@ local diff = {
 				},
 			},
 			["name"] = "Defroster On/Off",
-		},
-		["d3046pnilu3046cd3vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Oil Cooler Shutter CLOSE",
-		},
-		["d3046pnilu3046cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Oil Cooler Shutter OPEN",
 		},
 		["d3049pnilu3049cd2vd1vpnilvu0"] = {
 			["added"] = {
@@ -137,6 +105,38 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3004unilcd10vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Horizon pitch Decrease",
+		},
+		["dnilp3004unilcd10vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Horizon pitch Increase",
+		},
+		["dnilp3005unilcd5vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Clock Winding or Adjustment - decrease",
+		},
+		["dnilp3005unilcd5vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Clock Winding or Adjustment - increase",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

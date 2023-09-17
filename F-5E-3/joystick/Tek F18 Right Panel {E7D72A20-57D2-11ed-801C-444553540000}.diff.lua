@@ -73,5 +73,93 @@ local diff = {
 			["name"] = "Console Lights Knob",
 		},
 	},
+	["keyDiffs"] = {
+		["d3003pnilunilcd6vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+				[2] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Engine Anti-Ice Switch - OFF",
+		},
+		["d3003pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Engine Anti-Ice Switch - ENGINE",
+		},
+		["d3005pnilunilcd4vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+				[2] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Crossfeed Switch - CLOSED",
+		},
+		["d3005pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Crossfeed Switch - OPEN",
+		},
+		["d3006pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Pitot Anti-Ice Switch - OFF",
+		},
+		["d3006pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Pitot Anti-Ice Switch - PITOT",
+		},
+		["d3008pnilunilcd4vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Left Boost Pump Switch - OFF",
+		},
+		["d3008pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Left Boost Pump Switch - ON",
+		},
+		["d3009pnilunilcd4vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Right Boost Pump Switch - OFF",
+		},
+		["d3009pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Right Boost Pump Switch - ON",
+		},
+	},
 }
 return diff

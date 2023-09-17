@@ -66,6 +66,14 @@ local diff = {
 			},
 			["name"] = "Emergency Jettison Pushbutton",
 		},
+		["d252pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "Master Warning/Caution Reset",
+		},
 		["d316pnilu318cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

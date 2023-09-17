@@ -66,22 +66,6 @@ local diff = {
 				},
 			},
 		},
-		["d3017pnilunilcd20vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Bomb fusing selector Left",
-		},
-		["d3017pnilunilcd20vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Bomb fusing selector Right",
-		},
 		["d3075pnilu3075cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

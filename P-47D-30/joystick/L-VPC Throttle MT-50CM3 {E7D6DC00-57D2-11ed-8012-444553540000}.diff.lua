@@ -21,6 +21,19 @@ local diff = {
 		["a3008cd3"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RZ",
 				},
 			},
@@ -46,21 +59,61 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3019pnilunilcd2vd-1vpnilvunil"] = {
+		["d1591pnilu1592cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN49",
+					["key"] = "JOY_BTN17",
 				},
 			},
-			["name"] = "Canopy CLOSE",
+			["name"] = "COMM Push to talk (call radio menu)",
 		},
-		["d3019pnilunilcd2vd1vpnilvunil"] = {
+		["d1731pnilu1731cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "COMM Push to talk (VOIP)",
+		},
+		["d179pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Communication menu",
+		},
+		["d3015pnilu3015cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN48",
 				},
 			},
-			["name"] = "Canopy OPEN",
+			["name"] = "Canopy Electrical Switch CLOSE",
+		},
+		["d3015pnilu3015cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Canopy Electrical Switch OPEN",
+		},
+		["d3042pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN82",
+				},
+			},
+			["name"] = "Tail Wheel Lock FREE",
+		},
+		["d3042pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "Tail Wheel Lock LOCKED",
 		},
 		["d3043pnilu3043cd3vd-1vpnilvu0"] = {
 			["added"] = {

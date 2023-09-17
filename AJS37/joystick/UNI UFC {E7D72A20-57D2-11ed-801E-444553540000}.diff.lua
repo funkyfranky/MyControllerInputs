@@ -165,7 +165,7 @@ local diff = {
 		["d3021pnilu3021cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN47",
+					["key"] = "JOY_BTN41",
 				},
 			},
 			["name"] = "Data panel Digit 1",
@@ -173,7 +173,7 @@ local diff = {
 		["d3022pnilu3022cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN48",
+					["key"] = "JOY_BTN42",
 				},
 			},
 			["name"] = "Data panel Digit 2",
@@ -181,7 +181,7 @@ local diff = {
 		["d3023pnilu3023cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN33",
+					["key"] = "JOY_BTN43",
 				},
 			},
 			["name"] = "Data panel Digit 3",
@@ -213,7 +213,7 @@ local diff = {
 		["d3027pnilu3027cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN41",
+					["key"] = "JOY_BTN47",
 				},
 			},
 			["name"] = "Data panel Digit 7",
@@ -221,7 +221,7 @@ local diff = {
 		["d3028pnilu3028cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN42",
+					["key"] = "JOY_BTN48",
 				},
 			},
 			["name"] = "Data panel Digit 8",
@@ -229,7 +229,7 @@ local diff = {
 		["d3029pnilu3029cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN43",
+					["key"] = "JOY_BTN33",
 				},
 			},
 			["name"] = "Data panel Digit 9",

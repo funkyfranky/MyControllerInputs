@@ -66,14 +66,6 @@ local diff = {
 			},
 			["name"] = "Stop-Starter Button",
 		},
-		["d3003pnilu3003cd4vd1vpnilvu-1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Emergency Fuel Switch Toggle",
-		},
 		["d3004pnilu3004cd3vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

@@ -130,38 +130,6 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3005u3005cd27vdnilvp-1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "AN/ARN-6 Loop Switch - Left",
-		},
-		["dnilp3005u3005cd27vdnilvp1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "AN/ARN-6 Loop Switch - Right",
-		},
-		["dnilp3009unilcd27vdnilvp-0.1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "AN/ARN-6 East/West Variation Knob - CCW/East",
-		},
-		["dnilp3009unilcd27vdnilvp0.1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "AN/ARN-6 East/West Variation Knob - CW/West",
-		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {

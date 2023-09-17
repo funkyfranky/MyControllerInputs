@@ -142,7 +142,7 @@ local diff = {
 					["key"] = "JOY_BTN23",
 				},
 			},
-			["name"] = "UHF Radio 10MHz Decrease",
+			["name"] = "UHF Radio 10MHz Increase",
 		},
 		["d3012pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
@@ -150,7 +150,7 @@ local diff = {
 					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "UHF Radio 10MHz Increase",
+			["name"] = "UHF Radio 10MHz Decrease",
 		},
 		["d3013pnilunilcd22vd-1vpnilvunil"] = {
 			["added"] = {
