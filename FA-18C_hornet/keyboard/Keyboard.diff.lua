@@ -318,14 +318,6 @@ local diff = {
 			},
 			["name"] = "UFC Keyboard Pushbutton - ENT",
 		},
-		["d3035pnilunilcd13vd0vpnilvunil"] = {
-			["name"] = "Speed Brake Switch - OFF",
-			["removed"] = {
-				[1] = {
-					["key"] = "B",
-				},
-			},
-		},
 		["d3041pnilunilcd13vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

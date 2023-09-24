@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3034cd40"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "AUX Volume Control Knob",
+		},
 	},
 }
 return diff
