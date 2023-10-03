@@ -58,7 +58,7 @@ local diff = {
 		["d3019pnilunilcd20vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN18",
 				},
 			},
 			["name"] = "Guns Safety Lever (toggle)",
