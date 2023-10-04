@@ -40,14 +40,6 @@ local diff = {
 			},
 			["name"] = "Thrust Left",
 		},
-		["a2006cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Thrust Right",
-		},
 	},
 }
 return diff
