@@ -16,31 +16,37 @@ local diff = {
 				},
 			},
 		},
-	},
-	["keyDiffs"] = {
-		["d350pnilu351cdnilvdnilvpnilvunil"] = {
-			["name"] = "Weapon Release",
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_RZ",
 				},
 			},
 		},
-		["d562pnilu606cdnilvdnilvpnilvunil"] = {
-			["name"] = "Nosewheel Steering Button",
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
 			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_Z",
 				},
 			},
 		},
-		["d84pnilu85cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trigger - SECOND DETENT(Gun Fire)",
-			["removed"] = {
+		["a2005cdnil"] = {
+			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_RX",
 				},
 			},
+			["name"] = "Thrust Left",
+		},
+		["a2006cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "Thrust Right",
 		},
 	},
 }
