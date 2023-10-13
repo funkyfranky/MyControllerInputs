@@ -24,14 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a2101cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Wheel Brake",
-		},
 	},
 }
 return diff
