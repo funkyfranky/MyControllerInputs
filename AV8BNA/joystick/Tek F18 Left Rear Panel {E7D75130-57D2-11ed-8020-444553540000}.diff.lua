@@ -66,6 +66,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3489pnilunilcd28vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "Parking Brake ON",
+		},
+		["d3489pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "Parking Brake OFF",
+		},
 		["d3504pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -85,9 +101,6 @@ local diff = {
 		["d3505pnilunilcd9vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN34",
-				},
-				[2] = {
 					["key"] = "JOY_BTN47",
 				},
 			},
@@ -108,17 +121,6 @@ local diff = {
 				},
 			},
 			["name"] = "Fuel Pump Left Switch ON",
-		},
-		["d3506pnilunilcd9vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN37",
-				},
-				[2] = {
-					["key"] = "JOY_BTN50",
-				},
-			},
-			["name"] = "Fuel Pump Right Switch OFF",
 		},
 		["d3506pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
@@ -192,10 +194,66 @@ local diff = {
 			},
 			["name"] = "Fuel Dump R Switch ON",
 		},
-		["d3514pnilunilcd36vd0vpnilvunil"] = {
+		["d3511pnilunilcd33vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Position Lights DIM",
+		},
+		["d3511pnilunilcd33vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Position Lights OFF",
+		},
+		["d3511pnilunilcd33vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Position Lights BRT",
+		},
+		["d3512pnilunilcd33vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Anti Collision Lights OFF",
+		},
+		["d3512pnilunilcd33vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Anti Collision Lights ON",
+		},
+		["d3513pnilunilcd33vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Auxiliary (Taxi) Light OFF",
+		},
+		["d3513pnilunilcd33vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Auxiliary (Taxi) Light ON",
+		},
+		["d3514pnilunilcd36vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Oxygen Switch OFF",
@@ -203,7 +261,7 @@ local diff = {
 		["d3514pnilunilcd36vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "Oxygen Switch ON",
@@ -211,7 +269,7 @@ local diff = {
 		["d3515pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN40",
+					["key"] = "JOY_BTN14",
 				},
 			},
 			["name"] = "H2O Dump Switch OFF",
@@ -219,7 +277,7 @@ local diff = {
 		["d3515pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN39",
+					["key"] = "JOY_BTN13",
 				},
 			},
 			["name"] = "H2O Dump Switch ON",

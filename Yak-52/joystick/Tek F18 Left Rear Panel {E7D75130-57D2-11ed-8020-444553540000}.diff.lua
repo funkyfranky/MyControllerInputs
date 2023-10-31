@@ -24,6 +24,38 @@ local diff = {
 				},
 			},
 		},
+		["a3004cd27"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "LANDYSh-5 VHF Radio Volume Control Knob, analog",
+		},
+		["a3017cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "ARK-15M ADF Audio Volume Knob, analog",
+		},
+		["a3022cd28"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Intercom Volume (analog)",
+		},
+		["a3024cd28"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Radio Volume (analog)",
+		},
 	},
 	["keyDiffs"] = {
 		["d3015pnilunilcd4vd0vpnilvunil"] = {

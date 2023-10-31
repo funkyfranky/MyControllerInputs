@@ -474,22 +474,6 @@ local diff = {
 			},
 			["name"] = "MC Switch - 2 OFF",
 		},
-		["dnilp3013unilcd2vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN43",
-				},
-			},
-			["name"] = "RUD TRIM Control - CCW/Left",
-		},
-		["dnilp3013unilcd2vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN42",
-				},
-			},
-			["name"] = "RUD TRIM Control - CW/Right",
-		},
 	},
 }
 return diff

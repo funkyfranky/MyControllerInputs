@@ -50,6 +50,30 @@ local diff = {
 			},
 			["name"] = "Make Screenshot",
 		},
+		["d2627pnilu2627cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "L",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "VR, left hand (enable/disable)",
+		},
+		["d2628pnilu2628cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "R",
+					["reformers"] = {
+						[1] = "LCtrl",
+						[2] = "RCtrl",
+					},
+				},
+			},
+			["name"] = "VR, right hand (enable/disable)",
+		},
 		["d52pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

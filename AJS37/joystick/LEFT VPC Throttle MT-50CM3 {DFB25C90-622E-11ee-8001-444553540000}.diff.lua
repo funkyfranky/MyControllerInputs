@@ -1,83 +1,39 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2004cdnil"] = {
-			["added"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Thrust",
-		},
-		["a3321cd5"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.2,
-						},
-						["deadzone"] = 0.06,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = false,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Radar stick horizontal",
-		},
-		["a3322cd5"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0.2,
-						},
-						["deadzone"] = 0.05,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Radar stick vertical",
 		},
-		["a3641cd5"] = {
-			["added"] = {
+		["a2002cdnil"] = {
+			["name"] = "Roll",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+		},
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "Radar elevation",
 		},
 	},
 	["keyDiffs"] = {
-		["d1732pnilu1732cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN18",
-				},
-			},
-			["name"] = "FR24 VoIP Push-to-talk",
-		},
 		["d179pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -100,26 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN41",
 				},
 			},
-			["name"] = "Check indicator lights",
-		},
-		["d3002pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-				[2] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "A2 Mode",
-		},
-		["d3002pnilunilcd23vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "A1 Mode",
+			["name"] = "KONTR LAMPTABLA light test",
 		},
 		["d3002pnilunilcd23vd1vpnilvunil"] = {
 			["added"] = {
@@ -136,22 +73,6 @@ local diff = {
 				},
 			},
 			["name"] = "High-pressure Fuel Valve (hold- cut off)",
-		},
-		["d3011pnilunilcd23vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN51",
-				},
-			},
-			["name"] = "Datapanel Rotary Counterclockwise",
-		},
-		["d3011pnilunilcd23vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN52",
-				},
-			},
-			["name"] = "Datapanel Rotary Clockwise",
 		},
 		["d3209pnilu3209cd5vd1vpnilvu0"] = {
 			["added"] = {
@@ -263,6 +184,30 @@ local diff = {
 			},
 			["name"] = "Canopy Close/Center",
 		},
+		["d3406pnilunilcd22vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN63",
+				},
+			},
+			["name"] = "Canopy open",
+		},
+		["d3406pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN64",
+				},
+			},
+			["name"] = "Canopy - CENTER",
+		},
+		["d3406pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "Canopy close",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {
@@ -287,6 +232,54 @@ local diff = {
 			},
 			["name"] = "Airbrake in",
 		},
+		["d3713pnilu3713cd22vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Trim: Rudder Left",
+		},
+		["d3713pnilu3713cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Trim: Rudder Right",
+		},
+		["d3716pnilu3716cd22vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN44",
+				},
+			},
+			["name"] = "Emergency Trim Roll Left",
+		},
+		["d3716pnilu3716cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN45",
+				},
+			},
+			["name"] = "Emergency Trim Roll Rght",
+		},
+		["d3717pnilu3717cd22vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Emergency Trim Pitch Up",
+		},
+		["d3717pnilu3717cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "Emergency Trim Pitch Down",
+		},
 		["d3722pnilu3722cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -302,54 +295,6 @@ local diff = {
 				},
 			},
 			["name"] = "Anti Jamming Mode (AS) Selector Up (test)",
-		},
-		["dnilp3306unilcd22vdnilvp-0.003vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN45",
-				},
-			},
-			["name"] = "Altimeter setting Finest - Down",
-		},
-		["dnilp3306unilcd22vdnilvp0.003vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN44",
-				},
-			},
-			["name"] = "Altimeter setting Finest - Up",
-		},
-		["dnilp3404u3404cd22vdnilvp-1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN49",
-				},
-			},
-			["name"] = "Seat Adjustment - Up",
-		},
-		["dnilp3404u3404cd22vdnilvp1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN48",
-				},
-			},
-			["name"] = "Seat Adjustment - Down",
-		},
-		["dnilp3721unilcd22vdnilvp-0.005vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN47",
-				},
-			},
-			["name"] = "Backup Altimeter Setting Down - Slow",
-		},
-		["dnilp3721unilcd22vdnilvp0.005vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN46",
-				},
-			},
-			["name"] = "Backup Altimeter Setting Up - Slow",
 		},
 	},
 }

@@ -1,61 +1,36 @@
 local diff = {
 	["axisDiffs"] = {
-		["a3022cd3"] = {
-			["added"] = {
+		["a2002cdnil"] = {
+			["name"] = "Roll",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RX",
+					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "Throttle, left engine - axis",
 		},
-		["a3025cd3"] = {
-			["added"] = {
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Throttle, right engine - axis",
-		},
-		["a3044cd3"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Engine (selected) RPM / Propeller Pitch - axis",
+		},
+		["a3038cd3"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Engine RPM / Propeller Pitch, port - axis",
+		},
+		["a3041cd3"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "Engine RPM / Propeller Pitch, starboard - axis",
 		},
 	},
 	["keyDiffs"] = {

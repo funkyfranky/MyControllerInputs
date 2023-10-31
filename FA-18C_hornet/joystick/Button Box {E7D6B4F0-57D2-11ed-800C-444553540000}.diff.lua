@@ -52,14 +52,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3002cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "T/O TRIM Button",
-		},
 		["d3002pnilu3002cd32vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -71,10 +63,42 @@ local diff = {
 		["d3004pnilu3004cd2vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "FCS BIT Switch",
+		},
+		["d3006pnilunilcd7vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6_OFF",
+				},
+			},
+			["name"] = "Ejection Seat SAFE/ARMED Handle - ARMED",
+		},
+		["d3006pnilunilcd7vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Ejection Seat SAFE/ARMED Handle - SAFE",
+		},
+		["d3007pnilunilcd7vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Ejection Seat Manual Override Handle - PUSH",
+		},
+		["d3007pnilunilcd7vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5_OFF",
+				},
+			},
+			["name"] = "Ejection Seat Manual Override Handle - PULL",
 		},
 		["d3008pnilu3008cd11vd1vpnilvu0"] = {
 			["added"] = {
@@ -119,13 +143,21 @@ local diff = {
 			},
 			["name"] = "Selective Jettison Pushbutton",
 		},
-		["d3013pnilu3013cd23vd0vpnilvu0.1"] = {
+		["d3013pnilunilcd23vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN19",
 				},
 			},
-			["name"] = "IR Cooling Switch OFF/NORM",
+			["name"] = "IR Cooling Switch - NORM",
+		},
+		["d3013pnilunilcd23vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19_OFF",
+				},
+			},
+			["name"] = "IR Cooling Switch - OFF",
 		},
 		["d3018pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {

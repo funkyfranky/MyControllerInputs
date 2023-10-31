@@ -1,46 +1,36 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2004cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Thrust",
-		},
-		["a3032cd16"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "ANT ELEV Knob",
-		},
-		["a3046cd16"] = {
-			["added"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "RDR CURSOR Switch - Y axis",
 		},
-		["a3047cd16"] = {
-			["added"] = {
+		["a2002cdnil"] = {
+			["name"] = "Roll",
+			["removed"] = {
 				[1] = {
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "RDR CURSOR Switch - X axis",
+		},
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
 		},
 	},
 	["keyDiffs"] = {
@@ -91,38 +81,6 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard Previous Page",
-		},
-		["d3006pnilu3006cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "Display Management Switch - Up",
-		},
-		["d3007pnilu3007cd16vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Display Management Switch - Down",
-		},
-		["d3008pnilu3008cd16vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "Display Management Switch - Left",
-		},
-		["d3009pnilu3009cd16vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Display Management Switch - Right",
 		},
 		["d3012pnilu3012cd2vd-1vpnilvu0"] = {
 			["added"] = {

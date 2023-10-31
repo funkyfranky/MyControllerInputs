@@ -34,22 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d147pnilu8013cd1vdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "Air brake - Extend",
-		},
-		["d148pnilu8013cd1vdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Air brake - Retract",
-		},
 		["d3038pnilu3038cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -97,38 +81,6 @@ local diff = {
 				},
 			},
 			["name"] = "Anti-Ice Push-button",
-		},
-		["d3118pnilunilcd1vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN62_OFF",
-				},
-			},
-			["name"] = "Throttle Idle Detent - IDLE",
-		},
-		["d3118pnilunilcd1vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN62",
-				},
-			},
-			["name"] = "Throttle Idle Detent - STOP",
-		},
-		["d3700pnilu3700cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
-			["name"] = "MPR Switch",
-		},
-		["d3903pnilu3903cd1vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Fuel Enrichment",
 		},
 		["d8008pnilunilcd1vdnilvpnilvunil"] = {
 			["added"] = {

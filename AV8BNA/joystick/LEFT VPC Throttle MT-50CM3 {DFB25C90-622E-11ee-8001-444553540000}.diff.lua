@@ -1,66 +1,36 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2004cdnil"] = {
-			["added"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
+					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Thrust",
 		},
-		["a2033cdnil"] = {
-			["added"] = {
+		["a2002cdnil"] = {
+			["name"] = "Roll",
+			["removed"] = {
 				[1] = {
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "TDC Slew Horizontal",
 		},
-		["a2034cdnil"] = {
-			["added"] = {
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "TDC Slew Vertical",
-		},
-		["a2087cdnil"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Nozzle Angle",
+		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
 		},
 	},
 	["keyDiffs"] = {
@@ -107,7 +77,7 @@ local diff = {
 		["d3803pnilu3803cd28vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN53",
+					["key"] = "JOY_BTN65",
 				},
 			},
 			["name"] = "Canopy Locking Lever toggle",
@@ -127,22 +97,6 @@ local diff = {
 				},
 			},
 			["name"] = "Engine Air Start",
-		},
-		["d572pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "COMM FWD: Select COMM 1",
-		},
-		["d573pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "COMM AFT: Select COMM 2",
 		},
 		["d590pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -168,18 +122,10 @@ local diff = {
 			},
 			["name"] = "Master Mode AG",
 		},
-		["d634pnilu635cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "TDC Down (Action Position)",
-		},
 		["d71pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN50",
+					["key"] = "JOY_BTN63",
 				},
 			},
 			["name"] = "Canopy Open/Close",

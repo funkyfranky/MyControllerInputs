@@ -262,6 +262,22 @@ local diff = {
 			},
 			["name"] = "Left MDI Brightness Control Knob - CW/Increase",
 		},
+		["dnilp3044unilcd35vdnilvp-0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Left MDI Contrast Control Knob - CCW/Decrease",
+		},
+		["dnilp3044unilcd35vdnilvp0.5vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Left MDI Contrast Control Knob - CW/Increase",
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {

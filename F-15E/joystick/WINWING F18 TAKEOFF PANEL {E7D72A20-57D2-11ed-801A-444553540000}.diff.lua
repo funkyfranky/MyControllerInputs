@@ -42,22 +42,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1047pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Flaps Up",
-		},
-		["d1049pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "Flaps Down",
-		},
 		["d3321pnilunilcd44vd-0.3vpnilvunil"] = {
 			["added"] = {
 				[1] = {

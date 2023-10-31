@@ -42,6 +42,22 @@ local diff = {
 			},
 			["name"] = "IFEI Mode Button",
 		},
+		["d3001pnilu3001cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN63",
+				},
+			},
+			["name"] = "Canopy Control Switch - OPEN",
+		},
+		["d3002pnilu3002cd2vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "T/O TRIM Button",
+		},
 		["d3002pnilu3002cd33vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -49,6 +65,22 @@ local diff = {
 				},
 			},
 			["name"] = "IFEI QTY Button",
+		},
+		["d3002pnilu3002cd7vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "Canopy Control Switch - CLOSE",
+		},
+		["d3002pnilunilcd7vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN64",
+				},
+			},
+			["name"] = "Canopy Control Switch - HOLD",
 		},
 		["d3003pnilu3003cd33vd1vpnilvu0"] = {
 			["added"] = {
@@ -74,6 +106,14 @@ local diff = {
 			},
 			["name"] = "IFEI ZONE Button",
 		},
+		["d3006pnilu3006cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Fire and Bleed Air Test Switch - TEST A",
+		},
 		["d3006pnilu3006cd33vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -82,21 +122,13 @@ local diff = {
 			},
 			["name"] = "IFEI ET Button",
 		},
-		["d3008pnilu3008cd9vd1vpnilvu0"] = {
+		["d3007pnilu3007cd12vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN50",
+					["key"] = "JOY_BTN49",
 				},
 			},
-			["name"] = "MASTER CAUTION Reset Button",
-		},
-		["d3017pnilunilcd12vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN53",
-				},
-			},
-			["name"] = "APU Fire Warning/Extinguisher Light Switch - PRESS/RELEASE",
+			["name"] = "Fire and Bleed Air Test Switch - TEST B",
 		},
 		["d3019pnilu3019cd13vd1vpnilvu0"] = {
 			["added"] = {
@@ -169,14 +201,6 @@ local diff = {
 				},
 			},
 			["name"] = "COMM Switch - MIDS B",
-		},
-		["d3031pnilu3031cd13vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN33",
-				},
-			},
-			["name"] = "Cage/Uncage Button",
 		},
 		["d3032pnilu3032cd13vd1vpnilvu0"] = {
 			["added"] = {
@@ -279,6 +303,22 @@ local diff = {
 				},
 			},
 			["name"] = "IFEI Brightness Control Knob - CW/Increase",
+		},
+		["dnilp3013unilcd2vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "RUD TRIM Control - CCW/Left",
+		},
+		["dnilp3013unilcd2vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "RUD TRIM Control - CW/Right",
 		},
 	},
 }

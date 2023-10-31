@@ -55,14 +55,6 @@ local diff = {
 			},
 			["name"] = "Air brake - Retract",
 		},
-		["d3100pnilu3100cd6vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "VoIP PTT button (custom)",
-		},
 		["d3118pnilunilcd1vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {

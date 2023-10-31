@@ -24,13 +24,21 @@ local diff = {
 				},
 			},
 		},
-		["a3327cd5"] = {
+		["a3801cd5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "Radar Cl filter",
+		},
+		["a3921cd5"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "Radar MKR Gain",
+			["name"] = "Radar brightness",
 		},
 	},
 	["keyDiffs"] = {
@@ -113,6 +121,14 @@ local diff = {
 				},
 			},
 			["name"] = "Countermeasure KB Mod 3",
+		},
+		["d3010pnilu3010cd28vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Countermeasure KB Stråk Mod 4/0",
 		},
 		["d3010pnilunilcd17vd0vpnilvunil"] = {
 			["added"] = {

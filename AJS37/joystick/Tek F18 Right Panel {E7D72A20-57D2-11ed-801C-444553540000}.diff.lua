@@ -86,42 +86,6 @@ local diff = {
 			},
 			["name"] = "Instrument Lights brightness",
 		},
-		["a3801cd5"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "Radar Cl filter",
-		},
-		["a3921cd5"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Radar brightness",
-		},
 	},
 	["keyDiffs"] = {
 		["d3001pnilunilcd17vd0vpnilvunil"] = {
@@ -139,14 +103,6 @@ local diff = {
 				},
 			},
 			["name"] = "Anti collision lights switch - ON",
-		},
-		["d3002pnilu3002cd20vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Radar Altimeter Power On/Off (hold- on)",
 		},
 		["d3002pnilunilcd17vd-1vpnilvunil"] = {
 			["added"] = {
@@ -188,6 +144,22 @@ local diff = {
 			},
 			["name"] = "Formation lights switch - ON",
 		},
+		["d3003pnilunilcd19vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Backup Generator - OFF",
+		},
+		["d3003pnilunilcd19vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Backup Generator - ON",
+		},
 		["d3004pnilunilcd17vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -203,6 +175,70 @@ local diff = {
 				},
 			},
 			["name"] = "Position lights switch - ON",
+		},
+		["d3006pnilu3006cd18vd0vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Manual Afterburner Fuel Valve Open/Closed (hold- closed)",
+		},
+		["d3006pnilu3006cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Manual Afterburner Fuel Valve Open/Closed (hold- open)",
+		},
+		["d3007pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Manual Fuel Regulator - OFF",
+		},
+		["d3007pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Manual Fuel Regulator - ON",
+		},
+		["d3099pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Engine De-Ice - OFF",
+		},
+		["d3099pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Engine De-Ice - ON",
+		},
+		["d3210pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Pitch Gear Switch - AUTOMATIC",
+		},
+		["d3210pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Pitch Gear Switch - LANDING",
 		},
 		["d3305pnilunilcd2vd0.3vpnilvunil"] = {
 			["added"] = {
@@ -268,14 +304,6 @@ local diff = {
 			},
 			["name"] = "Weapon Interval 00 VÄ",
 		},
-		["d3306pnilu3306cd2vd0vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Weapon Release Mode Fallsattomkopplare Up/Down",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {
@@ -283,14 +311,6 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["d3718pnilu3718cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Oxygen lever (hold- on)",
 		},
 	},
 }

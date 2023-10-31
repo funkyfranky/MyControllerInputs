@@ -82,6 +82,14 @@ local diff = {
 			},
 			["name"] = "LAAP Engage/Disengage",
 		},
+		["d957pnilu958cdnilvdnilvpnilvunil"] = {
+			["name"] = "Stick to trimmer control mode",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
 			["name"] = "View Center",
 			["removed"] = {

@@ -50,38 +50,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3002cd12vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Engine Crank Switch - Cycle Left",
-		},
-		["d3003pnilu3003cd12vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Engine Crank Switch - Cycle Right",
-		},
-		["d3006pnilu3006cd12vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Fire and Bleed Air Test Switch - TEST A",
-		},
-		["d3007pnilu3007cd12vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Fire and Bleed Air Test Switch - TEST B",
-		},
 		["d83pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -137,6 +105,38 @@ local diff = {
 				},
 			},
 			["name"] = "Push to Test Switch - CW/Increase",
+		},
+		["dnilp3005unilcd32vdnilvp-0.3vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "SAI Cage Knob - CCW",
+		},
+		["dnilp3005unilcd32vdnilvp0.3vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "SAI Cage Knob - CW",
+		},
+		["dnilp316unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CW/Increase",
+		},
+		["dnilp317unilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "AAU-52 Altimeter Pressure Setting Knob - CCW/Decrease",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

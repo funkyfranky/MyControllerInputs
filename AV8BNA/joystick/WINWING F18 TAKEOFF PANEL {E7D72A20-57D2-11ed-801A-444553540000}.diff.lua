@@ -178,22 +178,6 @@ local diff = {
 			},
 			["name"] = "AFC Switch ON/OFF",
 		},
-		["d3489pnilunilcd28vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-			},
-			["name"] = "Parking Brake ON",
-		},
-		["d3489pnilunilcd28vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Parking Brake OFF",
-		},
 		["d3519pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

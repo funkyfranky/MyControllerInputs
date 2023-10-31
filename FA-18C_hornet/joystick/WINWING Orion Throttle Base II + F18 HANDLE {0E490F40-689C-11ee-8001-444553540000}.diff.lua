@@ -103,7 +103,7 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.12,
+							[1] = 0.3,
 						},
 						["deadzone"] = 0.03,
 						["hardwareDetent"] = false,
@@ -111,7 +111,7 @@ local diff = {
 						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 1,
+						["saturationY"] = 0.3,
 						["slider"] = false,
 					},
 					["key"] = "JOY_X",
@@ -121,22 +121,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN82",
-				},
-			},
-			["name"] = "Master Mode Button - A/A",
-		},
-		["d3002pnilu3002cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN81",
-				},
-			},
-			["name"] = "Master Mode Button - A/G",
-		},
 		["d3002pnilu3002cd54vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -204,7 +188,7 @@ local diff = {
 		["d3008pnilu3008cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN92",
+					["key"] = "JOY_BTN81",
 				},
 			},
 			["name"] = "MASTER CAUTION Reset Button",
@@ -264,6 +248,14 @@ local diff = {
 				},
 			},
 			["name"] = "Launch Bar Control Switch - RETRACT",
+		},
+		["d3017pnilunilcd12vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN82",
+				},
+			},
+			["name"] = "APU Fire Warning/Extinguisher Light Switch - PRESS/RELEASE",
 		},
 		["d3020pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {

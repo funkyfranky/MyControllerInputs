@@ -58,50 +58,6 @@ local diff = {
 				},
 			},
 		},
-		["d3716pnilu3716cd22vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-			["name"] = "Emergency Trim Roll Left",
-		},
-		["d3716pnilu3716cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-			["name"] = "Emergency Trim Roll Rght",
-		},
-		["d3717pnilu3717cd22vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-			["name"] = "Emergency Trim Pitch Up",
-		},
-		["d3717pnilu3717cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-					["reformers"] = {
-						[1] = "LAlt",
-					},
-				},
-			},
-			["name"] = "Emergency Trim Pitch Down",
-		},
 		["d3718pnilu3718cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3005cd10"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "OXY Flow Knob",
+		},
 		["a3034cd40"] = {
 			["added"] = {
 				[1] = {

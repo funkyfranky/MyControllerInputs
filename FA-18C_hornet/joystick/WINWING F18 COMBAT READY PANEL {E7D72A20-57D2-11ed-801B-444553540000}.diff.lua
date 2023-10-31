@@ -299,14 +299,6 @@ local diff = {
 			},
 			["name"] = "UFC COMM 1 Channel Selector Knob - PULL",
 		},
-		["d3008pnilu3008cd9vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN37",
-				},
-			},
-			["name"] = "MASTER CAUTION Reset Button",
-		},
 		["d3009pnilu3009cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -314,6 +306,14 @@ local diff = {
 				},
 			},
 			["name"] = "UFC COMM 2 Channel Selector Knob - PULL",
+		},
+		["d3014pnilunilcd53vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "ALR-67 POWER Pushbutton - ON/OFF",
 		},
 		["d3018pnilunilcd23vd0vpnilvunil"] = {
 			["added"] = {

@@ -176,6 +176,14 @@ local diff = {
 			},
 			["name"] = "External Tank Release Cover Open/Close",
 		},
+		["d3407pnilu3407cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Canopy Jettison",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {

@@ -90,6 +90,14 @@ local diff = {
 			},
 			["name"] = "Marker Beacon INNER/OUTER",
 		},
+		["d3021pnilunilcd27vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "LANDYSh-5 VHF Radio Squelch (Noise Suppression) Switch, toggle",
+		},
 	},
 }
 return diff

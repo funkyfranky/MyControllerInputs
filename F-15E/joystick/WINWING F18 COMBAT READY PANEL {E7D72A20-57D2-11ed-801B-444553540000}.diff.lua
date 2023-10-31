@@ -128,30 +128,6 @@ local diff = {
 			},
 			["name"] = "Terrain Follow Radar: ON",
 		},
-		["d3470pnilunilcd31vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Radar Altimeter: ON",
-		},
-		["d3470pnilunilcd31vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Radar Altimeter: OFF",
-		},
-		["d3470pnilunilcd31vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Radar Altimeter: OVERRIDE",
-		},
 		["d3471pnilunilcd3vd0.33vpnilvunil"] = {
 			["added"] = {
 				[1] = {

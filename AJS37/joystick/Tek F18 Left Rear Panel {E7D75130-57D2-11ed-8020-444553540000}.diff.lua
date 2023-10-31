@@ -132,30 +132,6 @@ local diff = {
 			},
 			["name"] = "Ignition System - OFF",
 		},
-		["d3003pnilunilcd18vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN42",
-				},
-			},
-			["name"] = "Ignition System - ON",
-		},
-		["d3406pnilu3406cd22vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN48",
-				},
-			},
-			["name"] = "Canopy Open/Center",
-		},
-		["d3406pnilu3406cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN46",
-				},
-			},
-			["name"] = "Canopy Close/Center",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {
@@ -235,14 +211,6 @@ local diff = {
 				},
 			},
 			["name"] = "Data Cartridge Insert",
-		},
-		["dnilp3712unilcd22vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN43",
-				},
-			},
-			["name"] = "Autopilot yaw trim Left",
 		},
 	},
 }

@@ -104,22 +104,6 @@ local diff = {
 			},
 			["name"] = "Push to Test Switch - CW/Increase",
 		},
-		["dnilp3005unilcd32vdnilvp-0.3vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "SAI Cage Knob - CCW",
-		},
-		["dnilp3005unilcd32vdnilvp0.3vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "SAI Cage Knob - CW",
-		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {
