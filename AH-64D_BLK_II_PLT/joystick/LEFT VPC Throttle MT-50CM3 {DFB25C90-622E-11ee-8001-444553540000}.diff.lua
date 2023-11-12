@@ -1,60 +1,36 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2005cdnil"] = {
-			["added"] = {
+		["a2001cdnil"] = {
+			["name"] = "Cyclic Pitch",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-							[2] = 0.13,
-							[3] = 0.26,
-							[4] = 0.39,
-							[5] = 0.52,
-							[6] = 0.65,
-							[7] = 0.76,
-							[8] = 0.85,
-							[9] = 0.91,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_RX",
+					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Power Lever (Left)",
 		},
-		["a2006cdnil"] = {
-			["added"] = {
+		["a2002cdnil"] = {
+			["name"] = "Cyclic Roll",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-							[2] = 0.13,
-							[3] = 0.26,
-							[4] = 0.39,
-							[5] = 0.52,
-							[6] = 0.65,
-							[7] = 0.76,
-							[8] = 0.85,
-							[9] = 0.91,
-							[10] = 0.95,
-							[11] = 1,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = true,
-					},
-					["key"] = "JOY_RY",
+					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "Power Lever (Right)",
+		},
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+		["a2087cdnil"] = {
+			["name"] = "Collective",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
 		},
 	},
 	["keyDiffs"] = {

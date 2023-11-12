@@ -37,7 +37,7 @@ local diff = {
 		["d3001pnilu3001cd23vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN34",
+					["key"] = "JOY_BTN9",
 				},
 			},
 			["name"] = "Data panel RENSA (Clear)",
@@ -45,7 +45,7 @@ local diff = {
 		["d3008pnilu3008cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN36",
 				},
 			},
 			["name"] = "Navigation panel Waypoint L MÅL",
@@ -69,7 +69,7 @@ local diff = {
 		["d3009pnilu3009cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN18",
+					["key"] = "JOY_BTN34",
 				},
 			},
 			["name"] = "Navigation panel Waypoint LS SKU",
@@ -237,7 +237,7 @@ local diff = {
 		["d3101pnilu3101cd23vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN36",
+					["key"] = "JOY_BTN24",
 				},
 			},
 			["name"] = "Data panel RENSA cover",

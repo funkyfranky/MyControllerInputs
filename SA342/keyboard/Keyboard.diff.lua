@@ -20,7 +20,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Trim On/Off",
+			["name"] = "SA342 Trim On/Off Toggle",
 		},
 		["d3024pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
@@ -42,7 +42,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "Master On/Off",
+			["name"] = "SA342 Master On/Off Toggle",
 		},
 		["d816pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

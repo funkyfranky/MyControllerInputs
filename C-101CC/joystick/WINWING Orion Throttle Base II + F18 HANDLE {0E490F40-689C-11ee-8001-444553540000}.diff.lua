@@ -55,6 +55,134 @@ local diff = {
 			},
 			["name"] = "Air brake - Retract",
 		},
+		["d3016pnilu3016cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN81",
+				},
+			},
+			["name"] = "Master Warning Light (Red)",
+		},
+		["d3018pnilu3018cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN82",
+				},
+			},
+			["name"] = "Master Caution Light (Amber)",
+		},
+		["d3050pnilunilcd1vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN66",
+				},
+			},
+			["name"] = "Fuel Transfer Left OFF",
+		},
+		["d3050pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "Fuel Transfer Left AUT",
+		},
+		["d3051pnilunilcd1vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN68",
+				},
+			},
+			["name"] = "Fuel Transfer Center 1 OFF",
+		},
+		["d3051pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN67",
+				},
+			},
+			["name"] = "Fuel Transfer Center 1 AUT",
+		},
+		["d3052pnilunilcd1vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "Fuel Transfer Center 2 OFF",
+		},
+		["d3052pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "Fuel Transfer Center 2 AUT",
+		},
+		["d3053pnilunilcd1vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN76",
+				},
+			},
+			["name"] = "Fuel Transfer Right OFF",
+		},
+		["d3053pnilunilcd1vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN75",
+				},
+			},
+			["name"] = "Fuel Transfer Right AUT",
+		},
+		["d3109pnilunilcd2vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN87",
+				},
+			},
+			["name"] = "Left Spotlight Switch - TAXI",
+		},
+		["d3109pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN86",
+				},
+			},
+			["name"] = "Left Spotlight Switch - OFF",
+		},
+		["d3109pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN88",
+				},
+			},
+			["name"] = "Left Spotlight Switch - LAND",
+		},
+		["d3110pnilunilcd2vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN90",
+				},
+			},
+			["name"] = "Right Spotlight Switch - TAXI",
+		},
+		["d3110pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN89",
+				},
+			},
+			["name"] = "Right Spotlight Switch - OFF",
+		},
+		["d3110pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN91",
+				},
+			},
+			["name"] = "Right Spotlight Switch - LAND",
+		},
 		["d3118pnilunilcd1vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -71,6 +199,14 @@ local diff = {
 			},
 			["name"] = "Throttle Idle Detent - STOP",
 		},
+		["d3201pnilu3201cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN92",
+				},
+			},
+			["name"] = "Pitot heat",
+		},
 		["d3700pnilu3700cd1vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -78,6 +214,30 @@ local diff = {
 				},
 			},
 			["name"] = "MPR Switch",
+		},
+		["d8008pnilunilcd1vdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN77",
+				},
+			},
+			["name"] = "Flaps Up",
+		},
+		["d8009pnilunilcd1vdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN79",
+				},
+			},
+			["name"] = "Flaps Down",
+		},
+		["d8010pnilunilcd1vdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN78",
+				},
+			},
+			["name"] = "Flaps Middle",
 		},
 	},
 }

@@ -42,22 +42,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilunilcd7vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "Reversal off",
-		},
-		["d3001pnilunilcd7vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Reversal on",
-		},
 		["d3005pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -145,6 +129,22 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency lights switch - ON",
+		},
+		["d3010pnilunilcd28vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Countermeasure KB Stråk Mod 0",
+		},
+		["d3010pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Countermeasure KB Stråk Mod 4",
 		},
 		["d3028pnilu3028cd28vd0.2vpnilvu0.1"] = {
 			["added"] = {

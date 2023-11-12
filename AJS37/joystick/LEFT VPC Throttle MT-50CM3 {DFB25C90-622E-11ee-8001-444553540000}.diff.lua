@@ -90,14 +90,6 @@ local diff = {
 			},
 			["name"] = "Memory mode",
 		},
-		["d3213pnilu3213cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN33",
-				},
-			},
-			["name"] = "Radar Terrain Avoidance Mode",
-		},
 		["d3214pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

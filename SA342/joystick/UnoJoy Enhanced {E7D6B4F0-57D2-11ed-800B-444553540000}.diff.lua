@@ -64,7 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Yaw On/Off",
+			["name"] = "SA342 Yaw On/Off Toggle",
 		},
 		["d3011pnilu3012cd8vd1vpnilvu0"] = {
 			["name"] = "Trim Hat - ROLL RIGHT",
@@ -80,7 +80,7 @@ local diff = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "Roll On/Off",
+			["name"] = "SA342 Roll On/Off Toggle",
 		},
 		["d3013pnilunilcd7vd1vpnilvunil"] = {
 			["added"] = {
@@ -88,7 +88,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Pitch On/Off",
+			["name"] = "SA342 Pitch On/Off Toggle",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Gun or Rockets",

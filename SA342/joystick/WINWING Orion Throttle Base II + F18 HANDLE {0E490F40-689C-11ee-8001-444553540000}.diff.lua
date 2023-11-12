@@ -1,6 +1,6 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
+		["a2013cdnil"] = {
 			["name"] = "Flight Control Cyclic Pitch",
 			["removed"] = {
 				[1] = {
@@ -8,7 +8,7 @@ local diff = {
 				},
 			},
 		},
-		["a2002cdnil"] = {
+		["a2014cdnil"] = {
 			["name"] = "Flight Control Cyclic Roll",
 			["removed"] = {
 				[1] = {
@@ -16,7 +16,7 @@ local diff = {
 				},
 			},
 		},
-		["a2003cdnil"] = {
+		["a2015cdnil"] = {
 			["name"] = "Flight Control Yaw (pedals)",
 			["removed"] = {
 				[1] = {
@@ -29,24 +29,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_Z",
-				},
-			},
-		},
-	},
-	["keyDiffs"] = {
-		["d3025pnilu3025cd36vd1vpnilvu0"] = {
-			["name"] = "Radio trigger - 2nd STAGE (RADIO)",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-		},
-		["d84pnilu84cdnilvd1vpnilvu0"] = {
-			["name"] = "Release weapons",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
 				},
 			},
 		},

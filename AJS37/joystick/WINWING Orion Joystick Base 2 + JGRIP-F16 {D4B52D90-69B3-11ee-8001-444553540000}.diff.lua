@@ -26,6 +26,14 @@ local diff = {
 			},
 			["name"] = "TV Fix",
 		},
+		["d3090pnilu3090cd22vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Reference button",
+		},
 		["d3300pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -42,6 +50,14 @@ local diff = {
 			},
 			["name"] = "Trigger safety bracket ARM",
 		},
+		["d3401pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "HUD Position LOW/HIGH (toggle)",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -54,6 +70,14 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["d3803pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Autopilot Quick Disengage",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

@@ -34,30 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilunilcd7vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Nav Lights Flash",
-		},
-		["d3002pnilunilcd7vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Nav Lights Off",
-		},
-		["d3002pnilunilcd7vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Nav Lights Steady",
-		},
 		["d3004pnilu3004cd41vd1vpnilvu0"] = {
 			["name"] = "Pilot Trimmer",
 			["removed"] = {
@@ -74,38 +50,11 @@ local diff = {
 				},
 			},
 		},
-		["d3013pnilunilcd7vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN33",
-				},
-			},
-			["name"] = "Nav Lights Dim/Bright",
-		},
-		["d3014pnilunilcd7vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN31",
-				},
-				[2] = {
-					["key"] = "JOY_BTN31_OFF",
-				},
-			},
-			["name"] = "Anti Collision Light Switch",
-		},
 		["d84pnilu84cdnilvd1vpnilvu0"] = {
 			["name"] = "Pilot weapon release/Machinegun fire",
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
-				},
-			},
-		},
-		["dnilp36unilcdnilvdnilvpnilvunil"] = {
-			["name"] = "Center View",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
 				},
 			},
 		},

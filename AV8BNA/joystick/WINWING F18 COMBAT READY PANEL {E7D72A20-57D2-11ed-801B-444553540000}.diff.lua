@@ -10,54 +10,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1465pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN53",
-				},
-			},
-			["name"] = "UHF Radio 1 Selector",
-		},
-		["d1471pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN51",
-				},
-			},
-			["name"] = "UHF Radio 1 Preset Channel Decrease",
-		},
-		["d1472pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN52",
-				},
-			},
-			["name"] = "UHF Radio 1 Preset Channel Increase",
-		},
-		["d1487pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN56",
-				},
-			},
-			["name"] = "UHF Radio 2 Selector",
-		},
-		["d1493pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN54",
-				},
-			},
-			["name"] = "UHF Radio 2 Preset Channel Decrease",
-		},
-		["d1494pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN55",
-				},
-			},
-			["name"] = "UHF Radio 2 Preset Channel Increase",
-		},
 		["d178pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

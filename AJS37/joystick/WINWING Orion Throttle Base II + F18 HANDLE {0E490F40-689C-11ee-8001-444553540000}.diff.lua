@@ -121,6 +121,14 @@ local diff = {
 			},
 			["name"] = "Main Electric Power - ON",
 		},
+		["d3001pnilunilcd24vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN69",
+				},
+			},
+			["name"] = "RWR KB Off",
+		},
 		["d3002pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -177,6 +185,14 @@ local diff = {
 			},
 			["name"] = "A0 Mode",
 		},
+		["d3002pnilunilcd24vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN70",
+				},
+			},
+			["name"] = "RWR KB Lights",
+		},
 		["d3003pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -192,6 +208,14 @@ local diff = {
 				},
 			},
 			["name"] = "Ignition System - ON",
+		},
+		["d3003pnilunilcd24vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN71",
+				},
+			},
+			["name"] = "RWR KB Lights/Sound",
 		},
 		["d3004pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {
@@ -209,18 +233,13 @@ local diff = {
 			},
 			["name"] = "High-pressure Fuel Valve - IDLE",
 		},
-		["d3008pnilu3008cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN99",
-				},
-			},
-			["name"] = "Datapanel Switch In/out",
-		},
 		["d3011pnilu3011cd30vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN16",
+				},
+				[2] = {
+					["key"] = "JOY_BTN85",
 				},
 			},
 			["name"] = "Ground Intercom",
@@ -257,14 +276,6 @@ local diff = {
 			},
 			["name"] = "FR24 Push-to-talk",
 		},
-		["d3013pnilu3013cd30vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN85",
-				},
-			},
-			["name"] = "FR24 Mute",
-		},
 		["d3110pnilunilcd30vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -280,6 +291,30 @@ local diff = {
 				},
 			},
 			["name"] = "FR24 Mode Selector - LEFT (Fixed)",
+		},
+		["d3212pnilu3212cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Memory mode",
+		},
+		["d3213pnilu3213cd5vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Radar Terrain Avoidance Mode",
+		},
+		["d3301pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN99",
+				},
+			},
+			["name"] = "SAS mode SPAK flight stabiliser",
 		},
 		["d3301pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
@@ -297,6 +332,22 @@ local diff = {
 			},
 			["name"] = "Weapon Interval turn clockwise",
 		},
+		["d3302pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN102",
+				},
+			},
+			["name"] = "Autopilot mode ATT (Attitude hold)",
+		},
+		["d3303pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN105",
+				},
+			},
+			["name"] = "Autopilot mode HÖJD (Altitude Hold)",
+		},
 		["d3323pnilu3323cd5vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -312,6 +363,14 @@ local diff = {
 				},
 			},
 			["name"] = "Radar Range Increase",
+		},
+		["d3401pnilu3401cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN80",
+				},
+			},
+			["name"] = "Aterstart (Restart) Switch On/Off",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",

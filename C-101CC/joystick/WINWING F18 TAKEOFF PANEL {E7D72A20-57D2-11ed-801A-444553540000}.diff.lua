@@ -74,6 +74,17 @@ local diff = {
 			},
 			["name"] = "Selective Jettison Button",
 		},
+		["d8023pnilunilcd1vdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+				[2] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Parking Brake",
+		},
 		["d8029pnilunilcd1vdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

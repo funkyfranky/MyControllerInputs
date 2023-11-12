@@ -40,22 +40,6 @@ local diff = {
 			},
 			["name"] = "RWR VOL CONTROL",
 		},
-		["a3298cd23"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Comm 1 Volume Control",
-		},
-		["a3299cd23"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Comm 2 Volume Control",
-		},
 		["a3629cd4"] = {
 			["added"] = {
 				[1] = {

@@ -1,6 +1,6 @@
 local disabled = {
 	["devices"] = {
 	},
-	["pnp"] = true,
+	["pnp"] = false,
 }
 return disabled

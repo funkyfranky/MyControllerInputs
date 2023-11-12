@@ -82,29 +82,19 @@ local diff = {
 			},
 			["name"] = "Anti-Ice Push-button",
 		},
-		["d8008pnilunilcd1vdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN65",
-				},
-			},
-			["name"] = "Flaps Up",
-		},
-		["d8009pnilunilcd1vdnilvpnilvunil"] = {
+		["d71pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN63",
 				},
-			},
-			["name"] = "Flaps Down",
-		},
-		["d8010pnilunilcd1vdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
+				[2] = {
 					["key"] = "JOY_BTN64",
 				},
+				[3] = {
+					["key"] = "JOY_BTN65",
+				},
 			},
-			["name"] = "Flaps Middle",
+			["name"] = "Canopy Open/Close",
 		},
 	},
 }

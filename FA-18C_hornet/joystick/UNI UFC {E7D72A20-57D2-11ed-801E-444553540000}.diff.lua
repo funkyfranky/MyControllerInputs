@@ -90,22 +90,6 @@ local diff = {
 			},
 			["name"] = "UFC Function Selector Pushbutton - ON/OFF",
 		},
-		["d3008pnilu3008cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "UFC COMM 1 Channel Selector Knob - PULL",
-		},
-		["d3009pnilu3009cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "UFC COMM 2 Channel Selector Knob - PULL",
-		},
 		["d3010pnilu3010cd25vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -145,22 +129,6 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Option Select Pushbutton 5",
-		},
-		["d3016pnilu3016cd25vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN57",
-				},
-			},
-			["name"] = "UFC ADF Function Select 3-pos Switch: 2<>OFF",
-		},
-		["d3016pnilu3016cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN55",
-				},
-			},
-			["name"] = "UFC ADF Function Select 3-pos Switch: 1<>OFF",
 		},
 		["d3018pnilu3018cd25vd1vpnilvu0"] = {
 			["added"] = {
@@ -257,70 +225,6 @@ local diff = {
 				},
 			},
 			["name"] = "UFC Keyboard Pushbutton - ENT",
-		},
-		["d3033pnilunilcd25vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN67",
-				},
-			},
-			["name"] = "UFC COMM 1 Channel Selector Knob - CCW/Decrease",
-		},
-		["d3033pnilunilcd25vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN66",
-				},
-			},
-			["name"] = "UFC COMM 1 Channel Selector Knob - CW/Increase",
-		},
-		["d3034pnilunilcd25vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN68",
-				},
-			},
-			["name"] = "UFC COMM 2 Channel Selector Knob - CCW/Decrease",
-		},
-		["d3034pnilunilcd25vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN69",
-				},
-			},
-			["name"] = "UFC COMM 2 Channel Selector Knob - CW/Increase",
-		},
-		["dnilp3036unilcd25vdnilvp-0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN63",
-				},
-			},
-			["name"] = "UFC COMM 1 Volume Control Knob - CCW/Decrease",
-		},
-		["dnilp3036unilcd25vdnilvp0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN62",
-				},
-			},
-			["name"] = "UFC COMM 1 Volume Control Knob - CW/Increase",
-		},
-		["dnilp3038unilcd25vdnilvp-0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN65",
-				},
-			},
-			["name"] = "UFC COMM 2 Volume Control Knob - CCW/Decrease",
-		},
-		["dnilp3038unilcd25vdnilvp0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN64",
-				},
-			},
-			["name"] = "UFC COMM 2 Volume Control Knob - CW/Increase",
 		},
 	},
 }

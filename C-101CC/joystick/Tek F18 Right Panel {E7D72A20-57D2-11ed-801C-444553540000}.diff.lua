@@ -34,6 +34,22 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3070pnilunilcd6vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN62",
+				},
+			},
+			["name"] = "INTERCOM Main Mode Selector Decrease",
+		},
+		["d3070pnilunilcd6vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN63",
+				},
+			},
+			["name"] = "INTERCOM Main Mode Selector Increase",
+		},
 		["d3102pnilunilcd2vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {

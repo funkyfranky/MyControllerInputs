@@ -8,6 +8,38 @@ local diff = {
 			},
 			["name"] = "Master caution reset",
 		},
+		["d3001pnilunilcd7vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Reversal off",
+		},
+		["d3001pnilunilcd7vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Reversal on",
+		},
+		["d3002pnilu3002cd26vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "KONTR LAMPTABLA light test",
+		},
+		["d3004pnilu3004cd26vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "KONTROLL Indicator System Test",
+		},
 		["d3011pnilunilcd28vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -176,6 +208,14 @@ local diff = {
 			},
 			["name"] = "External Tank Release Cover Open/Close",
 		},
+		["d3402pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "Autothrottle 12 or 15.5 alpha mode",
+		},
 		["d3407pnilu3407cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -183,6 +223,22 @@ local diff = {
 				},
 			},
 			["name"] = "Canopy Jettison",
+		},
+		["d3408pnilu3408cd22vd0vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Parking Brake - OFF else ON (2-way Switch)",
+		},
+		["d3408pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Parking Brake - OFF",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
@@ -200,22 +256,6 @@ local diff = {
 			},
 			["name"] = "Altimeter setting pull-out (toggle)",
 		},
-		["d3802pnilu3804cd2vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Missile Select Button (IR-RB FRAMSTEGN) - Toggle",
-		},
-		["dnilp3305u3305cd22vdnilvp1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN46",
-				},
-			},
-			["name"] = "Roll centrering (Roll trim reset) ",
-		},
 		["dnilp3306unilcd22vdnilvp-0.05vunil"] = {
 			["added"] = {
 				[1] = {
@@ -231,22 +271,6 @@ local diff = {
 				},
 			},
 			["name"] = "Altimeter setting Medium - Up",
-		},
-		["dnilp3404u3404cd22vdnilvp-1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Seat Adjustment - Up",
-		},
-		["dnilp3404u3404cd22vdnilvp1vu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Seat Adjustment - Down",
 		},
 		["dnilp3721unilcd22vdnilvp-0.015vunil"] = {
 			["added"] = {
