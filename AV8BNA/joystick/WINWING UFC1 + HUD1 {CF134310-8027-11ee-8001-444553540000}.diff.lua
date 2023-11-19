@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3272cd20"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "EDP BRT CONTROL",
+		},
 		["a3289cd22"] = {
 			["added"] = {
 				[1] = {
@@ -39,6 +47,22 @@ local diff = {
 				},
 			},
 			["name"] = "HUD BRT CONTROL",
+		},
+		["a3291cd22"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "VIDEO BRT CONTROL",
+		},
+		["a3292cd22"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "VIDEO CONT CONTROL",
 		},
 		["a3295cd23"] = {
 			["added"] = {
@@ -113,6 +137,70 @@ local diff = {
 				},
 			},
 			["name"] = "UHF Radio 2 Preset Channel Increase",
+		},
+		["d3288pnilunilcd22vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN66",
+				},
+			},
+			["name"] = "HUD Symbology Reject Switch REJ 1",
+		},
+		["d3288pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN67",
+				},
+			},
+			["name"] = "HUD Symbology Reject Switch NORM",
+		},
+		["d3288pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "HUD Symbology Reject Switch REJ 2",
+		},
+		["d3290pnilunilcd22vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN71",
+				},
+			},
+			["name"] = "HUD Mode Selector AUTO",
+		},
+		["d3290pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN70",
+				},
+			},
+			["name"] = "HUD Mode Selector DAY",
+		},
+		["d3290pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN72",
+				},
+			},
+			["name"] = "HUD Mode Selector NIGHT",
+		},
+		["d3293pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN68",
+				},
+			},
+			["name"] = "HUD Altitude Selector BARO",
+		},
+		["d3293pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN69",
+				},
+			},
+			["name"] = "HUD Altitude Selector RDR",
 		},
 		["d3294pnilu3294cd23vd1vpnilvu0"] = {
 			["added"] = {
@@ -329,6 +417,38 @@ local diff = {
 				},
 			},
 			["name"] = "UFC EMCON Toggle Button",
+		},
+		["d3424pnilunilcd16vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN77",
+				},
+			},
+			["name"] = "DMT Switch OFF",
+		},
+		["d3424pnilunilcd16vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN75",
+				},
+			},
+			["name"] = "DMT Switch ON",
+		},
+		["d3429pnilunilcd14vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "FLIR Power Switch OFF",
+		},
+		["d3429pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "FLIR Power Switch ON",
 		},
 	},
 }

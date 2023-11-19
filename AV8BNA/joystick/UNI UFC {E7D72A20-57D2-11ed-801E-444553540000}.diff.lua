@@ -226,38 +226,6 @@ local diff = {
 			},
 			["name"] = "UFC EMCON Toggle Button",
 		},
-		["d3424pnilunilcd16vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN52",
-				},
-			},
-			["name"] = "DMT Switch OFF",
-		},
-		["d3424pnilunilcd16vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN51",
-				},
-			},
-			["name"] = "DMT Switch ON",
-		},
-		["d3429pnilunilcd14vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN54",
-				},
-			},
-			["name"] = "FLIR Power Switch OFF",
-		},
-		["d3429pnilunilcd14vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN53",
-				},
-			},
-			["name"] = "FLIR Power Switch ON",
-		},
 	},
 }
 return diff

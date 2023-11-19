@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3510cd33"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "Formation Lights Knob Axis",
+		},
 		["a3635cd34"] = {
 			["added"] = {
 				[1] = {
@@ -74,6 +82,86 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3503pnilunilcd33vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Exterior Lights SW NVG",
+		},
+		["d3503pnilunilcd33vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Exterior Lights SW OFF",
+		},
+		["d3503pnilunilcd33vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Exterior Lights SW NORM",
+		},
+		["d3511pnilunilcd33vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Position Lights DIM",
+		},
+		["d3511pnilunilcd33vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Position Lights OFF",
+		},
+		["d3511pnilunilcd33vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Position Lights BRT",
+		},
+		["d3512pnilunilcd33vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Anti Collision Lights OFF",
+		},
+		["d3512pnilunilcd33vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Anti Collision Lights ON",
+		},
+		["d3513pnilunilcd33vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "Auxiliary (Taxi) Light OFF",
+		},
+		["d3513pnilunilcd33vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Auxiliary (Taxi) Light ON",
+		},
 		["d3609pnilunilcd1vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {

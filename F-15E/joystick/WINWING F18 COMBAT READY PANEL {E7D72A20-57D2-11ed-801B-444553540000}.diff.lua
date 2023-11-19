@@ -51,7 +51,7 @@ local diff = {
 		["d3126pnilu3126cd32vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN47",
+					["key"] = "JOY_BTN2",
 				},
 			},
 			["name"] = "Master Mode A/A Selector",
@@ -59,26 +59,10 @@ local diff = {
 		["d3127pnilu3127cd32vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN48",
+					["key"] = "JOY_BTN3",
 				},
 			},
 			["name"] = "Master Mode A/G Selector",
-		},
-		["d3128pnilu3128cd32vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN49",
-				},
-			},
-			["name"] = "Master Mode NAV Selector",
-		},
-		["d3129pnilu3129cd32vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN50",
-				},
-			},
-			["name"] = "Master Mode INST Selector",
 		},
 		["d3323pnilu3323cd44vd1vpnilvu0"] = {
 			["added"] = {

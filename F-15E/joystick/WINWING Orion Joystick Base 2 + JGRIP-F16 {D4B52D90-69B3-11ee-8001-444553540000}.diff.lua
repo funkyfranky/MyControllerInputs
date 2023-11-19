@@ -125,7 +125,7 @@ local diff = {
 		["d561pnilu633cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN7",
+					["key"] = "JOY_BTN8",
 				},
 			},
 			["name"] = "Paddle Switch",

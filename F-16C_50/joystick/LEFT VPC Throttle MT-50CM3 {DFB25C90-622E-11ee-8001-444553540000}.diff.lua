@@ -74,6 +74,14 @@ local diff = {
 			},
 			["name"] = "Kneeboard Next Page",
 		},
+		["d3002pnilunilcd10vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN63",
+				},
+			},
+			["name"] = "Canopy Switch - OPEN",
+		},
 		["d3002pnilunilcd54vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -81,6 +89,14 @@ local diff = {
 				},
 			},
 			["name"] = "Kneeboard Previous Page",
+		},
+		["d3003pnilu3003cd10vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN64",
+				},
+			},
+			["name"] = "Canopy Switch - CLOSE",
 		},
 		["d3012pnilu3012cd2vd-1vpnilvu0"] = {
 			["added"] = {
@@ -129,6 +145,14 @@ local diff = {
 				},
 			},
 			["name"] = "ECM SPL Button - Depressed",
+		},
+		["d3018pnilunilcd10vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "Canopy Handle - DOWN/UP",
 		},
 		["d3018pnilunilcd66vd1vpnilvunil"] = {
 			["added"] = {

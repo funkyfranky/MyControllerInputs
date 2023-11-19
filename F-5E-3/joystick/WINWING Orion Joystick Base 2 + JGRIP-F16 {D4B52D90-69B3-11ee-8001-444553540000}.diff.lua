@@ -1,4 +1,14 @@
 local diff = {
+	["axisDiffs"] = {
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+	},
 	["keyDiffs"] = {
 		["d3004pnilu3004cd2vd1vpnilvu0"] = {
 			["added"] = {

@@ -138,6 +138,22 @@ local diff = {
 			},
 			["name"] = "MIC Switch AFT (Call Radio 2 Menu)",
 		},
+		["d3128pnilu3128cd32vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN81",
+				},
+			},
+			["name"] = "Master Mode NAV Selector",
+		},
+		["d3129pnilu3129cd32vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN82",
+				},
+			},
+			["name"] = "Master Mode INST Selector",
+		},
 		["d3129pnilu3129cd4vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

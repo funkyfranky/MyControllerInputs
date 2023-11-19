@@ -29,7 +29,7 @@ local diff = {
 		["d316pnilu318cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN40",
+					["key"] = "JOY_BTN55",
 				},
 			},
 			["name"] = "Barometric Altimeter Pressure Calibration Increase",
@@ -37,10 +37,26 @@ local diff = {
 		["d317pnilu318cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN38",
+					["key"] = "JOY_BTN54",
 				},
 			},
 			["name"] = "Barometric Altimeter Pressure Calibration Decrease",
+		},
+		["d3198pnilunilcd35vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Master Caution",
+		},
+		["d3199pnilunilcd35vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Master Warning",
 		},
 		["d3248pnilu3248cd24vd1vpnilvu0"] = {
 			["added"] = {
@@ -181,46 +197,6 @@ local diff = {
 			},
 			["name"] = "Master Arm Switch ON",
 		},
-		["d3290pnilunilcd22vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "HUD Mode Selector AUTO",
-		},
-		["d3290pnilunilcd22vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "HUD Mode Selector DAY",
-		},
-		["d3290pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "HUD Mode Selector NIGHT",
-		},
-		["d3293pnilunilcd22vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN44",
-				},
-			},
-			["name"] = "HUD Altitude Selector BARO",
-		},
-		["d3293pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN45",
-				},
-			},
-			["name"] = "HUD Altitude Selector RDR",
-		},
 		["d3421pnilunilcd11vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -309,6 +285,14 @@ local diff = {
 			},
 			["name"] = "RPS/YAW Trim Switch ON",
 		},
+		["d773pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN53",
+				},
+			},
+			["name"] = "Backup ADI Cage Toggle",
+		},
 		["dnilp764u769cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -324,6 +308,22 @@ local diff = {
 				},
 			},
 			["name"] = "COURSE Selector CW",
+		},
+		["dnilp771u774cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "Backup ADI Pitch Adjust Up",
+		},
+		["dnilp772u774cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "Backup ADI Pitch Adjust Down",
 		},
 	},
 }

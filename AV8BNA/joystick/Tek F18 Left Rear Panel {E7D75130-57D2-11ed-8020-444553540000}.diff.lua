@@ -106,6 +106,14 @@ local diff = {
 			},
 			["name"] = "Fuel Pump Left Switch ON",
 		},
+		["d3506pnilunilcd9vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Fuel Pump Right Switch OFF",
+		},
 		["d3506pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -177,62 +185,6 @@ local diff = {
 				},
 			},
 			["name"] = "Fuel Dump R Switch ON",
-		},
-		["d3511pnilunilcd33vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Position Lights DIM",
-		},
-		["d3511pnilunilcd33vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Position Lights OFF",
-		},
-		["d3511pnilunilcd33vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Position Lights BRT",
-		},
-		["d3512pnilunilcd33vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Anti Collision Lights OFF",
-		},
-		["d3512pnilunilcd33vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Anti Collision Lights ON",
-		},
-		["d3513pnilunilcd33vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Auxiliary (Taxi) Light OFF",
-		},
-		["d3513pnilunilcd33vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Auxiliary (Taxi) Light ON",
 		},
 		["d3514pnilunilcd36vd0vpnilvunil"] = {
 			["added"] = {

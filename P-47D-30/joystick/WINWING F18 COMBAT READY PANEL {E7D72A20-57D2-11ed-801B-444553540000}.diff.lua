@@ -26,18 +26,26 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3004pnilunilcd14vd1vpnilvunil"] = {
+		["d3003pnilunilcd14vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN37",
+					["key"] = "JOY_BTN31",
 				},
 			},
-			["name"] = "Gun Safety Switch Cover (toggle)",
+			["name"] = "Gun Safety Switch Cover CLOSE",
+		},
+		["d3003pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN31_OFF",
+				},
+			},
+			["name"] = "Gun Safety Switch Cover OPEN",
 		},
 		["d3007pnilunilcd14vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN6",
+					["key"] = "JOY_BTN29",
 				},
 			},
 			["name"] = "Gun Safety GUNS & CAMERA",
@@ -45,18 +53,18 @@ local diff = {
 		["d3007pnilunilcd14vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN5",
+					["key"] = "JOY_BTN30",
 				},
 			},
 			["name"] = "Gun Safety OFF",
 		},
-		["d3007pnilunilcd14vd1vpnilvunil"] = {
+		["d3007pnilunilcd5vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN4",
+					["key"] = "JOY_BTN53",
 				},
 			},
-			["name"] = "Gun Safety CAMERA ONLY",
+			["name"] = "Clock Winding/Adjust (toggle)",
 		},
 		["d3013pnilunilcd14vd0vpnilvunil"] = {
 			["added"] = {
@@ -106,6 +114,38 @@ local diff = {
 			},
 			["name"] = "Belly Bomb Arming ON",
 		},
+		["d3037pnilunilcd14vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Weapon Ready Switch Cover OFF",
+		},
+		["d3037pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6_OFF",
+				},
+			},
+			["name"] = "Weapon Ready Switch Cover ON",
+		},
+		["d3039pnilunilcd14vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Weapon Ready Switch OFF",
+		},
+		["d3039pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Weapon Ready Switch ON",
+		},
 		["d3041pnilunilcd14vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -122,6 +162,38 @@ local diff = {
 			},
 			["name"] = "Rocket Selector ON",
 		},
+		["d3049pnilunilcd3vd0.25vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Main Fuel Selector Valve EXTERNAL",
+		},
+		["d3049pnilunilcd3vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Main Fuel Selector Valve OFF",
+		},
+		["d3049pnilunilcd3vd0.75vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "Main Fuel Selector Valve AUXILIARY",
+		},
+		["d3049pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "Main Fuel Selector Valve MAIN",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",
 			["removed"] = {
@@ -137,6 +209,22 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["dnilp3005unilcd5vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "Clock Winding or Adjustment - decrease",
+		},
+		["dnilp3005unilcd5vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "Clock Winding or Adjustment - increase",
 		},
 		["dnilp3011unilcd2vdnilvp-1vunil"] = {
 			["added"] = {

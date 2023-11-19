@@ -42,30 +42,6 @@ local diff = {
 			},
 			["name"] = "T/O Trim Button",
 		},
-		["d3508pnilunilcd13vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "CRYPTO Switch ZERO",
-		},
-		["d3508pnilunilcd13vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "CRYPTO Switch NORMAL",
-		},
-		["d3508pnilunilcd13vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "CRYPTO Switch HOLD",
-		},
 		["d3509pnilunilcd13vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {

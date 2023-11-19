@@ -1,61 +1,28 @@
 local diff = {
 	["axisDiffs"] = {
-		["a3005cd3"] = {
-			["added"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RY",
+					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Throttle (analog)",
 		},
-		["a3008cd3"] = {
-			["added"] = {
+		["a2002cdnil"] = {
+			["name"] = "Roll",
+			["removed"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
+					["key"] = "JOY_X",
+				},
+			},
+		},
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "Engine (selected) RPM / Propeller Pitch - axis",
-		},
-		["a3011cd3"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Boost (analog)",
 		},
 	},
 	["keyDiffs"] = {
@@ -83,6 +50,30 @@ local diff = {
 			},
 			["name"] = "Communication menu",
 		},
+		["d3008pnilu3008cd14vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "Jettison Left Wing Hardpoint",
+		},
+		["d3009pnilu3009cd14vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "Jettison Right Wing Hardpoint",
+		},
+		["d3010pnilu3010cd14vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "Jettison Belly Hardpoint",
+		},
 		["d3015pnilu3015cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -99,6 +90,30 @@ local diff = {
 			},
 			["name"] = "Canopy Electrical Switch OPEN",
 		},
+		["d3032pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "Left Arming (toggle)",
+		},
+		["d3034pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "Right Arming (toggle)",
+		},
+		["d3036pnilunilcd14vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "Belly Arming (toggle)",
+		},
 		["d3042pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -106,14 +121,6 @@ local diff = {
 				},
 			},
 			["name"] = "Tail Wheel Lock FREE",
-		},
-		["d3042pnilunilcd2vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN37",
-				},
-			},
-			["name"] = "Tail Wheel Lock LOCKED",
 		},
 		["d3043pnilu3043cd3vd-1vpnilvu0"] = {
 			["added"] = {

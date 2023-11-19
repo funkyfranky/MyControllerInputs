@@ -32,71 +32,55 @@ local diff = {
 				},
 			},
 		},
-		["a3194cd26"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "MPCD Left Off/Brightness Control",
-		},
-		["a3195cd27"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "MPCD Right Off/Brightness Control",
-		},
 	},
 	["keyDiffs"] = {
-		["d3396pnilu3396cd29vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Armament Mode Control DOWN/CENTER",
-		},
-		["d3396pnilu3396cd29vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Armament Mode Control UP/CENTER",
-		},
-		["d3397pnilu3397cd29vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Fuzing Control DOWN/CENTER",
-		},
-		["d3397pnilu3397cd29vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN5",
-				},
-			},
-			["name"] = "Fuzing Control UP/CENTER",
-		},
-		["d3400pnilu3400cd29vd-1vpnilvu0"] = {
+		["d3401pnilu3401cd29vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Multiple Release Control DOWN/CENTER",
+			["name"] = "Release Interval Control (Hundreds) DOWN/CENTER",
 		},
-		["d3400pnilu3400cd29vd1vpnilvu0"] = {
+		["d3401pnilu3401cd29vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-			["name"] = "Multiple Release Control UP/CENTER",
+			["name"] = "Release Interval Control (Hundreds) UP/CENTER",
+		},
+		["d3402pnilu3402cd29vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Release Interval Control (Tens) DOWN/CENTER",
+		},
+		["d3402pnilu3402cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Release Interval Control (Tens) UP/CENTER",
+		},
+		["d3403pnilu3403cd29vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Release Interval Control (Units) DOWN/CENTER",
+		},
+		["d3403pnilu3403cd29vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Release Interval Control (Units) UP/CENTER",
 		},
 		["d3634pnilu3634cd34vd1vpnilvu0"] = {
 			["added"] = {
@@ -130,6 +114,14 @@ local diff = {
 				},
 			},
 			["name"] = "Compass/Test Lights OFF",
+		},
+		["d3800pnilu3800cd12vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Seat Ground Safety Lever DOWN/UP",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

@@ -32,14 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a2006cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Nozzle STO Stop",
-		},
 		["a2012cdnil"] = {
 			["added"] = {
 				[1] = {

@@ -27,6 +27,19 @@ local diff = {
 		["a3019cd23"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_X",
 				},
 			},
@@ -34,30 +47,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3003pnilunilcd14vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Gun Safety Switch Cover CLOSE",
-		},
-		["d3003pnilunilcd14vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Gun Safety Switch Cover OPEN",
-		},
-		["d3004pnilunilcd14vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN57",
-				},
-			},
-			["name"] = "Gun Safety Switch Cover (toggle)",
-		},
 		["d3007pnilunilcd14vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -106,21 +95,69 @@ local diff = {
 			},
 			["name"] = "Wing Position Lights BRIGHT",
 		},
-		["d3021pnilu3021cd3vd-1vpnilvu0"] = {
+		["d3018pnilunilcd8vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN54",
+					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Starter ENERGIZE",
+			["name"] = "Tail Position Light DIM",
 		},
-		["d3021pnilu3021cd3vd1vpnilvu0"] = {
+		["d3018pnilunilcd8vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN52",
+					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Starter ENGAGE",
+			["name"] = "Tail Position Light OFF",
+		},
+		["d3018pnilunilcd8vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Tail Position Light BRIGHT",
+		},
+		["d3021pnilunilcd8vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Landing Light RETRACT",
+		},
+		["d3021pnilunilcd8vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Landing Light OFF",
+		},
+		["d3021pnilunilcd8vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "Landing Light EXTEND",
+		},
+		["d3023pnilunilcd8vd0.2vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "Cockpit Lighting OFF",
+		},
+		["d3023pnilunilcd8vd0.3vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "Cockpit Lighting ON",
 		},
 		["d3024pnilunilcd8vd0vpnilvunil"] = {
 			["added"] = {
@@ -202,21 +239,37 @@ local diff = {
 			},
 			["name"] = "Oxy. / Turbo Test Switch OXYGEN PRESSURE",
 		},
-		["d3032pnilunilcd8vd0vpnilvunil"] = {
+		["d3042pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN42",
+					["key"] = "JOY_BTN40",
 				},
 			},
-			["name"] = "Battery OFF",
+			["name"] = "Tail Wheel Lock FREE",
 		},
-		["d3032pnilunilcd8vd1vpnilvunil"] = {
+		["d3042pnilunilcd2vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN41",
+					["key"] = "JOY_BTN39",
 				},
 			},
-			["name"] = "Battery ON",
+			["name"] = "Tail Wheel Lock LOCKED",
+		},
+		["d350pnilu351cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon release",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Fire Machineguns",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
 		},
 	},
 }

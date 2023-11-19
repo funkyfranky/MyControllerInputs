@@ -40,7 +40,7 @@ local diff = {
 		["a2006cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_SLIDER1",
+					["key"] = "JOY_SLIDER2",
 				},
 			},
 			["name"] = "Nozzle STO Stop",
@@ -48,6 +48,19 @@ local diff = {
 		["a2033cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.3,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 0.6,
+						["slider"] = false,
+					},
 					["key"] = "JOY_X",
 				},
 			},
@@ -56,6 +69,19 @@ local diff = {
 		["a2034cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.3,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 0.6,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Y",
 				},
 			},
@@ -64,7 +90,7 @@ local diff = {
 		["a2087cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_SLIDER2",
+					["key"] = "JOY_SLIDER1",
 				},
 			},
 			["name"] = "Nozzle Angle",
@@ -111,6 +137,22 @@ local diff = {
 			},
 			["name"] = "Landing Light APP",
 		},
+		["d3475pnilunilcd28vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN66",
+				},
+			},
+			["name"] = "Q Feel OFF",
+		},
+		["d3475pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "Q Feel ON",
+		},
 		["d3476pnilunilcd28vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -151,6 +193,54 @@ local diff = {
 			},
 			["name"] = "Automatic Flight Control ON",
 		},
+		["d3478pnilunilcd28vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN76",
+				},
+			},
+			["name"] = "Stability Augmentation - Yaw OFF",
+		},
+		["d3478pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN75",
+				},
+			},
+			["name"] = "Stability Augmentation - Yaw ON",
+		},
+		["d3479pnilunilcd28vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "Stability Augmentation - Roll OFF",
+		},
+		["d3479pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "Stability Augmentation - Roll ON",
+		},
+		["d3480pnilunilcd28vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN68",
+				},
+			},
+			["name"] = "Stability Augmentation - Pitch OFF",
+		},
+		["d3480pnilunilcd28vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN67",
+				},
+			},
+			["name"] = "Stability Augmentation - Pitch ON",
+		},
 		["d3490pnilu3490cd9vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -174,6 +264,22 @@ local diff = {
 				},
 			},
 			["name"] = "External Lights NVG/NORM",
+		},
+		["d3540pnilunilcd28vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN93",
+				},
+			},
+			["name"] = "RPS/YAW Shaker Switch OFF/ON",
+		},
+		["d3541pnilunilcd28vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN95",
+				},
+			},
+			["name"] = "RPS/YAW Shaker Switch OFF/TEST",
 		},
 		["d357pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -246,6 +352,30 @@ local diff = {
 				},
 			},
 			["name"] = "COMM AFT: Select COMM 2",
+		},
+		["d590pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN81",
+				},
+			},
+			["name"] = "Master Mode NAV",
+		},
+		["d591pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN82",
+				},
+			},
+			["name"] = "Master Mode VSTOL",
+		},
+		["d592pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN80",
+				},
+			},
+			["name"] = "Master Mode AG",
 		},
 		["dnilp147u301cdnilvdnilvpnilvunil"] = {
 			["added"] = {
