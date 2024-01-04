@@ -129,6 +129,38 @@ local diff = {
 				},
 			},
 		},
+		["dnilp210u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UR",
+				},
+			},
+		},
+		["dnilp211u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Right slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DR",
+				},
+			},
+		},
+		["dnilp212u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DL",
+				},
+			},
+		},
+		["dnilp213u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UL",
+				},
+			},
+		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {

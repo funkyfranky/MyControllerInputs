@@ -125,7 +125,7 @@ local diff = {
 		["d3035pnilu3035cd6vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN46",
+					["key"] = "JOY_BTN47",
 				},
 			},
 			["name"] = "APU Pushbutton - Start/Stop",
@@ -133,7 +133,7 @@ local diff = {
 		["d3037pnilunilcd6vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN47",
+					["key"] = "JOY_BTN46",
 				},
 			},
 			["name"] = "APU Pushbutton Cover - OPEN/CLOSE",

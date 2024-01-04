@@ -24,14 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a3001cd9"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
-			["name"] = "Horizon Cage (analog)",
-		},
 		["a3005cd5"] = {
 			["name"] = "Throttle",
 			["removed"] = {

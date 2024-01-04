@@ -42,14 +42,6 @@ local diff = {
 				},
 			},
 		},
-		["d1731pnilu1731cdnilvd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Microphone Button (VOIP)",
-		},
 		["d3002pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -71,14 +63,6 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle - Stop Engine",
-		},
-		["d3004pnilu3004cd26vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Microphone Button (call radio menu)",
 		},
 		["d3006pnilunilcd27vd0vpnilvunil"] = {
 			["added"] = {
@@ -128,6 +112,30 @@ local diff = {
 			},
 			["name"] = "AN/ARN-6 Frequency Band Switch - CW/Increase",
 		},
+		["d3015pnilu3015cd25vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "Canopy Switch - CLOSE",
+		},
+		["d3015pnilunilcd25vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN63",
+				},
+			},
+			["name"] = "Canopy Switch - OPEN",
+		},
+		["d3015pnilunilcd25vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN64",
+				},
+			},
+			["name"] = "Canopy Switch - OFF",
+		},
 		["d3015pnilunilcd27vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -144,14 +152,6 @@ local diff = {
 			},
 			["name"] = "AN/ARN-6 Scale Light Switch - Up",
 		},
-		["d3020pnilunilcd22vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "A-4 Sight Manual Ranging Control (Throttle Twist Grip) - Return to CCW spring-loaded position",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon Release",
 			["removed"] = {
@@ -161,11 +161,6 @@ local diff = {
 			},
 		},
 		["d439pnilu440cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN32",
-				},
-			},
 			["name"] = "A-4 Sight Electrical Caging Button (On Throttle)",
 			["removed"] = {
 				[1] = {
@@ -180,22 +175,6 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-		},
-		["d73pnilunilcdnilvd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Speed Brake Switch - Down",
-		},
-		["d73pnilunilcdnilvd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Speed Brake Switch - Up",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Trigger - SECOND DETENT(Gun Fire)",
@@ -236,22 +215,6 @@ local diff = {
 				},
 			},
 			["name"] = "AN/ARN-6 Tuning Crank - CW/Increase Frequency",
-		},
-		["dnilp3018unilcd22vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "A-4 Sight Manual Ranging Control (Throttle Twist Grip) - CCW/Increase",
-		},
-		["dnilp3019unilcd22vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "A-4 Sight Manual Ranging Control (Throttle Twist Grip) - CW/Decrease",
 		},
 	},
 }

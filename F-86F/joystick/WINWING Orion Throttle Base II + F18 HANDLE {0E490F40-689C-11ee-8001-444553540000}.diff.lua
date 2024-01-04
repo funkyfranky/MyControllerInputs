@@ -39,10 +39,29 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
+			["name"] = "A-4 Sight Radar Target Selector Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
+		["d1731pnilu1731cdnilvd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Microphone Button (VOIP)",
+		},
 		["d3002pnilunilcd13vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN30",
+				},
+				[2] = {
+					["key"] = "JOY_BTN31",
 				},
 			},
 			["name"] = "Throttle - Start Engine",
@@ -52,8 +71,19 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN1",
 				},
+				[2] = {
+					["key"] = "JOY_BTN2",
+				},
 			},
 			["name"] = "Throttle - Stop Engine",
+		},
+		["d3004pnilu3004cd26vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Microphone Button (call radio menu)",
 		},
 		["d3005pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
@@ -84,6 +114,19 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+		["d439pnilu440cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "A-4 Sight Electrical Caging Button (On Throttle)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
 				},
 			},
 		},

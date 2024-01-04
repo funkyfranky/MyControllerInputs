@@ -42,6 +42,46 @@ local diff = {
 				},
 			},
 		},
+		["d3005pnilunilcd22vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN70",
+				},
+			},
+			["name"] = "UHF Radio Freq. Mode MAN",
+		},
+		["d3005pnilunilcd22vd0.2vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN69",
+				},
+			},
+			["name"] = "UHF Radio Freq. Mode GD XMIT",
+		},
+		["d3005pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN71",
+				},
+			},
+			["name"] = "UHF Radio Freq. Mode PRESET",
+		},
+		["d3008pnilu3008cd9vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN88",
+				},
+			},
+			["name"] = "Armament Selector OFF/SAFE",
+		},
+		["d3008pnilu3008cd9vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN86",
+				},
+			},
+			["name"] = "Armament Selector ARMED/SAFE",
+		},
 		["d3009pnilu3009cd21vd1vpnilvu0"] = {
 			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
 			["removed"] = {

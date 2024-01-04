@@ -176,11 +176,6 @@ local diff = {
 			},
 		},
 		["d1295pnilu1295cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num7",
-				},
-			},
 			["name"] = "UFC 1 Key",
 			["removed"] = {
 				[1] = {
@@ -193,11 +188,6 @@ local diff = {
 			},
 		},
 		["d1296pnilu1296cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num8",
-				},
-			},
 			["name"] = "UFC 2 Key",
 			["removed"] = {
 				[1] = {
@@ -210,11 +200,6 @@ local diff = {
 			},
 		},
 		["d1297pnilu1297cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num9",
-				},
-			},
 			["name"] = "UFC 3 Key",
 			["removed"] = {
 				[1] = {
@@ -227,11 +212,6 @@ local diff = {
 			},
 		},
 		["d1298pnilu1298cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num4",
-				},
-			},
 			["name"] = "UFC 4 Key",
 			["removed"] = {
 				[1] = {
@@ -244,11 +224,6 @@ local diff = {
 			},
 		},
 		["d1299pnilu1299cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num5",
-				},
-			},
 			["name"] = "UFC 5 Key",
 			["removed"] = {
 				[1] = {
@@ -261,11 +236,6 @@ local diff = {
 			},
 		},
 		["d1300pnilu1300cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num6",
-				},
-			},
 			["name"] = "UFC 6 Key",
 			["removed"] = {
 				[1] = {
@@ -278,11 +248,6 @@ local diff = {
 			},
 		},
 		["d1301pnilu1301cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num1",
-				},
-			},
 			["name"] = "UFC 7 Key",
 			["removed"] = {
 				[1] = {
@@ -295,11 +260,6 @@ local diff = {
 			},
 		},
 		["d1302pnilu1302cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num2",
-				},
-			},
 			["name"] = "UFC 8 Key",
 			["removed"] = {
 				[1] = {
@@ -312,11 +272,6 @@ local diff = {
 			},
 		},
 		["d1303pnilu1303cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num3",
-				},
-			},
 			["name"] = "UFC 9 Key",
 			["removed"] = {
 				[1] = {
@@ -1463,98 +1418,6 @@ local diff = {
 				},
 			},
 			["name"] = "AC generator power right",
-		},
-		["dnilp210u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num9",
-				},
-			},
-		},
-		["dnilp211u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num3",
-				},
-			},
-		},
-		["dnilp212u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Down Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num1",
-				},
-			},
-		},
-		["dnilp213u214cdnilvdnilvpnilvunil"] = {
-			["name"] = "View Up Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num7",
-				},
-			},
-		},
-		["dnilp32u214cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Left",
-				},
-			},
-			["name"] = "View Left slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num4",
-				},
-			},
-		},
-		["dnilp33u214cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Right",
-				},
-			},
-			["name"] = "View Right slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num6",
-				},
-			},
-		},
-		["dnilp34u214cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Up",
-				},
-			},
-			["name"] = "View Up slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num8",
-				},
-			},
-		},
-		["dnilp35u214cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Down",
-				},
-			},
-			["name"] = "View Down slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num2",
-				},
-			},
-		},
-		["dnilp36unilcdnilvdnilvpnilvunil"] = {
-			["name"] = "View Center",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num5",
-				},
-			},
 		},
 		["dnilp39u289cdnilvdnilvpnilvunil"] = {
 			["added"] = {

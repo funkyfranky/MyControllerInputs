@@ -34,38 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3003pnilu3003cd15vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN45",
-				},
-			},
-			["name"] = "Caution Panel Test/Reset Switch Test",
-		},
-		["d3003pnilu3003cd15vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN44",
-				},
-			},
-			["name"] = "Caution Panel Test/Reset Switch Reset",
-		},
-		["d3004pnilu3004cd15vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN47",
-				},
-			},
-			["name"] = "Caution Panel Dim Switch Dim",
-		},
-		["d3004pnilu3004cd15vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN46",
-				},
-			},
-			["name"] = "Caution Panel Dim Switch Bright",
-		},
 		["d3004pnilu3004cd41vd1vpnilvu0"] = {
 			["name"] = "Pilot Trimmer",
 			["removed"] = {
@@ -74,6 +42,38 @@ local diff = {
 				},
 			},
 		},
+		["d3006pnilunilcd22vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN57",
+				},
+			},
+			["name"] = "UHF Radio Mode T/R",
+		},
+		["d3006pnilunilcd22vd0.2vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN58",
+				},
+			},
+			["name"] = "UHF Radio Mode T/R+G",
+		},
+		["d3006pnilunilcd22vd0.3vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN59",
+				},
+			},
+			["name"] = "UHF Radio Mode ADF",
+		},
+		["d3006pnilunilcd22vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN56",
+				},
+			},
+			["name"] = "UHF Radio Mode OFF",
+		},
 		["d3009pnilu3009cd21vd1vpnilvu0"] = {
 			["name"] = "Pilot's radio trigger RADIO (call radio menu)",
 			["removed"] = {
@@ -81,6 +81,86 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
+		},
+		["d3010pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN44",
+				},
+			},
+			["name"] = "UHF Radio Squelch Switch",
+		},
+		["d3011pnilunilcd22vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "UHF Preset Channel Decrease",
+		},
+		["d3011pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "UHF Preset Channel Increase",
+		},
+		["d3012pnilunilcd22vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "UHF Radio 10MHz Increase",
+		},
+		["d3012pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "UHF Radio 10MHz Decrease",
+		},
+		["d3013pnilunilcd22vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN52",
+				},
+			},
+			["name"] = "UHF Radio 1MHz Increase",
+		},
+		["d3013pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN51",
+				},
+			},
+			["name"] = "UHF Radio 1MHz Decrease",
+		},
+		["d3014pnilunilcd22vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN55",
+				},
+			},
+			["name"] = "UHF Radio 50kHz Increase",
+		},
+		["d3014pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN54",
+				},
+			},
+			["name"] = "UHF Radio 50kHz Decrease",
+		},
+		["d3016pnilunilcd22vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "UHF Radio Mode Select(rotary)",
 		},
 		["d84pnilu84cdnilvd1vpnilvu0"] = {
 			["name"] = "Pilot weapon release/Machinegun fire",

@@ -148,6 +148,22 @@ local diff = {
 			},
 			["name"] = "HMCS Power ON/OFF",
 		},
+		["d313pnilu311cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Left Engine Throttle Set OFF",
+		},
+		["d314pnilu312cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Right Engine Throttle Set OFF",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Weapon release",
 			["removed"] = {

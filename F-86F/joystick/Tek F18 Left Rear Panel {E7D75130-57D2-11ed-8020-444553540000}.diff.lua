@@ -138,30 +138,6 @@ local diff = {
 			},
 			["name"] = "Rudder Trim Switch - RIGHT",
 		},
-		["d3015pnilu3015cd25vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN49",
-				},
-			},
-			["name"] = "Canopy Switch - CLOSE",
-		},
-		["d3015pnilunilcd25vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN51",
-				},
-			},
-			["name"] = "Canopy Switch - OPEN",
-		},
-		["d3015pnilunilcd25vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN50",
-				},
-			},
-			["name"] = "Canopy Switch - OFF",
-		},
 		["d3017pnilu3017cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

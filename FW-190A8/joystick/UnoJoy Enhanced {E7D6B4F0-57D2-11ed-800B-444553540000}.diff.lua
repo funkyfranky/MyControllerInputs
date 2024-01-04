@@ -138,22 +138,6 @@ local diff = {
 				},
 			},
 		},
-		["dnilp3002unilcd3vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Canopy Opening",
-		},
-		["dnilp3002unilcd3vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Canopy Closing",
-		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",
 			["removed"] = {

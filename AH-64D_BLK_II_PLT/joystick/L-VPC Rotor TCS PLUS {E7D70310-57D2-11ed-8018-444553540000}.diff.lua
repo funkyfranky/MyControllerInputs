@@ -151,9 +151,6 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN20",
 				},
-				[2] = {
-					["key"] = "JOY_BTN17",
-				},
 			},
 			["name"] = "Searchlight Position Switch - RET/Down",
 		},

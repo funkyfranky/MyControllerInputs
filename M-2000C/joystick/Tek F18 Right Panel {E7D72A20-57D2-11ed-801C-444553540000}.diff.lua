@@ -122,21 +122,13 @@ local diff = {
 			},
 			["name"] = "Right Fuel Boost Pump ON",
 		},
-		["d3650pnilu3650cd7vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Ignition Selector Switch LEFT",
-		},
 		["d3650pnilu3650cd7vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN29",
 				},
 			},
-			["name"] = "Ignition Selector Switch OFF",
+			["name"] = "Ignition Selector Switch LEFT",
 		},
 		["d3650pnilu3650cd7vd1vpnilvunil"] = {
 			["added"] = {
@@ -152,7 +144,7 @@ local diff = {
 					["key"] = "JOY_BTN26",
 				},
 			},
-			["name"] = "Fuel Emergency Cutoff Switch Cover CLOSE",
+			["name"] = "Fuel Emergency Cutoff Cover CLOSE",
 		},
 		["d3652pnilu3652cd7vd0vpnilvunil"] = {
 			["added"] = {

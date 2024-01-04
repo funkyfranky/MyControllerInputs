@@ -40,7 +40,7 @@ local diff = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Cage/Pitch Trim Knob - PULL",
+			["name"] = "SAI Cage Knob - PULL",
 		},
 		["d3048pnilunilcd6vd1vpnilvunil"] = {
 			["added"] = {

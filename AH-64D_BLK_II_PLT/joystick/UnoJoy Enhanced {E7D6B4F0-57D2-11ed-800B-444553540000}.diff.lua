@@ -32,24 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3012cd80"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "CMWS Audio Volume Knob",
-		},
 		["a3013cd50"] = {
 			["added"] = {
 				[1] = {
@@ -67,24 +49,6 @@ local diff = {
 				},
 			},
 			["name"] = "EUFD Brightness Control Knob",
-		},
-		["a3014cd80"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "CMWS Lamp Knob",
 		},
 		["a3036cd46"] = {
 			["added"] = {

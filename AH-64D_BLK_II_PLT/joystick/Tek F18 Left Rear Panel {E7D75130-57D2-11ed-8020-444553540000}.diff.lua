@@ -254,7 +254,7 @@ local diff = {
 					["key"] = "JOY_BTN35",
 				},
 			},
-			["name"] = "PLT NVS MODE Switch - OFF",
+			["name"] = "NVS MODE Switch - OFF",
 		},
 		["d3023pnilunilcd3vd0vpnilvunil"] = {
 			["added"] = {
@@ -262,7 +262,7 @@ local diff = {
 					["key"] = "JOY_BTN34",
 				},
 			},
-			["name"] = "PLT NVS MODE Switch - NORM",
+			["name"] = "NVS MODE Switch - NORM",
 		},
 		["d3023pnilunilcd3vd1vpnilvunil"] = {
 			["added"] = {
@@ -270,7 +270,7 @@ local diff = {
 					["key"] = "JOY_BTN33",
 				},
 			},
-			["name"] = "PLT NVS MODE Switch - FIXED",
+			["name"] = "NVS MODE Switch - FIXED",
 		},
 		["d3057pnilu3057cd6vd-1vpnilvu0"] = {
 			["added"] = {

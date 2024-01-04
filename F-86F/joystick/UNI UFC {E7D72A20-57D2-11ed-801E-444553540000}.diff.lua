@@ -34,6 +34,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d100pnilu1627cdnilvdnilvpnilvunil"] = {
+			["name"] = "A-4 Sight Radar Target Selector Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+		},
 		["d3001pnilunilcd15vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

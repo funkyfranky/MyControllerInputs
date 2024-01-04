@@ -32,14 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3003cd21"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Gun Sight Brightness (analog)",
-		},
 	},
 	["keyDiffs"] = {
 		["d3002pnilu3002cd6vd0vpnilvu0.5"] = {

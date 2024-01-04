@@ -58,6 +58,22 @@ local diff = {
 			},
 			["name"] = "Battery-Starter Switch - BATTERY",
 		},
+		["d3001pnilunilcd3vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13_OFF",
+				},
+			},
+			["name"] = "Fuel Densitometer Selection Switch - IN",
+		},
+		["d3001pnilunilcd3vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Fuel Densitometer Selection Switch - OUT",
+		},
 		["d3001pnilunilcd4vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -74,21 +90,72 @@ local diff = {
 			},
 			["name"] = "Emergency (In-air) Ignition Switch - ON",
 		},
-		["d3002pnilunilcd3vd0vpnilvunil"] = {
+		["d3002pnilunilcd18vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13_OFF",
+					["key"] = "JOY_BTN16",
 				},
 			},
-			["name"] = "Fuel Densitometer Selection Switch Cover - CLOSE",
+			["name"] = "Position and Fuselage Light Selector Switch - FLASH",
 		},
-		["d3002pnilunilcd3vd1vpnilvunil"] = {
+		["d3002pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN13",
+					["key"] = "JOY_BTN15_OFF",
+				},
+				[2] = {
+					["key"] = "JOY_BTN16_OFF",
 				},
 			},
-			["name"] = "Fuel Densitometer Selection Switch Cover - OPEN",
+			["name"] = "Position and Fuselage Light Selector Switch - OFF",
+		},
+		["d3002pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Position and Fuselage Light Selector Switch - STEADY",
+		},
+		["d3003pnilu3003cd1vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Stop-Starter Button",
+		},
+		["d3003pnilunilcd18vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20_OFF",
+				},
+			},
+			["name"] = "Exterior Lighting Dimmer Switch - DIM",
+		},
+		["d3003pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Exterior Lighting Dimmer Switch - BRIGHT",
+		},
+		["d3004pnilunilcd17vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Compass Light Switch - OFF",
+		},
+		["d3004pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Compass Light Switch - ON",
 		},
 		["d3004pnilunilcd1vd-1vpnilvunil"] = {
 			["added"] = {
@@ -109,10 +176,7 @@ local diff = {
 		["d3005pnilunilcd1vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15_OFF",
-				},
-				[2] = {
-					["key"] = "JOY_BTN16_OFF",
+					["key"] = "JOY_BTN9_OFF",
 				},
 			},
 			["name"] = "Generator Switch - OFF",
@@ -120,7 +184,10 @@ local diff = {
 		["d3005pnilunilcd1vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN15",
+					["key"] = "JOY_BTN9",
+				},
+				[2] = {
+					["key"] = "JOY_BTN10_OFF",
 				},
 			},
 			["name"] = "Generator Switch - ON",
@@ -160,7 +227,7 @@ local diff = {
 		["d3050pnilu3050cd1vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "Generator Switch - RESET",
@@ -196,14 +263,6 @@ local diff = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-		},
-		["d757pnilu758cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Clock Elapsed Time Mechanism Button - START/STOP/RESET",
 		},
 		["d84pnilu85cdnilvdnilvpnilvunil"] = {
 			["name"] = "Trigger - SECOND DETENT(Gun Fire)",

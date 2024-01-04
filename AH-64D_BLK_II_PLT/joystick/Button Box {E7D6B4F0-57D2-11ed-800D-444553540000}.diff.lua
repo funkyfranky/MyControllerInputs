@@ -56,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN2",
 				},
 			},
-			["name"] = "Cage/Pitch Trim Knob - CCW",
+			["name"] = "SAI Cage Knob - CCW",
 		},
 		["dnilp3004unilcd13vdnilvp1vunil"] = {
 			["added"] = {
@@ -64,7 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Cage/Pitch Trim Knob - CW",
+			["name"] = "SAI Cage Knob - CW",
 		},
 	},
 }

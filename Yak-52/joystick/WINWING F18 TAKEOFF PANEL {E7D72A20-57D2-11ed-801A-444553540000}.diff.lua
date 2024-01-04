@@ -106,38 +106,6 @@ local diff = {
 			},
 			["name"] = "Landing Flaps Lever, DOWN (extend)",
 		},
-		["d3044pnilunilcd3vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "Fuel Priming Pump Handle - SYSTEM",
-		},
-		["d3044pnilunilcd3vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "Fuel Priming Pump Handle - OFF",
-		},
-		["d3044pnilunilcd3vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Fuel Priming Pump Handle - CYLINDER",
-		},
-		["d3046pnilu3046cd3vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "Fuel Priming Pump Handle - Pull",
-		},
 		["dnilp36unilcdnilvdnilvpnilvunil"] = {
 			["name"] = "View Center",
 			["removed"] = {

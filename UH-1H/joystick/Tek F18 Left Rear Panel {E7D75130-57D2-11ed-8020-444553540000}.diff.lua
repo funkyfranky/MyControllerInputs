@@ -74,6 +74,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d3003pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Main Fuel Switch",
+		},
 		["d3004pnilu3004cd41vd1vpnilvu0"] = {
 			["name"] = "Pilot Trimmer",
 			["removed"] = {
@@ -81,6 +89,22 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
+		},
+		["d3005pnilu3005cd4vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Hydraulic Control Switch On/Off",
+		},
+		["d3006pnilu3006cd4vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Force Trim Switch On/Off",
 		},
 		["d3008pnilu3008cd9vd-1vpnilvu0"] = {
 			["added"] = {
@@ -121,6 +145,22 @@ local diff = {
 				},
 			},
 			["name"] = "Gun Selector RIGHT/ALL",
+		},
+		["d3016pnilu3016cd3vd0vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Governor Auto/Emer On/Off",
+		},
+		["d3017pnilunilcd3vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "De-Ice Switch",
 		},
 		["d3021pnilu3021cd9vd1vpnilvu-1"] = {
 			["added"] = {

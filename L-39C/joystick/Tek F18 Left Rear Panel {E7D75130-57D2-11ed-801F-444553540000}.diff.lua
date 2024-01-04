@@ -32,6 +32,32 @@ local diff = {
 				},
 			},
 		},
+		["a3017cd30"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Oxygen Supply Valve",
+		},
+	},
+	["keyDiffs"] = {
+		["d3022pnilunilcd3vd1vpnilvunil"] = {
+			["name"] = "Weapon Fire Button Safety",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Weapon Fire Button",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
 	},
 }
 return diff

@@ -58,22 +58,6 @@ local diff = {
 			},
 			["name"] = "Landing & Taxi Lights Switch - Up",
 		},
-		["d3006pnilunilcd18vd-1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Position and Fuselage Light Selector Switch - Down",
-		},
-		["d3006pnilunilcd18vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
-			["name"] = "Position and Fuselage Light Selector Switch - Up",
-		},
 		["d3008pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

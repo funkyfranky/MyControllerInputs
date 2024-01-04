@@ -90,6 +90,30 @@ local diff = {
 			},
 			["name"] = "VHF AM Radio Freq. kHz Increase",
 		},
+		["d3035pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN48",
+				},
+			},
+			["name"] = "Open/Close Right Gunner Door",
+		},
+		["d3036pnilunilcd9vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN47",
+				},
+			},
+			["name"] = "Open/Close Left Gunner Door",
+		},
+		["d71pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN46",
+				},
+			},
+			["name"] = "Cockpit door open/close",
+		},
 		["d84pnilu84cdnilvd1vpnilvu0"] = {
 			["name"] = "Pilot weapon release/Machinegun fire",
 			["removed"] = {

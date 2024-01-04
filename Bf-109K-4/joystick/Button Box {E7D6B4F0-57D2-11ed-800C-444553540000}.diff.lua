@@ -32,30 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3040cd1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-			["name"] = "LH Dashboard Lamp Brightness (analog)",
-		},
-		["a3043cd1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "RH Dashboard Lamp Brightness (analog)",
-		},
-		["a3046cd1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Gun Sight Brightness (analog)",
-		},
 	},
 	["keyDiffs"] = {
 		["d3001pnilu3001cd1vd1vpnilvu0"] = {

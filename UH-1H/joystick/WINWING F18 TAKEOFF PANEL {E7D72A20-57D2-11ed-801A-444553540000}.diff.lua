@@ -42,30 +42,6 @@ local diff = {
 				},
 			},
 		},
-		["d3005pnilunilcd22vd0.1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN26",
-				},
-			},
-			["name"] = "UHF Radio Freq. Mode MAN",
-		},
-		["d3005pnilunilcd22vd0.2vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "UHF Radio Freq. Mode GD XMIT",
-		},
-		["d3005pnilunilcd22vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN25",
-				},
-			},
-			["name"] = "UHF Radio Freq. Mode PRESET",
-		},
 		["d3008pnilunilcd21vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -113,14 +89,6 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-		},
-		["d3016pnilunilcd22vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "UHF Radio Mode Select(rotary)",
 		},
 		["d3028pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {

@@ -130,6 +130,14 @@ local diff = {
 				},
 			},
 		},
+		["d84pnilu85cdnilvdnilvpnilvunil"] = {
+			["name"] = "Fire Cannons and Machine Guns - Nose & Wing (A)",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+		},
 		["dnilp3001unilcd7vdnilvp-0.007vunil"] = {
 			["added"] = {
 				[1] = {
@@ -145,6 +153,22 @@ local diff = {
 				},
 			},
 			["name"] = "Instrument Brightness Increase",
+		},
+		["dnilp3002unilcd3vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN63",
+				},
+			},
+			["name"] = "Canopy Opening",
+		},
+		["dnilp3002unilcd3vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "Canopy Closing",
 		},
 		["dnilp3004unilcd15vdnilvp-0.2vunil"] = {
 			["added"] = {
