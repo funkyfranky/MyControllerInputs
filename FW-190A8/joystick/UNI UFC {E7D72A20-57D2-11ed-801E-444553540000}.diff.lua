@@ -34,22 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3008pnilu3010cd2vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Starter Power",
-		},
-		["d3009pnilu3010cd2vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Starter Clutch",
-		},
 		["d3014pnilu3014cd20vd1vpnilvu0"] = {
 			["name"] = "Bomb Release (B2)",
 			["removed"] = {

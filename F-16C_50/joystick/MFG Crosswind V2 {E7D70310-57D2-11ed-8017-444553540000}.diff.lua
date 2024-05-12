@@ -24,21 +24,13 @@ local diff = {
 				},
 			},
 		},
-		["a2112cdnil"] = {
+		["a3023cd12"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "Wheel Brake Left",
-		},
-		["a2113cdnil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Wheel Brake Right",
+			["name"] = "Utility Light (Flashlight) BRT Knob",
 		},
 	},
 	["keyDiffs"] = {

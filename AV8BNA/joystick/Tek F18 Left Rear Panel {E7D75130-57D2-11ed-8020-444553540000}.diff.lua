@@ -40,14 +40,6 @@ local diff = {
 			},
 			["name"] = "RWR VOL CONTROL",
 		},
-		["a3629cd4"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "ICS Aux Volume Knob",
-		},
 	},
 	["keyDiffs"] = {
 		["d3489pnilunilcd28vd0vpnilvunil"] = {

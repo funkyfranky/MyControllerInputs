@@ -88,29 +88,93 @@ local diff = {
 			},
 			["name"] = "Emergency Jettison Button",
 		},
-		["d3469pnilunilcd65vd0.5vpnilvunil"] = {
+		["d3452pnilunilcd18vd0.25vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Yaw CAS Switch RESET",
+		},
+		["d3452pnilunilcd18vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "Yaw CAS Switch ON",
+		},
+		["d3452pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "Yaw CAS Switch OFF",
+		},
+		["d3453pnilunilcd18vd0.25vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Terrain Follow Radar: STBY",
+			["name"] = "Roll CAS Switch RESET",
 		},
-		["d3469pnilunilcd65vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Terrain Follow Radar: OFF",
-		},
-		["d3469pnilunilcd65vd1vpnilvunil"] = {
+		["d3453pnilunilcd18vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Terrain Follow Radar: ON",
+			["name"] = "Roll CAS Switch ON",
+		},
+		["d3453pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Roll CAS Switch OFF",
+		},
+		["d3454pnilunilcd18vd0.25vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Pitch CAS Switch RESET",
+		},
+		["d3454pnilunilcd18vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Pitch CAS Switch ON",
+		},
+		["d3454pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Pitch CAS Switch OFF",
+		},
+		["d3456pnilunilcd65vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN45",
+				},
+			},
+			["name"] = "TF Couple Switch OFF",
+		},
+		["d3456pnilunilcd65vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN44",
+				},
+			},
+			["name"] = "TF Couple Switch ON",
 		},
 		["d3471pnilunilcd3vd0.33vpnilvunil"] = {
 			["added"] = {
@@ -175,30 +239,6 @@ local diff = {
 				},
 			},
 			["name"] = "INS: OFF",
-		},
-		["d3475pnilunilcd50vd0.5vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN8",
-				},
-			},
-			["name"] = "NAV FLIR: STBY",
-		},
-		["d3475pnilunilcd50vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "NAV FLIR: OFF",
-		},
-		["d3475pnilunilcd50vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "NAV FLIR: ON",
 		},
 		["d3476pnilunilcd1vd0.25vpnilvunil"] = {
 			["added"] = {

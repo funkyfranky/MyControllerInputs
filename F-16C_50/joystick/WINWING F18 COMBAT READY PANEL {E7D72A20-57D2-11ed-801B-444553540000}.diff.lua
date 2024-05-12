@@ -42,6 +42,22 @@ local diff = {
 			},
 			["name"] = "Master Caution Button",
 		},
+		["d3001pnilu3001cd8vd0vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "Supply Lever: OFF<>ON",
+		},
+		["d3001pnilu3001cd8vd1vpnilvu0.5"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN43",
+				},
+			},
+			["name"] = "Supply Lever: PBG<>ON",
+		},
 		["d3001pnilunilcd32vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -370,37 +386,21 @@ local diff = {
 			},
 			["name"] = "RF Switch - NORM",
 		},
-		["dnilp3002unilcd28vdnilvp-0.01vunil"] = {
+		["dnilp3003unilcd45vdnilvp-0.01vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN38",
 				},
 			},
-			["name"] = "HDG Set Knob - CCW/Decrease",
+			["name"] = "Barometric Setting Knob - CCW/Decrease",
 		},
-		["dnilp3002unilcd28vdnilvp0.01vunil"] = {
+		["dnilp3003unilcd45vdnilvp0.01vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN40",
 				},
 			},
-			["name"] = "HDG Set Knob - CW/Increase",
-		},
-		["dnilp3004unilcd28vdnilvp-0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN41",
-				},
-			},
-			["name"] = "CRS Set / Brightness Control Knob - CCW/Decrease",
-		},
-		["dnilp3004unilcd28vdnilvp0.01vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN43",
-				},
-			},
-			["name"] = "CRS Set / Brightness Control Knob - CW/Increase",
+			["name"] = "Barometric Setting Knob - CW/Increase",
 		},
 	},
 }

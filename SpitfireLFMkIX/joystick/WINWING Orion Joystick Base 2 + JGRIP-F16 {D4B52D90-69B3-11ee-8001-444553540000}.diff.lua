@@ -8,6 +8,14 @@ local diff = {
 				},
 			},
 		},
+		["a3004cd1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "Wheel Brakes (analog)",
+		},
 	},
 }
 return diff

@@ -154,28 +154,6 @@ local diff = {
 			},
 			["name"] = "ICP COM Override Button - COM2(VHF)",
 		},
-		["d3013pnilu3013cd4vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN65",
-				},
-				[2] = {
-					["key"] = "JOY_BTN68",
-				},
-			},
-			["name"] = "FUEL QTY SEL Knob - CCW",
-		},
-		["d3013pnilunilcd4vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN64",
-				},
-				[2] = {
-					["key"] = "JOY_BTN69",
-				},
-			},
-			["name"] = "FUEL QTY SEL Knob - CW",
-		},
 		["d3014pnilu3014cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -264,22 +242,6 @@ local diff = {
 			},
 			["name"] = "ICP FLIR GAIN/LEVEL Switch - GAIN",
 		},
-		["d3028pnilunilcd17vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN56",
-				},
-			},
-			["name"] = "ICP DRIFT CUTOUT/WARN RESET Switch - NORM",
-		},
-		["d3028pnilunilcd17vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN55",
-				},
-			},
-			["name"] = "ICP DRIFT CUTOUT/WARN RESET Switch - DRIFT C/O",
-		},
 		["d3030pnilu3030cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -327,14 +289,6 @@ local diff = {
 				},
 			},
 			["name"] = "ICP Data Control Switch - DOWN",
-		},
-		["d3049pnilu3049cd17vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN57",
-				},
-			},
-			["name"] = "ICP DRIFT CUTOUT/WARN RESET Switch - Down",
 		},
 	},
 }

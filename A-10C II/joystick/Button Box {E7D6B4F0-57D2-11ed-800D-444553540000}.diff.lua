@@ -75,7 +75,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "TACAN Сhannel Ones Decrease",
+			["name"] = "TACAN Chanel Ones Decrease (hold)",
 		},
 		["dnilp1433unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -86,7 +86,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "TACAN Сhannel Ones Increase",
+			["name"] = "TACAN Chanel Ones Increase (hold)",
 		},
 		["dnilp1434unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -97,7 +97,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "TACAN Сhannel Tens Decrease",
+			["name"] = "TACAN Chanel Tens Decrease (hold)",
 		},
 		["dnilp1435unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -108,7 +108,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "TACAN Сhanel Tens Increase",
+			["name"] = "TACAN Chanel Tens Increase (hold)",
 		},
 		["dnilp1439unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -119,7 +119,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "ILS Freq. MHz Decrease",
+			["name"] = "ILS Freq. MHz Decrease (hold)",
 		},
 		["dnilp1440unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -130,7 +130,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "ILS Freq. MHz Increase",
+			["name"] = "ILS Freq. MHz Increase (hold)",
 		},
 		["dnilp1441unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -141,7 +141,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "ILS Freq. KHz Decrease",
+			["name"] = "ILS Freq. KHz Decrease (hold)",
 		},
 		["dnilp1442unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -152,7 +152,7 @@ local diff = {
 					},
 				},
 			},
-			["name"] = "ILS Freq. KHz Increase",
+			["name"] = "ILS Freq. KHz Increase (hold)",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

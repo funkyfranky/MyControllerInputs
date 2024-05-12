@@ -145,6 +145,94 @@ local diff = {
 			},
 			["name"] = "CRS Set / Brightness Control Knob - Depress",
 		},
+		["d3005pnilunilcd32vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN66",
+				},
+			},
+			["name"] = "O1 Expendable Category Switch - OFF",
+		},
+		["d3005pnilunilcd32vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "O1 Expendable Category Switch - ON",
+		},
+		["d3006pnilunilcd32vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN68",
+				},
+			},
+			["name"] = "O2 Expendable Category Switch - OFF",
+		},
+		["d3006pnilunilcd32vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN67",
+				},
+			},
+			["name"] = "O2 Expendable Category Switch - ON",
+		},
+		["d3007pnilunilcd32vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "CH Expendable Category Switch - OFF",
+		},
+		["d3007pnilunilcd32vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "CH Expendable Category Switch - ON",
+		},
+		["d3008pnilunilcd11vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN79",
+				},
+			},
+			["name"] = "LANDING TAXI LIGHTS Switch - TAXI",
+		},
+		["d3008pnilunilcd11vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN78",
+				},
+			},
+			["name"] = "LANDING TAXI LIGHTS Switch - OFF",
+		},
+		["d3008pnilunilcd11vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN77",
+				},
+			},
+			["name"] = "LANDING TAXI LIGHTS Switch - LANDING",
+		},
+		["d3008pnilunilcd32vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN76",
+				},
+			},
+			["name"] = "FL Expendable Category Switch - OFF",
+		},
+		["d3008pnilunilcd32vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN75",
+				},
+			},
+			["name"] = "FL Expendable Category Switch - ON",
+		},
 		["d3011pnilu3011cd32vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -289,22 +377,6 @@ local diff = {
 			},
 			["name"] = "Throttle - OFF(hold)<>IDLE",
 		},
-		["d430pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN73",
-				},
-			},
-			["name"] = "LG Handle - UP",
-		},
-		["d431pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN74",
-				},
-			},
-			["name"] = "LG Handle - DN",
-		},
 		["dnilp3002unilcd28vdnilvp-0.01vunil"] = {
 			["added"] = {
 				[1] = {
@@ -352,6 +424,22 @@ local diff = {
 				},
 			},
 			["name"] = "CRS Set / Brightness Control Knob - CW/Increase",
+		},
+		["dnilp3033unilcd16vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "ANT ELEV Knob - CW",
+		},
+		["dnilp3034unilcd16vdnilvp-1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "ANT ELEV Knob - CCW",
 		},
 		["dnilp3040unilcd16vdnilvp1vunil"] = {
 			["added"] = {

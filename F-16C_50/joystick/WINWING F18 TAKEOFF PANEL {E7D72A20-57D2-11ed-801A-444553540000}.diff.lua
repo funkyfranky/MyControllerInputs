@@ -58,6 +58,54 @@ local diff = {
 			},
 			["name"] = "GND JETT ENABLE Switch - ENABLE",
 		},
+		["d3005pnilu3005cd4vd0vpnilvu0.1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "FUEL QTY SEL Knob - TEST",
+		},
+		["d3005pnilunilcd4vd0.1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "FUEL QTY SEL Knob - NORM",
+		},
+		["d3005pnilunilcd4vd0.2vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "FUEL QTY SEL Knob - RSVR",
+		},
+		["d3005pnilunilcd4vd0.3vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "FUEL QTY SEL Knob - INT WING",
+		},
+		["d3005pnilunilcd4vd0.4vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "FUEL QTY SEL Knob - EXT WING",
+		},
+		["d3005pnilunilcd4vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "FUEL QTY SEL Knob - EXT CTR",
+		},
 		["d3005pnilunilcd7vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -74,29 +122,37 @@ local diff = {
 			},
 			["name"] = "BRAKES Channel Switch - CHAN 1",
 		},
-		["d3008pnilunilcd11vd-1vpnilvunil"] = {
+		["d3006pnilunilcd7vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "HOOK Switch - DN",
+		},
+		["d3006pnilunilcd7vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN7",
+				},
+			},
+			["name"] = "HOOK Switch - UP",
+		},
+		["d3010pnilunilcd7vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "LANDING TAXI LIGHTS Switch - TAXI",
+			["name"] = "ANTI-SKID Switch - OFF",
 		},
-		["d3008pnilunilcd11vd0vpnilvunil"] = {
+		["d3010pnilunilcd7vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "LANDING TAXI LIGHTS Switch - OFF",
-		},
-		["d3008pnilunilcd11vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "LANDING TAXI LIGHTS Switch - LANDING",
+			["name"] = "ANTI-SKID Switch - ANTI-SKID",
 		},
 		["d3011pnilunilcd2vd0vpnilvunil"] = {
 			["added"] = {
@@ -113,6 +169,14 @@ local diff = {
 				},
 			},
 			["name"] = "STORES CONFIG Switch - CAT I",
+		},
+		["d3014pnilu3014cd7vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "ANTI-SKID Switch - PARKING BRAKE",
 		},
 		["d3032pnilu3032cd17vd-1vpnilvu0"] = {
 			["added"] = {

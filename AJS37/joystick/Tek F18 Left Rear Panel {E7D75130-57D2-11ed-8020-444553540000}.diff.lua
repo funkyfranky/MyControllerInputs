@@ -76,54 +76,6 @@ local diff = {
 			},
 			["name"] = "Start System - ON",
 		},
-		["d3001pnilunilcd19vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN35",
-				},
-			},
-			["name"] = "Main Electric Power - OFF",
-		},
-		["d3001pnilunilcd19vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN33",
-				},
-			},
-			["name"] = "Main Electric Power - ON",
-		},
-		["d3002pnilunilcd18vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN36",
-				},
-			},
-			["name"] = "Low Pressure Fuel Valve- OFF",
-		},
-		["d3002pnilunilcd18vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN38",
-				},
-			},
-			["name"] = "Low Pressure Fuel Valve- ON",
-		},
-		["d3002pnilunilcd19vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN40",
-				},
-			},
-			["name"] = "Generator - OFF",
-		},
-		["d3002pnilunilcd19vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN39",
-				},
-			},
-			["name"] = "Generator - ON",
-		},
 		["d3003pnilunilcd18vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {

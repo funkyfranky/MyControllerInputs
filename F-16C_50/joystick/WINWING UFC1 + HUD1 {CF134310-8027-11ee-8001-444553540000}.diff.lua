@@ -40,21 +40,47 @@ local diff = {
 			},
 			["name"] = "PRIMARY CONSOLES BRT Knob",
 		},
-		["a3024cd37"] = {
+		["a3020cd39"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "UHF VOL Knob",
+			["name"] = "COMM 1 (UHF) Power Knob",
 		},
-		["a3025cd12"] = {
+		["a3023cd39"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_SLIDER2",
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "AOA Indexer Dimming Lever",
+			["name"] = "COMM 2 (VHF) Power Knob",
 		},
 		["a3041cd17"] = {
 			["added"] = {
@@ -64,6 +90,14 @@ local diff = {
 			},
 			["name"] = "HUD Symbology Intensity Knob",
 		},
+		["a3043cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Reticle Depression Control Knob",
+		},
 		["a3045cd17"] = {
 			["added"] = {
 				[1] = {
@@ -72,8 +106,24 @@ local diff = {
 			},
 			["name"] = "Raster Intensity Knob",
 		},
+		["a3047cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "Raster Contrast Knob",
+		},
 	},
 	["keyDiffs"] = {
+		["d3001pnilu3001cd28vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "Mode (M) Button - Depress",
+		},
 		["d3002pnilu3002cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -146,6 +196,30 @@ local diff = {
 			},
 			["name"] = "ICP Priority Function Button - 8/S(FIX)",
 		},
+		["d3010pnilunilcd19vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN67",
+				},
+			},
+			["name"] = "HUD Velocity Switch - GND SPD",
+		},
+		["d3010pnilunilcd19vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN66",
+				},
+			},
+			["name"] = "HUD Velocity Switch - TAS",
+		},
+		["d3010pnilunilcd19vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "HUD Velocity Switch - CAS",
+		},
 		["d3011pnilu3011cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -154,29 +228,101 @@ local diff = {
 			},
 			["name"] = "ICP Priority Function Button - 9(A-CAL)",
 		},
+		["d3011pnilunilcd19vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN77",
+				},
+			},
+			["name"] = "HUD Altitude Switch - AUTO",
+		},
+		["d3011pnilunilcd19vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN76",
+				},
+			},
+			["name"] = "HUD Altitude Switch - BARO",
+		},
+		["d3011pnilunilcd19vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN75",
+				},
+			},
+			["name"] = "HUD Altitude Switch - RADAR",
+		},
 		["d3012pnilu3012cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN29",
+					["key"] = "JOY_BTN20",
 				},
 			},
 			["name"] = "ICP COM Override Button - COM1(UHF)",
 		},
-		["d3013pnilu3013cd17vd1vpnilvu0"] = {
+		["d3012pnilunilcd19vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN32",
+					["key"] = "JOY_BTN72",
 				},
 			},
-			["name"] = "ICP COM Override Button - COM2(VHF)",
+			["name"] = "HUD Brightness Control Switch - NIGHT",
 		},
-		["d3014pnilu3014cd17vd1vpnilvu0"] = {
+		["d3012pnilunilcd19vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN71",
+				},
+			},
+			["name"] = "HUD Brightness Control Switch - AUTO BRT",
+		},
+		["d3012pnilunilcd19vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN70",
+				},
+			},
+			["name"] = "HUD Brightness Control Switch - DAY",
+		},
+		["d3013pnilu3013cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN21",
 				},
 			},
+			["name"] = "ICP COM Override Button - COM2(VHF)",
+		},
+		["d3013pnilunilcd19vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "HUD TEST Switch - OFF",
+		},
+		["d3013pnilunilcd19vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "HUD TEST Switch - ON",
+		},
+		["d3014pnilu3014cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
 			["name"] = "ICP IFF Override Button - IFF",
+		},
+		["d3015pnilu3015cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "ICP LIST Override Button - LIST",
 		},
 		["d3016pnilu3016cd17vd1vpnilvu0"] = {
 			["added"] = {
@@ -194,18 +340,42 @@ local diff = {
 			},
 			["name"] = "ICP Recall Button - RCL",
 		},
-		["d3024pnilu3024cd17vd1vpnilvu0"] = {
+		["d3018pnilu3018cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN70",
+					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "ICP FLIR Polarity Button",
+			["name"] = "ICP Master Mode Button - A-A",
+		},
+		["d3019pnilu3019cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "ICP Master Mode Button - A-G",
+		},
+		["d3025pnilu3025cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "ICP FLIR Increment/Decrement Switch - Increment",
+		},
+		["d3026pnilu3026cd17vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "ICP FLIR Increment/Decrement Switch - Decrement",
 		},
 		["d3028pnilu3028cd17vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN75",
+					["key"] = "JOY_BTN39",
 				},
 			},
 			["name"] = "ICP DRIFT CUTOUT/WARN RESET 3-pos Switch: DRIFT C/O<>NORM",
@@ -213,10 +383,42 @@ local diff = {
 		["d3029pnilu3029cd17vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN77",
+					["key"] = "JOY_BTN41",
 				},
 			},
 			["name"] = "ICP DRIFT CUTOUT/WARN RESET 3-pos Switch: WARN RESET <>NORM",
+		},
+		["d3030pnilu3030cd17vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "ICP DED Increment/Decrement Switch - Increment",
+		},
+		["d3031pnilu3031cd17vd-1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "ICP DED Increment/Decrement Switch - Decrement",
+		},
+		["d3048pnilunilcd17vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "ICP FLIR GAIN/LEVEL Switch - Cycle Down",
+		},
+		["d3048pnilunilcd17vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN36",
+				},
+			},
+			["name"] = "ICP FLIR GAIN/LEVEL Switch - Cycle Up",
 		},
 		["dnilp3002unilcd28vdnilvp-0.01vunil"] = {
 			["added"] = {

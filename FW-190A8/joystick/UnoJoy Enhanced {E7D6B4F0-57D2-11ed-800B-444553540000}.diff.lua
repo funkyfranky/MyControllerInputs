@@ -58,14 +58,6 @@ local diff = {
 			},
 			["name"] = "Starter Switch Cover",
 		},
-		["d3008pnilu3010cd2vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Starter Power",
-		},
 		["d3008pnilu3043cd1vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {
@@ -73,14 +65,6 @@ local diff = {
 				},
 			},
 			["name"] = "CB Navigation Lights ON/OFF",
-		},
-		["d3009pnilu3010cd2vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Starter Clutch",
 		},
 		["d3014pnilu3014cd20vd1vpnilvu0"] = {
 			["name"] = "Bomb Release (B2)",

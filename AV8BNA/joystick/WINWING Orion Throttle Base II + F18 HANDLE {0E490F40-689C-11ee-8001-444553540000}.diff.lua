@@ -97,22 +97,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d1731pnilu1731cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN16",
-				},
-			},
-			["name"] = "COMM FWD: Select COMM 1 (VOIP)",
-		},
-		["d1732pnilu1732cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "COMM AFT: Select COMM 2 (VOIP)",
-		},
 		["d3472pnilunilcd33vd0.5vpnilvunil"] = {
 			["added"] = {
 				[1] = {

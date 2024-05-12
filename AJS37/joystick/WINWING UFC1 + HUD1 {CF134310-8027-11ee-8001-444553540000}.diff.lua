@@ -74,6 +74,22 @@ local diff = {
 			},
 			["name"] = "Navigation panel Waypoint L MÅL",
 		},
+		["d3008pnilunilcd23vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN41",
+				},
+			},
+			["name"] = "Datapanel Switch Output",
+		},
+		["d3008pnilunilcd23vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "Datapanel Switch Input",
+		},
 		["d3009pnilu3009cd12vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

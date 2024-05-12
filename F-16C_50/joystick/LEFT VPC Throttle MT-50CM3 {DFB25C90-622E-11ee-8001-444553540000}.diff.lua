@@ -98,6 +98,22 @@ local diff = {
 			},
 			["name"] = "Canopy Switch - CLOSE",
 		},
+		["d3004pnilunilcd10vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65_OFF",
+				},
+			},
+			["name"] = "Canopy Handle - UP",
+		},
+		["d3004pnilunilcd10vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "Canopy Handle - DOWN",
+		},
 		["d3012pnilu3012cd2vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -145,14 +161,6 @@ local diff = {
 				},
 			},
 			["name"] = "ECM SPL Button - Depressed",
-		},
-		["d3018pnilunilcd10vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN65",
-				},
-			},
-			["name"] = "Canopy Handle - DOWN/UP",
 		},
 		["d3018pnilunilcd66vd1vpnilvunil"] = {
 			["added"] = {

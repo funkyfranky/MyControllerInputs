@@ -34,21 +34,13 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3480pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Gear down radio signal button",
-		},
 		["d3482pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Electric Battery Switch",
+			["name"] = "Gear down radio signal button",
 		},
 	},
 }

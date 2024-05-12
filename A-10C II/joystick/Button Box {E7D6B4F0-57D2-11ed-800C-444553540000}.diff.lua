@@ -152,7 +152,7 @@ local diff = {
 					["key"] = "JOY_BTN18",
 				},
 			},
-			["name"] = "Inverter TEST/OFF",
+			["name"] = "Inverter TEST",
 		},
 		["d1376pnilu1375cdnilvdnilvpnilvunil"] = {
 			["added"] = {

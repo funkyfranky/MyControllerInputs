@@ -186,6 +186,78 @@ local diff = {
 			},
 			["name"] = "Throttle (Right) - OFF(hold)<>IDLE",
 		},
+		["d3469pnilunilcd65vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN87",
+				},
+			},
+			["name"] = "Terrain Follow Radar: STBY",
+		},
+		["d3469pnilunilcd65vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN88",
+				},
+			},
+			["name"] = "Terrain Follow Radar: OFF",
+		},
+		["d3469pnilunilcd65vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN86",
+				},
+			},
+			["name"] = "Terrain Follow Radar: ON",
+		},
+		["d3470pnilunilcd67vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN90",
+				},
+			},
+			["name"] = "Radar Altimeter: ON",
+		},
+		["d3470pnilunilcd67vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN91",
+				},
+			},
+			["name"] = "Radar Altimeter: OFF",
+		},
+		["d3470pnilunilcd67vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN89",
+				},
+			},
+			["name"] = "Radar Altimeter: OVERRIDE",
+		},
+		["d3475pnilunilcd50vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN94",
+				},
+			},
+			["name"] = "NAV FLIR: STBY",
+		},
+		["d3475pnilunilcd50vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN95",
+				},
+			},
+			["name"] = "NAV FLIR: OFF",
+		},
+		["d3475pnilunilcd50vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN93",
+				},
+			},
+			["name"] = "NAV FLIR: ON",
+		},
 		["dnilp577u579cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
