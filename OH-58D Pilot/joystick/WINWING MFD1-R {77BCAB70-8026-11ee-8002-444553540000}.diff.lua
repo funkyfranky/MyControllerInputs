@@ -115,7 +115,7 @@ local diff = {
 		["d3018pnilu3018cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN16",
+					["key"] = "JOY_BTN48",
 				},
 			},
 			["name"] = "Pilot MFD Auxiliary Control Panel, INIT [Initial Page]",
@@ -123,7 +123,7 @@ local diff = {
 		["d3019pnilu3019cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN48",
+					["key"] = "JOY_BTN16",
 				},
 			},
 			["name"] = "Pilot MFD, INIT",

@@ -32,6 +32,22 @@ local diff = {
 				},
 			},
 		},
+		["a3002cd36"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "CMWS Control Indicator, Audio Dial",
+		},
+		["a3003cd36"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "CMWS Control Indicator, Lamp Dial",
+		},
 	},
 	["keyDiffs"] = {
 		["d3001pnilu3001cd10vd1vpnilvu0"] = {

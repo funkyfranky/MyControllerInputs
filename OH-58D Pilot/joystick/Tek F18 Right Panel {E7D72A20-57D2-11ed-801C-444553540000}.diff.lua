@@ -100,46 +100,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3009pnilu3009cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN2",
-				},
-			},
-			["name"] = "Overhead Panel, Anti-Collision Lights Switch - ON <> OFF",
-		},
-		["d3010pnilu3010cd7vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Overhead Panel, Position Lights Switch: OFF <> DIM",
-		},
-		["d3010pnilu3010cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Overhead Panel, Position Lights Switch: BRIGHT <> DIM",
-		},
-		["d3014pnilu3014cd7vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Overhead Panel, Flood Light Switch: OFF <> GREEN",
-		},
-		["d3014pnilu3014cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Overhead Panel, Flood Light Switch: WHITE <> GREEN",
-		},
 		["d3015pnilu3015cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

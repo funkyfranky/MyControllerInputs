@@ -6,7 +6,7 @@ local diff = {
 					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "[SimPit] Formation Lights Brightness (Variable Knob)",
+			["name"] = "[Variable Knob] Formation Lights Brightness",
 		},
 		["a3058cd72"] = {
 			["added"] = {
@@ -27,7 +27,7 @@ local diff = {
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "[SimPit] Instrument Panel Light Brightness (Variable Knob)",
+			["name"] = "[Variable Knob] Instrument Panel Light Brightness",
 		},
 		["a3059cd72"] = {
 			["added"] = {
@@ -48,7 +48,7 @@ local diff = {
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "[SimPit] Console Light Brightness (Variable Knob)",
+			["name"] = "[Variable Knob] Console Light Brightness",
 		},
 	},
 	["keyDiffs"] = {

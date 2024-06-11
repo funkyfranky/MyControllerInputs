@@ -24,27 +24,6 @@ local diff = {
 			},
 			["name"] = "Flight Control Collective",
 		},
-		["a3001cd2"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Throttle",
-		},
 	},
 	["keyDiffs"] = {
 		["d3001pnilu3001cd5vd-1vpnilvu0"] = {
@@ -127,7 +106,7 @@ local diff = {
 			},
 			["name"] = "Searchlight Control Switch - RIGHT",
 		},
-		["d3045pnilu3045cd41vd1vpnilvu0"] = {
+		["d3045pnilu3045cd42vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN2",
@@ -138,12 +117,12 @@ local diff = {
 		["d3046pnilu3046cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN24",
+					["key"] = "JOY_BTN22",
 				},
 			},
 			["name"] = "Searchlight Switch - ON/OFF",
 		},
-		["d3069pnilu3069cd41vd1vpnilvu0"] = {
+		["d3069pnilu3069cd42vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN18",
@@ -151,7 +130,7 @@ local diff = {
 			},
 			["name"] = "Pilot Radio Channel Select Switch - FWD [CH UP]",
 		},
-		["d3070pnilu3070cd41vd-1vpnilvu0"] = {
+		["d3070pnilu3070cd42vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",
@@ -159,7 +138,7 @@ local diff = {
 			},
 			["name"] = "Pilot Radio Channel Select Switch - AFT [CH DN]",
 		},
-		["d3071pnilu3071cd41vd-1vpnilvu0"] = {
+		["d3071pnilu3071cd42vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN21",
@@ -167,7 +146,7 @@ local diff = {
 			},
 			["name"] = "Pilot Radio Channel Select Switch - LEFT [KYBD]",
 		},
-		["d3072pnilu3072cd41vd1vpnilvu0"] = {
+		["d3072pnilu3072cd42vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN19",
@@ -175,7 +154,7 @@ local diff = {
 			},
 			["name"] = "Pilot Radio Channel Select Switch - RIGHT [FREQ]",
 		},
-		["d3073pnilu3073cd41vd1vpnilvu0"] = {
+		["d3073pnilu3073cd42vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
@@ -183,7 +162,7 @@ local diff = {
 			},
 			["name"] = "Pilot Radio Select Switch - 1 [FM1]",
 		},
-		["d3074pnilu3074cd41vd1vpnilvu0"] = {
+		["d3074pnilu3074cd42vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",
@@ -191,7 +170,7 @@ local diff = {
 			},
 			["name"] = "Pilot Radio Select Switch - 2 [UHF]",
 		},
-		["d3075pnilu3075cd41vd-1vpnilvu0"] = {
+		["d3075pnilu3075cd42vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN6",
@@ -199,7 +178,7 @@ local diff = {
 			},
 			["name"] = "Pilot Radio Select Switch - 3 [VHF]",
 		},
-		["d3076pnilu3076cd41vd-1vpnilvu0"] = {
+		["d3076pnilu3076cd42vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",

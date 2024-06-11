@@ -32,6 +32,46 @@ local diff = {
 				},
 			},
 		},
+		["a3001cd3"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "Standby Barometric Altimeter, Barometric Knob",
+		},
+		["a3001cd42"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "Radar Detector, Brightness Dial",
+		},
+		["a3002cd3"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Standby Attitude Indicator, Adjustment Knob",
+		},
+		["a3005cd10"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Multiparameter Display, Brightness Dial",
+		},
+		["a3006cd27"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "Remote Frequency Display, Brightness Dial",
+		},
 	},
 	["keyDiffs"] = {
 		["d3053pnilu3053cd14vd1vpnilvu0"] = {

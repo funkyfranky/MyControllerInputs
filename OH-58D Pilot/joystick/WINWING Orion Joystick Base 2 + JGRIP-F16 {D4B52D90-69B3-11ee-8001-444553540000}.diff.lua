@@ -1,5 +1,47 @@
 local diff = {
 	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["changed"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.15,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Flight Control Cyclic Pitch",
+		},
+		["a2002cdnil"] = {
+			["changed"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.15,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "Flight Control Cyclic Roll",
+		},
 		["a2003cdnil"] = {
 			["name"] = "Flight Control Pedals (Antitorque)",
 			["removed"] = {
@@ -18,7 +60,7 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3007pnilu3007cd35vd1vpnilvu0"] = {
+		["d3007pnilu3007cd36vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",
@@ -26,15 +68,7 @@ local diff = {
 			},
 			["name"] = "Manual Flare Dispense",
 		},
-		["d3013pnilu3013cd20vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN6",
-				},
-			},
-			["name"] = "Missile Step",
-		},
-		["d3026pnilu3026cd20vd1vpnilvu0"] = {
+		["d3026pnilu3026cd21vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
@@ -42,7 +76,7 @@ local diff = {
 			},
 			["name"] = "Fire Weapon [1st Detent]",
 		},
-		["d3027pnilu3027cd20vd1vpnilvu0"] = {
+		["d3027pnilu3027cd21vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",
@@ -114,15 +148,7 @@ local diff = {
 			},
 			["name"] = "Display Select Switch - RIGHT [COMM Page]",
 		},
-		["d3101pnilu3101cd41vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN36",
-				},
-			},
-			["name"] = "Force Trim - Interrupt",
-		},
-		["d3102pnilu3102cd41vd1vpnilvu0"] = {
+		["d3102pnilu3102cd42vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN8",
@@ -130,7 +156,7 @@ local diff = {
 			},
 			["name"] = "SCAS Release",
 		},
-		["d3103pnilunilcd41vd1vpnilvunil"] = {
+		["d3103pnilunilcd42vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN19",
@@ -138,21 +164,37 @@ local diff = {
 			},
 			["name"] = "Trimmer Reset",
 		},
-		["d3109pnilu3109cd41vd1vpnilvu0"] = {
-			["added"] = {
+		["dnilp210u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Right slow",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN9",
+					["key"] = "JOY_BTN_POV1_UR",
 				},
 			},
-			["name"] = "Missile Activate (ATAS Only)",
 		},
-		["d3112pnilu3112cd41vd1vpnilvu0"] = {
-			["added"] = {
+		["dnilp211u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Right slow",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_BTN14",
+					["key"] = "JOY_BTN_POV1_DR",
 				},
 			},
-			["name"] = "BOB UP Button",
+		},
+		["dnilp212u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Down Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_DL",
+				},
+			},
+		},
+		["dnilp213u214cdnilvdnilvpnilvunil"] = {
+			["name"] = "View Up Left slow",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_BTN_POV1_UL",
+				},
+			},
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

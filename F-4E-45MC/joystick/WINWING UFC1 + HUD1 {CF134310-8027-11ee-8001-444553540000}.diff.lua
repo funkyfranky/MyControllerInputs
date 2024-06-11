@@ -1,4 +1,69 @@
 local diff = {
+	["axisDiffs"] = {
+		["a3008cd31"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "[Variable Knob] Reticle Brightness",
+		},
+		["a3009cd31"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RZ",
+				},
+			},
+			["name"] = "[Variable Knob] Reticle Depression",
+		},
+		["a3009cd40"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "[Variable Knob] Altimeter Reference Pressure",
+		},
+	},
 	["keyDiffs"] = {
 		["d3002pnilu3002cd80vd1vpnilvu0"] = {
 			["added"] = {
@@ -7,6 +72,14 @@ local diff = {
 				},
 			},
 			["name"] = "Manual - [Toggle]",
+		},
+		["d3002pnilu3002cd90vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "Bombing Table - [Toggle]",
 		},
 		["d3004pnilu3004cd78vd1vpnilvu0"] = {
 			["added"] = {

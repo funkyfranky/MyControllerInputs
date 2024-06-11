@@ -19,7 +19,7 @@ local diff = {
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "[SimPit] Aural Tone Volume (Variable Knob)",
+			["name"] = "[Variable Knob] Aural Tone Volume",
 		},
 		["a3010cd13"] = {
 			["added"] = {
@@ -40,7 +40,7 @@ local diff = {
 					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "[SimPit] AoA Stall Warning Volume (Variable Knob)",
+			["name"] = "[Variable Knob] AoA Stall Warning Volume",
 		},
 		["a3023cd2"] = {
 			["added"] = {
@@ -61,7 +61,7 @@ local diff = {
 					["key"] = "JOY_SLIDER1",
 				},
 			},
-			["name"] = "[SimPit] ICS Volume (Variable Knob)",
+			["name"] = "[Variable Knob] ICS Volume",
 		},
 		["a3026cd70"] = {
 			["added"] = {
@@ -82,7 +82,7 @@ local diff = {
 					["key"] = "JOY_RZ",
 				},
 			},
-			["name"] = "[SimPit] VOR/ILS Volume (increment to turn on) (Variable Knob)",
+			["name"] = "[Variable Knob] VOR/ILS Volume (increment to turn on)",
 		},
 		["a3045cd67"] = {
 			["added"] = {
@@ -103,7 +103,7 @@ local diff = {
 					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "[SimPit] RWR Audio Volume (Variable Knob)",
+			["name"] = "[Variable Knob] RWR Audio Volume",
 		},
 		["a3102cd3"] = {
 			["added"] = {
@@ -124,7 +124,7 @@ local diff = {
 					["key"] = "JOY_X",
 				},
 			},
-			["name"] = "[SimPit] UHF Volume (Variable Knob)",
+			["name"] = "[Variable Knob] UHF Volume",
 		},
 		["a3103cd3"] = {
 			["added"] = {
@@ -145,7 +145,7 @@ local diff = {
 					["key"] = "JOY_Z",
 				},
 			},
-			["name"] = "[SimPit] AUX Volume (Variable Knob)",
+			["name"] = "[Variable Knob] AUX Volume",
 		},
 	},
 	["keyDiffs"] = {

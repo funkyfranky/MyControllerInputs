@@ -234,14 +234,6 @@ local diff = {
 			},
 			["name"] = "VOR/ILS Frequency (hundreds) - [Up]",
 		},
-		["d3014pnilu3014cd27vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Select Gun",
-		},
 		["d3014pnilunilcd70vd-0.05vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -257,22 +249,6 @@ local diff = {
 				},
 			},
 			["name"] = "VOR/ILS Frequency (decimals) - [Up]",
-		},
-		["d3015pnilu3015cd27vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN11",
-				},
-			},
-			["name"] = "Select Radar-Guided Missiles",
-		},
-		["d3016pnilu3016cd27vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Select Heat-Guided Missiles",
 		},
 		["d3016pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {
@@ -296,7 +272,7 @@ local diff = {
 					["key"] = "JOY_BTN21",
 				},
 			},
-			["name"] = "CAGE Mode",
+			["name"] = "Cage Button",
 		},
 		["d3018pnilunilcd9vd0vpnilvunil"] = {
 			["added"] = {

@@ -3,6 +3,19 @@ local diff = {
 		["a2001cdnil"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0.1,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = false,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_Y",
 				},
 			},
@@ -80,7 +93,7 @@ local diff = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Air Refuel Release Button",
+			["name"] = "Air Refuel (AAR) Release Button",
 		},
 		["d3020pnilu3020cd9vd1vpnilvu0"] = {
 			["added"] = {
@@ -89,6 +102,14 @@ local diff = {
 				},
 			},
 			["name"] = "Emergency Quick Release Lever",
+		},
+		["d3122pnilu3122cd78vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Jester Context Action (short, hold, double click)",
 		},
 		["d3150pnilu3150cd78vd1vpnilvu0"] = {
 			["added"] = {

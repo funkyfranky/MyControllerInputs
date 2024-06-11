@@ -1,5 +1,13 @@
 local diff = {
 	["keyDiffs"] = {
+		["d3027pnilu3027cd21vd1vpnilvu0"] = {
+			["name"] = "Fire Weapon [2nd Detent]",
+			["removed"] = {
+				[1] = {
+					["key"] = "Enter",
+				},
+			},
+		},
 		["d3087pnilu3087cd14vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

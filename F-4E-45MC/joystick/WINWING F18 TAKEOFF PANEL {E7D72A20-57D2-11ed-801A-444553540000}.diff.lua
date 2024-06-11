@@ -19,7 +19,7 @@ local diff = {
 					["key"] = "JOY_SLIDER2",
 				},
 			},
-			["name"] = "[SimPit] Desired Release Range (Variable Knob)",
+			["name"] = "[Variable Knob] Desired Release Range",
 		},
 	},
 	["keyDiffs"] = {
