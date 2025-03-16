@@ -40,14 +40,6 @@ local diff = {
 			},
 			["name"] = "RWR Indicator INT Knob",
 		},
-		["a3005cd41"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "TACAN Volume Knob",
-		},
 		["a3014cd19"] = {
 			["added"] = {
 				[1] = {

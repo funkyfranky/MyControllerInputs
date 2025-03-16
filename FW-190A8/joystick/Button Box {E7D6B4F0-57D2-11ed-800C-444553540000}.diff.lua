@@ -34,22 +34,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3002pnilu3002cd6vd0vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Fuel Gauge Selector FWD/CENTER",
-		},
-		["d3002pnilu3002cd6vd1vpnilvu0.5"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Fuel Gauge Selector AFT/CENTER",
-		},
 		["d3007pnilunilcd15vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

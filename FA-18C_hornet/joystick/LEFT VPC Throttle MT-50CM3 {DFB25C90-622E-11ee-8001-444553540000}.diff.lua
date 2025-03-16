@@ -1,7 +1,7 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2004cdnil"] = {
-			["name"] = "Thrust",
+		["a2005cdnil"] = {
+			["name"] = "Thrust Left",
 			["removed"] = {
 				[1] = {
 					["filter"] = {
@@ -15,6 +15,24 @@ local diff = {
 						["slider"] = false,
 					},
 					["key"] = "JOY_RX",
+				},
+			},
+		},
+		["a2006cdnil"] = {
+			["name"] = "Thrust Right",
+			["removed"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_RY",
 				},
 			},
 		},

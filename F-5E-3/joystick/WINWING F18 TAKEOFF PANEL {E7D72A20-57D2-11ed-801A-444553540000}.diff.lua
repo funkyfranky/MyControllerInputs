@@ -130,14 +130,6 @@ local diff = {
 			},
 			["name"] = "Bombs Arm Switch - TAIL",
 		},
-		["d3010pnilu3010cd15vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Guns, Missile and Camera Switch Cover Toggle",
-		},
 		["d3012pnilunilcd15vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

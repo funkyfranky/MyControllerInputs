@@ -42,22 +42,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd14vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN82",
-				},
-			},
-			["name"] = "Multifunction Keyboard, Acknowledge/Recall Switch - ACKNOWLEDGE",
-		},
-		["d3005pnilu3005cd36vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN86",
-				},
-			},
-			["name"] = "CMWS Control Panel, Arm/Safe Switch: ARM <> SAFE",
-		},
 		["d3007pnilu3007cd18vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -80,15 +64,7 @@ local diff = {
 					["key"] = "JOY_BTN96",
 				},
 			},
-			["name"] = "Throttle Idle Release Switch - DEPRESS",
-		},
-		["d3035pnilu3035cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN93",
-				},
-			},
-			["name"] = "Center Console, Ignition Keylock Switch: ON <> OFF",
+			["name"] = "Throttle Idle Release Switch",
 		},
 		["d3059pnilu3059cd18vd1vpnilvu0"] = {
 			["added"] = {
@@ -105,14 +81,6 @@ local diff = {
 				},
 			},
 			["name"] = "Land",
-		},
-		["d3096pnilu3096cd14vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN81",
-				},
-			},
-			["name"] = "Multifunction Keyboard, Acknowledge/Recall Switch - RECALL",
 		},
 		["d3104pnilu3104cd18vd1vpnilvu0"] = {
 			["added"] = {

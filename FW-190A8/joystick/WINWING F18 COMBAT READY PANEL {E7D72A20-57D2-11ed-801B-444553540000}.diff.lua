@@ -1,13 +1,5 @@
 local diff = {
 	["keyDiffs"] = {
-		["d3001pnilu3001cd20vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN4",
-				},
-			},
-			["name"] = "Master Arm Switch ON/OFF",
-		},
 		["d3001pnilunilcd15vd0.1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -71,14 +63,6 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-		},
-		["d3020pnilu3020cd20vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "Outer Wing Guns Arm Switch ON/OFF",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Cannons - Outer Wing (B)",

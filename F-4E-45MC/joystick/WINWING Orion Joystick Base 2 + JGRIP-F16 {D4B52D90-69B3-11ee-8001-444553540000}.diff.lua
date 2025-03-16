@@ -31,13 +31,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd27vd1vpnilvu0"] = {
+		["d3001pnilu3001cd27vd0.5vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "Trigger - Half Action (2-stage trigger)",
+		},
+		["d3001pnilu3001cd27vd1vpnilvu0.5"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN5",
 				},
 			},
-			["name"] = "Trigger",
+			["name"] = "Trigger - Full Action (2-stage trigger)",
 		},
 		["d3002pnilu3002cd27vd1vpnilvu0"] = {
 			["added"] = {
@@ -45,7 +53,7 @@ local diff = {
 					["key"] = "JOY_BTN20",
 				},
 			},
-			["name"] = "Bomb Button",
+			["name"] = "Bomb Release Button",
 		},
 		["d3003pnilu3003cd78vd1vpnilvu0"] = {
 			["added"] = {
@@ -93,7 +101,7 @@ local diff = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Air Refuel (AAR) Release Button",
+			["name"] = "Air Refueling (AAR) Release Button",
 		},
 		["d3020pnilu3020cd9vd1vpnilvu0"] = {
 			["added"] = {
@@ -118,6 +126,38 @@ local diff = {
 				},
 			},
 			["name"] = "Jester UI Action (short, hold)",
+		},
+		["d3211pnilu3211cd78vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN32",
+				},
+			},
+			["name"] = "Jester UI Hat Up",
+		},
+		["d3213pnilu3213cd78vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN33",
+				},
+			},
+			["name"] = "Jester UI Hat Right",
+		},
+		["d3215pnilu3215cd78vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN34",
+				},
+			},
+			["name"] = "Jester UI Hat Down",
+		},
+		["d3217pnilu3217cd78vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN35",
+				},
+			},
+			["name"] = "Jester UI Hat Left",
 		},
 		["dnilp2019u2019cdnilvdnilvp-1vu0"] = {
 			["added"] = {

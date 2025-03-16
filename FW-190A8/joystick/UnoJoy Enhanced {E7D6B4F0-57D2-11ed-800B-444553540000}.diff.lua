@@ -58,14 +58,6 @@ local diff = {
 			},
 			["name"] = "Starter Switch Cover",
 		},
-		["d3008pnilu3043cd1vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "CB Navigation Lights ON/OFF",
-		},
 		["d3014pnilu3014cd20vd1vpnilvu0"] = {
 			["name"] = "Bomb Release (B2)",
 			["removed"] = {
@@ -73,22 +65,6 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
-		},
-		["d3014pnilu3049cd1vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "CB Generator ON/OFF",
-		},
-		["d3015pnilu3050cd1vd1vpnilvu1"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "CB Battery ON/OFF",
 		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Cannons - Outer Wing (B)",

@@ -71,7 +71,7 @@ local diff = {
 		["d3004pnilunilcd3vd0.6vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN49",
+					["key"] = "JOY_BTN48",
 				},
 			},
 			["name"] = "Radio Mode - ADF+G & CMD",
@@ -79,7 +79,7 @@ local diff = {
 		["d3004pnilunilcd3vd0.8vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN48",
+					["key"] = "JOY_BTN49",
 				},
 			},
 			["name"] = "Radio Mode - ADF & G",
@@ -139,6 +139,22 @@ local diff = {
 				},
 			},
 			["name"] = "Console Floodlight (Red) - Bright",
+		},
+		["d3035pnilunilcd3vd-0.11111111111111vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN62",
+				},
+			},
+			["name"] = "Comm Frequency (x0x.xxx) - [Dec]",
+		},
+		["d3035pnilunilcd3vd0.11111111111111vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN63",
+				},
+			},
+			["name"] = "Comm Frequency (x0x.xxx) - [Inc]",
 		},
 	},
 }

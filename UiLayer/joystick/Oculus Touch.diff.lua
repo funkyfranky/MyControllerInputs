@@ -5,6 +5,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN3",
 				},
+				[2] = {
+					["key"] = "JOY_BTN41",
+				},
 			},
 			["name"] = "recenter VR Headset",
 		},

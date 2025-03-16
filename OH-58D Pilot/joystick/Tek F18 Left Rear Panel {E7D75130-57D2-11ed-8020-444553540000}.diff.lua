@@ -34,101 +34,145 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd7vd1vpnilvu0"] = {
+		["dnilp3001unilcd7vdnilvp0vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN49",
+					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Center Post Circuit Breaker Panel, Particle Separator Circuit Breaker: IN <> OUT",
+			["name"] = "Center Post Circuit Breaker Panel, Particle Separator Circuit Breaker - OUT",
 		},
-		["d3004pnilu3004cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Center Post Circuit Breaker Panel, L2MUM Power Circuit Breaker Switch: ON <> OFF",
-		},
-		["d3005pnilu3005cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Center Post Circuit Breaker Panel, Radar Detector Circuit Breaker Switch: ON <> OFF",
-		},
-		["d3006pnilu3006cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Center Post Circuit Breaker Panel, Radar Warning Circuit Breaker Switch: ON <> OFF",
-		},
-		["d3007pnilu3007cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "Center Post Circuit Breaker Panel, IFF Circuit Breaker Switch: ON <> OFF",
-		},
-		["d3008pnilu3008cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "Center Post Circuit Breaker Panel, HF Circuit Breaker Switch: ON <> OFF",
-		},
-		["d3031pnilu3031cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Center Post Circuit Breaker Panel, Fuzz Burner Circuit Breaker: IN <> OUT",
-		},
-		["d3032pnilu3032cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN7",
-				},
-			},
-			["name"] = "Center Post Circuit Breaker Panel, Battery Charger Circuit Breaker: IN <> OUT",
-		},
-		["d3033pnilu3033cd7vd1vpnilvu0"] = {
+		["dnilp3001unilcd7vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Center Post Circuit Breaker Panel, CMWS Circuit Breaker Switch: ON <> OFF",
+			["name"] = "Center Post Circuit Breaker Panel, Particle Separator Circuit Breaker - IN",
 		},
-		["d3034pnilu3034cd7vd1vpnilvu0"] = {
+		["dnilp3002unilcd7vdnilvp0vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN28",
+					["key"] = "JOY_BTN8",
+				},
+				[2] = {
+					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Center Post Circuit Breaker Panel, IR Beacon Switch: ON <> OFF",
+			["name"] = "Overhead Panel, FADEC Circuit Breaker Switch - Off",
 		},
-		["d3035pnilu3035cd7vd1vpnilvu0"] = {
+		["dnilp3002unilcd7vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Center Console, Ignition Keylock Switch: ON <> OFF",
+			["name"] = "Overhead Panel, FADEC Circuit Breaker Switch - On",
 		},
-		["d3054pnilu3054cd7vd1vpnilvu0"] = {
+		["dnilp3003unilcd7vdnilvp0vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN46",
+					["key"] = "JOY_BTN11",
+				},
+				[2] = {
+					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Center Post Circuit Breaker Panel, IR Jammer Base Switch - ON <> OFF",
+			["name"] = "Overhead Panel, Ignition Circuit Breaker Switch - Off",
+		},
+		["dnilp3003unilcd7vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Overhead Panel, Ignition Circuit Breaker Switch - On",
+		},
+		["dnilp3004unilcd7vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Center Post Circuit Breaker Panel, L2MUM Power Circuit Breaker Switch - Off",
+		},
+		["dnilp3004unilcd7vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN25",
+				},
+			},
+			["name"] = "Center Post Circuit Breaker Panel, L2MUM Power Circuit Breaker Switch - On",
+		},
+		["dnilp3005unilcd7vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Center Post Circuit Breaker Panel, Radar Detector Circuit Breaker Switch - Off",
+		},
+		["dnilp3005unilcd7vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Center Post Circuit Breaker Panel, Radar Detector Circuit Breaker Switch - On",
+		},
+		["dnilp3006unilcd7vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+				[2] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "Center Post Circuit Breaker Panel, Radar Warning Circuit Breaker Switch - Off",
+		},
+		["dnilp3006unilcd7vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Center Post Circuit Breaker Panel, Radar Warning Circuit Breaker Switch - On",
+		},
+		["dnilp3033unilcd7vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+				[2] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Center Post Circuit Breaker Panel, CMWS Circuit Breaker Switch - Off",
+		},
+		["dnilp3033unilcd7vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Center Post Circuit Breaker Panel, CMWS Circuit Breaker Switch - On",
+		},
+		["dnilp3034unilcd7vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Center Post Circuit Breaker Panel, IR Beacon Switch - Off",
+		},
+		["dnilp3034unilcd7vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Center Post Circuit Breaker Panel, IR Beacon Switch - On",
 		},
 	},
 }

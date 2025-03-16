@@ -138,7 +138,7 @@ local diff = {
 					["key"] = "JOY_BTN40",
 				},
 			},
-			["name"] = "Display Select Switch - LEFT [VSD Page]",
+			["name"] = "Display Select Switch - LEFT [VSD Page]Display Select Switch - LEFT [VSD Page]",
 		},
 		["d3037pnilu3037cd11vd1vpnilvu0"] = {
 			["added"] = {
@@ -155,14 +155,6 @@ local diff = {
 				},
 			},
 			["name"] = "SCAS Release",
-		},
-		["d3103pnilunilcd42vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Trimmer Reset",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

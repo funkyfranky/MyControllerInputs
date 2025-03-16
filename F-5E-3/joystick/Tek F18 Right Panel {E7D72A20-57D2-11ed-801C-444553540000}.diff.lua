@@ -56,6 +56,14 @@ local diff = {
 			},
 			["name"] = "Flight Instruments Lights Knob",
 		},
+		["a3018cd9"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Cabin Temperature Knob",
+		},
 		["a3019cd12"] = {
 			["added"] = {
 				[1] = {

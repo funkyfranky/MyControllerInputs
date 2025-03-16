@@ -26,22 +26,6 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3001pnilu3001cd5vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Engine RPM Trim - DECREASE",
-		},
-		["d3002pnilu3002cd5vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Engine RPM Trim - INCREASE",
-		},
 		["d3007pnilu3007cd12vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -64,7 +48,7 @@ local diff = {
 					["key"] = "JOY_BTN1",
 				},
 			},
-			["name"] = "Throttle Idle Release Switch - DEPRESS",
+			["name"] = "Throttle Idle Release Switch",
 		},
 		["d3028pnilu3028cd7vd1vpnilvu0"] = {
 			["added"] = {
@@ -74,7 +58,7 @@ local diff = {
 			},
 			["name"] = "Start Switch",
 		},
-		["d3037pnilu3037cd7vd-1vpnilvu0"] = {
+		["d3037pnilu3037cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN27",
@@ -90,7 +74,7 @@ local diff = {
 			},
 			["name"] = "Searchlight Control Switch - EXTEND",
 		},
-		["d3039pnilu3039cd7vd-1vpnilvu0"] = {
+		["d3039pnilu3039cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN28",
@@ -117,12 +101,12 @@ local diff = {
 		["d3046pnilu3046cd7vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN22",
+					["key"] = "JOY_BTN24",
 				},
 			},
-			["name"] = "Searchlight Switch - ON/OFF",
+			["name"] = "Searchlight Switch - On/Off",
 		},
-		["d3069pnilu3069cd42vd1vpnilvu0"] = {
+		["d3069pnilu3069cd42vd-1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN18",
@@ -130,7 +114,7 @@ local diff = {
 			},
 			["name"] = "Pilot Radio Channel Select Switch - FWD [CH UP]",
 		},
-		["d3070pnilu3070cd42vd-1vpnilvu0"] = {
+		["d3070pnilu3070cd42vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN20",
@@ -186,7 +170,23 @@ local diff = {
 			},
 			["name"] = "Pilot Radio Select Switch - 5 [FM2]",
 		},
-		["dnilp3009u3009cd12vdnilvp0.2vu0"] = {
+		["dnilp3003u3003cd5vdnilvp-1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Engine RPM Trim: DECREASE <> CENTER",
+		},
+		["dnilp3003u3003cd5vdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "Engine RPM Trim: INCREASE <> CENTER",
+		},
+		["dnilp3009u3009cd12vdnilvp-0.002vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN12",
@@ -194,13 +194,29 @@ local diff = {
 			},
 			["name"] = "SCAS Heading Hold Switch - TRIM LEFT",
 		},
-		["dnilp3010u3010cd12vdnilvp0.2vu0"] = {
+		["dnilp3010u3010cd12vdnilvp0.002vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
 			["name"] = "SCAS Heading Hold Switch - TRIM RIGHT",
+		},
+		["dnilp3036unilcd7vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Searchlight Switch - Off",
+		},
+		["dnilp3036unilcd7vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Searchlight Switch - On",
 		},
 	},
 }

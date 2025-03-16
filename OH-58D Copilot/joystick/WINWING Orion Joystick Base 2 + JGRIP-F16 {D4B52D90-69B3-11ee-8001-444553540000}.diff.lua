@@ -1,37 +1,5 @@
 local diff = {
 	["keyDiffs"] = {
-		["d3014pnilu3014cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN27",
-				},
-			},
-			["name"] = "MMS Line of Sight (LOS) Slew - UP",
-		},
-		["d3015pnilu3015cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN29",
-				},
-			},
-			["name"] = "MMS Line of Sight (LOS) Slew - DOWN",
-		},
-		["d3016pnilu3016cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN30",
-				},
-			},
-			["name"] = "MMS Line of Sight (LOS) Slew - LEFT",
-		},
-		["d3017pnilu3017cd22vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN28",
-				},
-			},
-			["name"] = "MMS Line of Sight (LOS) Slew - RIGHT",
-		},
 		["d3018pnilu3018cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -143,6 +111,38 @@ local diff = {
 					["key"] = "JOY_BTN_POV1_UL",
 				},
 			},
+		},
+		["dnilp3027u3027cd22vdnilvp-0.5vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN37",
+				},
+			},
+			["name"] = "MMS Line of Sight (LOS) Slew - UP",
+		},
+		["dnilp3027u3027cd22vdnilvp0.5vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN39",
+				},
+			},
+			["name"] = "MMS Line of Sight (LOS) Slew - DOWN",
+		},
+		["dnilp3028u3028cd22vdnilvp-0.5vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN40",
+				},
+			},
+			["name"] = "MMS Line of Sight (LOS) Slew - LEFT",
+		},
+		["dnilp3028u3028cd22vdnilvp0.5vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN38",
+				},
+			},
+			["name"] = "MMS Line of Sight (LOS) Slew - RIGHT",
 		},
 		["dnilp32u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Left slow",

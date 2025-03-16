@@ -100,13 +100,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3015pnilu3015cd7vd1vpnilvu0"] = {
+		["dnilp3015unilcd7vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Overhead Panel, Pitot Heater Switch - Off",
+		},
+		["dnilp3015unilcd7vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN15",
 				},
 			},
-			["name"] = "Overhead Panel, Pitot Heater Switch: ON <> OFF",
+			["name"] = "Overhead Panel, Pitot Heater Switch - On",
 		},
 	},
 }

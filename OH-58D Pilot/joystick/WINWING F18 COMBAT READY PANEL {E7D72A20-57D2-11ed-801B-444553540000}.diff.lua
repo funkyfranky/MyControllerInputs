@@ -6,79 +6,55 @@ local diff = {
 					["key"] = "JOY_BTN37",
 				},
 			},
-			["name"] = "FADEC, Auto/Manual Switch - AUTO/MANUAL",
+			["name"] = "FADEC, Auto/Manual Switch",
 		},
-		["d3005pnilu3005cd21vd-1vpnilvu0"] = {
+		["dnilp3005unilcd21vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN6",
 				},
 			},
-			["name"] = "Armament Control Panel, Master Switch: OFF <> STANDBY",
+			["name"] = "Armament Control Panel, Master Switch - Off",
 		},
-		["d3005pnilu3005cd21vd1vpnilvu0"] = {
+		["dnilp3005unilcd21vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Armament Control Panel, Master Switch - STANDBY",
+		},
+		["dnilp3005unilcd21vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN4",
 				},
 			},
-			["name"] = "Armament Control Panel, Master Switch: ARMED <> STANDBY",
+			["name"] = "Armament Control Panel, Master Switch - ARMED",
 		},
-		["d3006pnilu3006cd21vd-1vpnilvu0"] = {
+		["dnilp3006unilcd21vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN31",
 				},
 			},
-			["name"] = "Armament Control Panel, Gun Switch: SAFE <> ARMED",
+			["name"] = "Armament Control Panel, Gun Switch - SAFE",
 		},
-		["d3006pnilu3006cd21vd1vpnilvu0"] = {
+		["dnilp3006unilcd21vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "Armament Control Panel, Gun Switch - ARMED",
+		},
+		["dnilp3006unilcd21vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN29",
 				},
 			},
-			["name"] = "Armament Control Panel, Gun Switch: RECOCK <> ARMED",
-		},
-		["d3009pnilu3009cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN44",
-				},
-			},
-			["name"] = "Overhead Panel, Anti-Collision Lights Switch - ON <> OFF",
-		},
-		["d3010pnilu3010cd7vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN13",
-				},
-			},
-			["name"] = "Overhead Panel, Position Lights Switch: OFF <> DIM",
-		},
-		["d3010pnilu3010cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Overhead Panel, Position Lights Switch: BRIGHT <> DIM",
-		},
-		["d3014pnilu3014cd7vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Overhead Panel, Flood Light Switch: OFF <> GREEN",
-		},
-		["d3014pnilu3014cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN12",
-				},
-			},
-			["name"] = "Overhead Panel, Flood Light Switch: WHITE <> GREEN",
+			["name"] = "Armament Control Panel, Gun Switch - RECOCK",
 		},
 	},
 }

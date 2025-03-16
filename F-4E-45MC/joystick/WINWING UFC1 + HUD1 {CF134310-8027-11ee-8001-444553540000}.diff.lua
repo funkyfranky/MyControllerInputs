@@ -191,7 +191,7 @@ local diff = {
 					["key"] = "JOY_BTN83",
 				},
 			},
-			["name"] = "HSI Course - [Dec]",
+			["name"] = "HSI Course - [Dec] (fast)",
 		},
 		["dnilp3001unilcd50vdnilvp0.008vunil"] = {
 			["added"] = {
@@ -199,7 +199,7 @@ local diff = {
 					["key"] = "JOY_BTN81",
 				},
 			},
-			["name"] = "HSI Course - [Inc]",
+			["name"] = "HSI Course - [Inc] (fast)",
 		},
 		["dnilp3002unilcd50vdnilvp-0.008vunil"] = {
 			["added"] = {

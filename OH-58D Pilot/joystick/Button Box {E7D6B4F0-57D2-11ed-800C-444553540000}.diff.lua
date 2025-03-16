@@ -50,14 +50,6 @@ local diff = {
 			},
 			["name"] = "Chronometer, Start/Stop/Advance Button",
 		},
-		["d3002pnilu3002cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
-				},
-			},
-			["name"] = "Overhead Panel, FADEC Circuit Breaker Switch: ON <> OFF",
-		},
 		["d3003pnilu3003cd16vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -66,31 +58,7 @@ local diff = {
 			},
 			["name"] = "Chronometer, Mode Button",
 		},
-		["d3003pnilu3003cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN17",
-				},
-			},
-			["name"] = "Overhead Panel, Ignition Circuit Breaker Switch: ON <> OFF",
-		},
-		["d3020pnilu3020cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN19",
-				},
-			},
-			["name"] = "Overhead Panel, Fuel Boost Switch - ON/OFF",
-		},
-		["d3021pnilu3021cd7vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN20",
-				},
-			},
-			["name"] = "Overhead Panel, Engine Anti Ice Switch - ON/OFF",
-		},
-		["d3023pnilu3023cd7vd1vpnilvu0"] = {
+		["dnilp3023u3023cd7vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN7",
@@ -98,45 +66,45 @@ local diff = {
 			},
 			["name"] = "Overhead Panel, Essential Bus Run/Start Switch: RUN <> START",
 		},
-		["d3024pnilu3024cd7vd1vpnilvu0"] = {
+		["dnilp3024u3024cd7vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN9",
 				},
 			},
-			["name"] = "Overhead Panel, AC Generator Switch: ON <> OFF",
+			["name"] = "Overhead Panel, AC Generator Switch: On <> Off",
 		},
-		["d3025pnilu3025cd7vd-1vpnilvu0"] = {
+		["dnilp3025u3025cd7vdnilvp-1vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Overhead Panel, DC Generator Switch: RESET <> OFF",
+			["name"] = "Overhead Panel, DC Generator Switch: RESET <> Off",
 		},
-		["d3025pnilu3025cd7vd1vpnilvu0"] = {
+		["dnilp3025u3025cd7vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN11",
 				},
 			},
-			["name"] = "Overhead Panel, DC Generator Switch: ON <> OFF",
+			["name"] = "Overhead Panel, DC Generator Switch: On <> Off",
 		},
-		["d3027pnilu3027cd7vd-1vpnilvu0"] = {
+		["dnilp3027u3027cd7vdnilvp-1vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN14",
 				},
 			},
-			["name"] = "Overhead Panel, Battery 2 Switch: PREHEAT <> OFF",
+			["name"] = "Overhead Panel, Battery 1 Switch: PREHEAT <> Off",
 		},
-		["d3027pnilu3027cd7vd1vpnilvu0"] = {
+		["dnilp3027u3027cd7vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Overhead Panel, Battery 2 Switch: ON <> OFF",
+			["name"] = "Overhead Panel, Battery 1 Switch: On <> Off",
 		},
 	},
 }

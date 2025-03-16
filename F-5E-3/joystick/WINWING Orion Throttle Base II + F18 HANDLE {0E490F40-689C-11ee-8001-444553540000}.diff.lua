@@ -66,6 +66,22 @@ local diff = {
 			},
 			["name"] = "UHF Radio Microphone Button (call radio menu)",
 		},
+		["d3007pnilu3007cd13vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Flare-Chaff Button",
+		},
+		["d3007pnilu3007cd18vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "AN/ASG-31 Sight Cage Switch",
+		},
 		["d3007pnilunilcd2vd-1vpnilvunil"] = {
 			["added"] = {
 				[1] = {

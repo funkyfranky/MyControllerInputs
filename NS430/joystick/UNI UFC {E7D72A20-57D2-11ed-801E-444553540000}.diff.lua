@@ -147,22 +147,6 @@ local diff = {
 			},
 			["name"] = "VLOC Volume knob Increase",
 		},
-		["dnilp3008unilcd257vdnilvp-0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN67",
-				},
-			},
-			["name"] = "Left big knob Decrease",
-		},
-		["dnilp3008unilcd257vdnilvp0.5vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN66",
-				},
-			},
-			["name"] = "Left big knob Increase",
-		},
 		["dnilp3011unilcd257vdnilvp-0.5vunil"] = {
 			["added"] = {
 				[1] = {

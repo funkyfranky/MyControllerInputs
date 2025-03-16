@@ -59,19 +59,6 @@ local diff = {
 		["a3026cd13"] = {
 			["added"] = {
 				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["hardwareDetent"] = false,
-						["hardwareDetentAB"] = 0,
-						["hardwareDetentMax"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
 					["key"] = "JOY_Z",
 				},
 			},
@@ -82,15 +69,15 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.12,
+							[1] = 0.25,
 						},
-						["deadzone"] = 0.03,
+						["deadzone"] = 0.05,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
-						["invert"] = true,
+						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 1,
+						["saturationY"] = 0.75,
 						["slider"] = false,
 					},
 					["key"] = "JOY_Y",
@@ -103,15 +90,15 @@ local diff = {
 				[1] = {
 					["filter"] = {
 						["curvature"] = {
-							[1] = 0.3,
+							[1] = 0.25,
 						},
-						["deadzone"] = 0.03,
+						["deadzone"] = 0.05,
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
 						["invert"] = false,
 						["saturationX"] = 1,
-						["saturationY"] = 0.3,
+						["saturationY"] = 0.75,
 						["slider"] = false,
 					},
 					["key"] = "JOY_X",
@@ -135,7 +122,7 @@ local diff = {
 					["key"] = "JOY_BTN93",
 				},
 			},
-			["name"] = "Master Arm Switch ARM/OFF",
+			["name"] = "Master Arm Switch: ARM<>SAFE",
 		},
 		["d3004pnilu3004cd23vd1vpnilvu0"] = {
 			["added"] = {

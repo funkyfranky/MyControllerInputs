@@ -58,14 +58,6 @@ local diff = {
 			},
 			["name"] = "Seat Adjust Switch - UP",
 		},
-		["d3003pnilu3003cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN9",
-				},
-			},
-			["name"] = "Ext Fuel Pylons Switch On/Off",
-		},
 		["d3003pnilunilcd8vd0vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -81,14 +73,6 @@ local diff = {
 				},
 			},
 			["name"] = "Seat Adjust Switch - DOWN",
-		},
-		["d3004pnilu3004cd4vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Ext Fuel Cl Switch On/Off",
 		},
 		["d3005pnilunilcd8vd1vpnilvunil"] = {
 			["added"] = {

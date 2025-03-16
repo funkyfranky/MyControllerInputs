@@ -47,14 +47,6 @@ local diff = {
 				},
 			},
 		},
-		["d313pnilu311cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN1",
-				},
-			},
-			["name"] = "Throttle STOP/IDLE",
-		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["name"] = "Fire Cannons - Outer Wing (B)",
 			["removed"] = {

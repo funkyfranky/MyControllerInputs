@@ -19,23 +19,5 @@ local diff = {
 			},
 		},
 	},
-	["keyDiffs"] = {
-		["d3002pnilu3002cd10vd-1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN45",
-				},
-			},
-			["name"] = "Multiparameter Display, BIT/Reset Switch - RESET",
-		},
-		["d3006pnilu3006cd10vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN44",
-				},
-			},
-			["name"] = "Multiparameter Display, BIT/Reset Switch - BIT",
-		},
-	},
 }
 return diff

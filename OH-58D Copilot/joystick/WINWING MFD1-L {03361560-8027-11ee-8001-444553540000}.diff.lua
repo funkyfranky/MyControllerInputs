@@ -40,14 +40,6 @@ local diff = {
 			},
 			["name"] = "Copilot MFD, Line Address Key L5",
 		},
-		["d3006pnilu3006cd23vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN22",
-				},
-			},
-			["name"] = "Copilot MFD, Display Mode - PRIMARY/BACKUP",
-		},
 		["d3008pnilu3008cd23vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -128,15 +120,39 @@ local diff = {
 			},
 			["name"] = "Copilot MFD, INIT [L2MUM/CDS Cycle]",
 		},
-		["d3027pnilu3027cd23vd1vpnilvu0"] = {
+		["dnilp3006unilcd23vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "Copilot MFD, Display Source - BACKUP",
+		},
+		["dnilp3006unilcd23vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Copilot MFD, Display Source - PRIMARY",
+		},
+		["dnilp3012unilcd23vdnilvp0vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN10",
 				},
 			},
-			["name"] = "Copilot MFD, Display Mode - MAN/NVG",
+			["name"] = "Copilot MFD, Display Mode - MAN",
 		},
-		["dnilp3047u3047cd23vdnilvp-0.005vu0"] = {
+		["dnilp3012unilcd23vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Copilot MFD, Display Mode - NVG",
+		},
+		["dnilp3047unilcd23vdnilvp-0.005vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN44",
@@ -144,7 +160,7 @@ local diff = {
 			},
 			["name"] = "Copilot MFD, Brightness - DECREASE",
 		},
-		["dnilp3047u3047cd23vdnilvp0.005vu0"] = {
+		["dnilp3047unilcd23vdnilvp0.005vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN43",
@@ -152,7 +168,7 @@ local diff = {
 			},
 			["name"] = "Copilot MFD, Brightness - INCREASE",
 		},
-		["dnilp3048u3048cd23vdnilvp-0.005vu0"] = {
+		["dnilp3048unilcd23vdnilvp-0.005vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN32",
@@ -160,7 +176,7 @@ local diff = {
 			},
 			["name"] = "Copilot MFD, Contrast - DECREASE",
 		},
-		["dnilp3048u3048cd23vdnilvp0.005vu0"] = {
+		["dnilp3048unilcd23vdnilvp0.005vunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN33",

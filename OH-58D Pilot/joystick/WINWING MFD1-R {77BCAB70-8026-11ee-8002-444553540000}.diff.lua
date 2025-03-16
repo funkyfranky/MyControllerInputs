@@ -128,21 +128,29 @@ local diff = {
 			},
 			["name"] = "Pilot MFD, INIT",
 		},
-		["d3027pnilu3027cd11vd1vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN10",
-				},
-			},
-			["name"] = "Pilot MFD, Display Mode - MAN/NVG",
-		},
 		["d3028pnilu3028cd11vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN22",
 				},
 			},
-			["name"] = "Pilot MFD, Display Mode: PRIMARY <> BACKUP",
+			["name"] = "Pilot MFD, Display Source - PRIMARY/BACKUP",
+		},
+		["dnilp3012unilcd11vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Pilot MFD, Display Mode - MAN",
+		},
+		["dnilp3012unilcd11vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "Pilot MFD, Display Mode - NVG",
 		},
 	},
 }

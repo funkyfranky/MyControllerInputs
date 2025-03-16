@@ -216,7 +216,7 @@ local diff = {
 					["key"] = "JOY_BTN8",
 				},
 			},
-			["name"] = "Dispense Countermeasures",
+			["name"] = "Dispense Countermeasures (Chaff/Flare)",
 		},
 		["d3013pnilunilcd70vd-0.1vpnilvunil"] = {
 			["added"] = {

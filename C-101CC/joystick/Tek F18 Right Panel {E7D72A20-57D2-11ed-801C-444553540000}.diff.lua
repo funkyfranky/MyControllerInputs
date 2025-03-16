@@ -8,6 +8,14 @@ local diff = {
 				},
 			},
 		},
+		["a3105cd2"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Instrument Lighting",
+		},
 		["a8034cdnil"] = {
 			["name"] = "Pitch",
 			["removed"] = {

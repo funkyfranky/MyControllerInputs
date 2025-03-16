@@ -1,20 +1,36 @@
 local diff = {
 	["keyDiffs"] = {
-		["d3044pnilu3044cd22vd-1vpnilvu0"] = {
+		["d3011pnilu3011cd42vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN83",
+					["key"] = "JOY_BTN96",
 				},
 			},
-			["name"] = "MMS Mode Selector - CCW",
+			["name"] = "MMS Code List Button",
 		},
-		["d3044pnilu3044cd22vd1vpnilvu0"] = {
+		["dnilp3003unilcd24vdnilvp-1vunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN84",
+					["key"] = "JOY_BTN95",
 				},
 			},
-			["name"] = "MMS Mode Selector - CW",
+			["name"] = "MMS Laser Power Switch - Off",
+		},
+		["dnilp3003unilcd24vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN94",
+				},
+			},
+			["name"] = "MMS Laser Power Switch - STANDBY",
+		},
+		["dnilp3003unilcd24vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN93",
+				},
+			},
+			["name"] = "MMS Laser Power Switch - ARM",
 		},
 	},
 }
