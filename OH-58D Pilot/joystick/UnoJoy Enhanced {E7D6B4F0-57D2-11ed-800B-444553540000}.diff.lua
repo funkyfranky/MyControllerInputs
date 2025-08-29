@@ -58,6 +58,30 @@ local diff = {
 			},
 			["name"] = "Multiparameter Display, Multifunction Display Backup Button",
 		},
+		["dnilp3001u3001cd12vdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "SCAS Panel, Force Trim Switch: On <> Off",
+		},
+		["dnilp3002u3002cd12vdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "SCAS Panel, Hydraulic System Switch: On <> Off",
+		},
+		["dnilp3005u3005cd12vdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN1",
+				},
+			},
+			["name"] = "SCAS Panel, Power Switch: On <> Off",
+		},
 	},
 }
 return diff

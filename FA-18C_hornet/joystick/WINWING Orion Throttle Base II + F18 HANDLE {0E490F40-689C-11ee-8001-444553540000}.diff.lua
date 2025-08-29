@@ -75,7 +75,7 @@ local diff = {
 						["hardwareDetent"] = false,
 						["hardwareDetentAB"] = 0,
 						["hardwareDetentMax"] = 0,
-						["invert"] = false,
+						["invert"] = true,
 						["saturationX"] = 1,
 						["saturationY"] = 0.75,
 						["slider"] = false,
@@ -108,6 +108,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d238pnilunilcdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN85",
+				},
+			},
+			["name"] = "Pilot Salute",
+		},
 		["d3002pnilu3002cd54vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

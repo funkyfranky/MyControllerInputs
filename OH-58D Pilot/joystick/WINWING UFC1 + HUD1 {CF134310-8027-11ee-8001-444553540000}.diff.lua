@@ -32,14 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3001cd3"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RY",
-				},
-			},
-			["name"] = "Standby Barometric Altimeter, Barometric Knob",
-		},
 		["a3001cd42"] = {
 			["added"] = {
 				[1] = {
@@ -47,14 +39,6 @@ local diff = {
 				},
 			},
 			["name"] = "Radar Detector, Brightness Dial",
-		},
-		["a3002cd3"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Standby Attitude Indicator, Adjustment Knob",
 		},
 		["a3005cd10"] = {
 			["added"] = {
@@ -169,6 +153,50 @@ local diff = {
 				},
 			},
 			["name"] = "Multifunction Keyboard, Line Clear",
+		},
+		["dnilp3005unilcd3vdnilvp-0.000125vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN83",
+				},
+				[2] = {
+					["key"] = "JOY_BTN30",
+				},
+			},
+			["name"] = "Standby Barometric Altimeter, Barometric Knob - DECREASE",
+		},
+		["dnilp3005unilcd3vdnilvp0.000125vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN81",
+				},
+				[2] = {
+					["key"] = "JOY_BTN31",
+				},
+			},
+			["name"] = "Standby Barometric Altimeter, Barometric Knob - INCREASE",
+		},
+		["dnilp3006unilcd3vdnilvp-0.05vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN80",
+				},
+				[2] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Standby Attitude Indicator, Adjustment Knob - DECREASE",
+		},
+		["dnilp3006unilcd3vdnilvp0.05vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN78",
+				},
+				[2] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Standby Attitude Indicator, Adjustment Knob - INCREASE",
 		},
 	},
 }

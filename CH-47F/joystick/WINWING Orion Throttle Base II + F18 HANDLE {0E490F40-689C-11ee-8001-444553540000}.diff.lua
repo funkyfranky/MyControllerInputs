@@ -32,7 +32,7 @@ local diff = {
 				},
 			},
 		},
-		["a3118cd19"] = {
+		["a3118cd22"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_RY",
@@ -40,7 +40,7 @@ local diff = {
 			},
 			["name"] = "ENG 1 COND Lever - AXIS",
 		},
-		["a3121cd19"] = {
+		["a3121cd22"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_RX",
@@ -50,29 +50,21 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
-		["d3122pnilunilcd19vd1vpnilvunil"] = {
+		["d3122pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN2",
+					["key"] = "JOY_BTN6",
 				},
 			},
 			["name"] = "ENG 1 COND Lever - PRESS TO GATE",
 		},
-		["d3123pnilunilcd19vd1vpnilvunil"] = {
+		["d3123pnilunilcd22vd1vpnilvunil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_BTN1",
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "ENG 2 COND Lever - PRESS TO GATE",
-		},
-		["d957pnilu958cdnilvdnilvpnilvunil"] = {
-			["name"] = "Trim Control",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_BTN3",
-				},
-			},
 		},
 	},
 }

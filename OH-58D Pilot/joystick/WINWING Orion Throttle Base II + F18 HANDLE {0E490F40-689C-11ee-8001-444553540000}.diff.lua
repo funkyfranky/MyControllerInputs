@@ -90,6 +90,38 @@ local diff = {
 			},
 			["name"] = "Pilot AI HUD - On/Off",
 		},
+		["dnilp3005unilcd36vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN88",
+				},
+			},
+			["name"] = "CMWS Control Panel, Arm/Safe Switch - SAFE",
+		},
+		["dnilp3005unilcd36vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN86",
+				},
+			},
+			["name"] = "CMWS Control Panel, Arm/Safe Switch - ARM",
+		},
+		["dnilp3006unilcd36vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN91",
+				},
+			},
+			["name"] = "CMWS Control Panel, Auto/Bypass Switch - BYPASS",
+		},
+		["dnilp3006unilcd36vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN89",
+				},
+			},
+			["name"] = "CMWS Control Panel, Auto/Bypass Switch - Auto",
+		},
 		["dnilp3009u3009cd18vdnilvp0.1vu0"] = {
 			["added"] = {
 				[1] = {

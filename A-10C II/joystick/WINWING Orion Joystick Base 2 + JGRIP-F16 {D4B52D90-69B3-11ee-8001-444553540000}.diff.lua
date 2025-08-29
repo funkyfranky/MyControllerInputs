@@ -10,6 +10,14 @@ local diff = {
 		},
 	},
 	["keyDiffs"] = {
+		["d1041pnilu1042cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN9",
+				},
+			},
+			["name"] = "HOTAS CMS Z Axis",
+		},
 		["d350pnilu351cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -108,6 +116,38 @@ local diff = {
 			},
 			["name"] = "Gun Trigger (first stage)",
 		},
+		["d556pnilu560cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "HOTAS CMS Forward",
+		},
+		["d557pnilu560cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN11",
+				},
+			},
+			["name"] = "HOTAS CMS Aft",
+		},
+		["d558pnilu560cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "HOTAS CMS Left",
+		},
+		["d559pnilu560cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "HOTAS CMS Right",
+		},
 		["d562pnilu606cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -128,6 +168,14 @@ local diff = {
 					["key"] = "JOY_BTN3",
 				},
 			},
+		},
+		["d965pnilu965cdnilvdnilvpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN8",
+				},
+			},
+			["name"] = "Emergency Disconnect Lever",
 		},
 		["dnilp210u214cdnilvdnilvpnilvunil"] = {
 			["name"] = "View Up Right slow",

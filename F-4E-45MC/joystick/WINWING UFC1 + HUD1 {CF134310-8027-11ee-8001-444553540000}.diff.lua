@@ -145,6 +145,46 @@ local diff = {
 			},
 			["name"] = "Jester UI Option 8",
 		},
+		["d3012pnilunilcd27vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN73",
+				},
+			},
+			["name"] = "Gun Rate - High",
+		},
+		["d3012pnilunilcd27vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN74",
+				},
+			},
+			["name"] = "Gun Rate - Low",
+		},
+		["d3031pnilunilcd52vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN66",
+				},
+			},
+			["name"] = "DSCG Screen Mode - Off",
+		},
+		["d3031pnilunilcd52vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN65",
+				},
+			},
+			["name"] = "DSCG Screen Mode - Radar",
+		},
+		["d3031pnilunilcd52vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN67",
+				},
+			},
+			["name"] = "DSCG Screen Mode - Tv",
+		},
 		["d3039pnilunilcd3vd-0.058823529411765vpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -184,6 +224,22 @@ local diff = {
 				},
 			},
 			["name"] = "Frequency Mode - [Toggle]",
+		},
+		["d3068pnilunilcd52vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN69",
+				},
+			},
+			["name"] = "Screen Night Filter (Red) - Off",
+		},
+		["d3068pnilunilcd52vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN68",
+				},
+			},
+			["name"] = "Screen Night Filter (Red) - On",
 		},
 		["dnilp3001unilcd50vdnilvp-0.008vunil"] = {
 			["added"] = {

@@ -1,5 +1,53 @@
 local diff = {
 	["keyDiffs"] = {
+		["d3013pnilu3013cd22vd0.2vpnilvu0.2"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "MMS Mode Selector - STOW",
+		},
+		["d3013pnilu3013cd22vd0.4vpnilvu0.4"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "MMS Mode Selector - PREFLT",
+		},
+		["d3013pnilu3013cd22vd0.6vpnilvu0.6"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "MMS Mode Selector - PREPT",
+		},
+		["d3013pnilu3013cd22vd0.8vpnilvu0.8"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "MMS Mode Selector - FWD",
+		},
+		["d3013pnilu3013cd22vd0vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "MMS Mode Selector - OFF",
+		},
+		["d3013pnilu3013cd22vd1vpnilvu1"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "MMS Mode Selector - SRCH",
+		},
 		["d3020pnilu3020cd22vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

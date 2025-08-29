@@ -58,6 +58,22 @@ local diff = {
 			},
 			["name"] = "Chronometer, Mode Button",
 		},
+		["dnilp3003u3003cd12vdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN6",
+				},
+			},
+			["name"] = "SCAS Panel, Pitch/Roll Engage Switch: On <> Off",
+		},
+		["dnilp3004u3004cd12vdnilvp1vu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "SCAS Panel, Yaw Engage Switch: On <> Off",
+		},
 		["dnilp3023u3023cd7vdnilvp1vu0"] = {
 			["added"] = {
 				[1] = {

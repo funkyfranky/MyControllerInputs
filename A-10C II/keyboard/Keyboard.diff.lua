@@ -300,14 +300,6 @@ local diff = {
 				},
 			},
 		},
-		["d1306pnilu1306cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num/",
-				},
-			},
-			["name"] = "UFC HACK Key",
-		},
 		["d1307pnilu1307cdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {
@@ -315,14 +307,6 @@ local diff = {
 				},
 			},
 			["name"] = "UFC FUNC Key",
-		},
-		["d1308pnilu1308cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Num*",
-				},
-			},
-			["name"] = "UFC LTR Key",
 		},
 		["d1309pnilu1309cdnilvdnilvpnilvunil"] = {
 			["added"] = {
@@ -333,11 +317,6 @@ local diff = {
 			["name"] = "UFC CLR Key",
 		},
 		["d1310pnilu1310cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "NumEnter",
-				},
-			},
 			["name"] = "UFC ENT Key",
 			["removed"] = {
 				[1] = {
@@ -613,22 +592,6 @@ local diff = {
 			["removed"] = {
 				[1] = {
 					["key"] = "F11",
-				},
-			},
-		},
-		["d177pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "NumEnter",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Zoom normal",
-			["removed"] = {
-				[1] = {
-					["key"] = "NumEnter",
 				},
 			},
 		},
@@ -1370,38 +1333,6 @@ local diff = {
 				},
 			},
 			["name"] = "AC generator power right",
-		},
-		["dnilp39u289cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Up",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Zoom in slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num*",
-				},
-			},
-		},
-		["dnilp40u290cdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "Down",
-					["reformers"] = {
-						[1] = "LShift",
-					},
-				},
-			},
-			["name"] = "Zoom out slow",
-			["removed"] = {
-				[1] = {
-					["key"] = "Num/",
-				},
-			},
 		},
 		["dnilp841unilcdnilvdnilvpnilvunil"] = {
 			["added"] = {

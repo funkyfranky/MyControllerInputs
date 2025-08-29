@@ -24,22 +24,6 @@ local diff = {
 				},
 			},
 		},
-		["a3023cd20"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "Wheel brake Left (analog)",
-		},
-		["a3024cd20"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "Wheel brake Right (analog)",
-		},
 	},
 }
 return diff

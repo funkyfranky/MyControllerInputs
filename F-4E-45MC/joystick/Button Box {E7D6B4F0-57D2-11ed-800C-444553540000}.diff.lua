@@ -72,6 +72,14 @@ local diff = {
 			},
 			["name"] = "Instrument Floodlight (Red) (also WSO) - Bright/Off (3-way up)",
 		},
+		["d3041pnilu3041cd48vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN4",
+				},
+			},
+			["name"] = "TACAN Channel (xxx0) - [Next]",
+		},
 	},
 }
 return diff

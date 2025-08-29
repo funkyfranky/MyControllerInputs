@@ -40,14 +40,6 @@ local diff = {
 			},
 			["name"] = "MMS Mode Selector - FWD",
 		},
-		["d3013pnilu3013cd22vd0vpnilvu0"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN21",
-				},
-			},
-			["name"] = "MMS Mode Selector - OFF",
-		},
 		["d3013pnilu3013cd22vd1vpnilvu1"] = {
 			["added"] = {
 				[1] = {

@@ -48,8 +48,32 @@ local diff = {
 			},
 			["name"] = "Throttle Right",
 		},
+		["a3801cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "Emergency Wingsweep",
+		},
 	},
 	["keyDiffs"] = {
+		["d3013pnilunilcd18vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN75",
+				},
+			},
+			["name"] = "Parking brake pull",
+		},
+		["d3013pnilunilcd18vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN76",
+				},
+			},
+			["name"] = "Parking brake stow",
+		},
 		["d3128pnilu3128cd20vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {

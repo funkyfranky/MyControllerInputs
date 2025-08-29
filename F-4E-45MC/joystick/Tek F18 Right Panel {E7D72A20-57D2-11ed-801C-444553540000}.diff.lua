@@ -140,6 +140,30 @@ local diff = {
 			},
 			["name"] = "Console Floodlight (Red) - Bright",
 		},
+		["d3013pnilunilcd72vd0.5vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN28",
+				},
+			},
+			["name"] = "Instrument Floodlight (Red) (also WSO) - Off",
+		},
+		["d3013pnilunilcd72vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN29",
+				},
+			},
+			["name"] = "Instrument Floodlight (Red) (also WSO) - Dim",
+		},
+		["d3013pnilunilcd72vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN27",
+				},
+			},
+			["name"] = "Instrument Floodlight (Red) (also WSO) - Bright",
+		},
 		["d3035pnilunilcd3vd-0.11111111111111vpnilvunil"] = {
 			["added"] = {
 				[1] = {

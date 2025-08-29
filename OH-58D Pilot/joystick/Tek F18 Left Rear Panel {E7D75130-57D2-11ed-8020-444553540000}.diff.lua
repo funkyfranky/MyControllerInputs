@@ -174,6 +174,22 @@ local diff = {
 			},
 			["name"] = "Center Post Circuit Breaker Panel, IR Beacon Switch - On",
 		},
+		["dnilp3035unilcd7vdnilvp0vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN3",
+				},
+			},
+			["name"] = "Center Console, Ignition Keylock Switch - Off",
+		},
+		["dnilp3035unilcd7vdnilvp1vunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN2",
+				},
+			},
+			["name"] = "Center Console, Ignition Keylock Switch - On",
+		},
 	},
 }
 return diff

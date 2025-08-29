@@ -72,22 +72,6 @@ local diff = {
 			},
 			["name"] = "TACAN Channel (00xx) - [Inc]",
 		},
-		["d3021pnilunilcd48vd-0.1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN51",
-				},
-			},
-			["name"] = "TACAN Channel (xx0x) - [Dec]",
-		},
-		["d3021pnilunilcd48vd0.1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN52",
-				},
-			},
-			["name"] = "TACAN Channel (xx0x) - [Inc]",
-		},
 	},
 }
 return diff
