@@ -1,5 +1,69 @@
 local diff = {
 	["axisDiffs"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+		},
+		["a2002cdnil"] = {
+			["name"] = "Roll",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+		},
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
+		["a3003cd17"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Barometric Setting Knob",
+		},
+		["a3003cd18"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "VVI Adjustment Knob",
+		},
+		["a3004cd22"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "HSI Course Selector Knob",
+		},
+		["a3004cd23"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_SLIDER2",
+				},
+			},
+			["name"] = "ADI Aircraft Symbol Setting Knob",
+		},
 		["a3005cd49"] = {
 			["added"] = {
 				[1] = {
@@ -7,6 +71,14 @@ local diff = {
 				},
 			},
 			["name"] = "HUD Brightness Control Knob",
+		},
+		["a3010cd15"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+			["name"] = "IR GAIN/HELM BRIGHT Control Knob",
 		},
 	},
 	["keyDiffs"] = {

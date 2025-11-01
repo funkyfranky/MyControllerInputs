@@ -425,22 +425,6 @@ local diff = {
 			},
 			["name"] = "CRS Set / Brightness Control Knob - CW/Increase",
 		},
-		["dnilp3033unilcd16vdnilvp1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "ANT ELEV Knob - CW",
-		},
-		["dnilp3034unilcd16vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN23",
-				},
-			},
-			["name"] = "ANT ELEV Knob - CCW",
-		},
 		["dnilp3040unilcd16vdnilvp1vunil"] = {
 			["added"] = {
 				[1] = {

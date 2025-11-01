@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3006cd9"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "Cabin Temperature Control Knob (axis)",
+		},
 		["a3021cd13"] = {
 			["added"] = {
 				[1] = {
@@ -71,6 +79,48 @@ local diff = {
 				},
 			},
 			["name"] = "INSTRUMENT Control Knob",
+		},
+	},
+	["keyDiffs"] = {
+		["d3001pnilunilcd9vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "CABIN TEMP Switch - OFF",
+		},
+		["d3002pnilunilcd9vd0.15vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN21",
+				},
+			},
+			["name"] = "CABIN TEMP Switch - AUTO",
+		},
+		["d3003pnilunilcd2vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Pitot Heat Switch - OFF",
+		},
+		["d3003pnilunilcd2vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Pitot Heat Switch - ON",
+		},
+		["d3003pnilunilcd9vd0.45vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "CABIN TEMP Switch - HOT",
 		},
 	},
 }

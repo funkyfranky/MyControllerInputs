@@ -77,6 +77,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN31",
 				},
+				[2] = {
+					["key"] = "JOY_BTN9",
+				},
 			},
 			["name"] = "Zone Switch - LEFT",
 		},
@@ -85,6 +88,9 @@ local diff = {
 				[1] = {
 					["key"] = "JOY_BTN30",
 				},
+				[2] = {
+					["key"] = "JOY_BTN8",
+				},
 			},
 			["name"] = "Zone Switch - CENTER",
 		},
@@ -92,6 +98,9 @@ local diff = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN29",
+				},
+				[2] = {
+					["key"] = "JOY_BTN7",
 				},
 			},
 			["name"] = "Zone Switch - RIGHT",
@@ -111,6 +120,38 @@ local diff = {
 				},
 			},
 			["name"] = "MASTER ARM Switch - ARM",
+		},
+		["d3012pnilunilcd41vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Burst Mode Switch - SINGLE/0.5 ALL",
+		},
+		["d3012pnilunilcd41vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "Burst Mode Switch - ALL",
+		},
+		["d3013pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN12",
+				},
+			},
+			["name"] = "Preparation Switch - AUTO",
+		},
+		["d3013pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN10",
+				},
+			},
+			["name"] = "Preparation Switch - MANUAL",
 		},
 		["d3015pnilunilcd15vd0vpnilvunil"] = {
 			["added"] = {

@@ -9,5 +9,23 @@ local diff = {
 			},
 		},
 	},
+	["keyDiffs"] = {
+		["d3093pnilunilcd4vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN49",
+				},
+			},
+			["name"] = "MFD, Inboard MFD, POWER Switch - rotate CCW",
+		},
+		["d3093pnilunilcd4vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN50",
+				},
+			},
+			["name"] = "MFD, Inboard MFD, POWER Switch - rotate CW",
+		},
+	},
 }
 return diff

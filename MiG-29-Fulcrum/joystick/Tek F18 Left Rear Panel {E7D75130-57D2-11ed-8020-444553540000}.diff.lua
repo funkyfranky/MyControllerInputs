@@ -32,6 +32,14 @@ local diff = {
 				},
 			},
 		},
+		["a3002cd57"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Y",
+				},
+			},
+			["name"] = "IR Buzzer Volume Control Knob (axis)",
+		},
 		["a3011cd51"] = {
 			["added"] = {
 				[1] = {
@@ -39,6 +47,22 @@ local diff = {
 				},
 			},
 			["name"] = "VHF/UHF Volume Control Knob",
+		},
+		["a3011cd54"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "ADF Volume Control Knob",
+		},
+		["a3012cd47"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+			["name"] = "SPO-15 Warning Tone Volume Knob",
 		},
 	},
 	["keyDiffs"] = {
@@ -113,6 +137,86 @@ local diff = {
 				},
 			},
 			["name"] = "APU Switch - ENG COLD CRANK",
+		},
+		["d3023pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "Radar TWF Switch - RHS",
+		},
+		["d3023pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "Radar TWF Switch - FHS",
+		},
+		["d3027pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN24",
+				},
+			},
+			["name"] = "Radar Compensation Switch - OFF",
+		},
+		["d3027pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN23",
+				},
+			},
+			["name"] = "Radar Compensation Switch - COMP",
+		},
+		["d3029pnilunilcd15vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "Radar Illumination Switch - OFF",
+		},
+		["d3029pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN5",
+				},
+			},
+			["name"] = "Radar Illumination Switch - DUMMY",
+		},
+		["d3029pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN22",
+				},
+			},
+			["name"] = "Radar Illumination Switch - ILLUM",
+		},
+		["d3031pnilunilcd15vd-1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "Radar ECCM Switch - CAJ",
+		},
+		["d3031pnilunilcd15vd0vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "Radar ECCM Switch - OFF",
+		},
+		["d3031pnilunilcd15vd1vpnilvunil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "Radar ECCM Switch - AJ",
 		},
 	},
 }

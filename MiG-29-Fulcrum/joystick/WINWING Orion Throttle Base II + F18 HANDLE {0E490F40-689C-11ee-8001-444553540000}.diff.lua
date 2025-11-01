@@ -1,12 +1,52 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2012cdnil"] = {
-			["added"] = {
+		["a2001cdnil"] = {
+			["name"] = "Pitch",
+			["removed"] = {
 				[1] = {
-					["key"] = "JOY_SLIDER2",
+					["key"] = "JOY_Y",
 				},
 			},
-			["name"] = "Zoom View",
+		},
+		["a2002cdnil"] = {
+			["name"] = "Roll",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_X",
+				},
+			},
+		},
+		["a2003cdnil"] = {
+			["name"] = "Rudder",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_RZ",
+				},
+			},
+		},
+		["a2004cdnil"] = {
+			["name"] = "Thrust",
+			["removed"] = {
+				[1] = {
+					["key"] = "JOY_Z",
+				},
+			},
+		},
+		["a2005cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RY",
+				},
+			},
+			["name"] = "Thrust Left",
+		},
+		["a2006cdnil"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "Thrust Right",
 		},
 		["a3010cd35"] = {
 			["added"] = {
@@ -289,14 +329,6 @@ local diff = {
 				},
 			},
 			["name"] = "Throttle (Right) - OFF",
-		},
-		["dnilp3036unilcd35vdnilvp-1vunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN24",
-				},
-			},
-			["name"] = "Manual Ranging Control - Aft/Decrease",
 		},
 	},
 }
