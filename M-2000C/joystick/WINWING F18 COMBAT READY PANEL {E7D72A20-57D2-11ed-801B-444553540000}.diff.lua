@@ -205,38 +205,6 @@ local diff = {
 			},
 			["name"] = "INS Operational Mode - N",
 		},
-		["d389pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN47",
-				},
-			},
-			["name"] = "Altitude Hold Mode",
-		},
-		["d429pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN48",
-				},
-			},
-			["name"] = "Approach Hold Mode",
-		},
-		["d59pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN50",
-				},
-			},
-			["name"] = "Selected Altitude Hold Mode",
-		},
-		["d62pnilunilcdnilvdnilvpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN49",
-				},
-			},
-			["name"] = "Autopilot",
-		},
 	},
 }
 return diff

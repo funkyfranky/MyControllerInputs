@@ -40,7 +40,7 @@ local diff = {
 					["key"] = "JOY_BTN7",
 				},
 			},
-			["name"] = "Gear down radio signal button",
+			["name"] = "Gen 1 On",
 		},
 	},
 }

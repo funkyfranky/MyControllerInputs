@@ -32,24 +32,6 @@ local diff = {
 			},
 			["name"] = "Zoom View",
 		},
-		["a3031cd17"] = {
-			["added"] = {
-				[1] = {
-					["filter"] = {
-						["curvature"] = {
-							[1] = 0,
-						},
-						["deadzone"] = 0,
-						["invert"] = true,
-						["saturationX"] = 1,
-						["saturationY"] = 1,
-						["slider"] = false,
-					},
-					["key"] = "JOY_RX",
-				},
-			},
-			["name"] = "Emergency Wing Sweep Handle",
-		},
 	},
 	["keyDiffs"] = {
 		["d3016pnilunilcd18vd0vpnilvunil"] = {

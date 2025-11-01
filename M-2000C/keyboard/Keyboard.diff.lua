@@ -307,28 +307,6 @@ local diff = {
 			},
 			["name"] = "Slats EXTEND",
 		},
-		["d3520pnilu3520cd8vd0vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "B",
-					["reformers"] = {
-						[1] = "RShift",
-					},
-				},
-			},
-			["name"] = "Main Battery OFF",
-		},
-		["d3520pnilu3520cd8vd1vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "B",
-					["reformers"] = {
-						[1] = "RCtrl",
-					},
-				},
-			},
-			["name"] = "Main Battery ON",
-		},
 		["d438pnilunilcdnilvdnilvpnilvunil"] = {
 			["added"] = {
 				[1] = {

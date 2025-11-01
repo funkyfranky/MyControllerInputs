@@ -40,20 +40,12 @@ local diff = {
 					["key"] = "JOY_BTN13",
 				},
 			},
-			["name"] = "Wiper Control Switch - OFF",
+			["name"] = "Wiper Control Switch - LO",
 		},
 		["d3012pnilunilcd9vd0.2vpnilvunil"] = {
 			["added"] = {
 				[1] = {
 					["key"] = "JOY_BTN14",
-				},
-			},
-			["name"] = "Wiper Control Switch - LO",
-		},
-		["d3012pnilunilcd9vd0.3vpnilvunil"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_BTN15",
 				},
 			},
 			["name"] = "Wiper Control Switch - HI",
@@ -64,7 +56,7 @@ local diff = {
 					["key"] = "JOY_BTN12",
 				},
 			},
-			["name"] = "Wiper Control Switch - PARK",
+			["name"] = "Wiper Control Switch - OFF",
 		},
 		["d3016pnilunilcd9vd1vpnilvunil"] = {
 			["added"] = {

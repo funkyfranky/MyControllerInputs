@@ -1,29 +1,5 @@
 local diff = {
 	["axisDiffs"] = {
-		["a2001cdnil"] = {
-			["name"] = "Cyclic Pitch",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-		},
-		["a2002cdnil"] = {
-			["name"] = "Cyclic Roll",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-		},
-		["a2003cdnil"] = {
-			["name"] = "Rudder",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_RZ",
-				},
-			},
-		},
 		["a2005cdnil"] = {
 			["added"] = {
 				[1] = {
@@ -59,14 +35,6 @@ local diff = {
 				},
 			},
 			["name"] = "Power Lever (Right)",
-		},
-		["a2087cdnil"] = {
-			["name"] = "Collective",
-			["removed"] = {
-				[1] = {
-					["key"] = "JOY_Z",
-				},
-			},
 		},
 		["a3087cd52"] = {
 			["added"] = {
@@ -364,7 +332,7 @@ local diff = {
 					["key"] = "JOY_BTN80",
 				},
 			},
-			["name"] = "Power Lever (Left) - OFF/IDLE",
+			["name"] = "Power Lever (Left) - OFF(hold)<>IDLE",
 		},
 		["d314pnilu312cdnilvd1vpnilvu1"] = {
 			["added"] = {
@@ -372,7 +340,7 @@ local diff = {
 					["key"] = "JOY_BTN81",
 				},
 			},
-			["name"] = "Power Lever (Right) - OFF/IDLE",
+			["name"] = "Power Lever (Right) - OFF(hold)<>IDLE",
 		},
 	},
 }
