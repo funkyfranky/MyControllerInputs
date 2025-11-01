@@ -32,22 +32,6 @@ local diff = {
 				},
 			},
 		},
-		["a3006cd8"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_X",
-				},
-			},
-			["name"] = "POSITION Lights Dimmer Control",
-		},
-		["a3008cd8"] = {
-			["added"] = {
-				[1] = {
-					["key"] = "JOY_Y",
-				},
-			},
-			["name"] = "FORMATION Lights Dimmer Control",
-		},
 	},
 	["keyDiffs"] = {
 		["d83pnilunilcdnilvdnilvpnilvunil"] = {

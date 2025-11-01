@@ -48,13 +48,47 @@ local diff = {
 			},
 			["name"] = "Thrust Right",
 		},
-		["a2012cdnil"] = {
+		["a3006cd8"] = {
 			["added"] = {
 				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
 					["key"] = "JOY_SLIDER2",
 				},
 			},
-			["name"] = "Zoom View",
+			["name"] = "POSITION Lights Dimmer Control",
+		},
+		["a3008cd8"] = {
+			["added"] = {
+				[1] = {
+					["filter"] = {
+						["curvature"] = {
+							[1] = 0,
+						},
+						["deadzone"] = 0,
+						["hardwareDetent"] = false,
+						["hardwareDetentAB"] = 0,
+						["hardwareDetentMax"] = 0,
+						["invert"] = true,
+						["saturationX"] = 1,
+						["saturationY"] = 1,
+						["slider"] = false,
+					},
+					["key"] = "JOY_SLIDER1",
+				},
+			},
+			["name"] = "FORMATION Lights Dimmer Control",
 		},
 		["a3026cd13"] = {
 			["added"] = {

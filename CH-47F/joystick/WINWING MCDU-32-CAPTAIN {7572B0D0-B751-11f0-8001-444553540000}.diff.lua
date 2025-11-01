@@ -120,6 +120,14 @@ local diff = {
 			},
 			["name"] = "CDU, alphanumeric key 9",
 		},
+		["d3120pnilu3120cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN42",
+				},
+			},
+			["name"] = "CDU, alphanumeric key •",
+		},
 		["d3121pnilu3121cd36vd1vpnilvu0"] = {
 			["added"] = {
 				[1] = {
@@ -127,6 +135,14 @@ local diff = {
 				},
 			},
 			["name"] = "CDU, alphanumeric key /",
+		},
+		["d3122pnilu3122cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN44",
+				},
+			},
+			["name"] = "CDU, alphanumeric key ‒",
 		},
 		["d3123pnilu3123cd36vd1vpnilvu0"] = {
 			["added"] = {
@@ -431,6 +447,78 @@ local diff = {
 				},
 			},
 			["name"] = "CDU, line select key LSK R6",
+		},
+		["d3162pnilu3162cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN19",
+				},
+			},
+			["name"] = "CDU, key BRT",
+		},
+		["d3163pnilu3163cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN26",
+				},
+			},
+			["name"] = "CDU, key DIM",
+		},
+		["d3164pnilu3164cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN16",
+				},
+			},
+			["name"] = "CDU, key IDX",
+		},
+		["d3170pnilu3170cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN13",
+				},
+			},
+			["name"] = "CDU, key MSN",
+		},
+		["d3171pnilu3171cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN14",
+				},
+			},
+			["name"] = "CDU, key FPLN",
+		},
+		["d3172pnilu3172cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN15",
+				},
+			},
+			["name"] = "CDU, key FD",
+		},
+		["d3173pnilu3173cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN17",
+				},
+			},
+			["name"] = "CDU, key DIR",
+		},
+		["d3174pnilu3174cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN18",
+				},
+			},
+			["name"] = "CDU, key SNSR",
+		},
+		["d3175pnilu3175cd36vd1vpnilvu0"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_BTN20",
+				},
+			},
+			["name"] = "CDU, key MFD DATA",
 		},
 		["d3185pnilu3185cd32vd1vpnilvu0"] = {
 			["name"] = "Cyclic Grip, CD REL Button",

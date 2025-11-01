@@ -27,7 +27,7 @@ local diff = {
 		["a2012cdnil"] = {
 			["added"] = {
 				[1] = {
-					["key"] = "JOY_RX",
+					["key"] = "JOY_RY",
 				},
 			},
 			["name"] = "Zoom View",
@@ -39,6 +39,14 @@ local diff = {
 				},
 			},
 			["name"] = "HMD OFF/BRT Knob",
+		},
+		["a3009cd33"] = {
+			["added"] = {
+				[1] = {
+					["key"] = "JOY_RX",
+				},
+			},
+			["name"] = "IFEI Brightness Control Knob",
 		},
 	},
 	["keyDiffs"] = {
