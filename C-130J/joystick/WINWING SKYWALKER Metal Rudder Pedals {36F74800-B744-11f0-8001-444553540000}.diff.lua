@@ -27,7 +27,7 @@ local diff = {
 					["key"] = "JOY_RY",
 				},
 			},
-			["name"] = "Wheel Brake (Left)",
+			["name"] = "Wheel Brake Left",
 		},
 		["a2113cdnil"] = {
 			["added"] = {
@@ -48,7 +48,7 @@ local diff = {
 					["key"] = "JOY_RX",
 				},
 			},
-			["name"] = "Wheel Brake (Right)",
+			["name"] = "Wheel Brake Right",
 		},
 	},
 }
